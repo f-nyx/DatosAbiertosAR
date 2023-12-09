@@ -1,5 +1,16 @@
 # Proyecto Salv.AR
 
+<!-- TOC -->
+* [Proyecto Salv.AR](#proyecto-salvar)
+  * [Cómo funciona](#cómo-funciona)
+  * [Qué va a descargar](#qué-va-a-descargar)
+  * [Distribución](#distribución)
+  * [Cómo colaborar](#cómo-colaborar)
+  * [Requisitos](#requisitos)
+  * [Cómo usarlo](#cómo-usarlo)
+    * [Configuración](#configuración)
+<!-- TOC -->
+
 Este proyecto tiene como objetivo generar un archivo con todos los datos abiertos del Estado Argentino.
 
 Desde hace años en diferentes sectores del Estado comenzaron a implementarse políticas de Datos Abiertos.
@@ -57,6 +68,15 @@ siguiente manera:
   de descarga directa de cada recurso.
 2. Subiremos todos los datasets comprimidos a [archive.org](https://archive.org), en esta colección:
   [DatosAbiertosAR](https://archive.org/details/DatosAbiertosAR).
+
+## Cómo colaborar
+
+Cosas que podés hacer:
+
+* Encontrar más proveedores de datos y agregarlos [a la configuración](https://github.com/f-nyx/DatosAbiertosAR/blob/main/config.json).
+* Descargar todos los datasets y seedear [el torrent de archive.org](https://archive.org/download/DatosAbiertosAR/DatosAbiertosAR_archive.torrent).
+* Reportar problemas [creando un issue](https://github.com/f-nyx/DatosAbiertosAR/issues/new).
+* Pedir que descarguemos datos abiertos específicos de alguna otra institución (también [creá un issue](https://github.com/f-nyx/DatosAbiertosAR/issues/new) para eso).
 
 ## Requisitos
 
