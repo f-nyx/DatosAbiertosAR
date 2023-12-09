@@ -56,7 +56,7 @@ siguiente manera:
   en este repositorio. Los catálogos contienen información sobre todos los datasets, con sus recursos, y las URL
   de descarga directa de cada recurso.
 2. Subiremos todos los datasets comprimidos a [archive.org](https://archive.org), en esta colección:
-  [DatosAbiertosAr](https://archive.org/details/DatosAbiertosAR).
+  [DatosAbiertosAR](https://archive.org/details/DatosAbiertosAR).
 
 ## Requisitos
 
