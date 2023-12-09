@@ -1,5 +1,17 @@
 # Proyecto Salv.AR
 
+Este proyecto tiene como objetivo generar un archivo con todos los datos abiertos del Estado Argentino.
+
+Desde hace años en diferentes sectores del Estado comenzaron a implementarse políticas de Datos Abiertos.
+El nuevo gobierno declaró una guerra abierta contra el Estado, y no sabemos cuántas de estas iniciativas van
+a desaparecer, y con ellas los datos que hoy son accesibles para la comunidad.
+
+En esta época donde la información es poder, mantener un archivo colectivo de todos los datos disponibles es una
+acción política fundamental. Este proyecto consiste en dos partes: un software que permite descargar masivamente
+datos de todos los sectores del Estado, y un archivo histórico.
+
+## Tabla de Contenidos
+
 <!-- TOC -->
 * [Proyecto Salv.AR](#proyecto-salvar)
   * [Cómo funciona](#cómo-funciona)
@@ -11,15 +23,6 @@
     * [Configuración](#configuración)
 <!-- TOC -->
 
-Este proyecto tiene como objetivo generar un archivo con todos los datos abiertos del Estado Argentino.
-
-Desde hace años en diferentes sectores del Estado comenzaron a implementarse políticas de Datos Abiertos.
-El nuevo gobierno declaró una guerra abierta contra el Estado, y no sabemos cuántas de estas iniciativas van
-a desaparecer, y con ellas los datos que hoy son accesibles para la comunidad.
-
-En esta época donde la información es poder, mantener un archivo colectivo de todos los datos disponibles es una
-acción política fundamental. Este proyecto consiste en dos partes: un software que permite descargar masivamente
-datos de todos los sectores del Estado, y un archivo histórico.
 
 ## Cómo funciona
 
