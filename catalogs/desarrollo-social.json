@@ -1,0 +1,784 @@
+{
+  "id": "TNydsechcK",
+  "datasets": [
+    {
+      "id": "91cf1264-593f-4714-ad21-aad425bce53b",
+      "name": "actividades-de-formacion-y-promocion-de-la-secretaria-nacional-de-ninez-adolescencia-y-familia",
+      "title": "Actividades de formación y promoción de la Secretaría Nacional de Niñez, Adolescencia y Familia",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "7fa33241-09c0-4692-a278-4bac608c8286",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/91cf1264-593f-4714-ad21-aad425bce53b/resource/7fa33241-09c0-4692-a278-4bac608c8286/download/sintesis-rafp-senaf.csv",
+          "name": "Registro de actividades de formación y promoción de la Secretaría Nacional de Niñez, Adolescencia y Familia",
+          "format": "CSV",
+          "updatedAt": "2023-12-06T15:34:01.361Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2023-12-06T15:33:39.936Z",
+      "updatedAt": "2023-12-06T15:34:02.321Z",
+      "contact": {
+        "name": "Secretaría Nacional de Niñez, Adolescencia y Familia",
+        "email": "datosabiertos@desarrollosocial.gob.ar"
+      }
+    },
+    {
+      "id": "e67d5edf-cf55-4a5c-b420-b6fe9f61f6b3",
+      "name": "centros-de-referencia",
+      "title": "Centros de Referencia",
+      "keywords": [
+        "poblaciones vulnerables"
+      ],
+      "landingPage": "https://www.argentina.gob.ar/desarrollosocial/dondeestamos",
+      "resources": [
+        {
+          "id": "2af1d507-7c38-4c8b-b6c3-d3449cc4bc0d",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/e67d5edf-cf55-4a5c-b420-b6fe9f61f6b3/resource/2af1d507-7c38-4c8b-b6c3-d3449cc4bc0d/download/listado-centros-de-referencia-mds.csv",
+          "name": "Listado de Centros de Referencia",
+          "format": "CSV",
+          "updatedAt": "2022-07-26T17:48:27.710Z",
+          "description": "Listado de Centros de Referencia del Ministerio de Salud y Desarrollo Social"
+        }
+      ],
+      "createdAt": "2021-04-17T13:48:47.626Z",
+      "updatedAt": "2022-07-26T17:48:27.732Z",
+      "contact": {
+        "name": "Ministerio de Desarrollo Social de la Nación. Secretaría de Abordaje Integral",
+        "email": "datosabiertos@desarrollosocial.gob.ar"
+      }
+    },
+    {
+      "id": "061c8da2-dc88-4774-b55e-5a3e04b00f59",
+      "name": "compras-covid-19",
+      "title": "Compras COVID-19",
+      "keywords": [
+        "covid-19"
+      ],
+      "landingPage": "https://comprar.gob.ar",
+      "resources": [
+        {
+          "id": "c7220c90-6de6-4dab-a5a6-d2cd358c6451",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/061c8da2-dc88-4774-b55e-5a3e04b00f59/resource/c7220c90-6de6-4dab-a5a6-d2cd358c6451/download/compra-covid-2021-12-30.csv",
+          "name": "Compras COVID-19 2021-12-30",
+          "format": "CSV",
+          "updatedAt": "2022-01-03T09:20:26.339Z",
+          "description": "Detalle de las compras y contrataciones tramitadasen el marco de la Pandemia por COVID-19 al 2021-12-30\r\n\r\n\r\n"
+        }
+      ],
+      "createdAt": "2021-07-01T01:27:33.132Z",
+      "updatedAt": "2022-01-03T09:20:26.361Z",
+      "contact": {
+        "name": "Ministerio de Desarrollo Social de la Nación. Secretaría de Gestión Administrativa",
+        "email": "datosabiertos@desarrollosocial.gob.ar"
+      }
+    },
+    {
+      "id": "f64aa566-35a7-4371-b18e-9c1e383ace7f",
+      "name": "dispositivos-de-aprehension-especializados-para-adolescentes-presuntos-infractores-a-la-ley-penal",
+      "title": "Dispositivos de aprehensión especializados para adolescentes presuntos infractores a la ley penal.",
+      "keywords": [
+        "adolescencia",
+        "senaf"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "d2e93ad6-d321-4d63-9256-205c4c640b99",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/f64aa566-35a7-4371-b18e-9c1e383ace7f/resource/d2e93ad6-d321-4d63-9256-205c4c640b99/download/dispositivos-de-aprehension-dinai-2021-2022-y-2023.csv",
+          "name": "Dispositivos de aprehensión especializados para adolescentes presuntos infractores a la ley penal",
+          "format": "CSV",
+          "updatedAt": "2023-11-21T14:01:52.828Z",
+          "description": ""
+        },
+        {
+          "id": "1f9ec111-af86-4491-8349-07e08aee8d89",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/f64aa566-35a7-4371-b18e-9c1e383ace7f/resource/1f9ec111-af86-4491-8349-07e08aee8d89/download/00-informacion-dataset_dispositivos-de-aprehension.pdf",
+          "name": "Información de dataset",
+          "format": "PDF",
+          "updatedAt": "2023-11-21T14:02:11.708Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2023-11-21T13:58:27.632Z",
+      "updatedAt": "2023-11-21T14:02:11.908Z",
+      "contact": {
+        "name": "Ministerio de Desarrollo Social de la Nación. Secretaría Nacional de niñez, adolescencia y familia",
+        "email": "datosabiertos@desarrollosocial.gob.ar"
+      }
+    },
+    {
+      "id": "3a2bd43d-e72d-487a-ba94-d19f299dfbb1",
+      "name": "factores-de-riesgo-en-barrios-populares-del-gran-buenos-aires",
+      "title": "Factores de Riesgo en Barrios Populares del Gran Buenos Aires",
+      "keywords": [
+        "integracion socio urbana",
+        "renabap"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "df97b106-c4a0-405f-a3f7-5ad390b454a3",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/3a2bd43d-e72d-487a-ba94-d19f299dfbb1/resource/df97b106-c4a0-405f-a3f7-5ad390b454a3/download/riesgo.zip",
+          "name": "riesgo.zip",
+          "format": "ZIP",
+          "updatedAt": "2022-08-16T08:17:02.192Z",
+          "description": "En los distintos archivos shapefiles será posible encontrar cada uno de estos factores de riesgo, diferenciados por tipo de factor y según el tipo de geometría que los represente. \r\n"
+        }
+      ],
+      "createdAt": "2022-08-16T08:16:32.188Z",
+      "updatedAt": "2022-08-16T08:17:03.092Z",
+      "contact": {
+        "name": "Ministerio de Desarrollo Social, Secretaría de Integración Socio Urbana",
+        "email": "datosabiertos@desarrollosocial.gob.ar"
+      }
+    },
+    {
+      "id": "2961336b-d95c-4967-a88f-cfda923b21d6",
+      "name": "hf",
+      "title": "Hacemos Futuro (2018-2020)",
+      "keywords": [
+        "hacemos futuro",
+        "hf",
+        "inclusion laboral",
+        "inclusion social"
+      ],
+      "landingPage": "https://datosabiertos.desarrollosocial.gob.ar/dataset/hf",
+      "resources": [
+        {
+          "id": "4e3eb1e8-7050-4dbe-805c-192d0479839d",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/2961336b-d95c-4967-a88f-cfda923b21d6/resource/4e3eb1e8-7050-4dbe-805c-192d0479839d/download/hacemos-futuro-titulares-activos-2020-02-01.csv",
+          "name": "Titulares activos por mes y departamento Hacemos Futuro",
+          "format": "CSV",
+          "updatedAt": "2021-11-01T19:50:07.707Z",
+          "description": "Total de titulares activos por mes, departamento y municipio del Programa Hacemos Futuro."
+        },
+        {
+          "id": "e84a6964-4d4e-49cd-bbfd-7b15719d03a8",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/2961336b-d95c-4967-a88f-cfda923b21d6/resource/e84a6964-4d4e-49cd-bbfd-7b15719d03a8/download/hacemos-futuro-titulares-2020-02-01.csv",
+          "name": "Titulares únicos por año y departamento Hacemos Futuro",
+          "format": "CSV",
+          "updatedAt": "2021-11-01T19:50:17.510Z",
+          "description": "Titulares únicos por año y departamento Hacemos Futuro"
+        },
+        {
+          "id": "7610e02a-535d-4f34-a1bc-58ab220e5253",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/2961336b-d95c-4967-a88f-cfda923b21d6/resource/7610e02a-535d-4f34-a1bc-58ab220e5253/download/hacemos-futuro-total-titulares-2020-02-01.csv",
+          "name": "Titulares únicos por departamento Hacemos Futuro",
+          "format": "CSV",
+          "updatedAt": "2021-11-01T19:50:27.240Z",
+          "description": "Total de titulares que pertenecieron al programa"
+        }
+      ],
+      "createdAt": "2021-04-17T18:58:57.662Z",
+      "updatedAt": "2021-11-01T19:50:31.805Z",
+      "contact": {
+        "name": "Ministerio de Desarrollo Social de la Nación. Secretaría de Economía Social.",
+        "email": "datosabiertos@desarrollosocial.gob.ar"
+      }
+    },
+    {
+      "id": "37f77651-3061-4290-8726-223674d14040",
+      "name": "linea-102",
+      "title": "Línea 102",
+      "keywords": [
+        "linea 102",
+        "niñez"
+      ],
+      "landingPage": "https://datosabiertos.desarrollosocial.gob.ar/dataset/linea-102",
+      "resources": [
+        {
+          "id": "9ae57621-956f-491a-b16f-0c2eecb84c33",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/37f77651-3061-4290-8726-223674d14040/resource/9ae57621-956f-491a-b16f-0c2eecb84c33/download/senaf_linea102-2022-202306.csv",
+          "name": "01 SENAF_LINEA102-2022.csv",
+          "format": "CSV",
+          "updatedAt": "2023-08-14T22:23:00.190Z",
+          "description": "Información sistematizada de las consultas telefónicas a las líneas 102 provinciales"
+        },
+        {
+          "id": "22c5f7fb-dbfa-47de-bc73-4a11291b7010",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/37f77651-3061-4290-8726-223674d14040/resource/22c5f7fb-dbfa-47de-bc73-4a11291b7010/download/informacion-dataset_linea102.pdf",
+          "name": "Información complementaria Línea 102",
+          "format": "PDF",
+          "updatedAt": "2023-08-14T22:23:20.581Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2023-07-19T15:33:09.484Z",
+      "updatedAt": "2023-08-28T19:14:43.870Z",
+      "contact": {
+        "name": "Ministerio de Desarrollo Social de la Nación. Secretaría Nacional de niñez, adolescencia y familia",
+        "email": "datos102@senaf.gob.ar"
+      }
+    },
+    {
+      "id": "abdbf19f-e388-4393-933f-316216611e8c",
+      "name": "listado-de-participantes-de-los-sorteos-mi-pieza",
+      "title": "Listado de inscriptas de los Sorteos Mi Pieza",
+      "keywords": [
+        "fisu",
+        "integracion socio urbana",
+        "mi pieza",
+        "renabap",
+        "sisu"
+      ],
+      "landingPage": "https://www.argentina.gob.ar/desarrollosocial/mipieza",
+      "resources": [
+        {
+          "id": "bb4d6278-b696-4dc5-a5e5-4c5bd08f5301",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/abdbf19f-e388-4393-933f-316216611e8c/resource/bb4d6278-b696-4dc5-a5e5-4c5bd08f5301/download/mi-pieza-2023-10-04.csv",
+          "name": "Listado de inscriptas de los Sorteos Mi Pieza",
+          "format": "CSV",
+          "updatedAt": "2023-10-04T18:55:18.149Z",
+          "description": "Listado de inscriptas de los sorteos Mi Pieza con datos del formulario de inscripción."
+        }
+      ],
+      "createdAt": "2021-10-16T13:09:37.311Z",
+      "updatedAt": "2023-10-04T18:55:18.163Z",
+      "contact": {
+        "name": "Ministerio de Desarrollo Social, Secretaría de Integración Socio Urbana",
+        "email": "datosabiertos@desarrollosocial.gob.ar"
+      }
+    },
+    {
+      "id": "70583b90-d36c-4f9e-accf-4272e557ac8f",
+      "name": "microcreditos-otorgados",
+      "title": "Microcréditos otorgados",
+      "keywords": [
+        "conami",
+        "economia social",
+        "inclusion laboral",
+        "inclusion social",
+        "microcreditos"
+      ],
+      "landingPage": "https://www.argentina.gob.ar/desarrollosocial/conami",
+      "resources": [
+        {
+          "id": "cea60c83-1ff5-4e07-bf94-bd4926000815",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/70583b90-d36c-4f9e-accf-4272e557ac8f/resource/cea60c83-1ff5-4e07-bf94-bd4926000815/download/microcreditos-2022-09-01.csv",
+          "name": "Microcréditos otorgados",
+          "format": "CSV",
+          "updatedAt": "2022-11-03T20:34:50.794Z",
+          "description": "Cantidad de microcréditos y capital otorgado por organizaciones administradoras, agrupados por mes de otorgamiento, provincia, departamento y localidad hasta el periodo 2022-09-01"
+        }
+      ],
+      "createdAt": "2021-04-17T17:29:49.143Z",
+      "updatedAt": "2022-11-03T20:45:29.396Z",
+      "contact": {
+        "name": "Ministerio de Desarrollo Social de la Nación. Secretaría de Economía Social, Comisión Nacional de Microcrédito",
+        "email": "datosabiertos@desarrollosocial.gob.ar"
+      }
+    },
+    {
+      "id": "e0691629-1af3-4cdd-bb83-b91d3926a372",
+      "name": "monotributo-social",
+      "title": "Monotributo Social",
+      "keywords": [
+        "inclusion laboral",
+        "inclusion social",
+        "monotributo social"
+      ],
+      "landingPage": "https://www.argentina.gob.ar/servicio/adherir-al-monotributo-social",
+      "resources": [
+        {
+          "id": "1a3de2ed-0e30-4d47-adf3-2ff462a892b5",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/e0691629-1af3-4cdd-bb83-b91d3926a372/resource/1a3de2ed-0e30-4d47-adf3-2ff462a892b5/download/monotributo-social-efectores-activos-2022-09-01.csv",
+          "name": "Efectores Monotributistas Sociales activos",
+          "format": "CSV",
+          "updatedAt": "2022-11-07T15:52:16.868Z",
+          "description": "Efectores Activos al 2022-09-01 por mes y provincia."
+        },
+        {
+          "id": "bd20597f-1d12-408e-806b-460c70f38746",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/e0691629-1af3-4cdd-bb83-b91d3926a372/resource/bd20597f-1d12-408e-806b-460c70f38746/download/monotributo-social-efectores-pagos-2022-09-01.csv",
+          "name": "Efectores activos con cobertura de obra social",
+          "format": "CSV",
+          "updatedAt": "2022-11-07T15:52:21.201Z",
+          "description": "Efectores Activos con cobertura de obra social y monto subsidado por el Ministerio de Desarrollo Social al 2022-09-01 desde, 2012-02-01, por mes y provincia.\r\n\r\n"
+        }
+      ],
+      "createdAt": "2021-07-05T15:36:22.594Z",
+      "updatedAt": "2022-11-07T15:53:07.525Z",
+      "contact": {
+        "name": "Ministerio de Desarrollo Social de la Nación. Secretaría de Economía Social. ",
+        "email": "datosabiertos@desarrollosocial.gob.ar"
+      }
+    },
+    {
+      "id": "2fbfb3e2-cd0a-4d1b-ac3b-89326e8e4f9c",
+      "name": "montos-de-programa-de-transferencia-condicionada",
+      "title": "Montos de Programa de Transferencia Condicionada",
+      "keywords": [
+        "at",
+        "hf",
+        "inclusion laboral",
+        "inclusion social",
+        "potenciar trabajo",
+        "ppc"
+      ],
+      "landingPage": "https://datosabiertos.desarrollosocial.gob.ar/dataset/montos-de-programa-de-transferencia-condicionada",
+      "resources": [
+        {
+          "id": "6778396e-75f7-4fce-ac65-97d1e5e4525e",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/2fbfb3e2-cd0a-4d1b-ac3b-89326e8e4f9c/resource/6778396e-75f7-4fce-ac65-97d1e5e4525e/download/montos-transferencias-2023-01-01.csv",
+          "name": "Montos vigentes",
+          "format": "CSV",
+          "updatedAt": "2023-02-10T15:38:00.637Z",
+          "description": "Monto vigente de la prestación por mes."
+        }
+      ],
+      "createdAt": "2021-04-17T19:21:12.398Z",
+      "updatedAt": "2023-02-10T15:38:00.656Z",
+      "contact": {
+        "name": "Ministerio de Desarrollo Social de la Nación. Secretaría de Economía Social.",
+        "email": "datosabiertos@desarrollosocial.gob.ar"
+      }
+    },
+    {
+      "id": "d1e40846-b06c-4c0b-a8af-3ccc78ea1b7c",
+      "name": "pae",
+      "title": "Programa de acompañamiento para el egreso de jóvenes sin cuidados parentales",
+      "keywords": [
+        "adolescencia",
+        "niñez",
+        "pae",
+        "politicas de cuidado",
+        "sennaf"
+      ],
+      "landingPage": "https://www.argentina.gob.ar/desarrollosocial/ninezyadolescencia/pae",
+      "resources": [
+        {
+          "id": "ba9ecf55-8760-42d5-9c85-b0e070871980",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/d1e40846-b06c-4c0b-a8af-3ccc78ea1b7c/resource/ba9ecf55-8760-42d5-9c85-b0e070871980/download/06-senaf_pae-para-mds-act-10-2023.csv",
+          "name": "Programa de acompañamiento para el egreso de jóvenes sin cuidados parentales",
+          "format": "CSV",
+          "updatedAt": "2023-11-21T14:03:25.015Z",
+          "description": "Programa de acompañamiento para el egreso de jóvenes sin cuidados parentales (PAE)"
+        },
+        {
+          "id": "373b42b2-fc90-4f9b-88f7-bbd121992433",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/d1e40846-b06c-4c0b-a8af-3ccc78ea1b7c/resource/373b42b2-fc90-4f9b-88f7-bbd121992433/download/00-informacion-dataset_pae.pdf",
+          "name": "Información complementaria PAE",
+          "format": "PDF",
+          "updatedAt": "2023-07-19T15:20:10.408Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2021-06-11T19:09:08.673Z",
+      "updatedAt": "2023-11-21T14:03:25.026Z",
+      "contact": {
+        "name": "Ministerio de Desarrollo Social de la Nación. Secretaría Nacional de niñez, adolescencia y familia",
+        "email": "datosabiertos@desarrollosocial.gob.ar"
+      }
+    },
+    {
+      "id": "d45687c0-f2ba-41d9-9989-0ad9799308ae",
+      "name": "potenciar-trabajo",
+      "title": "Potenciar Trabajo",
+      "keywords": [
+        "inclusion laboral",
+        "inclusion social",
+        "potenciar trabajo"
+      ],
+      "landingPage": "https://www.argentina.gob.ar/desarrollosocial/potenciartrabajo",
+      "resources": [
+        {
+          "id": "c4caa724-dfbb-4aac-bfe7-2169f4154bc5",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/d45687c0-f2ba-41d9-9989-0ad9799308ae/resource/c4caa724-dfbb-4aac-bfe7-2169f4154bc5/download/potenciar-trabajo-titulares-activos-2022-10-01.csv",
+          "name": "Total de titulares por periodo",
+          "format": "CSV",
+          "updatedAt": "2022-11-08T16:04:00.657Z",
+          "description": "Total de titulares por periodo, agrupado departamento y municipio. Hasta el periodo 2022-10-01"
+        },
+        {
+          "id": "c5c925e0-7ce0-41e5-b3ff-8ebb51d4be72",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/d45687c0-f2ba-41d9-9989-0ad9799308ae/resource/c5c925e0-7ce0-41e5-b3ff-8ebb51d4be72/download/potenciar-trabajo-titulares-2022-10-01.csv",
+          "name": "Titulares por año",
+          "format": "CSV",
+          "updatedAt": "2022-11-08T16:11:02.904Z",
+          "description": "Total de titulares únicos por año, departamento y municipio. Los datos geográficos responden al domicilio del titular al recibir el último cobro del Salario Social Complementario."
+        },
+        {
+          "id": "5d5274f0-f4d5-440a-9781-7fc6df0b4cb2",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/d45687c0-f2ba-41d9-9989-0ad9799308ae/resource/5d5274f0-f4d5-440a-9781-7fc6df0b4cb2/download/potenciar-trabajo-total-titulares-2022-10-01.csv",
+          "name": "Total de titulares",
+          "format": "CSV",
+          "updatedAt": "2022-11-08T16:15:55.260Z",
+          "description": "Total de titulares únicos del programa."
+        },
+        {
+          "id": "6e9de963-cf95-4555-87af-84f1126e346b",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/d45687c0-f2ba-41d9-9989-0ad9799308ae/resource/6e9de963-cf95-4555-87af-84f1126e346b/download/potenciar-trabajo-listado-titulares-2022-10-01.zip",
+          "name": "Listado de titulares de Potenciar Trabajo",
+          "format": "CSV",
+          "updatedAt": "2022-11-08T16:52:23.415Z",
+          "description": "Listado de personas que pertencieron/pertencen al programa Potenciar Trabajo"
+        },
+        {
+          "id": "b59d6768-ccbf-4737-83d1-e8e0e726a08e",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/d45687c0-f2ba-41d9-9989-0ad9799308ae/resource/b59d6768-ccbf-4737-83d1-e8e0e726a08e/download/potenciar-trabajo-listado-pagos-titulares-2022-10-01.zip",
+          "name": "Listado de pagos por titulares",
+          "format": "CSV",
+          "updatedAt": "2022-11-08T17:04:19.197Z",
+          "description": "Periodos pagados por ID de titular"
+        }
+      ],
+      "createdAt": "2021-04-17T19:05:15.680Z",
+      "updatedAt": "2022-11-08T17:04:19.345Z",
+      "contact": {
+        "name": "Ministerio de Desarrollo Social de la Nación.",
+        "email": "datosabiertos@desarrollosocial.gob.ar"
+      }
+    },
+    {
+      "id": "8da5d759-6a36-4f49-9045-d4905993c2ef",
+      "name": "ppc",
+      "title": "Proyectos Productivos Comunitarios (2017-2020)",
+      "keywords": [
+        "inclusion laboral",
+        "inclusion social",
+        "ppc",
+        "salario social"
+      ],
+      "landingPage": "https://datosabiertos.desarrollosocial.gob.ar/dataset/ppc",
+      "resources": [
+        {
+          "id": "17357c69-f608-4d66-9a50-410530ca988d",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/8da5d759-6a36-4f49-9045-d4905993c2ef/resource/17357c69-f608-4d66-9a50-410530ca988d/download/proyectos-productivos-comunitarios-titulares-activos-2020-02-29.csv",
+          "name": "Titulares activos por mes Proyectos Productivos Comunitarios",
+          "format": "CSV",
+          "updatedAt": "2021-04-17T18:56:21.725Z",
+          "description": "Datos correspondientes a los titulares activos por mes y departamento del Programa Proyectos Productivos Comunitarios"
+        },
+        {
+          "id": "ccd782ef-51c3-4ecd-af36-127cfa170014",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/8da5d759-6a36-4f49-9045-d4905993c2ef/resource/ccd782ef-51c3-4ecd-af36-127cfa170014/download/proyectos-productivos-comunitarios-titulares-2020-02-29.csv",
+          "name": "Titulares por año - Proyectos Productivos Comunitarios",
+          "format": "CSV",
+          "updatedAt": "2021-07-07T19:20:03.444Z",
+          "description": "Datos correspondientes a los titulares por año y departamento del Programa Proyectos Productivos Comunitarios"
+        },
+        {
+          "id": "810142e8-d589-43a5-814e-d99bb4f9eece",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/8da5d759-6a36-4f49-9045-d4905993c2ef/resource/810142e8-d589-43a5-814e-d99bb4f9eece/download/proyectos-productivos-comunitarios-total-titulares-2020-02-29.csv",
+          "name": "Total de titulares Proyectos Productivos Comunitarios",
+          "format": "CSV",
+          "updatedAt": "2021-07-07T19:20:31.610Z",
+          "description": "Total de titulares que pertenecieron al Programa Proyectos Productivos Comunitarios"
+        }
+      ],
+      "createdAt": "2021-04-17T18:55:49.498Z",
+      "updatedAt": "2021-07-07T19:20:31.632Z",
+      "contact": {
+        "name": "Ministerio de Desarrollo Social de la Nación. Secretaría de Economía Social.",
+        "email": "datosabiertos@desarrollosocial.gob.ar"
+      }
+    },
+    {
+      "id": "10df5dbf-061a-4ff5-a4f7-63678f0dd8e8",
+      "name": "programa-ingreso-social-con-trabajo-2009-2018",
+      "title": "Programa Ingreso Social con Trabajo (2009-2018)",
+      "keywords": [
+        "argentina trabaja",
+        "inclusion laboral",
+        "inclusion social",
+        "prist"
+      ],
+      "landingPage": "https://datosabiertos.desarrollosocial.gob.ar/dataset/prist",
+      "resources": [
+        {
+          "id": "776d890c-42d5-4bfd-9a01-93456b2b9e37",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/10df5dbf-061a-4ff5-a4f7-63678f0dd8e8/resource/776d890c-42d5-4bfd-9a01-93456b2b9e37/download/argentina-trabaja-titulares-activos-2018-01-31.csv",
+          "name": "Titulares activos por mes Programa Ingreso Social con Trabaja - Argentina Trabaja (PRIST)",
+          "format": "CSV",
+          "updatedAt": "2021-04-17T17:47:08.060Z",
+          "description": "Titulares activos por mes del PRIST. Los datos geográficos responden al domicilio del titular al recibir su ñltimo subsidio. No incluyen los titulares de la línea Ellas Hacen"
+        },
+        {
+          "id": "19c29463-85c7-4c17-95d1-9c322b42d308",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/10df5dbf-061a-4ff5-a4f7-63678f0dd8e8/resource/19c29463-85c7-4c17-95d1-9c322b42d308/download/ellas-hacen-titulares-activos-2018-01-31.csv",
+          "name": "Titulares activos por mes Ellas Hacen",
+          "format": "CSV",
+          "updatedAt": "2021-04-17T17:46:29.588Z",
+          "description": "Titulares activos por mes de la línea programática Ellas Hacen del Programa Ingreso Social con Trabajo. Los datos geográficos responden al domicilio del titular al recibir su ñltimo subsidio."
+        },
+        {
+          "id": "b0d85d75-4f4b-4489-9e90-37e036309c04",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/10df5dbf-061a-4ff5-a4f7-63678f0dd8e8/resource/b0d85d75-4f4b-4489-9e90-37e036309c04/download/ellas-hacen-titulares-2018-01-31.csv",
+          "name": "Titulares por año - Ellas Hacen",
+          "format": "CSV",
+          "updatedAt": "2021-07-07T19:07:23.675Z",
+          "description": "Titulares activos por año y departamento de la línea programática Ellas Hacen. Los datos geográficos responden al domicilio del titular al recibir su último subsidio."
+        },
+        {
+          "id": "36721677-6803-4fcf-8578-53be62d9e592",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/10df5dbf-061a-4ff5-a4f7-63678f0dd8e8/resource/36721677-6803-4fcf-8578-53be62d9e592/download/argentina-trabaja-titulares-2018-01-31.csv",
+          "name": "Titulares por año - Programa Ingreso Social con Trabajo",
+          "format": "CSV",
+          "updatedAt": "2021-07-07T19:08:15.760Z",
+          "description": "Titulares activos por año y departamento del Programa Ingreso Social con Trabajo. Los datos geográficos responden al domicilio del titular al recibir su ñltimo subsidio."
+        },
+        {
+          "id": "74e10153-f828-40bf-82bb-8bb6c9a5fc97",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/10df5dbf-061a-4ff5-a4f7-63678f0dd8e8/resource/74e10153-f828-40bf-82bb-8bb6c9a5fc97/download/argentina-trabaja-total-titulares-2018-01-31.csv",
+          "name": "Total de titulares PRIST",
+          "format": "CSV",
+          "updatedAt": "2021-07-07T19:12:24.471Z",
+          "description": "Total de titulares que pertenecieron a las dos líneas del Programa Ingreso Social con Trabajo"
+        }
+      ],
+      "createdAt": "2021-04-17T17:44:44.488Z",
+      "updatedAt": "2021-07-07T19:12:24.507Z",
+      "contact": {
+        "name": "Ministerio de Desarrollo Social de la Nación. Secretaría de Economía Social.",
+        "email": "datosabiertos@desarrollosocial.gob.ar"
+      }
+    },
+    {
+      "id": "a6fd5090-cb0d-4c6a-bc26-104506cd68c3",
+      "name": "programa-nacional-primeros-anos",
+      "title": "Programa Nacional Primeros Años",
+      "keywords": [
+        "senaf"
+      ],
+      "landingPage": "https://datosabiertos.desarrollosocial.gob.ar/dataset/programa-nacional-primeros-anos",
+      "resources": [
+        {
+          "id": "91d28545-3ed3-4917-be9c-4cfd39ecffd5",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/a6fd5090-cb0d-4c6a-bc26-104506cd68c3/resource/91d28545-3ed3-4917-be9c-4cfd39ecffd5/download/03-senaf_primeros-anos-2020t1-2023t3.csv",
+          "name": "Primeros Años, cantidades por provincia",
+          "format": "CSV",
+          "updatedAt": "2023-11-06T16:45:41.049Z",
+          "description": ""
+        },
+        {
+          "id": "86e86500-297e-44fb-ba6a-854d59f153c1",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/a6fd5090-cb0d-4c6a-bc26-104506cd68c3/resource/86e86500-297e-44fb-ba6a-854d59f153c1/download/00-informacion-dataset_primeros_anos.pdf",
+          "name": "Información complementaria Primeros Años",
+          "format": "PDF",
+          "updatedAt": "2023-07-19T15:38:39.610Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2023-07-19T15:37:11.226Z",
+      "updatedAt": "2023-11-06T16:45:41.061Z",
+      "contact": {
+        "name": "Ministerio de Desarrollo Social de la Nación. Secretaría Nacional de niñez, adolescencia y familia",
+        "email": "datosabiertos@desarrollosocial.gob.ar"
+      }
+    },
+    {
+      "id": "3767bc2b-1a9b-4270-83ad-0cddefbcbe0f",
+      "name": "proyectos-de-integracion-socio-urbana",
+      "title": "Proyectos de integración socio urbana",
+      "keywords": [
+        "integracion socio urbana",
+        "renabap",
+        "sisu"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "b87d7515-3f3e-4398-a566-bda4218a1ab1",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/3767bc2b-1a9b-4270-83ad-0cddefbcbe0f/resource/b87d7515-3f3e-4398-a566-bda4218a1ab1/download/proyectos_fisu-2023-11-15.csv",
+          "name": "Proyectos financiados por el Fondo para la Integración Socio Urbana",
+          "format": "CSV",
+          "updatedAt": "2023-11-15T22:39:50.552Z",
+          "description": "Listado de proyectos financiados por el Fondo para la Integración Socio Urbana"
+        },
+        {
+          "id": "39585875-3c2c-457a-b0d9-f7e3710bdf87",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/3767bc2b-1a9b-4270-83ad-0cddefbcbe0f/resource/39585875-3c2c-457a-b0d9-f7e3710bdf87/download/proyectos_bid-2023-11-15.csv",
+          "name": "Proyectos Programa de Integración Socio Urbana (PISU)",
+          "format": "CSV",
+          "updatedAt": "2023-11-15T22:39:51.942Z",
+          "description": "Listado de proyectos financiados en el marco del Programa de Integración Socio Urbana (PISU), con financiamiento del BID 4804 OC/AR"
+        },
+        {
+          "id": "bde6a697-9a35-4146-9d2a-9eab42dfe196",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/3767bc2b-1a9b-4270-83ad-0cddefbcbe0f/resource/bde6a697-9a35-4146-9d2a-9eab42dfe196/download/proyectos_ff11-2023-11-15.csv",
+          "name": "Proyectos de Programa Argentina Unida por la Integración de Barrios Populares",
+          "format": "CSV",
+          "updatedAt": "2023-11-15T22:39:51.357Z",
+          "description": "Listado de proyectos del Programa Argentina Unida por la Integración de Barrios Populares."
+        }
+      ],
+      "createdAt": "2021-12-13T11:35:14.232Z",
+      "updatedAt": "2023-11-15T22:39:51.950Z",
+      "contact": {
+        "name": "Ministerio de Desarrollo Social, Secretaría de Integración Socio Urbana",
+        "email": "datosabiertos@desarrollosocial.gob.ar"
+      }
+    },
+    {
+      "id": "0d022767-9390-486a-bff4-ba53b85d730e",
+      "name": "registro-nacional-de-barrios-populares",
+      "title": "Registro Nacional de Barrios Populares",
+      "keywords": [
+        "barrios populares",
+        "integracion socio urbana",
+        "renabap"
+      ],
+      "landingPage": "https://www.argentina.gob.ar/desarrollosocial/renabap/mapa",
+      "resources": [
+        {
+          "id": "9a951270-60dd-4f21-aa19-4ef1205620bd",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/0d022767-9390-486a-bff4-ba53b85d730e/resource/9a951270-60dd-4f21-aa19-4ef1205620bd/download/20231205_info_publica_datos_barrios.csv",
+          "name": "Barrios Populares de Argentina",
+          "format": "CSV",
+          "updatedAt": "2023-12-06T18:12:43.048Z",
+          "description": "Mapa de los barrios populares de Argentina registrados en el Registro Nacional de Barrios Populares"
+        },
+        {
+          "id": "97cc7d10-ad4c-46cb-9ee4-becb402adf9f",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/0d022767-9390-486a-bff4-ba53b85d730e/resource/97cc7d10-ad4c-46cb-9ee4-becb402adf9f/download/20231205_info_publica.geojson",
+          "name": "Barrios Populares de Argentina - GeoJSON",
+          "format": "GeoJSON",
+          "updatedAt": "2023-12-06T18:12:53.589Z",
+          "description": "Mapa de los barrios populares de Argentina registrados en el Registro Nacional de Barrios Populares"
+        },
+        {
+          "id": "0396a8a3-8998-4fc1-8503-e6706667b5fa",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/0d022767-9390-486a-bff4-ba53b85d730e/resource/0396a8a3-8998-4fc1-8503-e6706667b5fa/download/20231205_info_publica.gpkg",
+          "name": "Barrios Populares de Argentina - GPKG",
+          "format": "gpkg",
+          "updatedAt": "2023-12-06T18:12:58.766Z",
+          "description": "Mapa de los barrios populares de Argentina registrados en el Registro Nacional de Barrios Populares"
+        },
+        {
+          "id": "5ea64df2-7ccf-45b4-850a-1f246122369c",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/0d022767-9390-486a-bff4-ba53b85d730e/resource/5ea64df2-7ccf-45b4-850a-1f246122369c/download/20231205_info_publica_referencias.csv",
+          "name": "Referencias",
+          "format": "CSV",
+          "updatedAt": "2023-12-06T18:13:05.031Z",
+          "description": "Información sobre las variables."
+        }
+      ],
+      "createdAt": "2021-04-17T19:11:36.938Z",
+      "updatedAt": "2023-12-06T18:13:05.067Z",
+      "contact": {
+        "name": "Ministerio de Desarrollo Social, Secretaría de Integración Socio Urbana",
+        "email": "datosabiertos@desarrollosocial.gob.ar"
+      }
+    },
+    {
+      "id": "7b3e7aa3-4caa-41de-b518-1fb9edd26374",
+      "name": "relevamiento-nacional-de-zonas-estrategicas-de-produccion-de-alimentos",
+      "title": "Relevamiento Nacional de Zonas Estratégicas de Producción de Alimentos",
+      "keywords": [
+        "integracion socio urbana",
+        "renabap"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "c1ad9cdf-52b2-4225-912a-73c8d57d7596",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/7b3e7aa3-4caa-41de-b518-1fb9edd26374/resource/c1ad9cdf-52b2-4225-912a-73c8d57d7596/download/indicadores_sectores_renazepa.csv",
+          "name": "Indicadores Sectores Renazepa CSV",
+          "format": "CSV",
+          "updatedAt": "2023-12-06T18:51:36.323Z",
+          "description": ""
+        },
+        {
+          "id": "13f961ad-677a-440a-bd15-2030da589265",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/7b3e7aa3-4caa-41de-b518-1fb9edd26374/resource/13f961ad-677a-440a-bd15-2030da589265/download/indicadores_sectores_renazepa.geojson",
+          "name": "Indicadores Sectores Renazepa GeoJSON",
+          "format": "GeoJSON",
+          "updatedAt": "2023-12-06T18:51:55.791Z",
+          "description": ""
+        },
+        {
+          "id": "2a8f533a-c852-438f-9cb2-fec22dced58a",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/7b3e7aa3-4caa-41de-b518-1fb9edd26374/resource/2a8f533a-c852-438f-9cb2-fec22dced58a/download/indicadores_sectores_renazepa.gpkg",
+          "name": "Indicadores Sectores Renazepa GPKG",
+          "format": "gpkg",
+          "updatedAt": "2023-12-06T18:52:10.945Z",
+          "description": ""
+        },
+        {
+          "id": "a1978cf3-ff2c-4aab-a22e-0f3a0e905c2a",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/7b3e7aa3-4caa-41de-b518-1fb9edd26374/resource/a1978cf3-ff2c-4aab-a22e-0f3a0e905c2a/download/referencias-datos.csv",
+          "name": "Referencias",
+          "format": "CSV",
+          "updatedAt": "2023-12-06T19:26:50.558Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2023-12-06T18:51:10.749Z",
+      "updatedAt": "2023-12-06T19:26:50.596Z",
+      "contact": {
+        "name": "Secretaría de Integración Sociourbana",
+        "email": "datosabiertos@desarrollosocial.gob.ar"
+      }
+    },
+    {
+      "id": "974f504d-1fdf-4883-bd2f-e08b31cdffa3",
+      "name": "reparacion-economica-para-hijos-e-hijas-de-victimas-de-violencia-de-genero",
+      "title": "Reparación económica para hijos e hijas de víctimas de violencia de género",
+      "keywords": [
+        "adolescencia",
+        "adultos mayores",
+        "familia",
+        "niñez",
+        "politicas de cuidado",
+        "rennya",
+        "sennaf"
+      ],
+      "landingPage": "https://www.argentina.gob.ar/rennya",
+      "resources": [
+        {
+          "id": "e70c1a75-60d7-4f32-afe4-5c7823da9158",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/974f504d-1fdf-4883-bd2f-e08b31cdffa3/resource/e70c1a75-60d7-4f32-afe4-5c7823da9158/download/06-senaf-rennya-para-mds-act-10-2023.csv",
+          "name": "Titulares vigentes RENNyA",
+          "format": "CSV",
+          "updatedAt": "2023-12-06T16:00:21.100Z",
+          "description": "Cantidad de titulares y monto correspondientes al régimen de Reparación económica para hijos e hijas de víctimas de violencia de género - LEY 27.452 (RENNyA) al 2023-09-30"
+        },
+        {
+          "id": "ebe7f7c4-2892-4815-8a40-3a149eb96186",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/974f504d-1fdf-4883-bd2f-e08b31cdffa3/resource/ebe7f7c4-2892-4815-8a40-3a149eb96186/download/00-informacion-dataset_rennya.pdf",
+          "name": "Información complementaria - RENNYA",
+          "format": "PDF",
+          "updatedAt": "2023-07-19T15:19:15.273Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2021-04-17T19:15:57.131Z",
+      "updatedAt": "2023-12-06T16:00:21.144Z",
+      "contact": {
+        "name": "Ministerio de Desarrollo Social de la Nación. Secretaría Nacional de niñez, adolescencia y familia",
+        "email": "datosabiertos@desarrollosocial.gob.ar"
+      }
+    },
+    {
+      "id": "8673fde8-70eb-4f25-8761-f8ae90ba21cd",
+      "name": "titulares-de-la-tarjeta-alimentar",
+      "title": "Titulares de la Prestación Alimentar",
+      "keywords": [
+        "argentina contra el hambre",
+        "prestacion alimentar",
+        "tarjeta alimentar"
+      ],
+      "landingPage": "https://www.argentina.gob.ar/desarrollosocial/prestacion-alimentar",
+      "resources": [
+        {
+          "id": "7d8b67b8-5f75-41ca-b6fb-83afbfdc46a1",
+          "downloadUrl": "https://datosabiertos.desarrollosocial.gob.ar/dataset/8673fde8-70eb-4f25-8761-f8ae90ba21cd/resource/7d8b67b8-5f75-41ca-b6fb-83afbfdc46a1/download/titulares_prestacion_alimentar-2023-08-01.zip",
+          "name": "Titulares de la Prestación Alimentar",
+          "format": "ZIP",
+          "updatedAt": "2023-08-16T21:34:10.681Z",
+          "description": "Listado de titulares por provincia y departamento con último monto y periodo desde/hasta que cobraron la prestación."
+        }
+      ],
+      "createdAt": "2021-04-16T19:36:24.779Z",
+      "updatedAt": "2023-08-16T21:34:10.730Z",
+      "contact": {
+        "name": "Ministerio de Desarrollo Social de la Nación. Secretaría de Inclusión Social",
+        "email": "datosabiertos@desarrollosocial.gob.ar"
+      }
+    }
+  ],
+  "organizations": [],
+  "updatedAt": "2023-12-09T09:01:09.469Z"
+}

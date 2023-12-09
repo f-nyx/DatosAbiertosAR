@@ -1,0 +1,2579 @@
+{
+  "id": "LM4BfBnwyQ",
+  "datasets": [
+    {
+      "id": "1f3fa9d5-471e-4fce-aad8-2f074151d9a8",
+      "name": "aerodromos",
+      "title": "Aeródromos",
+      "keywords": [
+        "aeródromos",
+        "aéreo",
+        "transporte"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/aerodromos",
+      "resources": [
+        {
+          "id": "5291d93b-ae41-4e27-a009-a351b9835daa",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.4.1.5_aerodromos_anac_2018.view&maxFeatures=700&outputFormat=shape-zip",
+          "name": "Aeródromos",
+          "format": "ZIP",
+          "updatedAt": "2019-06-24T10:27:27.561Z",
+          "description": "Archivo 'Shape' de Aeródromos de la República Argentina. Fuente: Universidad Nacional de La Plata.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/1f3fa9d5-471e-4fce-aad8-2f074151d9a8/resource/5291d93b-ae41-4e27-a009-a351b9835daa"
+        },
+        {
+          "id": "abbab2d0-135c-4420-a2e4-18779fe40295",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.4.1.5_aerodromos_anac_2018.view&maxFeatures=700&outputFormat=application%2Fjson",
+          "name": "Aeródromos",
+          "format": "GeoJSON",
+          "updatedAt": "2019-06-24T10:27:48.439Z",
+          "description": "Archivo GeoJSON de Aeródromos de la República Argentina. Fuente: Universidad Nacional de La Plata.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/1f3fa9d5-471e-4fce-aad8-2f074151d9a8/resource/abbab2d0-135c-4420-a2e4-18779fe40295"
+        },
+        {
+          "id": "9bbc5b69-0def-46cd-8d64-2b784368b0cc",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.4.1.5_aerodromos_anac_2018.view&maxFeatures=700&outputFormat=kml",
+          "name": "Aeródromos",
+          "format": "KML",
+          "updatedAt": "2019-06-24T10:28:10.894Z",
+          "description": "Archivo 'KML' de Aeródromos de la República Argentina. Fuente: Universidad Nacional de La Plata.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/1f3fa9d5-471e-4fce-aad8-2f074151d9a8/resource/9bbc5b69-0def-46cd-8d64-2b784368b0cc"
+        }
+      ],
+      "createdAt": "2022-04-01T16:44:27.943Z",
+      "updatedAt": "2023-04-12T17:16:19.986Z",
+      "contact": {
+        "name": "Dirección de Observatorio Nacional de Transporte",
+        "email": "dotes@transporte.gob.ar"
+      }
+    },
+    {
+      "id": "e7bc3c33-b10c-41c4-9eb5-445bed8f61ab",
+      "name": "aeropuertosargentina",
+      "title": "Aeropuertos",
+      "keywords": [
+        "aeropuertos",
+        "aéreo",
+        "transporte"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/aeropuertosargentina",
+      "resources": [
+        {
+          "id": "65614900-bb76-4757-9c72-f39e0fb3ed73",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/e7bc3c33-b10c-41c4-9eb5-445bed8f61ab/resource/65614900-bb76-4757-9c72-f39e0fb3ed73/download/aeropuertos.geojson",
+          "name": "Aeropuertos",
+          "format": "GeoJSON",
+          "updatedAt": "2018-01-30T16:21:04.730Z",
+          "description": "Archivo \"GeoJSON\" de Aeropuertos de la República Argentina. Fuente: ORSNA. Abril 2017.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/e7bc3c33-b10c-41c4-9eb5-445bed8f61ab/resource/65614900-bb76-4757-9c72-f39e0fb3ed73"
+        },
+        {
+          "id": "ea3b53b9-65b1-4d54-8a21-7f53258a9ef9",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/e7bc3c33-b10c-41c4-9eb5-445bed8f61ab/resource/ea3b53b9-65b1-4d54-8a21-7f53258a9ef9/download/aeropuertos.kml",
+          "name": "Aeropuertos",
+          "format": "KML",
+          "updatedAt": "2017-08-04T16:29:12.690Z",
+          "description": "Archivo \"KML\" de Aeropuertos de la República Argentina. Fuente: ORSNA. Abril 2017.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/e7bc3c33-b10c-41c4-9eb5-445bed8f61ab/resource/ea3b53b9-65b1-4d54-8a21-7f53258a9ef9"
+        },
+        {
+          "id": "fdb6f653-6430-485b-8c5c-30ac37be7175",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/e7bc3c33-b10c-41c4-9eb5-445bed8f61ab/resource/fdb6f653-6430-485b-8c5c-30ac37be7175/download/aeropuertos.zip",
+          "name": "Aeropuertos",
+          "format": "ZIP",
+          "updatedAt": "2022-06-15T05:47:16.631Z",
+          "description": "Archivo \"Shape\" de Aeropuertos de la República Argentina. Fuente: ORSNA. Abril 2017.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/e7bc3c33-b10c-41c4-9eb5-445bed8f61ab/resource/fdb6f653-6430-485b-8c5c-30ac37be7175"
+        }
+      ],
+      "createdAt": "2022-04-01T16:46:49.412Z",
+      "updatedAt": "2023-04-12T17:16:56.566Z",
+      "contact": {
+        "name": "Dirección de Observatorio Nacional de Transporte",
+        "email": "dotes@transporte.gob.ar"
+      }
+    },
+    {
+      "id": "21038a1a-c3c7-4494-b76a-3a2a8fbb83b5",
+      "name": "aterrizajes-y-despegues-procesados-por-la-administracion-nacional-de-aviacion-civil-anac",
+      "title": "Aterrizajes y despegues procesados por la Administración Nacional de Aviación Civil (ANAC)",
+      "keywords": [
+        "transporte aéreo",
+        "anac",
+        "aterrizajes",
+        "aterrizajes_y_despegues",
+        "despegues"
+      ],
+      "landingPage": "https://datos.anac.gob.ar/estadisticas",
+      "resources": [
+        {
+          "id": "e910fead-ade3-40ce-ae8f-cad2017aa007",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/21038a1a-c3c7-4494-b76a-3a2a8fbb83b5/resource/e910fead-ade3-40ce-ae8f-cad2017aa007/download/202311_informe_ministerio.csv",
+          "name": "Aterrizajes y despegues procesados por ANAC en el año 2023",
+          "format": "CSV",
+          "updatedAt": "2023-12-05T14:43:18.351Z",
+          "description": "Aterrizajes y despegues procesados por la Administración Nacional de Aviación Civil (ANAC) en el año 2023",
+          "landingUrl": ""
+        },
+        {
+          "id": "11894a35-de36-4579-b084-d1191f551fbe",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/21038a1a-c3c7-4494-b76a-3a2a8fbb83b5/resource/11894a35-de36-4579-b084-d1191f551fbe/download/202212-informe-ministerio.csv",
+          "name": "Aterrizajes y despegues procesados por ANAC en el año 2022",
+          "format": "CSV",
+          "updatedAt": "2023-12-05T14:28:48.556Z",
+          "description": "Aterrizajes y despegues procesados por la Administración Nacional de Aviación Civil (ANAC) en el año 2022",
+          "landingUrl": ""
+        },
+        {
+          "id": "1b4f569a-cab0-4560-993c-5bf96c3e7cf0",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/21038a1a-c3c7-4494-b76a-3a2a8fbb83b5/resource/1b4f569a-cab0-4560-993c-5bf96c3e7cf0/download/202112_informe_ministerio.csv",
+          "name": "Aterrizajes y despegues procesados por ANAC en el año 2021",
+          "format": "CSV",
+          "updatedAt": "2023-05-09T15:59:03.217Z",
+          "description": "Aterrizajes y despegues procesados por la Administración Nacional de Aviación Civil (ANAC) en el año 2021",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/21038a1a-c3c7-4494-b76a-3a2a8fbb83b5/resource/1b4f569a-cab0-4560-993c-5bf96c3e7cf0"
+        },
+        {
+          "id": "d0e75e7d-e416-470f-bedb-ef2a877cbae3",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/21038a1a-c3c7-4494-b76a-3a2a8fbb83b5/resource/d0e75e7d-e416-470f-bedb-ef2a877cbae3/download/2020_informe_ministerio.csv",
+          "name": "Aterrizajes y despegues procesados por ANAC en el año 2020",
+          "format": "CSV",
+          "updatedAt": "2023-05-02T16:34:13.634Z",
+          "description": "Aterrizajes y despegues procesados por la Administración Nacional de Aviación Civil en el año 2020",
+          "landingUrl": ""
+        },
+        {
+          "id": "aa8337de-3565-4ecf-9cd9-6f1c61f8f0ed",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/21038a1a-c3c7-4494-b76a-3a2a8fbb83b5/resource/aa8337de-3565-4ecf-9cd9-6f1c61f8f0ed/download/2019_informe_ministerio.csv",
+          "name": "Aterrizajes y despegues procesados por ANAC en el año 2019.",
+          "format": "CSV",
+          "updatedAt": "2023-05-02T16:28:46.494Z",
+          "description": "Aterrizajes y despegues procesados por la Administración Nacional de Aviación Civil en el año 2019.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-04-01T22:32:40.202Z",
+      "updatedAt": "2023-12-05T14:43:18.452Z",
+      "contact": {
+        "name": "ANAC (Administración Nacional de Aviación Civil)",
+        "email": "estadisticas.dnta@anac.gob.ar"
+      }
+    },
+    {
+      "id": "1d9fc51f-1462-4b26-907c-9f25f889f7a2",
+      "name": "boletos-vendidos",
+      "title": "Boletos Vendidos",
+      "keywords": [
+        "boletos",
+        "ferrocarril",
+        "transporte"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/boletos-vendidos",
+      "resources": [
+        {
+          "id": "b7ca5bcd-346c-4346-8007-40b77477374a",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/1d9fc51f-1462-4b26-907c-9f25f889f7a2/resource/b7ca5bcd-346c-4346-8007-40b77477374a/download/boletosvendidoscnrt.shp.geojson",
+          "name": "Boletos Vendidos",
+          "format": "GeoJSON",
+          "updatedAt": "2018-01-30T17:31:35.712Z",
+          "description": "Archivo \"GeoJSON\" de cantidad de boletos vendidos por estaciones de ferrocarril del AMBA. Fuente: CNRT. Año 2016.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/1d9fc51f-1462-4b26-907c-9f25f889f7a2/resource/b7ca5bcd-346c-4346-8007-40b77477374a"
+        },
+        {
+          "id": "3607ef04-a198-4f52-9094-89e4681fb9a6",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/1d9fc51f-1462-4b26-907c-9f25f889f7a2/resource/3607ef04-a198-4f52-9094-89e4681fb9a6/download/boletosvendidos.kml",
+          "name": "Boletos Vendidos",
+          "format": "KML",
+          "updatedAt": "2017-08-04T16:53:41.570Z",
+          "description": "Archivo \"KML\" de cantidad de boletos vendidos por estaciones de ferrocarril del AMBA. Fuente: CNRT. Año 2016.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/1d9fc51f-1462-4b26-907c-9f25f889f7a2/resource/3607ef04-a198-4f52-9094-89e4681fb9a6"
+        },
+        {
+          "id": "47a83e29-ed78-4895-9f2d-a550ac783270",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/1d9fc51f-1462-4b26-907c-9f25f889f7a2/resource/47a83e29-ed78-4895-9f2d-a550ac783270/download/boletos_vendidos.zip",
+          "name": "Boletos Vendidos",
+          "format": "ZIP",
+          "updatedAt": "2022-06-15T05:45:59.389Z",
+          "description": "Archivo \"Shape\" de cantidad de boletos vendidos por estaciones de ferrocarril del AMBA. Fuente: CNRT. Año 2016.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/1d9fc51f-1462-4b26-907c-9f25f889f7a2/resource/47a83e29-ed78-4895-9f2d-a550ac783270"
+        }
+      ],
+      "createdAt": "2022-04-01T16:47:59.291Z",
+      "updatedAt": "2022-06-15T05:45:59.399Z",
+      "contact": {
+        "name": "Dirección de Observatorio Nacional de Transporte",
+        "email": "dotes@transporte.gob.ar"
+      }
+    },
+    {
+      "id": "f694aab5-7995-466b-bb8f-315e2c85d176",
+      "name": "caminos-terciarios",
+      "title": "Caminos Terciarios",
+      "keywords": [
+        "caminos",
+        "terciarios",
+        "transporte"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/caminos-terciarios",
+      "resources": [
+        {
+          "id": "c5201d2b-a859-4a1a-8869-656ea9b50ead",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.1.7.red_vial_ign_ont_b_terc_view&maxFeatures=120000&outputFormat=application%2Fjson",
+          "name": "Caminos Terciarios",
+          "format": "GeoJSON",
+          "updatedAt": "2019-06-24T10:49:57.308Z",
+          "description": "Archivo \"GeoJSON\" de caminos terciarios. Fuente: Instituto Geográfico Nacional. Año: 2016.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f694aab5-7995-466b-bb8f-315e2c85d176/resource/c5201d2b-a859-4a1a-8869-656ea9b50ead"
+        },
+        {
+          "id": "81cd6b33-e723-449c-827d-d95b87b45d52",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.1.7.red_vial_ign_ont_b_terc_view&maxFeatures=120000&outputFormat=kml",
+          "name": "Caminos Terciarios",
+          "format": "KML",
+          "updatedAt": "2019-06-24T10:50:07.495Z",
+          "description": "Archivo \"KML\" de caminos terciarios. Fuente: Instituto Geográfico Nacional. Año: 2016.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f694aab5-7995-466b-bb8f-315e2c85d176/resource/81cd6b33-e723-449c-827d-d95b87b45d52"
+        },
+        {
+          "id": "803a93bc-9f21-499b-8b7c-43ea7b7c141c",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.1.7.red_vial_ign_ont_b_terc_view&maxFeatures=120000&outputFormat=shape-zip",
+          "name": "Caminos Terciarios",
+          "format": "ZIP",
+          "updatedAt": "2019-06-24T10:50:16.672Z",
+          "description": "Archivo \"Shape\" de caminos terciarios. Fuente: Instituto Geográfico Nacional. Año: 2016.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f694aab5-7995-466b-bb8f-315e2c85d176/resource/803a93bc-9f21-499b-8b7c-43ea7b7c141c"
+        }
+      ],
+      "createdAt": "2022-04-01T16:44:07.330Z",
+      "updatedAt": "2023-04-12T17:14:05.847Z",
+      "contact": {
+        "name": "Dirección de Observatorio Nacional de Transporte",
+        "email": "dotes@transporte.gob.ar"
+      }
+    },
+    {
+      "id": "76021864-2b2d-4e47-ab0e-b8f555cc5be5",
+      "name": "cantidad-de-carga-y-pasajeros",
+      "title": "Cantidad de carga y pasajeros",
+      "keywords": [
+        "aéreo",
+        "carga",
+        "pasajeros",
+        "transporte"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/cantidad-de-carga-y-pasajeros",
+      "resources": [
+        {
+          "id": "fd69aa1f-5ded-474d-9196-cabafe9ba077",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/76021864-2b2d-4e47-ab0e-b8f555cc5be5/resource/fd69aa1f-5ded-474d-9196-cabafe9ba077/download/pasajcarga2015.geojson",
+          "name": "Cantidad de carga y pasajeros",
+          "format": "GeoJSON",
+          "updatedAt": "2022-06-15T05:20:10.379Z",
+          "description": "Archivo \"GeoJSON\" de cantidades de carga y pasajeros transportados por aeropuerto. Fuente: Sig Planificación. Año 2015.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/76021864-2b2d-4e47-ab0e-b8f555cc5be5/resource/fd69aa1f-5ded-474d-9196-cabafe9ba077"
+        },
+        {
+          "id": "a98bf437-d2f2-4b54-9661-b21d73eba984",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/76021864-2b2d-4e47-ab0e-b8f555cc5be5/resource/a98bf437-d2f2-4b54-9661-b21d73eba984/download/cantpasajeros.kml",
+          "name": "Cantidad de Pasajeros",
+          "format": "KML",
+          "updatedAt": "2022-06-15T05:20:12.229Z",
+          "description": "Archivo \"KML\" de cantidad de pasajeros transportados por aeropuerto. Fuente: Sig Planificación. Año 2015.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/76021864-2b2d-4e47-ab0e-b8f555cc5be5/resource/a98bf437-d2f2-4b54-9661-b21d73eba984"
+        },
+        {
+          "id": "31483d41-474c-4181-8a12-3b659a9f2b3a",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/76021864-2b2d-4e47-ab0e-b8f555cc5be5/resource/31483d41-474c-4181-8a12-3b659a9f2b3a/download/cantcarga.kml",
+          "name": "Cantidad de Carga",
+          "format": "KML",
+          "updatedAt": "2022-06-15T05:20:14.196Z",
+          "description": "Archivo \"KML\" de cantidad de carga transportada por aeropuerto. Fuente: Sig Planificación. Año 2015.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/76021864-2b2d-4e47-ab0e-b8f555cc5be5/resource/31483d41-474c-4181-8a12-3b659a9f2b3a"
+        },
+        {
+          "id": "50df7116-c7f3-4276-89e6-5de671a1d2a3",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/76021864-2b2d-4e47-ab0e-b8f555cc5be5/resource/50df7116-c7f3-4276-89e6-5de671a1d2a3/download/pasajcarga2015.zip",
+          "name": "Cantidad de Carga y Pasajeros",
+          "format": "ZIP",
+          "updatedAt": "2022-06-15T05:20:15.694Z",
+          "description": "Archivo \"Shape\" de cantidades de carga y pasajeros transportados por aeropuerto. Fuente: Sig Planificación. Año 2015.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/76021864-2b2d-4e47-ab0e-b8f555cc5be5/resource/50df7116-c7f3-4276-89e6-5de671a1d2a3"
+        }
+      ],
+      "createdAt": "2022-03-30T22:34:21.817Z",
+      "updatedAt": "2023-04-12T17:35:53.741Z",
+      "contact": {
+        "name": "Dirección de Observatorio Nacional de Transporte",
+        "email": "dotes@transporte.gob.ar"
+      }
+    },
+    {
+      "id": "fe2dd079-ac25-476d-a9d8-ffa393c6c00f",
+      "name": "cosfer-modelo-de-estimacion-de-costos-ferroviariosdecarga",
+      "title": "COSFER (Modelo de Estimación de Costos Ferroviarios de Carga)",
+      "keywords": [],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/cosfer-modelo-de-estimacion-de-costos-ferroviariosdecarga",
+      "resources": [
+        {
+          "id": "bf9bee8c-6729-4098-aeae-0917aae161f5",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/fe2dd079-ac25-476d-a9d8-ffa393c6c00f/resource/bf9bee8c-6729-4098-aeae-0917aae161f5/download/cosfer-v3.2.xlsm",
+          "name": "COSFER (Modelo de Estimación de Costos Ferroviarios de Carga - Planilla de calculo",
+          "format": "XLSM",
+          "updatedAt": "2022-06-15T05:52:23.147Z",
+          "description": "Costos de Movilidad • Costos de Inversión en Infraestructura • Costos de Mantenimiento de la Infraestructura",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/fe2dd079-ac25-476d-a9d8-ffa393c6c00f/resource/bf9bee8c-6729-4098-aeae-0917aae161f5"
+        },
+        {
+          "id": "eae4526f-1942-47ff-9b3c-fb89ae30922d",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/fe2dd079-ac25-476d-a9d8-ffa393c6c00f/resource/eae4526f-1942-47ff-9b3c-fb89ae30922d/download/manual_metodologico_cosfer_v3.pdf",
+          "name": "COSFER (Modelo de Estimación de Costos Ferroviarios de Carga - Documentacion",
+          "format": "PDF",
+          "updatedAt": "2022-06-15T05:52:32.577Z",
+          "description": "Costos de Movilidad • Costos de Inversión en Infraestructura • Costos de Mantenimiento de la Infraestructura",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/fe2dd079-ac25-476d-a9d8-ffa393c6c00f/resource/eae4526f-1942-47ff-9b3c-fb89ae30922d"
+        }
+      ],
+      "createdAt": "2022-03-30T22:40:13.727Z",
+      "updatedAt": "2023-04-12T17:12:09.230Z",
+      "contact": {
+        "name": "Subsecretaria de planificación de transporte y de cargas",
+        "email": "dotes@transporte.gob.ar"
+      }
+    },
+    {
+      "id": "1c8c3a4b-ecdc-4e3d-9771-a3bf0a11e546",
+      "name": "covid-19",
+      "title": "COVID-19",
+      "keywords": [
+        "covid-19",
+        "transparencia",
+        "transporte general"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/covid-19",
+      "resources": [
+        {
+          "id": "62fc3d63-e182-4008-9bcd-dc00375853ca",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/1c8c3a4b-ecdc-4e3d-9771-a3bf0a11e546/resource/62fc3d63-e182-4008-9bcd-dc00375853ca/download/compras_covid-mayo_2021.xlsx",
+          "name": "Compras y contrataciones COVID-19",
+          "format": "XLSX",
+          "updatedAt": "2022-04-01T20:18:40.029Z",
+          "description": "Detalle de compras y contrataciones tramitadas por el Ministerio de Transporte de la Nación en el marco de la pandemia COVID-19.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/1c8c3a4b-ecdc-4e3d-9771-a3bf0a11e546/resource/62fc3d63-e182-4008-9bcd-dc00375853ca"
+        }
+      ],
+      "createdAt": "2022-04-01T20:18:01.747Z",
+      "updatedAt": "2022-06-15T05:19:43.382Z",
+      "contact": {
+        "name": "Ministerio de Transporte",
+        "email": ""
+      }
+    },
+    {
+      "id": "c77e356a-e197-4b1d-8bdf-43e270765c73",
+      "name": "cruces-ferroviarios",
+      "title": "Cruces Ferroviarios",
+      "keywords": [
+        "cruces ferroviarios",
+        "ferrocarril",
+        "rutas",
+        "transporte"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/cruces-ferroviarios",
+      "resources": [
+        {
+          "id": "135e7308-be5f-4152-94d3-65e03005fdd1",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.1.1.5.cruces_fc_sigvial_a_view&maxFeatures=500&outputFormat=shape-zip",
+          "name": "Cruces Ferroviarios",
+          "format": "ZIP",
+          "updatedAt": "2019-06-24T10:48:36.217Z",
+          "description": "Archivo \"Shape\" de cruces ferroviarios y rutas nacionales. Fuente: Dirección Nacional de Vialidad. Año 2016",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/c77e356a-e197-4b1d-8bdf-43e270765c73/resource/135e7308-be5f-4152-94d3-65e03005fdd1"
+        },
+        {
+          "id": "bfbb0418-ac31-464b-90ce-30a68d159001",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.1.1.5.cruces_fc_sigvial_a_view&maxFeatures=500&outputFormat=application%2Fjson",
+          "name": "Cruces Ferroviarios",
+          "format": "GeoJSON",
+          "updatedAt": "2019-06-24T10:48:47.562Z",
+          "description": "Archivo \"GeoJSON\" de cruces ferroviarios y rutas nacionales. Fuente: Dirección Nacional de Vialidad. Año 2016.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/c77e356a-e197-4b1d-8bdf-43e270765c73/resource/bfbb0418-ac31-464b-90ce-30a68d159001"
+        },
+        {
+          "id": "7f311d77-c3f1-4535-9d60-8a85c434b74e",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.1.1.5.cruces_fc_sigvial_a_view&maxFeatures=500&outputFormat=kml",
+          "name": "Cruces ferroviarios",
+          "format": "KML",
+          "updatedAt": "2019-06-24T10:48:59.540Z",
+          "description": "Archivo \"KML\" de cruces ferroviarios y rutas nacionales. Fuente: Dirección Nacional de Vialidad. Año 2016.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/c77e356a-e197-4b1d-8bdf-43e270765c73/resource/7f311d77-c3f1-4535-9d60-8a85c434b74e"
+        }
+      ],
+      "createdAt": "2022-04-01T16:44:12.535Z",
+      "updatedAt": "2023-04-12T17:00:59.827Z",
+      "contact": {
+        "name": "Dirección de Observatorio Nacional de Transporte",
+        "email": "dotes@transporte.gob.ar"
+      }
+    },
+    {
+      "id": "dea46e9c-a8e6-42df-af3d-683edd440792",
+      "name": "detalle-de-entrada-y-salida-de-buques-y-pasajeros-transportados",
+      "title": "Detalle de entrada y salida de buques y pasajeros transportados",
+      "keywords": [],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/detalle-de-entrada-y-salida-de-buques-y-pasajeros-transportados",
+      "resources": [
+        {
+          "id": "9a6e5c2c-417a-4f5d-8cf1-b82fd08d2de9",
+          "downloadUrl": "https://archivos-datos.transporte.gob.ar/upload/Puertos/buques-pasajeros-2021.csv",
+          "name": "Detalle de entrada y salida de buques y pasajeros transportados en 2021",
+          "format": "CSV",
+          "updatedAt": "2022-04-01T22:08:07.712Z",
+          "description": "Detalle de entrada y salida de buques y pasajeros transportados en el año 2021",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/dea46e9c-a8e6-42df-af3d-683edd440792/resource/9a6e5c2c-417a-4f5d-8cf1-b82fd08d2de9"
+        },
+        {
+          "id": "d984e9dc-486c-48e7-a03c-79cc4d3aff45",
+          "downloadUrl": "https://archivos-datos.transporte.gob.ar/upload/Puertos/buques-pasajeros-2020.csv",
+          "name": "Detalle de entrada y salida de buques y pasajeros transportados en 2020",
+          "format": "CSV",
+          "updatedAt": "2022-04-01T22:09:27.294Z",
+          "description": "Detalle de entrada y salida de buques y pasajeros transportados en el año 2020",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/dea46e9c-a8e6-42df-af3d-683edd440792/resource/d984e9dc-486c-48e7-a03c-79cc4d3aff45"
+        },
+        {
+          "id": "c5b139df-e863-4dc7-b134-22bb3f1517b4",
+          "downloadUrl": "https://archivos-datos.transporte.gob.ar/upload/Puertos/buques-pasajeros-2019.csv",
+          "name": "Detalle de entrada y salida de buques y pasajeros transportados en el año 2019",
+          "format": "CSV",
+          "updatedAt": "2022-04-01T22:10:13.426Z",
+          "description": "Detalle de entrada y salida de buques y pasajeros transportados en el año 2019",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/dea46e9c-a8e6-42df-af3d-683edd440792/resource/c5b139df-e863-4dc7-b134-22bb3f1517b4"
+        },
+        {
+          "id": "cbcdf30d-5c74-45d5-85ac-f50697a1e723",
+          "downloadUrl": "https://archivos-datos.transporte.gob.ar/upload/Puertos/buques-pasajeros-2018.csv",
+          "name": "Detalle de entrada y salida de buques y pasajeros transportados en el año 2018",
+          "format": "CSV",
+          "updatedAt": "2022-04-01T22:11:35.912Z",
+          "description": "Detalle de entrada y salida de buques y pasajeros transportados en el año 2018",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/dea46e9c-a8e6-42df-af3d-683edd440792/resource/cbcdf30d-5c74-45d5-85ac-f50697a1e723"
+        },
+        {
+          "id": "e72653c8-58b0-4de6-9f73-8da024c60047",
+          "downloadUrl": "https://archivos-datos.transporte.gob.ar/upload/Puertos/buques-pasajeros-2017.csv",
+          "name": "Detalle de entrada y salida de buques y pasajeros transportados en el año 2017",
+          "format": "CSV",
+          "updatedAt": "2022-04-01T22:12:47.681Z",
+          "description": "Detalle de entrada y salida de buques y pasajeros transportados en el año 2017",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/dea46e9c-a8e6-42df-af3d-683edd440792/resource/e72653c8-58b0-4de6-9f73-8da024c60047"
+        },
+        {
+          "id": "4e08de32-e8e1-43ca-9ea2-351026df3afb",
+          "downloadUrl": "https://archivos-datos.transporte.gob.ar/upload/Puertos/buques-pasajeros-2016.csv",
+          "name": "Detalle de entrada y salida de buques y pasajeros transportados en el año 2016",
+          "format": "CSV",
+          "updatedAt": "2022-04-01T22:13:21.110Z",
+          "description": "Detalle de entrada y salida de buques y pasajeros transportados en el año 2016",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/dea46e9c-a8e6-42df-af3d-683edd440792/resource/4e08de32-e8e1-43ca-9ea2-351026df3afb"
+        }
+      ],
+      "createdAt": "2022-03-30T22:47:17.925Z",
+      "updatedAt": "2023-04-12T17:07:06.174Z",
+      "contact": {
+        "name": "Puerto Buenos Aires (AGP)",
+        "email": ""
+      }
+    },
+    {
+      "id": "3b806afd-7f32-4092-a9b4-d35b6582d50f",
+      "name": "empresas-de-transporte",
+      "title": "Empresas de transporte urbano de pasajeros de Región Metropolitana de Buenos Aires - SUBE",
+      "keywords": [
+        "sube",
+        "transporte"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/empresas-de-transporte",
+      "resources": [
+        {
+          "id": "86fd247e-f90a-4628-8679-8ae98cfaa839",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/3b806afd-7f32-4092-a9b4-d35b6582d50f/resource/86fd247e-f90a-4628-8679-8ae98cfaa839/download/empresas-de-transporte.csv",
+          "name": "Empresas de Transporte",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:37:06.799Z",
+          "description": "Empresas de transporte de la RMBA: trenes, subtes, pre metro y colectivos",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/3b806afd-7f32-4092-a9b4-d35b6582d50f/resource/86fd247e-f90a-4628-8679-8ae98cfaa839"
+        },
+        {
+          "id": "334783ca-1768-4875-a723-276749ac76ec",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/3b806afd-7f32-4092-a9b4-d35b6582d50f/resource/334783ca-1768-4875-a723-276749ac76ec/download/empresas-de-transporte.xlsx",
+          "name": "Empresas de Transporte",
+          "format": "XLSX",
+          "updatedAt": "2022-06-15T05:37:12.823Z",
+          "description": "Empresas de transporte de la RMBA: trenes, subtes, pre metro y colectivos",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/3b806afd-7f32-4092-a9b4-d35b6582d50f/resource/334783ca-1768-4875-a723-276749ac76ec"
+        },
+        {
+          "id": "2968dddb-fb99-4643-be64-8c86200a4d1f",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/3b806afd-7f32-4092-a9b4-d35b6582d50f/resource/2968dddb-fb99-4643-be64-8c86200a4d1f/download/sube-rmba-_-empresas-de-transporte-diccionario-de-datos.xlsx",
+          "name": "Empresas de transporte - Diccionario de datos",
+          "format": "XLSX",
+          "updatedAt": "2022-06-15T05:37:14.732Z",
+          "description": "Descripción de los campos de este recurso",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/3b806afd-7f32-4092-a9b4-d35b6582d50f/resource/2968dddb-fb99-4643-be64-8c86200a4d1f"
+        }
+      ],
+      "createdAt": "2022-04-01T16:38:55.254Z",
+      "updatedAt": "2023-04-12T17:25:03.208Z",
+      "contact": {
+        "name": "Dirección de Observatorio, Estudio y Sistemas – Ministerio de Transporte",
+        "email": "observatorio@transporte.gob.ar"
+      }
+    },
+    {
+      "id": "9ce15416-d668-4fcf-b0ae-686484137e24",
+      "name": "empresas-de-transporte-de-rmba",
+      "title": "Empresas de transporte de RMBA",
+      "keywords": [
+        "transporte general"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/empresas-de-transporte-de-rmba",
+      "resources": [
+        {
+          "id": "739bb2bf-e1da-42c3-b080-037ec4c525d0",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/9ce15416-d668-4fcf-b0ae-686484137e24/resource/739bb2bf-e1da-42c3-b080-037ec4c525d0/download/empresas_municipal.csv",
+          "name": "Empresas de transporte que operan Jurisdicción Municipal",
+          "format": "CSV",
+          "updatedAt": "2022-04-07T15:20:31.396Z",
+          "description": "Detalle de empresas de transporte que operan Jurisdicción Municipal",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/9ce15416-d668-4fcf-b0ae-686484137e24/resource/739bb2bf-e1da-42c3-b080-037ec4c525d0"
+        },
+        {
+          "id": "cb4ef948-7a47-47b7-8469-bdfd667b7d56",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/9ce15416-d668-4fcf-b0ae-686484137e24/resource/cb4ef948-7a47-47b7-8469-bdfd667b7d56/download/empresas_nacional.csv",
+          "name": "Empresas de transporte que operan Jurisdicción Nacional",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:16:00.861Z",
+          "description": "Detalle de empresas de transporte que operan Jurisdicción Nacional",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/9ce15416-d668-4fcf-b0ae-686484137e24/resource/cb4ef948-7a47-47b7-8469-bdfd667b7d56"
+        },
+        {
+          "id": "bef447de-ebc5-4d72-9693-35df704ce2aa",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/9ce15416-d668-4fcf-b0ae-686484137e24/resource/bef447de-ebc5-4d72-9693-35df704ce2aa/download/empresas_provincial.csv",
+          "name": "Empresas de transporte que operan Jurisdicción Provincial",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:16:03.486Z",
+          "description": "Detalle de empresas de transporte que operan Jurisdicción Provincial",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/9ce15416-d668-4fcf-b0ae-686484137e24/resource/bef447de-ebc5-4d72-9693-35df704ce2aa"
+        }
+      ],
+      "createdAt": "2022-04-07T15:18:49.171Z",
+      "updatedAt": "2023-04-12T17:45:20.166Z",
+      "contact": {
+        "name": "Ministerio de Tansporte",
+        "email": ""
+      }
+    },
+    {
+      "id": "0f940789-26f4-4ad5-8a7b-43337d8bbf27",
+      "name": "estaciones-de-trenes-y-servicios-activos-a-2022",
+      "title": "Estaciones de Trenes y Servicios activos a 2022",
+      "keywords": [
+        "colectivos y trenes",
+        "estaciones",
+        "lineas",
+        "trenes"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/estaciones-de-trenes-y-servicios-activos-a-2022",
+      "resources": [
+        {
+          "id": "58d7d28e-30b4-4093-8ed0-2c81857b6007",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/0f940789-26f4-4ad5-8a7b-43337d8bbf27/resource/58d7d28e-30b4-4093-8ed0-2c81857b6007/download/red_adifse_22.geojson",
+          "name": "Servicios activos año 2022",
+          "format": "GeoJSON",
+          "updatedAt": "2022-12-26T22:33:43.341Z",
+          "description": "Líneas activas al año 2022.",
+          "landingUrl": ""
+        },
+        {
+          "id": "cb5b7c0a-3161-4dc5-a329-248f72bae440",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/idera/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=idera:Estacion_ffcc_serv_22.view&maxFeatures=927&outputFormat=csv",
+          "name": "Estaciones FFCC 2022",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Archivo \"csv\" de estaciones de trenes activas al año 2022.",
+          "landingUrl": ""
+        },
+        {
+          "id": "2eef8e29-60c7-48c9-9eeb-3dec77ce0d00",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/idera/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=idera:Estacion_ffcc_serv_22.view&maxFeatures=927&outputFormat=shape-zip",
+          "name": "Estaciones FFCC 2022",
+          "format": "ZIP",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Archivo \"Shape\" de estaciones de trenes activas al año 2022.",
+          "landingUrl": ""
+        },
+        {
+          "id": "a91bfc0e-528a-4306-85d9-a3c584ea37c4",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/idera/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=idera:Estacion_ffcc_serv_22.view&maxFeatures=927&outputFormat=json",
+          "name": "Estaciones FFCC 2022",
+          "format": "JSON",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Archivo \"JSON\" de estaciones de trenes activas al año 2022.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-12-26T22:25:42.594Z",
+      "updatedAt": "2023-03-27T17:15:12.924Z",
+      "contact": {
+        "name": "ADIFSE, SOFSE",
+        "email": ""
+      }
+    },
+    {
+      "id": "95730d49-4dd2-4542-899f-c8aa968051ee",
+      "name": "informe-matriz-origen-destino-vial-de-transporte-de-cargas",
+      "title": "Informe Matriz Origen-Destino vial de Transporte de Cargas",
+      "keywords": [
+        "cargas"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/informe-matriz-origen-destino-vial-de-transporte-de-cargas",
+      "resources": [
+        {
+          "id": "b15197db-8b7e-4b78-87f7-1fdaeba470dd",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/95730d49-4dd2-4542-899f-c8aa968051ee/resource/b15197db-8b7e-4b78-87f7-1fdaeba470dd/download/01.-matrices-origen-destino-2014.pdf",
+          "name": "Matriz OD vial transporte de cargas",
+          "format": "PDF",
+          "updatedAt": "2022-06-15T05:55:16.096Z",
+          "description": "Matriz OD vial transporte de cargas",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/95730d49-4dd2-4542-899f-c8aa968051ee/resource/b15197db-8b7e-4b78-87f7-1fdaeba470dd"
+        },
+        {
+          "id": "9eb694e4-61a3-4e7b-8cdb-b0fdf661e85a",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/95730d49-4dd2-4542-899f-c8aa968051ee/resource/9eb694e4-61a3-4e7b-8cdb-b0fdf661e85a/download/matrices-od-2014-tablas-de-datos.zip",
+          "name": "Matrices OD 2014 - Tablas de datos",
+          "format": "XLS",
+          "updatedAt": "2022-06-15T05:55:30.070Z",
+          "description": "Archivos varios de tablas de datos de estudio Matriz OD 2017",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/95730d49-4dd2-4542-899f-c8aa968051ee/resource/9eb694e4-61a3-4e7b-8cdb-b0fdf661e85a"
+        },
+        {
+          "id": "b7bf924a-c841-4c69-b8ac-a74e0ca4070a",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/95730d49-4dd2-4542-899f-c8aa968051ee/resource/b7bf924a-c841-4c69-b8ac-a74e0ca4070a/download/matrices-od-2014-imagenes-de-mapas.zip",
+          "name": "Matrices OD 2014 - Imagenes de Mapas",
+          "format": "ZIP",
+          "updatedAt": "2022-06-15T05:55:48.281Z",
+          "description": ".-",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/95730d49-4dd2-4542-899f-c8aa968051ee/resource/b7bf924a-c841-4c69-b8ac-a74e0ca4070a"
+        },
+        {
+          "id": "fbb3859a-8a3a-4ceb-a209-4cefb2ec8df5",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/95730d49-4dd2-4542-899f-c8aa968051ee/resource/fbb3859a-8a3a-4ceb-a209-4cefb2ec8df5/download/matrices-od-2014-imagenes-de-mapas-lineas-de-deseo.zip",
+          "name": "Matrices OD 2014 - Imagenes de Mapas - Lineas de deseo",
+          "format": "ZIP",
+          "updatedAt": "2022-06-15T05:56:04.470Z",
+          "description": ".-",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/95730d49-4dd2-4542-899f-c8aa968051ee/resource/fbb3859a-8a3a-4ceb-a209-4cefb2ec8df5"
+        }
+      ],
+      "createdAt": "2022-03-30T22:41:21.959Z",
+      "updatedAt": "2023-04-12T17:10:55.475Z",
+      "contact": {
+        "name": "Subsecretaría de Planificación de Transporte de Cargas y Logística",
+        "email": "dotes@transporte.gob.ar"
+      }
+    },
+    {
+      "id": "c157c1b3-0f7e-4c6d-b2da-29514fa0c950",
+      "name": "lineas-de-transporte",
+      "title": "Lineas y Empresas de transporte urbano de pasajeros de Región Metropolitana de Buenos Aires - SUBE",
+      "keywords": [
+        "sube",
+        "transporte"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/lineas-de-transporte",
+      "resources": [
+        {
+          "id": "ae0b14bb-9e69-4e75-8c1c-469777f21fd4",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/c157c1b3-0f7e-4c6d-b2da-29514fa0c950/resource/ae0b14bb-9e69-4e75-8c1c-469777f21fd4/download/lineas-de-transporte.xlsx",
+          "name": "Lineas de Transporte",
+          "format": "XLSX",
+          "updatedAt": "2022-06-15T05:34:55.021Z",
+          "description": "Empresas y Líneas de transporte de la RMBA: trenes, subtes, pre metro y colectivos",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/c157c1b3-0f7e-4c6d-b2da-29514fa0c950/resource/ae0b14bb-9e69-4e75-8c1c-469777f21fd4"
+        },
+        {
+          "id": "e49d68c3-654f-4f1d-9d89-1c9460e57243",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/c157c1b3-0f7e-4c6d-b2da-29514fa0c950/resource/e49d68c3-654f-4f1d-9d89-1c9460e57243/download/sube-rmba-_-empresas-lineas-de-transporte-diccionario-de-datos.xlsx",
+          "name": "Empresas - Lineas de transporte - Diccionario de datos",
+          "format": "XLSX",
+          "updatedAt": "2022-06-15T05:34:57.101Z",
+          "description": "Descripción de los campos de este recurso",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/c157c1b3-0f7e-4c6d-b2da-29514fa0c950/resource/e49d68c3-654f-4f1d-9d89-1c9460e57243"
+        },
+        {
+          "id": "4b52a836-d565-4463-a837-31129f8bf7c7",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/c157c1b3-0f7e-4c6d-b2da-29514fa0c950/resource/4b52a836-d565-4463-a837-31129f8bf7c7/download/lineas-de-transporte.csv",
+          "name": "Lineas de Transporte",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:35:03.342Z",
+          "description": "Empresas y Líneas de transporte de la RMBA: trenes, subtes, pre metro y colectivos",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/c157c1b3-0f7e-4c6d-b2da-29514fa0c950/resource/4b52a836-d565-4463-a837-31129f8bf7c7"
+        }
+      ],
+      "createdAt": "2022-04-01T16:40:06.400Z",
+      "updatedAt": "2023-04-12T17:31:45.264Z",
+      "contact": {
+        "name": "Dirección de Observatorio, Estudio y Sistemas – Ministerio de Transporte",
+        "email": "observatorio@transporte.gob.ar"
+      }
+    },
+    {
+      "id": "e415ef29-5b24-447b-a5f4-963b60cba918",
+      "name": "lineas-de-transporte-de-rmba",
+      "title": "Líneas de transporte de RMBA",
+      "keywords": [
+        "rmba",
+        "transporte general"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/lineas-de-transporte-de-rmba",
+      "resources": [
+        {
+          "id": "a095d8de-60c9-42d4-82e9-9b33b81ee6f0",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/e415ef29-5b24-447b-a5f4-963b60cba918/resource/a095d8de-60c9-42d4-82e9-9b33b81ee6f0/download/lineas_municipal.csv",
+          "name": "Empresas de transporte que operan por Jurisdicción Municipal",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:17:54.121Z",
+          "description": "Detalle de empresas de transporte que operan por Jurisdicción Municipal",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/e415ef29-5b24-447b-a5f4-963b60cba918/resource/a095d8de-60c9-42d4-82e9-9b33b81ee6f0"
+        },
+        {
+          "id": "82753dc7-c4e5-4743-a7b9-39fe7dd1cc7a",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/e415ef29-5b24-447b-a5f4-963b60cba918/resource/82753dc7-c4e5-4743-a7b9-39fe7dd1cc7a/download/lineas_provincial.csv",
+          "name": "Empresas de transporte que operan por Jurisdicción Provincial",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:17:57.201Z",
+          "description": "Detalle de empresas de transporte que operan por Jurisdicción Provincial",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/e415ef29-5b24-447b-a5f4-963b60cba918/resource/82753dc7-c4e5-4743-a7b9-39fe7dd1cc7a"
+        },
+        {
+          "id": "a1a66baf-c84c-4026-abb0-0858b3330b58",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/e415ef29-5b24-447b-a5f4-963b60cba918/resource/a1a66baf-c84c-4026-abb0-0858b3330b58/download/lineas_nacional.csv",
+          "name": "Líneas de transporte que operan por Jurisdicción Nacional",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:18:00.436Z",
+          "description": "Detalle de líneas de transporte que operan por Jurisdicción Nacional",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/e415ef29-5b24-447b-a5f4-963b60cba918/resource/a1a66baf-c84c-4026-abb0-0858b3330b58"
+        }
+      ],
+      "createdAt": "2022-04-05T21:56:58.229Z",
+      "updatedAt": "2023-04-12T17:43:15.145Z",
+      "contact": {
+        "name": "Ministerio de transporte",
+        "email": ""
+      }
+    },
+    {
+      "id": "62b3fe5f-ffe6-4d8f-9d59-bfabe75d1ee8",
+      "name": "lista-aeropuertos",
+      "title": "Lista de Aeropuertos",
+      "keywords": [
+        "transporte aéreo"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/lista-aeropuertos",
+      "resources": [
+        {
+          "id": "eb54e49e-9a5a-4614-91f4-526c650d0105",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/62b3fe5f-ffe6-4d8f-9d59-bfabe75d1ee8/resource/eb54e49e-9a5a-4614-91f4-526c650d0105/download/aeropuertos_detalle.csv",
+          "name": "Detalle de aeródromos y helipuertos",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:19:26.754Z",
+          "description": "Detalle de aeródromos, aeródromos pertenecientes al Sistema nacional de Aeropuertos (SNA) y helipuertos.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/62b3fe5f-ffe6-4d8f-9d59-bfabe75d1ee8/resource/eb54e49e-9a5a-4614-91f4-526c650d0105"
+        }
+      ],
+      "createdAt": "2022-04-05T16:29:56.291Z",
+      "updatedAt": "2023-04-12T17:39:52.915Z",
+      "contact": {
+        "name": "Ministerio de Transporte",
+        "email": ""
+      }
+    },
+    {
+      "id": "3869ea48-0c3f-4f17-b46b-5919e1815f30",
+      "name": "matriz-od-vial-cargas",
+      "title": "Matriz Origen-Destino vial de Transporte de Cargas - años 2012, 2014, 2016 y 2018",
+      "keywords": [
+        "cargas"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/matriz-od-vial-cargas",
+      "resources": [
+        {
+          "id": "64f57f51-08a7-4c87-9a86-4659cf4b37ff",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/idera/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=idera:Carga%20transportada%20grupo%20carnes%202018&maxFeatures=50&outputFormat=shape-zip",
+          "name": "Carga transportada grupo carnes 2018",
+          "format": "SHP",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Carga transportada grupo carnes 2018 (Flujo en camiones)",
+          "landingUrl": ""
+        },
+        {
+          "id": "8d9324c3-5167-4f7f-8e86-ba2368e858b8",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/idera/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=idera:Carga%20transportada%20grupo%20%20ganado%20en%20pie2018&maxFeatures=50&outputFormat=shape-zip",
+          "name": "Carga transportada grupo ganado en pie 2018",
+          "format": "SHP",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Carga transportada grupo ganado en pie 2018  (Flujo en camiones).",
+          "landingUrl": ""
+        },
+        {
+          "id": "26a5c636-2741-4b73-8e69-719880b92521",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/idera/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=idera:Carga%20transportada%20grupo%20combustibles%202018&maxFeatures=50&outputFormat=shape-zip",
+          "name": "Carga transportada grupo combustibles 2018",
+          "format": "SHP",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Carga transportada grupo combustibles 2018 (Flujo en camiones)",
+          "landingUrl": ""
+        },
+        {
+          "id": "f7615ded-8626-4237-9d58-6cd007ad56fa",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/idera/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=idera:Carga%20transportada%20grupo%20granos%202018&maxFeatures=50&outputFormat=shape-zip",
+          "name": "Carga transportada grupo granos 2018",
+          "format": "SHP",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Carga transportada grupo granos 2018 (Flujo en camiones)",
+          "landingUrl": ""
+        },
+        {
+          "id": "03c335f2-a35c-44ed-9294-300e65d52c6f",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/idera/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=idera:Carga%20transportada%20grupo%20industrializados%202018&maxFeatures=50&outputFormat=shape-zip",
+          "name": "Carga transportada grupo industrializados 2018",
+          "format": "SHP",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Carga transportada grupo industrializados 2018 (Flijo en camiones)",
+          "landingUrl": ""
+        },
+        {
+          "id": "b883c189-be23-4888-b0a1-73896248ac26",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/idera/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=idera:Carga%20transportada%20grupo%20mineria%202018&maxFeatures=50&outputFormat=shape-zip",
+          "name": "Carga transportada grupo mineria 2018",
+          "format": "SHP",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Carga transportada grupo mineria 2018 (Flujo en camiones)",
+          "landingUrl": ""
+        },
+        {
+          "id": "763645a8-1380-4e21-af72-96ad02dd1ebe",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/idera/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=idera:Carga%20transportada%20grupo%20regionales%202018&maxFeatures=50&outputFormat=shape-zip",
+          "name": "Carga transportada grupo regionales 2018",
+          "format": "SHP",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Carga transportada grupo regionales 2018 (Flujo en camiones)",
+          "landingUrl": ""
+        },
+        {
+          "id": "f6534b1d-119e-4403-bfe6-849c5eaa17a1",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/idera/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=idera:Carga%20transportada%20semiterminados%202018&maxFeatures=50&outputFormat=shape-zip",
+          "name": "Carga transportada semiterminados 2018",
+          "format": "SHP",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Carga transportada semiterminados 2018 (Flujo en camiones)",
+          "landingUrl": ""
+        },
+        {
+          "id": "72b37de6-a1cb-4914-9f6b-033202c2fec7",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/idera/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=idera:Carga%20transportada%20total%202018&maxFeatures=50&outputFormat=shape-zip",
+          "name": "Carga transportada total 2018",
+          "format": "SHP",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Carga transportada total 2018 (Flujo en camiones)",
+          "landingUrl": ""
+        },
+        {
+          "id": "6457df85-bf46-40dc-8fea-c8904608fb5e",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/3869ea48-0c3f-4f17-b46b-5919e1815f30/resource/6457df85-bf46-40dc-8fea-c8904608fb5e/download/informe_metodologico_matrices_origen_y_destino_de_cargas_2018_final.pdf",
+          "name": "Informe Metodológico Matriz Origen Destino - 2018",
+          "format": "PDF",
+          "updatedAt": "2023-09-11T20:18:53.754Z",
+          "description": "Informe Metodológico Matriz Origen Destino - 2018",
+          "landingUrl": ""
+        },
+        {
+          "id": "202252ea-8741-4e0d-9981-3026ab611a99",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/3869ea48-0c3f-4f17-b46b-5919e1815f30/resource/202252ea-8741-4e0d-9981-3026ab611a99/download/mtx-2018.zip",
+          "name": "Matriz Origen-Destino vial de Transporte de Cargas actualización al año 2018",
+          "format": "ZIP",
+          "updatedAt": "2023-09-27T20:27:09.018Z",
+          "description": "Matriz Origen-Destino vial de Transporte de Cargas actualización al año 2018",
+          "landingUrl": ""
+        },
+        {
+          "id": "e8089792-b609-4c7b-9fd4-d6c9fda8ead2",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/3869ea48-0c3f-4f17-b46b-5919e1815f30/resource/e8089792-b609-4c7b-9fd4-d6c9fda8ead2/download/2016.zip",
+          "name": "Matriz Origen-Destino vial de Transporte de Cargas actualización al año 2016",
+          "format": "ZIP",
+          "updatedAt": "2023-09-11T20:50:01.422Z",
+          "description": "Matriz Origen-Destino vial de Transporte de Cargas actualización al año 2016",
+          "landingUrl": ""
+        },
+        {
+          "id": "9cc2160e-55e1-441f-a000-c5a0ce3b06f0",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/3869ea48-0c3f-4f17-b46b-5919e1815f30/resource/9cc2160e-55e1-441f-a000-c5a0ce3b06f0/download/2014.zip",
+          "name": "Matriz Origen-Destino vial de Transporte de Cargas actualización al año 2014",
+          "format": "ZIP",
+          "updatedAt": "2023-09-12T14:36:38.698Z",
+          "description": "Matriz Origen-Destino vial de Transporte de Cargas actualización al año 2014",
+          "landingUrl": ""
+        },
+        {
+          "id": "6d0052f6-c1a9-4076-9608-9dd8605bde49",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/3869ea48-0c3f-4f17-b46b-5919e1815f30/resource/6d0052f6-c1a9-4076-9608-9dd8605bde49/download/2012.zip",
+          "name": "Matriz Origen-Destino vial de Transporte de Cargas actualización al año 2012",
+          "format": "ZIP",
+          "updatedAt": "2023-09-12T14:37:43.969Z",
+          "description": "Matriz Origen-Destino vial de Transporte de Cargas actualización al año 2012",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-08-08T14:32:42.094Z",
+      "updatedAt": "2023-09-27T20:28:37.992Z",
+      "contact": {
+        "name": "Subsecretaría de Planificación de Transporte de Cargas y Logística",
+        "email": ""
+      }
+    },
+    {
+      "id": "0b6eb157-3ed6-4fa7-ac77-3e20444444c6",
+      "name": "operaciones-de-sube-por-ano-en-rmba",
+      "title": "Operaciones de SUBE por año en RMBA",
+      "keywords": [
+        "movilidad urbana",
+        "rmba",
+        "subte",
+        "transporte general"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/operaciones-de-sube-por-ano-en-rmba",
+      "resources": [
+        {
+          "id": "18b684cb-ba53-44db-8d1d-e14411af7495",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/0b6eb157-3ed6-4fa7-ac77-3e20444444c6/resource/18b684cb-ba53-44db-8d1d-e14411af7495/download/cancelaciones_ano_linea.csv",
+          "name": "Cantidad de operaciones de viajes por año (detalle de línea).",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:19:08.746Z",
+          "description": "Detalle de línea y cantidad de operaciones de viajes por año.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/0b6eb157-3ed6-4fa7-ac77-3e20444444c6/resource/18b684cb-ba53-44db-8d1d-e14411af7495"
+        },
+        {
+          "id": "39e9f3c1-6060-4110-8945-2581f53d8a9f",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/0b6eb157-3ed6-4fa7-ac77-3e20444444c6/resource/39e9f3c1-6060-4110-8945-2581f53d8a9f/download/cancelaciones_ano_tipo.csv",
+          "name": "Cantidad de operaciones de viajes por año (detalle de línea y tipo de pasaje)",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:19:11.206Z",
+          "description": "Detalle de línea, tipo de pasaje y cantidad de operaciones de viajes por año (NORMAL-ATRIBUTO SOCIAL).",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/0b6eb157-3ed6-4fa7-ac77-3e20444444c6/resource/39e9f3c1-6060-4110-8945-2581f53d8a9f"
+        },
+        {
+          "id": "79b21df4-6473-4313-89aa-33c4174c40f5",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/0b6eb157-3ed6-4fa7-ac77-3e20444444c6/resource/79b21df4-6473-4313-89aa-33c4174c40f5/download/cancelaciones_ano_empresa.csv",
+          "name": "Cantidad de operaciones de viajes por año (detalle por empresa).",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:19:13.073Z",
+          "description": "Detalle por empresa y cantidad de operaciones de viajes por año.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/0b6eb157-3ed6-4fa7-ac77-3e20444444c6/resource/79b21df4-6473-4313-89aa-33c4174c40f5"
+        },
+        {
+          "id": "8258c930-f011-4535-a4f9-651d1e2cae13",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/0b6eb157-3ed6-4fa7-ac77-3e20444444c6/resource/8258c930-f011-4535-a4f9-651d1e2cae13/download/cancelaciones_ano_modo.csv",
+          "name": "Cantidad de operaciones de viajes por año (detalle por modo).",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:19:15.779Z",
+          "description": "Detalle por modo y cantidad de operaciones de viajes por año.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/0b6eb157-3ed6-4fa7-ac77-3e20444444c6/resource/8258c930-f011-4535-a4f9-651d1e2cae13"
+        }
+      ],
+      "createdAt": "2022-04-05T16:52:43.194Z",
+      "updatedAt": "2023-04-12T17:40:44.363Z",
+      "contact": {
+        "name": "Ministerio de Transporte",
+        "email": ""
+      }
+    },
+    {
+      "id": "880e663e-eb1d-47ec-aab9-23f3df6c49e8",
+      "name": "operaciones-de-sube-por-mes-en-rmba",
+      "title": "Operaciones de SUBE por mes en RMBA",
+      "keywords": [
+        "movilidad urbana",
+        "rmba",
+        "sube",
+        "transporte general"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/operaciones-de-sube-por-mes-en-rmba",
+      "resources": [
+        {
+          "id": "446b61e0-71d3-40c0-b2dd-cb44b0c391ad",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/880e663e-eb1d-47ec-aab9-23f3df6c49e8/resource/446b61e0-71d3-40c0-b2dd-cb44b0c391ad/download/cancelaciones_mes_mlinea.csv",
+          "name": "Cantidad de operaciones de viajes por mes (detalle de línea).",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:18:37.444Z",
+          "description": "Detalle de la línea y cantidad de operaciones de viajes por mes.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/880e663e-eb1d-47ec-aab9-23f3df6c49e8/resource/446b61e0-71d3-40c0-b2dd-cb44b0c391ad"
+        },
+        {
+          "id": "8bee92cb-4825-41ba-b3eb-e9df7d0e8260",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/880e663e-eb1d-47ec-aab9-23f3df6c49e8/resource/8bee92cb-4825-41ba-b3eb-e9df7d0e8260/download/cancelaciones_mes_mtipo.csv",
+          "name": "Cantidad de operaciones de viajes por mes (detalle de línea y tipo de pasaje).",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:18:43.550Z",
+          "description": "Detalle de línea, tipo de pasaje y cantidad de operaciones de viajes por mes (NORMAL-ATRIBUTO SOCIAL).",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/880e663e-eb1d-47ec-aab9-23f3df6c49e8/resource/8bee92cb-4825-41ba-b3eb-e9df7d0e8260"
+        },
+        {
+          "id": "e8176a5c-04f6-444c-be95-84d36e0cf8b7",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/880e663e-eb1d-47ec-aab9-23f3df6c49e8/resource/e8176a5c-04f6-444c-be95-84d36e0cf8b7/download/cancelaciones_mes_mempresa.csv",
+          "name": "Cantidad de operaciones de viajes por mes (detalle por empresa).",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:18:46.425Z",
+          "description": "Detalle por empresa y cantidad de operaciones de viajes por mes.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/880e663e-eb1d-47ec-aab9-23f3df6c49e8/resource/e8176a5c-04f6-444c-be95-84d36e0cf8b7"
+        },
+        {
+          "id": "158e2d42-88bd-4d84-ab2d-7f9da94f96b9",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/880e663e-eb1d-47ec-aab9-23f3df6c49e8/resource/158e2d42-88bd-4d84-ab2d-7f9da94f96b9/download/cancelaciones_mes_mmodo.csv",
+          "name": "Cantidad de operaciones de viajes por mes (detalle por modo).",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:18:48.085Z",
+          "description": "Detalle por modo y cantidad de operaciones de viajes por mes.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/880e663e-eb1d-47ec-aab9-23f3df6c49e8/resource/158e2d42-88bd-4d84-ab2d-7f9da94f96b9"
+        }
+      ],
+      "createdAt": "2022-04-05T22:03:42.475Z",
+      "updatedAt": "2023-04-12T17:42:01.291Z",
+      "contact": {
+        "name": "Ministerio de Transporte",
+        "email": ""
+      }
+    },
+    {
+      "id": "440260fb-1445-4933-b7a2-4bf5dc4e9c74",
+      "name": "operaciones-por-periodo",
+      "title": "SUBE Operaciones de viaje por mes de Región Metropolitana de Buenos Aires, agregado por Mes",
+      "keywords": [
+        "sube",
+        "transporte"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/operaciones-por-periodo",
+      "resources": [
+        {
+          "id": "98cb974d-c519-426d-887e-74aafce389b1",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/440260fb-1445-4933-b7a2-4bf5dc4e9c74/resource/98cb974d-c519-426d-887e-74aafce389b1/download/operaciones-de-viaje-por-periodo.csv",
+          "name": "Operaciones de viaje por Periodo",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:38:20.899Z",
+          "description": "Operaciones para trenes, subterráneos, pre metro y colectivos Operaciones: uso (c/s integración tarifaría), venta de pasaje, check in (c/s integración tarifaría), check out sin check in",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/440260fb-1445-4933-b7a2-4bf5dc4e9c74/resource/98cb974d-c519-426d-887e-74aafce389b1"
+        },
+        {
+          "id": "29a87663-1c99-4578-92ed-2c7c3a52cfab",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/440260fb-1445-4933-b7a2-4bf5dc4e9c74/resource/29a87663-1c99-4578-92ed-2c7c3a52cfab/download/operaciones-de-viaje-por-periodo.xlsx",
+          "name": "Operaciones de viaje por Periodo",
+          "format": "XLSX",
+          "updatedAt": "2022-06-15T05:38:23.079Z",
+          "description": "Operaciones para trenes, subterráneos, pre metro y colectivos Operaciones: uso (c/s integración tarifaría), venta de pasaje, check in (c/s integración tarifaría), check out sin check in",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/440260fb-1445-4933-b7a2-4bf5dc4e9c74/resource/29a87663-1c99-4578-92ed-2c7c3a52cfab"
+        },
+        {
+          "id": "c2ac6d51-453b-4cf5-b459-64a6a2199d47",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/440260fb-1445-4933-b7a2-4bf5dc4e9c74/resource/c2ac6d51-453b-4cf5-b459-64a6a2199d47/download/sube-rmba-operaciones-_-periodo-cantidad-diccionario-de-datos.xlsx",
+          "name": "Diccionario de datos",
+          "format": "XLSX",
+          "updatedAt": "2022-06-15T05:38:25.718Z",
+          "description": "Descripción de los campos de este recurso",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/440260fb-1445-4933-b7a2-4bf5dc4e9c74/resource/c2ac6d51-453b-4cf5-b459-64a6a2199d47"
+        }
+      ],
+      "createdAt": "2022-04-01T16:37:44.350Z",
+      "updatedAt": "2023-04-12T17:21:15.577Z",
+      "contact": {
+        "name": "Dirección de Observatorio, Estudio y Sistemas – Ministerio de Transporte",
+        "email": "observatorio@transporte.gob.ar"
+      }
+    },
+    {
+      "id": "6cdf3d04-a5cb-45ca-9b64-dd9c520eb4f8",
+      "name": "operaciones-por-periodo-modo",
+      "title": "SUBE Operaciones de viaje por mes de Región Metropolitana de Buenos Aires, agregado por Periodo-Modo",
+      "keywords": [
+        "sube",
+        "transporte"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/operaciones-por-periodo-modo",
+      "resources": [
+        {
+          "id": "29ec1015-0c53-48e4-ae0b-99ff514741bf",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/6cdf3d04-a5cb-45ca-9b64-dd9c520eb4f8/resource/29ec1015-0c53-48e4-ae0b-99ff514741bf/download/operaciones-de-viaje-por-periodo-modo.csv",
+          "name": "Operaciones de viaje por Periodo - Modo",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:38:40.788Z",
+          "description": "Operaciones para trenes, subterráneos, pre metro y colectivos Operaciones: uso (c/s integración tarifaría), venta de pasaje, check in (c/s integración tarifaría), checkout sin checkin",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/6cdf3d04-a5cb-45ca-9b64-dd9c520eb4f8/resource/29ec1015-0c53-48e4-ae0b-99ff514741bf"
+        },
+        {
+          "id": "ae6115f0-f65a-41ba-b09e-92eca1b0072f",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/6cdf3d04-a5cb-45ca-9b64-dd9c520eb4f8/resource/ae6115f0-f65a-41ba-b09e-92eca1b0072f/download/operaciones-de-viaje-por-periodo-modo.xlsx",
+          "name": "Operaciones de viaje por Periodo - Modo",
+          "format": "XLSX",
+          "updatedAt": "2022-06-15T05:38:43.012Z",
+          "description": "Operaciones para trenes, subterráneos, pre metro y colectivos Operaciones: uso (c/s integración tarifaría), venta de pasaje, check in (c/s integración tarifaría), checkout sin checkin",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/6cdf3d04-a5cb-45ca-9b64-dd9c520eb4f8/resource/ae6115f0-f65a-41ba-b09e-92eca1b0072f"
+        },
+        {
+          "id": "8106a5d5-3d11-4908-a3ca-98e91ec00cae",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/6cdf3d04-a5cb-45ca-9b64-dd9c520eb4f8/resource/8106a5d5-3d11-4908-a3ca-98e91ec00cae/download/sube-rmba-operaciones-_-periodo-modo-cantidad-diccionario-de-datos.xlsx",
+          "name": "Diccionario de datos",
+          "format": "XLSX",
+          "updatedAt": "2022-06-15T05:38:45.047Z",
+          "description": "Descripcion de los campos de este recurso",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/6cdf3d04-a5cb-45ca-9b64-dd9c520eb4f8/resource/8106a5d5-3d11-4908-a3ca-98e91ec00cae"
+        }
+      ],
+      "createdAt": "2022-04-01T16:36:33.270Z",
+      "updatedAt": "2023-04-12T17:20:05.348Z",
+      "contact": {
+        "name": "Dirección de Observatorio, Estudio y Sistemas – Ministerio de Transporte",
+        "email": "observatorio@transporte.gob.ar"
+      }
+    },
+    {
+      "id": "254f0d95-2a1e-481d-bbfd-9f98a4d694bf",
+      "name": "operacionessube-hexagono",
+      "title": "Operaciones de un día hábil promedio sectorizados en hexágonos de 600m por Modo de transporte y Hora",
+      "keywords": [
+        "sube"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/operacionessube-hexagono",
+      "resources": [
+        {
+          "id": "4d2fc0c1-c1ce-4ddd-a678-27d109aee80c",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/254f0d95-2a1e-481d-bbfd-9f98a4d694bf/resource/4d2fc0c1-c1ce-4ddd-a678-27d109aee80c/download/hexagonos_2019.csv",
+          "name": "Operaciones SUBE, día hábil promedio por área geográfica, modo y hora (día tipo octubre 2019)",
+          "format": "CSV",
+          "updatedAt": "2023-01-24T19:58:24.417Z",
+          "description": "Operaciones SUBE, día hábil promedio por área geográfica, modo y hora. Para líneas de transporte urbano de pasajeros de RMBA incluyendo trenes, subterráneos, pre metro y colectivos.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/254f0d95-2a1e-481d-bbfd-9f98a4d694bf/resource/4d2fc0c1-c1ce-4ddd-a678-27d109aee80c"
+        },
+        {
+          "id": "72fe48fb-9603-4d25-a86d-1f1bd5bc64ba",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/254f0d95-2a1e-481d-bbfd-9f98a4d694bf/resource/72fe48fb-9603-4d25-a86d-1f1bd5bc64ba/download/grillahexagonal.zip",
+          "name": "Archivo de zonas geográficas",
+          "format": "SHP",
+          "updatedAt": "2022-06-15T05:50:41.287Z",
+          "description": "Grilla hexagonal sobre RMBA de 600 metros",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/254f0d95-2a1e-481d-bbfd-9f98a4d694bf/resource/72fe48fb-9603-4d25-a86d-1f1bd5bc64ba"
+        },
+        {
+          "id": "6e14da54-9e3f-48c5-a373-18b56ca0c722",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/254f0d95-2a1e-481d-bbfd-9f98a4d694bf/resource/6e14da54-9e3f-48c5-a373-18b56ca0c722/download/grillahexagonal.csv",
+          "name": "Archivo de zonas geográficas",
+          "format": "CSV",
+          "updatedAt": "2019-05-27T21:17:39.798Z",
+          "description": "Grilla hexagonal sobre RMBA de 600 metros",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/254f0d95-2a1e-481d-bbfd-9f98a4d694bf/resource/6e14da54-9e3f-48c5-a373-18b56ca0c722"
+        },
+        {
+          "id": "11645d2b-2f23-44a9-b9a6-afd644de2f9a",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/254f0d95-2a1e-481d-bbfd-9f98a4d694bf/resource/11645d2b-2f23-44a9-b9a6-afd644de2f9a/download/totalporhora.gif",
+          "name": "Visualización animada de datos - Total de operaciones por Hora RMBA",
+          "format": "GIF",
+          "updatedAt": "2019-05-27T21:19:24.427Z",
+          "description": "Visualización animada de datos",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/254f0d95-2a1e-481d-bbfd-9f98a4d694bf/resource/11645d2b-2f23-44a9-b9a6-afd644de2f9a"
+        },
+        {
+          "id": "fbcd154f-0438-462a-a79f-b49be2252efc",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/254f0d95-2a1e-481d-bbfd-9f98a4d694bf/resource/fbcd154f-0438-462a-a79f-b49be2252efc/download/modosporhora.gif",
+          "name": "Visualización animada de datos - Total de operaciones por Modo y Hora RMBA",
+          "format": "GIF",
+          "updatedAt": "2019-05-27T21:20:04.560Z",
+          "description": "Visualización animada de datos",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/254f0d95-2a1e-481d-bbfd-9f98a4d694bf/resource/fbcd154f-0438-462a-a79f-b49be2252efc"
+        },
+        {
+          "id": "0fca335f-b001-4fc8-8778-3e657581e955",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/254f0d95-2a1e-481d-bbfd-9f98a4d694bf/resource/0fca335f-b001-4fc8-8778-3e657581e955/download/cabaporhora.gif",
+          "name": "Visualización animada de datos - Total de operaciones por Modo y Hora Ciudad de Buenos Aires",
+          "format": "GIF",
+          "updatedAt": "2019-05-27T21:20:35.786Z",
+          "description": "Visualización animada de datos",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/254f0d95-2a1e-481d-bbfd-9f98a4d694bf/resource/0fca335f-b001-4fc8-8778-3e657581e955"
+        }
+      ],
+      "createdAt": "2022-04-01T16:44:34.599Z",
+      "updatedAt": "2023-04-12T17:05:23.594Z",
+      "contact": {
+        "name": "Dirección de Observatorio, Estudio y Sistemas – Ministerio de Transporte",
+        "email": "observatorio@transporte.gob.ar"
+      }
+    },
+    {
+      "id": "f0491468-7c53-409a-b371-5d39b63b0536",
+      "name": "pavimentos",
+      "title": "Pavimentos",
+      "keywords": [
+        "transporte",
+        "pavimento",
+        "rutas",
+        "vialidad"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/pavimentos",
+      "resources": [
+        {
+          "id": "23bb487b-b143-4199-a79e-b9f928ff373f",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.1.1.3.pavimento_dnv2018.view&maxFeatures=2342&outputFormat=text%2Fjavascript",
+          "name": "Pavimentos",
+          "format": "GeoJSON",
+          "updatedAt": "2019-06-24T10:50:48.419Z",
+          "description": "Archivo \"GeoJSON\" de tipo de material de calzada de las rutas nacionales. Fuente: Dirección Nacional de Vialidad. Año 2019.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f0491468-7c53-409a-b371-5d39b63b0536/resource/23bb487b-b143-4199-a79e-b9f928ff373f"
+        },
+        {
+          "id": "a0fede25-15b2-4bbb-b8e4-7aa81fc71ab5",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.1.1.3.pavimento_dnv2018.view&maxFeatures=2342&outputFormat=kml",
+          "name": "Pavimentos",
+          "format": "KML",
+          "updatedAt": "2019-06-24T10:50:57.698Z",
+          "description": "Archivo \"KML\" de tipo de material de calzada de las rutas nacionales. Fuente: Dirección Nacional de Vialidad. Año 2019.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f0491468-7c53-409a-b371-5d39b63b0536/resource/a0fede25-15b2-4bbb-b8e4-7aa81fc71ab5"
+        },
+        {
+          "id": "26d7a0d7-356b-4874-ad74-f154b76208ed",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.1.1.3.pavimento_dnv2018.view&maxFeatures=2342&outputFormat=shape-zip",
+          "name": "Pavimentos",
+          "format": "ZIP",
+          "updatedAt": "2019-06-24T10:51:08.012Z",
+          "description": "Archivo \"Shape\" de tipo de material de calzada de las rutas nacionales. Fuente: Dirección Nacional de Vialidad. Año 2019.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f0491468-7c53-409a-b371-5d39b63b0536/resource/26d7a0d7-356b-4874-ad74-f154b76208ed"
+        }
+      ],
+      "createdAt": "2022-04-01T16:44:02.312Z",
+      "updatedAt": "2023-04-12T17:13:35.889Z",
+      "contact": {
+        "name": "Dirección de Observatorio Nacional de Transporte",
+        "email": "observatorio@transporte.gob.ar"
+      }
+    },
+    {
+      "id": "151e296a-d1bf-4bd2-ba26-5030fb092cc7",
+      "name": "peajes",
+      "title": "Peajes",
+      "keywords": [
+        "transporte",
+        "peajes",
+        "vialidad"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/peajes",
+      "resources": [
+        {
+          "id": "cceae2d1-7dd6-40df-9cf9-a450038f57fd",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.1.6.peajes_dnv_2017.view&maxFeatures=78&outputFormat=application%2Fjson",
+          "name": "Peajes",
+          "format": "GeoJSON",
+          "updatedAt": "2019-06-24T10:51:50.513Z",
+          "description": "Archivo \"GeoJSON\" de peajes en rutas nacionales. Dirección Nacional de Vialidad. Año 2019.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/151e296a-d1bf-4bd2-ba26-5030fb092cc7/resource/cceae2d1-7dd6-40df-9cf9-a450038f57fd"
+        },
+        {
+          "id": "43facb62-408a-4ddc-8450-5e09610c4957",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.1.6.peajes_dnv_2017.view&maxFeatures=78&outputFormat=kml",
+          "name": "Peajes",
+          "format": "KML",
+          "updatedAt": "2019-06-24T10:52:01.134Z",
+          "description": "Archivo \"KML\" de peajes en rutas nacionales. Dirección Nacional de Vialidad. Año 2019.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/151e296a-d1bf-4bd2-ba26-5030fb092cc7/resource/43facb62-408a-4ddc-8450-5e09610c4957"
+        },
+        {
+          "id": "088f48ee-d59f-4070-a12b-ecbe839092e2",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.1.6.peajes_dnv_2017.view&maxFeatures=78&outputFormat=shape-zip",
+          "name": "Peajes",
+          "format": "ZIP",
+          "updatedAt": "2019-06-24T10:52:10.649Z",
+          "description": "Archivo \"Shape\" de peajes en rutas nacionales. Dirección Nacional de Vialidad. Año 2019.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/151e296a-d1bf-4bd2-ba26-5030fb092cc7/resource/088f48ee-d59f-4070-a12b-ecbe839092e2"
+        }
+      ],
+      "createdAt": "2022-04-01T16:43:56.351Z",
+      "updatedAt": "2023-04-12T17:35:15.883Z",
+      "contact": {
+        "name": "Dirección de Observatorio Nacional de Transporte",
+        "email": "dotes@transporte.gob.ar"
+      }
+    },
+    {
+      "id": "a9f98236-fe91-4dac-923f-f0ddd5810b3b",
+      "name": "postes-kilometricos",
+      "title": "Postes Kilométricos",
+      "keywords": [
+        "transporte",
+        "postes",
+        "vialidad"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/postes-kilometricos",
+      "resources": [
+        {
+          "id": "57d6d210-a9a2-4a49-b77d-4cf806d6e9fc",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.1.1.4.poste_1km_2018&maxFeatures=28000&outputFormat=shape-zip",
+          "name": "Postes kilométricos",
+          "format": "ZIP",
+          "updatedAt": "2019-06-24T10:56:15.899Z",
+          "description": "Archivo \"Shape\" de postes kilométricos de las rutas nacionales. Fuente: Dirección Nacional de Vialidad. Año 2019.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/a9f98236-fe91-4dac-923f-f0ddd5810b3b/resource/57d6d210-a9a2-4a49-b77d-4cf806d6e9fc"
+        },
+        {
+          "id": "e9c1c837-4170-4a4a-9175-9333d1d5b107",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.1.1.4.poste_1km_2018&maxFeatures=28000&outputFormat=application%2Fjson",
+          "name": "Postes kilométricos",
+          "format": "GeoJSON",
+          "updatedAt": "2019-06-24T10:56:24.877Z",
+          "description": "Archivo \"GeoJSON\" de postes kilométricos de las rutas nacionales. Fuente: Dirección Nacional de Vialidad. Año 2019.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/a9f98236-fe91-4dac-923f-f0ddd5810b3b/resource/e9c1c837-4170-4a4a-9175-9333d1d5b107"
+        },
+        {
+          "id": "fa5fd068-96a5-4a8c-80e2-213ca6a9dc89",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.1.1.4.poste_1km_2018&maxFeatures=28000&outputFormat=kml",
+          "name": "Postes kilométricos",
+          "format": "KML",
+          "updatedAt": "2019-06-24T10:56:35.451Z",
+          "description": "Archivo \"KML\" de postes kilométricos de las rutas nacionales. Fuente: Dirección Nacional de Vialidad. Año 2019.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/a9f98236-fe91-4dac-923f-f0ddd5810b3b/resource/fa5fd068-96a5-4a8c-80e2-213ca6a9dc89"
+        }
+      ],
+      "createdAt": "2022-04-01T16:43:45.044Z",
+      "updatedAt": "2023-04-12T17:34:46.968Z",
+      "contact": {
+        "name": "Dirección de Observatorio Nacional de Transporte",
+        "email": "dotes@transporte.gob.ar"
+      }
+    },
+    {
+      "id": "10d93e6d-f549-4e68-ba75-153ff7c82601",
+      "name": "predios-aeropuertos",
+      "title": "Predios Aeropuertos",
+      "keywords": [
+        "transporte",
+        "aeropuertos",
+        "aéreo",
+        "predios"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/predios-aeropuertos",
+      "resources": [
+        {
+          "id": "37f16111-8432-4033-adbf-4fdb8962b138",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/orsna/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=orsna:_3.4.4.5_SNA_jun17.view&maxFeatures=60&outputFormat=application%2Fjson",
+          "name": "Predios Aeropuertos",
+          "format": "GeoJSON",
+          "updatedAt": "2019-06-24T10:53:35.147Z",
+          "description": "Archivo \"GeoJSON\" de los predios de aeropuertos de la República Argentina. Fuente: ORSNA. Abril 2018",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/10d93e6d-f549-4e68-ba75-153ff7c82601/resource/37f16111-8432-4033-adbf-4fdb8962b138"
+        },
+        {
+          "id": "0d9c666c-bed1-43ef-b0b7-e7a60a129521",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/orsna/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=orsna:_3.4.4.5_SNA_jun17.view&maxFeatures=60&outputFormat=kml",
+          "name": "Predios Aeropuertos",
+          "format": "KML",
+          "updatedAt": "2019-06-24T10:53:44.216Z",
+          "description": "Archivo \"KML\" de los predios de aeropuertos de la República Argentina. Fuente: ORSNA. Abril 2018",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/10d93e6d-f549-4e68-ba75-153ff7c82601/resource/0d9c666c-bed1-43ef-b0b7-e7a60a129521"
+        },
+        {
+          "id": "d1653d42-ce14-437f-adb7-be85ea99f439",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/orsna/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=orsna:_3.4.4.5_SNA_jun17.view&maxFeatures=60&outputFormat=shape-zip",
+          "name": "Predios Aeropuertos",
+          "format": "ZIP",
+          "updatedAt": "2019-06-24T10:53:53.122Z",
+          "description": "Archivo \"Shape\" de los predios de aeropuertos de la República Argentina. Fuente: ORSNA. Abril 2018",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/10d93e6d-f549-4e68-ba75-153ff7c82601/resource/d1653d42-ce14-437f-adb7-be85ea99f439"
+        }
+      ],
+      "createdAt": "2022-04-01T16:43:50.979Z",
+      "updatedAt": "2023-04-12T17:13:03.759Z",
+      "contact": {
+        "name": "Dirección de Observatorio Nacional de Transporte",
+        "email": "dotes@transporte.gob.ar"
+      }
+    },
+    {
+      "id": "b0b231b9-e85d-44e9-8da9-eaff3af2d422",
+      "name": "puertos",
+      "title": "Puertos",
+      "keywords": [
+        "fluvial",
+        "puertos",
+        "transporte"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/puertos",
+      "resources": [
+        {
+          "id": "313603f3-0487-4152-990d-e80c5752b7dc",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.3.4.puertos_ont_a_view&maxFeatures=110&https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.3.4.puertos_ont_a_view&maxFeatures=110&outputFormat=application/json",
+          "name": "Puertos",
+          "format": "GeoJSON",
+          "updatedAt": "2019-06-25T13:06:30.557Z",
+          "description": "Archivo 'GeoJSON' de Puertos de la República Argentina. Fuente: Dirección Nacional de Puertos y Observatorio Nacional de Transporte. Año: 2019.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/b0b231b9-e85d-44e9-8da9-eaff3af2d422/resource/313603f3-0487-4152-990d-e80c5752b7dc"
+        },
+        {
+          "id": "f59afafe-c8d5-4c1e-96fc-7ddbce2db447",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.3.4.puertos_ont_a_view&maxFeatures=110&outputFormat=shape-zip",
+          "name": "Puertos",
+          "format": "ZIP",
+          "updatedAt": "2019-06-24T11:00:16.790Z",
+          "description": "Archivo 'shape' de Puertos de la República Argentina. Fuente: Dirección Nacional de Puertos y Observatorio Nacional de Transporte. Año: 2019.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/b0b231b9-e85d-44e9-8da9-eaff3af2d422/resource/f59afafe-c8d5-4c1e-96fc-7ddbce2db447"
+        },
+        {
+          "id": "d9ebfc78-9de4-41f3-afa8-9ceaf541e2de",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.3.4.puertos_ont_a_view&maxFeatures=110&outputFormat=kml",
+          "name": "Puertos",
+          "format": "KML",
+          "updatedAt": "2019-06-24T11:00:27.426Z",
+          "description": "Archivo 'KML' de Puertos de la República Argentina. Fuente: Dirección Nacional de Puertos y Observatorio Nacional de Transporte. Año: 2019.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/b0b231b9-e85d-44e9-8da9-eaff3af2d422/resource/d9ebfc78-9de4-41f3-afa8-9ceaf541e2de"
+        }
+      ],
+      "createdAt": "2022-04-01T16:43:33.502Z",
+      "updatedAt": "2023-04-12T17:32:39.592Z",
+      "contact": {
+        "name": "Dirección de Observatorio Nacional de Transporte",
+        "email": "dotes@transporte.gob.ar"
+      }
+    },
+    {
+      "id": "88aee5cb-e0fc-4bde-96e9-6e3d213dc43a",
+      "name": "puntos-carga-sube",
+      "title": "Puntos de Carga SUBE",
+      "keywords": [
+        "ffcc",
+        "omnibus",
+        "red de carga",
+        "sube",
+        "subte"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/puntos-carga-sube",
+      "resources": [
+        {
+          "id": "7c90f2ec-af99-4e07-99ae-1ab3e8e1a26d",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/88aee5cb-e0fc-4bde-96e9-6e3d213dc43a/resource/7c90f2ec-af99-4e07-99ae-1ab3e8e1a26d/download/sube_red_de_carga_activa_2019-10-01.geojson",
+          "name": "Puntos de carga SUBE",
+          "format": "GeoJSON",
+          "updatedAt": "2022-06-15T05:32:36.209Z",
+          "description": "Puntos de carga SUBE activos al 01/10/2019",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/88aee5cb-e0fc-4bde-96e9-6e3d213dc43a/resource/7c90f2ec-af99-4e07-99ae-1ab3e8e1a26d"
+        },
+        {
+          "id": "3592e8e0-00f9-4e99-aaf5-93b64677f7f8",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/88aee5cb-e0fc-4bde-96e9-6e3d213dc43a/resource/3592e8e0-00f9-4e99-aaf5-93b64677f7f8/download/sube_red_de_carga_activa_2019-10-01.kml",
+          "name": "Puntos de carga SUBE",
+          "format": "KML",
+          "updatedAt": "2022-06-15T05:33:07.898Z",
+          "description": "Puntos de carga SUBE activos al 01/10/2019_x000D_\nformato shape",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/88aee5cb-e0fc-4bde-96e9-6e3d213dc43a/resource/3592e8e0-00f9-4e99-aaf5-93b64677f7f8"
+        },
+        {
+          "id": "7cc5eddc-e9c5-4225-bfee-10c4ca7027d3",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/88aee5cb-e0fc-4bde-96e9-6e3d213dc43a/resource/7cc5eddc-e9c5-4225-bfee-10c4ca7027d3/download/sube_red_de_carga_activa_2019-10-01.zip",
+          "name": "Puntos de carga SUBE",
+          "format": "SHP",
+          "updatedAt": "2022-04-01T21:47:20.441Z",
+          "description": "Puntos de carga SUBE activos al 01/10/2019 _x000D_\nformato shape",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/88aee5cb-e0fc-4bde-96e9-6e3d213dc43a/resource/7cc5eddc-e9c5-4225-bfee-10c4ca7027d3"
+        }
+      ],
+      "createdAt": "2022-04-01T16:41:18.635Z",
+      "updatedAt": "2023-04-12T18:08:07.345Z",
+      "contact": {
+        "name": "SUBE - Nación Servicios",
+        "email": ""
+      }
+    },
+    {
+      "id": "f87b93d4-ade2-44fc-a409-d3736ba9f3ba",
+      "name": "recorridos-de-lineas-de-transporte-rmba-jn",
+      "title": "Recorridos de Líneas de Transporte de Región Metropolitana de Buenos Aires (RMBA)",
+      "keywords": [
+        "amba",
+        "buenos aires",
+        "bus",
+        "ffcc",
+        "rmba",
+        "subte"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/recorridos-de-lineas-de-transporte-rmba-jn",
+      "resources": [
+        {
+          "id": "5ab88c4b-b8b0-4f3b-a840-52e0e83e96ab",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/5ab88c4b-b8b0-4f3b-a840-52e0e83e96ab/download/lineas-nacionales.zip",
+          "name": "Buses - Lineas Jurisdicción Nacional",
+          "format": "SHP",
+          "updatedAt": "2022-06-15T05:42:36.780Z",
+          "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - _x000D_\nBuses - Lineas Jurisdicción Nacional  - Fecha Actualización: 2016-11_x000D_\nFuente: CNRT",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/5ab88c4b-b8b0-4f3b-a840-52e0e83e96ab"
+        },
+        {
+          "id": "6dab78ec-d512-4fc4-a5e8-f97a1826ba2f",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/6dab78ec-d512-4fc4-a5e8-f97a1826ba2f/download/lineas-provinciales.zip",
+          "name": "Buses - Lineas Jurisdicción Provincial",
+          "format": "SHP",
+          "updatedAt": "2022-06-15T05:42:45.676Z",
+          "description": "Recorridos de Lineas de Transp de RMBA - Buses - Lineas Jurisdicción Provincial._x000D_\nFuente: INTRUPUBA_x000D_\nFecha:  Relevamiento: 2006 - Publicación: 2011",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/6dab78ec-d512-4fc4-a5e8-f97a1826ba2f"
+        },
+        {
+          "id": "d5b82e09-2844-4adf-8e88-8f20904a7af0",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/d5b82e09-2844-4adf-8e88-8f20904a7af0/download/lineas-municipales.zip",
+          "name": "Buses - Lineas Jurisdicción Municipal",
+          "format": "SHP",
+          "updatedAt": "2022-06-15T05:42:51.857Z",
+          "description": "Recorridos de Lineas de Transporte RMBA - Buses - Lineas Jurisdicción Municipal     --    Fecha Actualización: NA    --    Fuente: INTRUPUBA    --    Fecha: - Relevamiento: 2006 - Publicación: 2011",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/d5b82e09-2844-4adf-8e88-8f20904a7af0"
+        },
+        {
+          "id": "5dd356b0-624c-4ea8-9315-b1c0a389b245",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/5dd356b0-624c-4ea8-9315-b1c0a389b245/download/subterraneo-lineas.zip",
+          "name": "Subterraneo - Líneas",
+          "format": "SHP",
+          "updatedAt": "2022-06-15T05:42:53.912Z",
+          "description": "Recorridos de Lineas de RMBA - Subterraneo   --   Lineas   -   Fuente: Min de Des Urbano y Transporte - SS de Tránsito y Transporte - DG de Transporte y Tránsito  -   Fecha actualización: 11/04/2017",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/5dd356b0-624c-4ea8-9315-b1c0a389b245"
+        },
+        {
+          "id": "9341189e-6f06-43d7-a5ed-a34f3435fbcc",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/9341189e-6f06-43d7-a5ed-a34f3435fbcc/download/reddesubterraneo1.geojson",
+          "name": "Subterraneos - Líneas",
+          "format": "GeoJSON",
+          "updatedAt": "2022-06-15T05:42:56.415Z",
+          "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Subterraneo -- Lineas -- Fuente: Ministerio de Desarrollo Urbano y Transporte - SS de Tránsito y Transporte - DG de Transporte y Tránsito -- Fecha actualización: 11/04/2017",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/9341189e-6f06-43d7-a5ed-a34f3435fbcc"
+        },
+        {
+          "id": "290cf89f-c6fe-4c6c-a8b5-f658d4cb199b",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/290cf89f-c6fe-4c6c-a8b5-f658d4cb199b/download/subterraneo-estaciones.zip",
+          "name": "Subterraneo - Estaciones",
+          "format": "SHP",
+          "updatedAt": "2022-06-15T05:42:58.522Z",
+          "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Subterraneo   --   Estaciones   --   Fuente: Ministerio de Desarrollo Urbano y Transporte - SS de Tránsito y Transporte - DG de Transporte y Tránsito  --   Fecha actualización: 11/04/2017",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/290cf89f-c6fe-4c6c-a8b5-f658d4cb199b"
+        },
+        {
+          "id": "79f1bdc7-857e-4295-b19a-bfdd074384e0",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/79f1bdc7-857e-4295-b19a-bfdd074384e0/download/estacionesdesubte.geojson",
+          "name": "Subterraneos - Estaciones",
+          "format": "GeoJSON",
+          "updatedAt": "2022-06-15T05:43:00.622Z",
+          "description": "Recorridos de Lineas de Transporte de RMBA - Subterraneo - Estaciones - Fuente: Min de Des Urbano y Transporte - SS de Tránsito y Transporte - DG de Transporte y Tránsito - Fecha act: 11/04/2017",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/79f1bdc7-857e-4295-b19a-bfdd074384e0"
+        },
+        {
+          "id": "87fb1c41-89b5-42db-b45a-992672931b2d",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/87fb1c41-89b5-42db-b45a-992672931b2d/download/rmba-ferrocarril-lineas.zip",
+          "name": "Ferrocarril - Líneas",
+          "format": "SHP",
+          "updatedAt": "2022-06-15T05:43:03.026Z",
+          "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Ferrocarril - Lineas -_x000D_\nFuente: ADIF_x000D_\nFecha de actualización:16/02/2017",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/87fb1c41-89b5-42db-b45a-992672931b2d"
+        },
+        {
+          "id": "be6a42b3-d91e-4034-ab9c-477b71f51e96",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/be6a42b3-d91e-4034-ab9c-477b71f51e96/download/rmba-ferrocarril-estaciones.zip",
+          "name": "Ferrocarril - Estaciones",
+          "format": "SHP",
+          "updatedAt": "2022-06-15T05:43:05.087Z",
+          "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Ferrocarril - Estaciones   -- Fuente: ADIF  --  Fecha de actualización:16/02/2017",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/be6a42b3-d91e-4034-ab9c-477b71f51e96"
+        },
+        {
+          "id": "84947471-9c1e-4a23-8a2e-03a8c87c056f",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/84947471-9c1e-4a23-8a2e-03a8c87c056f/download/lineasbusrmbajurisdiccionnacional.geojson",
+          "name": "Buses - Líneas Jurisdicción Nacional",
+          "format": "GeoJSON",
+          "updatedAt": "2022-06-15T05:43:22.740Z",
+          "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Buses - Lineas Jurisdicción Nacional -- Fecha Actualización: 2016-11 -- Fuente: CNRT",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/84947471-9c1e-4a23-8a2e-03a8c87c056f"
+        },
+        {
+          "id": "f95e25bc-a6b2-4a78-a04b-35fa437be96b",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/f95e25bc-a6b2-4a78-a04b-35fa437be96b/download/lineasbusrmbajurisdiccionprovincial.geojson",
+          "name": "Buses - Líneas de Jurisdicción Provincial",
+          "format": "GeoJSON",
+          "updatedAt": "2022-06-15T05:43:36.631Z",
+          "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Buses - Lineas Jurisdicción Provincial Fecha Actualización: Fuente: INTRUPUBA Fecha: - Relevamiento: 2006 - Publicación: 2011",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/f95e25bc-a6b2-4a78-a04b-35fa437be96b"
+        },
+        {
+          "id": "f0f3791a-addc-4143-bb95-ef0e8bca5bd8",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/f0f3791a-addc-4143-bb95-ef0e8bca5bd8/download/lineasbusrmbajurisdiccionmunicipal.geojson",
+          "name": "Buses - Líneas Jurisdicción Municipal",
+          "format": "GeoJSON",
+          "updatedAt": "2022-06-15T05:43:46.698Z",
+          "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Buses - Lineas Jurisdicción Municipal -- Fecha Actualización: NA -- Fuente: INTRUPUBA -- Fecha: - Relevamiento: 2006 - Publicación: 2011",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/f0f3791a-addc-4143-bb95-ef0e8bca5bd8"
+        },
+        {
+          "id": "367a26af-c5b4-4361-b614-abd6ad743383",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/367a26af-c5b4-4361-b614-abd6ad743383/download/ambalineas.geojson",
+          "name": "Ferrocarril - Líneas",
+          "format": "GeoJSON",
+          "updatedAt": "2022-06-15T05:43:51.487Z",
+          "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Ferrocarril - Lineas -- Fuente: ADIF -- Fecha de actualización:16/02/2017",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/367a26af-c5b4-4361-b614-abd6ad743383"
+        },
+        {
+          "id": "048890d7-d713-4be2-8bb8-5007099ad13b",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/048890d7-d713-4be2-8bb8-5007099ad13b/download/ambalineas.kml",
+          "name": "Ferrocarril - Líneas",
+          "format": "KML",
+          "updatedAt": "2022-06-15T05:43:55.666Z",
+          "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Ferrocarril - Lineas -- Fuente: ADIF -- Fecha de actualización:16/02/2017",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/048890d7-d713-4be2-8bb8-5007099ad13b"
+        },
+        {
+          "id": "9da7698b-6eb0-40cf-9045-9ab0dbc876f7",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/9da7698b-6eb0-40cf-9045-9ab0dbc876f7/download/ambapuntos.kml",
+          "name": "Ferrocarril - Estaciones",
+          "format": "KML",
+          "updatedAt": "2022-06-15T05:43:58.033Z",
+          "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Ferrocarril - Estaciones -- Fuente: ADIF -- Fecha de actualización:16/02/2017",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/9da7698b-6eb0-40cf-9045-9ab0dbc876f7"
+        },
+        {
+          "id": "fb23b21c-59c3-427d-a4c6-b5255ffa6f82",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/fb23b21c-59c3-427d-a4c6-b5255ffa6f82/download/lineasnacionales.kml",
+          "name": "Buses - Líneas Jurisdicción Nacional",
+          "format": "KML",
+          "updatedAt": "2022-06-15T05:44:15.075Z",
+          "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Buses - Lineas Jurisdicción Nacional -- Fecha Actualización: 2016-11 -- Fuente: CNRT",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/fb23b21c-59c3-427d-a4c6-b5255ffa6f82"
+        },
+        {
+          "id": "136d2a25-589d-4efc-8393-e0baa77620a6",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/136d2a25-589d-4efc-8393-e0baa77620a6/download/lineasprovinciales.kml",
+          "name": "Buses - Líneas Jurisdicción Provincial",
+          "format": "KML",
+          "updatedAt": "2022-06-15T05:44:26.982Z",
+          "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Buses - Lineas Jurisdicción Provincial Fecha Actualización: Fuente: INTRUPUBA Fecha: - Relevamiento: 2006 - Publicación: 2011",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/136d2a25-589d-4efc-8393-e0baa77620a6"
+        },
+        {
+          "id": "f78c9c6c-2e96-45eb-be50-7f1a519b011d",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/f78c9c6c-2e96-45eb-be50-7f1a519b011d/download/lineasmunicipales.kml",
+          "name": "Buses - Líneas Jurisdicción Municipal",
+          "format": "KML",
+          "updatedAt": "2022-06-15T05:44:36.469Z",
+          "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Buses - Lineas Jurisdicción Municipal -- Fecha Actualización: NA -- Fuente: INTRUPUBA -- Fecha: - Relevamiento: 2006 - Publicación: 2011",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/f78c9c6c-2e96-45eb-be50-7f1a519b011d"
+        },
+        {
+          "id": "f5fe0a3d-025b-4b40-af8f-53a83cc9205f",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/f5fe0a3d-025b-4b40-af8f-53a83cc9205f/download/estacionesdesubte.kml",
+          "name": "Subterráneo - Estaciones",
+          "format": "KML",
+          "updatedAt": "2022-06-15T05:44:38.317Z",
+          "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Subterraneo -- Estaciones -- Fuente: Ministerio de Desarrollo Urbano y Transporte - SS de Tránsito y Transporte - DG de Transporte y Tránsito -- Fecha actualización: 11/04/2017",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/f5fe0a3d-025b-4b40-af8f-53a83cc9205f"
+        },
+        {
+          "id": "a05b5e9f-e0e9-43e3-8056-93c23e833a00",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/a05b5e9f-e0e9-43e3-8056-93c23e833a00/download/reddesubterraneo.kml",
+          "name": "Subterráneo - Líneas",
+          "format": "KML",
+          "updatedAt": "2022-06-15T05:44:40.481Z",
+          "description": "Recorridos de Lineas de Transporte de Región Metropolitana de Buenos Aires (RMBA) - Subterraneo -- Lineas -- Fuente: Ministerio de Desarrollo Urbano y Transporte - SS de Tránsito y Transporte - DG de Transporte y Tránsito -- Fecha actualización: 11/04/2017",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f87b93d4-ade2-44fc-a409-d3736ba9f3ba/resource/a05b5e9f-e0e9-43e3-8056-93c23e833a00"
+        }
+      ],
+      "createdAt": "2022-04-01T16:49:07.762Z",
+      "updatedAt": "2023-04-12T17:19:23.997Z",
+      "contact": {
+        "name": "Dirección de Observatorio de Transporte, Estudio y Sistemas",
+        "email": "dotes@transporte.gob.ar"
+      }
+    },
+    {
+      "id": "d67bd5a0-bd6e-4b02-a7ba-a9dd329b0d5e",
+      "name": "recorridos-de-servicios-de-colectivos-amba",
+      "title": "Recorridos de servicios de colectivos AMBA",
+      "keywords": [
+        "amba",
+        "movilidad urbana",
+        "transporte general",
+        "trayectos"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/recorridos-de-servicios-de-colectivos-amba",
+      "resources": [
+        {
+          "id": "434c8107-b3ae-46cc-919e-a98b603c1ced",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/d67bd5a0-bd6e-4b02-a7ba-a9dd329b0d5e/resource/434c8107-b3ae-46cc-919e-a98b603c1ced/download/lineas_jn_rmba_cnrt.kml",
+          "name": "Recorrido por línea",
+          "format": "KML",
+          "updatedAt": "2022-06-15T05:17:29.036Z",
+          "description": "Detalle de recorrido por línea",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/d67bd5a0-bd6e-4b02-a7ba-a9dd329b0d5e/resource/434c8107-b3ae-46cc-919e-a98b603c1ced"
+        }
+      ],
+      "createdAt": "2022-04-05T21:48:07.796Z",
+      "updatedAt": "2023-04-12T17:43:56.960Z",
+      "contact": {
+        "name": "Ministerio de Transporte",
+        "email": ""
+      }
+    },
+    {
+      "id": "2cd304b5-8cdb-46bc-90e9-ce7cd4bae9e7",
+      "name": "red-de-carga-de-rmba",
+      "title": "Red de carga de RMBA",
+      "keywords": [
+        "rmba",
+        "transporte general"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/red-de-carga-de-rmba",
+      "resources": [
+        {
+          "id": "7ff749e4-0143-4c9e-a5da-5f7931832364",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/2cd304b5-8cdb-46bc-90e9-ce7cd4bae9e7/resource/7ff749e4-0143-4c9e-a5da-5f7931832364/download/red_recarga.csv",
+          "name": "Ubicación geográfica de los puntos de recarga",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:16:31.177Z",
+          "description": "Detalle de puntos de recarga, ubicación geográfica",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/2cd304b5-8cdb-46bc-90e9-ce7cd4bae9e7/resource/7ff749e4-0143-4c9e-a5da-5f7931832364"
+        },
+        {
+          "id": "2bd02f84-0539-4434-afc2-207ecb351cce",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/2cd304b5-8cdb-46bc-90e9-ce7cd4bae9e7/resource/2bd02f84-0539-4434-afc2-207ecb351cce/download/red_venta.csv",
+          "name": "Ubicación geográfica de los puntos de venta",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:16:34.628Z",
+          "description": "Detalle de puntos de venta, ubicación geográfica",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/2cd304b5-8cdb-46bc-90e9-ce7cd4bae9e7/resource/2bd02f84-0539-4434-afc2-207ecb351cce"
+        }
+      ],
+      "createdAt": "2022-04-05T22:37:37.841Z",
+      "updatedAt": "2023-04-12T17:44:42.762Z",
+      "contact": {
+        "name": "Ministerio de Transporte",
+        "email": ""
+      }
+    },
+    {
+      "id": "abe45f2c-cf9f-458e-8b51-03ecda6f708a",
+      "name": "rutas-nacionales",
+      "title": "Rutas Nacionales",
+      "keywords": [
+        "transporte",
+        "rutas",
+        "vialidad"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/rutas-nacionales",
+      "resources": [
+        {
+          "id": "d58b91ee-c46a-4260-8d89-69438417d73b",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.1.1.6.rutas_nacionales_dnv18.view&maxFeatures=272&outputFormat=shape-zip",
+          "name": "Rutas Nacionales",
+          "format": "ZIP",
+          "updatedAt": "2019-06-24T10:37:11.470Z",
+          "description": "Archivo \"Shape\" de rutas nacionales. Fuente: Dirección Nacional de Vialidad.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/abe45f2c-cf9f-458e-8b51-03ecda6f708a/resource/d58b91ee-c46a-4260-8d89-69438417d73b"
+        },
+        {
+          "id": "98a9ee1b-321d-4b68-b00e-bf44ae448e2c",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.1.1.6.rutas_nacionales_dnv18.view&maxFeatures=272&outputFormat=text%2Fjavascript",
+          "name": "Rutas Nacionales",
+          "format": "GeoJSON",
+          "updatedAt": "2019-06-24T10:36:48.952Z",
+          "description": "Archivo \"GeoJSON\" de rutas nacionales. Fuente: Dirección Nacional de Vialidad.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/abe45f2c-cf9f-458e-8b51-03ecda6f708a/resource/98a9ee1b-321d-4b68-b00e-bf44ae448e2c"
+        },
+        {
+          "id": "c00b18f9-9b29-4911-bd1c-d870284b3968",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.1.1.6.rutas_nacionales_dnv18.view&maxFeatures=272&outputFormat=kml",
+          "name": "Rutas Nacionales",
+          "format": "KML",
+          "updatedAt": "2019-06-24T10:37:29.232Z",
+          "description": "Archivo \"KML\" de rutas nacionales. Fuente: Dirección Nacional de Vialidad.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/abe45f2c-cf9f-458e-8b51-03ecda6f708a/resource/c00b18f9-9b29-4911-bd1c-d870284b3968"
+        }
+      ],
+      "createdAt": "2022-04-01T16:44:17.636Z",
+      "updatedAt": "2023-04-12T17:14:52.259Z",
+      "contact": {
+        "name": "Dirección de Observatorio Nacional de Transporte",
+        "email": "dotes@transporte.gob.ar"
+      }
+    },
+    {
+      "id": "0d3fce15-480c-4588-bb8b-2a8f85edcab3",
+      "name": "rutas-provinciales",
+      "title": "Rutas Provinciales",
+      "keywords": [
+        "rutas",
+        "transporte"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/rutas-provinciales",
+      "resources": [
+        {
+          "id": "335c2cec-6031-420e-a925-2987cfaa05de",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.1.7.red_vial_ign_ont_a_prov_view&maxFeatures=22400&outputFormat=shape-zip",
+          "name": "Rutas Provinciales",
+          "format": "ZIP",
+          "updatedAt": "2022-04-01T22:06:56.479Z",
+          "description": "Archivo \"Shape\" de rutas Provinciales. Instituto Geográfico Nacional. Año 2016.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/0d3fce15-480c-4588-bb8b-2a8f85edcab3/resource/335c2cec-6031-420e-a925-2987cfaa05de"
+        },
+        {
+          "id": "903edc8b-da5b-4f3e-b555-eef41b89c3f3",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.1.7.red_vial_ign_ont_a_prov_view&maxFeatures=22400&outputFormat=application%2Fjson",
+          "name": "Rutas Provinciales",
+          "format": "GeoJSON",
+          "updatedAt": "2022-04-01T22:07:33.984Z",
+          "description": "Archivo \"GeoJSON\" de rutas Provinciales. Instituto Geográfico Nacional. Año 2016.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/0d3fce15-480c-4588-bb8b-2a8f85edcab3/resource/903edc8b-da5b-4f3e-b555-eef41b89c3f3"
+        },
+        {
+          "id": "1bc1dd0d-bc29-46d7-a617-e34c1708a789",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.1.7.red_vial_ign_ont_a_prov_view&maxFeatures=22400&outputFormat=kml",
+          "name": "Rutas Provinciales",
+          "format": "KML",
+          "updatedAt": "2022-04-01T22:08:02.016Z",
+          "description": "Archivo \"KML\" de rutas Provinciales. Instituto Geográfico Nacional. Año 2016.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/0d3fce15-480c-4588-bb8b-2a8f85edcab3/resource/1bc1dd0d-bc29-46d7-a617-e34c1708a789"
+        }
+      ],
+      "createdAt": "2022-03-30T22:31:20.430Z",
+      "updatedAt": "2023-04-12T17:38:29.457Z",
+      "contact": {
+        "name": "Dirección de Observatorio Nacional de Transporte",
+        "email": "dotes@transporte.gob.ar"
+      }
+    },
+    {
+      "id": "533366f4-cfb6-4492-8d3b-26d9436321e4",
+      "name": "sistema-ferroviario-integrado-sifer",
+      "title": "Sistema Ferroviario Integrado (SIFER)",
+      "keywords": [
+        "compensaciones",
+        "ferroviario",
+        "sifer",
+        "subsidios",
+        "transparencia",
+        "transporte general"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/sistema-ferroviario-integrado-sifer",
+      "resources": [
+        {
+          "id": "c4fde862-3392-446f-bffc-b142b0663469",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/533366f4-cfb6-4492-8d3b-26d9436321e4/resource/c4fde862-3392-446f-bffc-b142b0663469/download/sifer_-al-07-08-2023.xlsx",
+          "name": "Subsidios al Transporte Automotor de Pasajeros - SIFER año 2023",
+          "format": "XLSX",
+          "updatedAt": "2023-08-28T20:10:42.340Z",
+          "description": "Subsidios al Transporte Automotor de Pasajeros - SIFER año 2023",
+          "landingUrl": ""
+        },
+        {
+          "id": "bd639a7f-ee9d-4f69-b394-962d3d7cc965",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/533366f4-cfb6-4492-8d3b-26d9436321e4/resource/bd639a7f-ee9d-4f69-b394-962d3d7cc965/download/sifer_12_2022.xlsx",
+          "name": "Subsidios al Transporte Automotor de Pasajeros - SIFER año 2022",
+          "format": "XLSX",
+          "updatedAt": "2022-12-27T18:27:30.448Z",
+          "description": "Subsidios al Transporte Automotor de Pasajeros - SIFER año 2022",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/533366f4-cfb6-4492-8d3b-26d9436321e4/resource/bd639a7f-ee9d-4f69-b394-962d3d7cc965"
+        },
+        {
+          "id": "f1275c4f-15c1-428f-85d5-aab8bfe0e5a0",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/533366f4-cfb6-4492-8d3b-26d9436321e4/resource/f1275c4f-15c1-428f-85d5-aab8bfe0e5a0/download/sifer_2021.xlsx",
+          "name": "Subsidios al Transporte Automotor de Pasajeros - SIFER año 2021",
+          "format": "XLSX",
+          "updatedAt": "2022-11-10T14:54:32.887Z",
+          "description": "Subsidios al Transporte Automotor de Pasajeros - SIFER año 2021",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/533366f4-cfb6-4492-8d3b-26d9436321e4/resource/f1275c4f-15c1-428f-85d5-aab8bfe0e5a0"
+        },
+        {
+          "id": "f9fcf2d1-9e77-49e5-9d29-feb12420ad9a",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/533366f4-cfb6-4492-8d3b-26d9436321e4/resource/f9fcf2d1-9e77-49e5-9d29-feb12420ad9a/download/sifer_12_20.xlsx",
+          "name": "Subsidios al Transporte Automotor de Pasajeros - SIFER año 2020",
+          "format": "XLSX",
+          "updatedAt": "2022-06-15T05:27:28.327Z",
+          "description": "Subsidios al Transporte Automotor de Pasajeros - SIFER año 2020",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/533366f4-cfb6-4492-8d3b-26d9436321e4/resource/f9fcf2d1-9e77-49e5-9d29-feb12420ad9a"
+        },
+        {
+          "id": "62537481-7826-41ef-8884-1fa76925308b",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/533366f4-cfb6-4492-8d3b-26d9436321e4/resource/62537481-7826-41ef-8884-1fa76925308b/download/sifer_12_19.xlsx",
+          "name": "Subsidios al Transporte Automotor de Pasajeros - SIFER año 2019",
+          "format": "XLSX",
+          "updatedAt": "2022-06-15T05:27:36.065Z",
+          "description": "Subsidios al Transporte Automotor de Pasajeros - SIFER año 2019",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/533366f4-cfb6-4492-8d3b-26d9436321e4/resource/62537481-7826-41ef-8884-1fa76925308b"
+        }
+      ],
+      "createdAt": "2022-04-01T20:04:15.513Z",
+      "updatedAt": "2023-08-28T20:10:42.562Z",
+      "contact": {
+        "name": "Dirección de Acceso a la Información Pública y Transparencia",
+        "email": "accesoalainformacion@transporte.gob.ar"
+      }
+    },
+    {
+      "id": "5a9e7694-aeaa-437d-959d-fff332f2a40c",
+      "name": "solicitudes-de-acceso-a-informacion-publica",
+      "title": "Solicitudes de Acceso a Información Pública",
+      "keywords": [
+        "transparencia"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/solicitudes-de-acceso-a-informacion-publica",
+      "resources": [
+        {
+          "id": "2d25753f-7ad3-4129-9777-849f5663fbf9",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/5a9e7694-aeaa-437d-959d-fff332f2a40c/resource/2d25753f-7ad3-4129-9777-849f5663fbf9/download/planilla-sip-en-formato-abierto-2022.xlsx",
+          "name": "Solicitudes de acceso a información pública 2022",
+          "format": "XLSX",
+          "updatedAt": "2022-06-01T20:26:39.191Z",
+          "description": "Solicitudes de Acceso a la Información Pública tramitadas por la Dirección de Acceso a la Información y Transparencia del Ministerio de Transporte hasta el primer trimestre de 2022 ",
+          "landingUrl": ""
+        },
+        {
+          "id": "2983c09f-83f4-449c-8c10-b9f19286a232",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/5a9e7694-aeaa-437d-959d-fff332f2a40c/resource/2983c09f-83f4-449c-8c10-b9f19286a232/download/planilla-sip-en-formato-abierto-2021-1.xlsx",
+          "name": "Solicitudes de acceso a información pública 2021.",
+          "format": "XLSX",
+          "updatedAt": "2022-06-02T21:11:58.891Z",
+          "description": "Solicitudes de Acceso a la Información Pública tramitadas por la Dirección de Acceso a la Información y Transparencia del Ministerio de Transporte  durante el año 2021.",
+          "landingUrl": ""
+        },
+        {
+          "id": "26c4ef53-aed9-4aab-bce8-8f7c64489146",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/5a9e7694-aeaa-437d-959d-fff332f2a40c/resource/26c4ef53-aed9-4aab-bce8-8f7c64489146/download/planilla-sip-en-formato-abierto-2020.xlsx",
+          "name": "Solicitudes de acceso a información pública 2020.",
+          "format": "XLSX",
+          "updatedAt": "2022-04-05T15:23:04.407Z",
+          "description": "Solicitudes de Acceso a la Información Pública tramitadas por la Dirección de Acceso a la Información y Transparencia del Ministerio de Transporte durante el año 2020.",
+          "landingUrl": ""
+        },
+        {
+          "id": "e19b598b-4b2c-4df6-88ce-e95b9a0fbec5",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/5a9e7694-aeaa-437d-959d-fff332f2a40c/resource/e19b598b-4b2c-4df6-88ce-e95b9a0fbec5/download/planilla-sip-en-formato-abierto-2019.xlsx",
+          "name": "Solicitudes de acceso a información pública 2019.",
+          "format": "XLSX",
+          "updatedAt": "2022-04-05T15:21:35.531Z",
+          "description": "Solicitudes de Acceso a la Información Pública tramitadas por la Dirección de Acceso a la Información y Transparencia del Ministerio de Transporte durante el año 2019.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-04-04T15:49:40.926Z",
+      "updatedAt": "2022-09-22T16:34:57.478Z",
+      "contact": {
+        "name": "Ministerio de Transporte",
+        "email": ""
+      }
+    },
+    {
+      "id": "7e34d3d7-d9a9-4be2-820b-2e8141664284",
+      "name": "sube-cantidad-de-tarjetas-usuarios-por-dia",
+      "title": "SUBE - Cantidad de tarjetas (usuarios) por día.",
+      "keywords": [
+        "movilidad urbana",
+        "sube",
+        "transporte automotor",
+        "transporte ferroviario",
+        "transporte fluvial"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/sube-cantidad-de-tarjetas-usuarios-por-dia",
+      "resources": [
+        {
+          "id": "3511fdd6-2c23-4069-8524-c66191becd06",
+          "downloadUrl": "https://archivos-datos.transporte.gob.ar/upload/Sube/total-usuarios-por-dia.csv",
+          "name": "SUBE - Cantidad de tarjetas (usuarios) por día.",
+          "format": "CSV",
+          "updatedAt": "2022-05-23T23:26:44.842Z",
+          "description": "Cantidad de usuarios que utilizaron la tarjeta SUBE en el día indicado desagregado por modo de transporte.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/7e34d3d7-d9a9-4be2-820b-2e8141664284/resource/3511fdd6-2c23-4069-8524-c66191becd06"
+        }
+      ],
+      "createdAt": "2022-04-01T21:43:38.579Z",
+      "updatedAt": "2023-04-12T17:10:18.283Z",
+      "contact": {
+        "name": "Dirección Nacional de Desarrollo Tecnológico - Ministerio de Transporte.",
+        "email": ""
+      }
+    },
+    {
+      "id": "58e3b9bd-8590-412f-bb80-f40ceb730e5e",
+      "name": "sube-cantidad-de-tarjetas-usuarios-por-dia-en-amba",
+      "title": "SUBE - Cantidad de tarjetas (usuarios) por día en AMBA.",
+      "keywords": [
+        "movilidad urbana",
+        "sube",
+        "transporte automotor",
+        "transporte ferroviario",
+        "transporte fluvial"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/sube-cantidad-de-tarjetas-usuarios-por-dia-en-amba",
+      "resources": [
+        {
+          "id": "34cd80ba-4f91-418f-8edd-6dda2ea43d34",
+          "downloadUrl": "https://archivos-datos.transporte.gob.ar/upload/Sube/total-usuarios-por-dia-AMBA.csv",
+          "name": "SUBE - Cantidad de tarjetas (usuarios) por día en AMBA",
+          "format": "CSV",
+          "updatedAt": "2022-04-01T21:48:59.723Z",
+          "description": "Cantidad de usuarios que utilizaron la tarjeta SUBE en el día indicado en el Área Metropolitana de Buenos Aires desagregado por modo de transporte.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/58e3b9bd-8590-412f-bb80-f40ceb730e5e/resource/34cd80ba-4f91-418f-8edd-6dda2ea43d34"
+        }
+      ],
+      "createdAt": "2022-04-01T21:32:06.760Z",
+      "updatedAt": "2023-04-12T17:09:46.411Z",
+      "contact": {
+        "name": "Dirección Nacional de Desarrollo Tecnológico - Ministerio de Transporte.",
+        "email": ""
+      }
+    },
+    {
+      "id": "7ecd466b-5c6d-443a-9b99-f245f9d9c654",
+      "name": "sube-cantidad-de-tarjetas-usuarios-por-fecha",
+      "title": "SUBE - Cantidad de tarjetas (usuarios) por fecha",
+      "keywords": [
+        "movilidad urbana",
+        "sube",
+        "transporte automotor",
+        "transporte ferroviario"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/sube-cantidad-de-tarjetas-usuarios-por-fecha",
+      "resources": [
+        {
+          "id": "5c343159-e73d-406d-991d-655f30c22885",
+          "downloadUrl": "https://archivos-datos.transporte.gob.ar/upload/Dat_Ab_Usuarios/dat-ab-usuarios-2023.csv",
+          "name": "SUBE - Cantidad de tarjetas (usuarios) por día en 2023",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Cantidad de tarjetas (usuarios) por día en 2023",
+          "landingUrl": ""
+        },
+        {
+          "id": "e4e58a15-0fc9-4893-8366-3b5dc1387dae",
+          "downloadUrl": "https://archivos-datos.transporte.gob.ar/upload/Dat_Ab_Usuarios/dat-ab-usuarios-2022.csv",
+          "name": "SUBE - Cantidad de tarjetas (usuarios) por día en 2022",
+          "format": "CSV",
+          "updatedAt": "2022-04-01T21:53:07.246Z",
+          "description": "Cantidad de tarjetas (usuarios) por día en 2022",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/7ecd466b-5c6d-443a-9b99-f245f9d9c654/resource/e4e58a15-0fc9-4893-8366-3b5dc1387dae"
+        },
+        {
+          "id": "ecb073d1-1d24-45ac-b6fc-2f09b87d32ee",
+          "downloadUrl": "https://archivos-datos.transporte.gob.ar/upload/Dat_Ab_Usuarios/dat-ab-usuarios-2021.csv",
+          "name": "SUBE - Cantidad de tarjetas (usuarios) por dia en 2021",
+          "format": "CSV",
+          "updatedAt": "2022-04-01T21:53:28.493Z",
+          "description": "Cantidad de tarjetas (usuarios) por día en 2021",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/7ecd466b-5c6d-443a-9b99-f245f9d9c654/resource/ecb073d1-1d24-45ac-b6fc-2f09b87d32ee"
+        },
+        {
+          "id": "ee85772f-5227-425c-8072-f7fbf76022a6",
+          "downloadUrl": "https://archivos-datos.transporte.gob.ar/upload/Dat_Ab_Usuarios/dat-ab-usuarios-2020.csv",
+          "name": "SUBE - Cantidad de tarjetas (usuarios) por dia en 2020",
+          "format": "CSV",
+          "updatedAt": "2022-04-01T21:53:52.614Z",
+          "description": "Cantidad de tarjetas (usuarios) por día en 2020",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/7ecd466b-5c6d-443a-9b99-f245f9d9c654/resource/ee85772f-5227-425c-8072-f7fbf76022a6"
+        }
+      ],
+      "createdAt": "2022-04-01T20:55:03.872Z",
+      "updatedAt": "2023-04-12T17:07:47.259Z",
+      "contact": {
+        "name": "Dirección Nacional de Desarrollo Tecnológico - Ministerio de Transporte.",
+        "email": ""
+      }
+    },
+    {
+      "id": "58873535-ff10-42bd-8db8-72f8ae15960f",
+      "name": "sube-cantidad-de-transacciones-usos-por-fecha",
+      "title": "SUBE - Cantidad de transacciones (usos) por fecha",
+      "keywords": [
+        "movilidad urbana",
+        "sube",
+        "transporte automotor",
+        "transporte ferroviario",
+        "transporte fluvial"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/sube-cantidad-de-transacciones-usos-por-fecha",
+      "resources": [
+        {
+          "id": "32bef76d-3b46-41d4-9a99-a9ad47955ffa",
+          "downloadUrl": "https://archivos-datos.transporte.gob.ar/upload/Dat_Ab_Usos/dat-ab-usos-2023.csv",
+          "name": "Cantidad de transacciones SUBE (usos) por día en 2023",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Cantidad de transacciones SUBE (usos) por día en 2023",
+          "landingUrl": ""
+        },
+        {
+          "id": "93410ab1-88df-457a-8e24-262d41211f9c",
+          "downloadUrl": "https://archivos-datos.transporte.gob.ar/upload/Dat_Ab_Usos/dat-ab-usos-2022.csv",
+          "name": "Cantidad de transacciones SUBE (usos) por día en 2022",
+          "format": "CSV",
+          "updatedAt": "2022-04-01T21:50:36.461Z",
+          "description": "Cantidad de transacciones SUBE (usos) por día en 2022",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/58873535-ff10-42bd-8db8-72f8ae15960f/resource/93410ab1-88df-457a-8e24-262d41211f9c"
+        },
+        {
+          "id": "b5ad6c87-28ae-4893-92bd-79b115d8b6e3",
+          "downloadUrl": "https://archivos-datos.transporte.gob.ar/upload/Dat_Ab_Usos/dat-ab-usos-2021.csv",
+          "name": "Cantidad de transacciones SUBE (usos) por día en 2021",
+          "format": "CSV",
+          "updatedAt": "2022-04-01T21:51:03.920Z",
+          "description": "Cantidad de transacciones SUBE (usos) por día en 2021",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/58873535-ff10-42bd-8db8-72f8ae15960f/resource/b5ad6c87-28ae-4893-92bd-79b115d8b6e3"
+        },
+        {
+          "id": "2075e4c0-24d0-46ec-a341-567fc42db003",
+          "downloadUrl": "https://archivos-datos.transporte.gob.ar/upload/Dat_Ab_Usos/dat-ab-usos-2020.csv",
+          "name": "Cantidad de transacciones SUBE (usos) por día en 2020",
+          "format": "CSV",
+          "updatedAt": "2022-04-01T21:51:54.230Z",
+          "description": "Cantidad de transacciones SUBE (usos) por día en 2020",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/58873535-ff10-42bd-8db8-72f8ae15960f/resource/2075e4c0-24d0-46ec-a341-567fc42db003"
+        }
+      ],
+      "createdAt": "2022-04-01T21:09:35.746Z",
+      "updatedAt": "2023-04-12T16:36:22.135Z",
+      "contact": {
+        "name": "Dirección Nacional de Desarrollo Tecnológico - Ministerio de Transporte.",
+        "email": ""
+      }
+    },
+    {
+      "id": "daa25bf0-5cf3-4c92-98c2-47d8d25e3ff5",
+      "name": "sube-operaciones-viaje-por-mes-region-metropolitana-buenos-aires",
+      "title": "SUBE Operaciones de viaje por mes de Región Metropolitana de Buenos Aires",
+      "keywords": [
+        "sube",
+        "transporte"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/sube-operaciones-viaje-por-mes-region-metropolitana-buenos-aires",
+      "resources": [
+        {
+          "id": "03b265af-e60f-4190-938e-171501fee65a",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/daa25bf0-5cf3-4c92-98c2-47d8d25e3ff5/resource/03b265af-e60f-4190-938e-171501fee65a/download/operaciones-de-viaje-por-periodo-modo-jurisdiccion-grupo-tarifario-empresa-linea-tipo-de-pasaje.csv",
+          "name": "Operaciones de viaje por Periodo - Modo - Jurisdicción - Grupo Tarifario - Empresa - Línea - Tipo de Pasaje",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:36:06.930Z",
+          "description": "Operaciones para trenes, subterráneos, pre metro y colectivos_x000D_\nOperaciones: uso (c/s integración tarifaría), venta de pasaje, check in (c/s integración tarifaría), checkout sin checkin",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/daa25bf0-5cf3-4c92-98c2-47d8d25e3ff5/resource/03b265af-e60f-4190-938e-171501fee65a"
+        },
+        {
+          "id": "faaf3cfa-9ce5-4f7a-8391-389ad9c2a83d",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/daa25bf0-5cf3-4c92-98c2-47d8d25e3ff5/resource/faaf3cfa-9ce5-4f7a-8391-389ad9c2a83d/download/operaciones-de-viaje-por-periodo-modo-jurisdiccion-grupo-tarifario-empresa-linea-tipo-de-pasaje.xlsx",
+          "name": "Operaciones de viaje por Periodo - Modo - Jurisdicción - Grupo Tarifario - Empresa - Línea - Tipo de Pasaje - Cantidad",
+          "format": "XLSX",
+          "updatedAt": "2022-04-01T22:17:34.188Z",
+          "description": "Operaciones para trenes, subterráneos, pre metro y colectivos_x000D_\nOperaciones: uso (c/s integración tarifaría), venta de pasaje, check in (c/s integración tarifaría), checkout sin checkin",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/daa25bf0-5cf3-4c92-98c2-47d8d25e3ff5/resource/faaf3cfa-9ce5-4f7a-8391-389ad9c2a83d"
+        },
+        {
+          "id": "86435ca4-916f-49fc-ba43-ef671f6b3bc8",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/daa25bf0-5cf3-4c92-98c2-47d8d25e3ff5/resource/86435ca4-916f-49fc-ba43-ef671f6b3bc8/download/sube-rmba-operaciones-_-periodo-modo-jurisdiccion-grupo-tarifario-empresa-linea-tipo-de-pasaje-.xlsx",
+          "name": "Diccionario de Datos",
+          "format": "XLSX",
+          "updatedAt": "2022-04-01T22:17:56.059Z",
+          "description": "Descripción de los campos de este dataset",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/daa25bf0-5cf3-4c92-98c2-47d8d25e3ff5/resource/86435ca4-916f-49fc-ba43-ef671f6b3bc8"
+        }
+      ],
+      "createdAt": "2022-03-30T22:36:42.303Z",
+      "updatedAt": "2023-06-02T16:56:43.803Z",
+      "contact": {
+        "name": "Dirección de Observatorio, Estudio y Sistemas – Ministerio de Transporte",
+        "email": "observatorio@transporte.gob.ar"
+      }
+    },
+    {
+      "id": "a615d532-f4bc-4148-815c-aa0d96d22197",
+      "name": "sube-operaciones-viaje-por-mes-region-metropolitana-buenos-aires-agregado",
+      "title": "SUBE Operaciones de viaje por mes de Región Metropolitana de Buenos Aires, agregado",
+      "keywords": [
+        "sube",
+        "transporte"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/sube-operaciones-viaje-por-mes-region-metropolitana-buenos-aires-agregado",
+      "resources": [
+        {
+          "id": "3ca165b6-79c2-41e0-9c1c-357d587c5d86",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/a615d532-f4bc-4148-815c-aa0d96d22197/resource/3ca165b6-79c2-41e0-9c1c-357d587c5d86/download/operaciones-de-viaje-por-periodo-modo-jurisdiccion-grupo-tarifario-empresa-linea.csv",
+          "name": "Operaciones de viaje por Periodo - Modo - Jurisdicción - Grupo Tarifario - Empresa - Línea",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:37:55.804Z",
+          "description": "Operaciones para trenes, subterráneos, pre metro y colectivos Operaciones: uso (c/s integración tarifaría), venta de pasaje, check in (c/s integración tarifaría), checkout sin checkin",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/a615d532-f4bc-4148-815c-aa0d96d22197/resource/3ca165b6-79c2-41e0-9c1c-357d587c5d86"
+        },
+        {
+          "id": "6b80c666-fcb3-4f42-a8a3-fd01588f4391",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/a615d532-f4bc-4148-815c-aa0d96d22197/resource/6b80c666-fcb3-4f42-a8a3-fd01588f4391/download/operaciones-de-viaje-por-periodo-modo-jurisdiccion-grupo-tarifario-empresa-linea.xlsx",
+          "name": "Operaciones de viaje por Periodo - Modo - Jurisdicción - Grupo Tarifario - Empresa - Línea",
+          "format": "XLSX",
+          "updatedAt": "2022-06-15T05:38:04.502Z",
+          "description": "Operaciones para trenes, subterráneos, pre metro y colectivos Operaciones: uso (c/s integración tarifaría), venta de pasaje, check in (c/s integración tarifaría), check out sin check in",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/a615d532-f4bc-4148-815c-aa0d96d22197/resource/6b80c666-fcb3-4f42-a8a3-fd01588f4391"
+        },
+        {
+          "id": "43a79b1d-4ab7-4cef-bc72-45de44e23b08",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/a615d532-f4bc-4148-815c-aa0d96d22197/resource/43a79b1d-4ab7-4cef-bc72-45de44e23b08/download/sube-rmba-operaciones-_-periodo-modo-jurisdiccion-grupo-tarifario-empresa-linea-cantidad-diccio.xlsx",
+          "name": "Diccionario de datos",
+          "format": "XLSX",
+          "updatedAt": "2022-06-15T05:38:06.320Z",
+          "description": "Descripción de los campos de este dataset",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/a615d532-f4bc-4148-815c-aa0d96d22197/resource/43a79b1d-4ab7-4cef-bc72-45de44e23b08"
+        }
+      ],
+      "createdAt": "2022-03-30T22:38:28.454Z",
+      "updatedAt": "2023-04-12T17:23:51.349Z",
+      "contact": {
+        "name": "Dirección de Observatorio, Estudio y Sistemas – Ministerio de Transporte",
+        "email": "observatorio@transporte.gob.ar"
+      }
+    },
+    {
+      "id": "04d3c354-e892-4495-b87a-cd5c3090135e",
+      "name": "subsidios-al-transporte-publico-de-pasajeros",
+      "title": "Subsidios al transporte público de pasajeros",
+      "keywords": [
+        "colectivos y trenes",
+        "subsidio",
+        "transporte general"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/subsidios-al-transporte-publico-de-pasajeros",
+      "resources": [
+        {
+          "id": "646fea11-db00-4a36-ad52-fa6a0b9ea8a4",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/04d3c354-e892-4495-b87a-cd5c3090135e/resource/646fea11-db00-4a36-ad52-fa6a0b9ea8a4/download/aportes_colectivoscd.csv",
+          "name": "Colectivos corta distancia",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:15:08.737Z",
+          "description": "Detalle de subsidios al transporte público de pasajeros en colectivos a corta distancia",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/04d3c354-e892-4495-b87a-cd5c3090135e/resource/646fea11-db00-4a36-ad52-fa6a0b9ea8a4"
+        },
+        {
+          "id": "d369e902-93ae-49e2-95f3-8c299a3e5b02",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/04d3c354-e892-4495-b87a-cd5c3090135e/resource/d369e902-93ae-49e2-95f3-8c299a3e5b02/download/aportes_colectivosld.csv",
+          "name": "Colectivos larga distancia",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:15:11.853Z",
+          "description": "Detalle de subsidios al transporte público de pasajeros en colectivos a larga distancia.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/04d3c354-e892-4495-b87a-cd5c3090135e/resource/d369e902-93ae-49e2-95f3-8c299a3e5b02"
+        },
+        {
+          "id": "a357fd7e-ea64-4b93-bc29-c36da64f8273",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/04d3c354-e892-4495-b87a-cd5c3090135e/resource/a357fd7e-ea64-4b93-bc29-c36da64f8273/download/aportes_trenesestado.csv",
+          "name": "Trenes Estado Nacional",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:15:15.387Z",
+          "description": "Detalle de subsidios al transporte público de pasajeros en trenes.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/04d3c354-e892-4495-b87a-cd5c3090135e/resource/a357fd7e-ea64-4b93-bc29-c36da64f8273"
+        },
+        {
+          "id": "1f5cc5fd-a318-478f-944f-cfb0bf50d150",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/04d3c354-e892-4495-b87a-cd5c3090135e/resource/1f5cc5fd-a318-478f-944f-cfb0bf50d150/download/sistau_rcc.csv",
+          "name": "RCC DEL DECRETO Nº 678/06",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:15:22.576Z",
+          "description": "Detalle de la asignación del régimen de compensaciones complementarias. Entre Julio de 2017 y Mayo de 2018.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/04d3c354-e892-4495-b87a-cd5c3090135e/resource/1f5cc5fd-a318-478f-944f-cfb0bf50d150"
+        },
+        {
+          "id": "508403c1-602d-4456-8131-0aa792aa303e",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/04d3c354-e892-4495-b87a-cd5c3090135e/resource/508403c1-602d-4456-8131-0aa792aa303e/download/sistau_sistau.csv",
+          "name": "ASIGNACION SISTAU",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:15:33.933Z",
+          "description": "Detalle de la asignación SISTAU entre Junio de 2017 y Junio de 2018.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/04d3c354-e892-4495-b87a-cd5c3090135e/resource/508403c1-602d-4456-8131-0aa792aa303e"
+        },
+        {
+          "id": "5c0765ed-8b0d-4a6c-8944-5bd62cb1c3a9",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/04d3c354-e892-4495-b87a-cd5c3090135e/resource/5c0765ed-8b0d-4a6c-8944-5bd62cb1c3a9/download/sistau_ccp.csv",
+          "name": "Compensaciones Complementarias Provinciales (CCP) - Art. 3º Decreto Nº 98/07",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T05:15:40.991Z",
+          "description": "Detalle de las compensaciones complementarias provinciales entre Junio de 2017 y Junio de 2018.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/04d3c354-e892-4495-b87a-cd5c3090135e/resource/5c0765ed-8b0d-4a6c-8944-5bd62cb1c3a9"
+        }
+      ],
+      "createdAt": "2022-04-07T15:29:28.342Z",
+      "updatedAt": "2023-04-12T17:46:05.719Z",
+      "contact": {
+        "name": "Ministerio de Transporte",
+        "email": ""
+      }
+    },
+    {
+      "id": "06207146-7570-4a9e-a959-e645e071f40d",
+      "name": "subsidios-sistau",
+      "title": "Sistema Integrado de Transporte Automotor (SISTAU)",
+      "keywords": [
+        "transparencia",
+        "transporte general"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/subsidios-sistau",
+      "resources": [
+        {
+          "id": "7ff97c7f-6ad3-408a-9cf6-7c381873d952",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/06207146-7570-4a9e-a959-e645e071f40d/resource/7ff97c7f-6ad3-408a-9cf6-7c381873d952/download/montos-totales-de-subsidios-al-transporte-automotor-2023.xlsx",
+          "name": "Montos totales de Subsidios al Transporte Automotor de Pasajeros 2023",
+          "format": "XLSX",
+          "updatedAt": "2023-08-28T20:25:25.280Z",
+          "description": "Montos totales de Subsidios al Transporte Automotor de Pasajeros 2023",
+          "landingUrl": ""
+        },
+        {
+          "id": "63ace92f-f6cc-40a6-ad80-d529348a9a07",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/06207146-7570-4a9e-a959-e645e071f40d/resource/63ace92f-f6cc-40a6-ad80-d529348a9a07/download/montos-totales-de-subsidios-al-transporte-automotor-marzo_2023.xlsx",
+          "name": "Montos totales de Subsidios al Transporte Automotor de Pasajeros 2022",
+          "format": "XLSX",
+          "updatedAt": "2023-03-13T18:32:38.825Z",
+          "description": "Montos totales de Subsidios al Transporte Automotor de Pasajeros 2022",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/06207146-7570-4a9e-a959-e645e071f40d/resource/63ace92f-f6cc-40a6-ad80-d529348a9a07"
+        },
+        {
+          "id": "9e83afd0-1c9c-4e78-b3e6-fe9a8fe4fe1c",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/06207146-7570-4a9e-a959-e645e071f40d/resource/9e83afd0-1c9c-4e78-b3e6-fe9a8fe4fe1c/download/montos_totales_09_2021.xlsx",
+          "name": "Montos totales de Subsidios al Transporte Automotor de Pasajeros 2021",
+          "format": "XLSX",
+          "updatedAt": "2022-06-15T05:28:33.168Z",
+          "description": "Montos totales de Subsidios al Transporte Automotor de Pasajeros 2021",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/06207146-7570-4a9e-a959-e645e071f40d/resource/9e83afd0-1c9c-4e78-b3e6-fe9a8fe4fe1c"
+        },
+        {
+          "id": "43bb8694-7f97-468d-9ba9-4acd355b06a2",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/06207146-7570-4a9e-a959-e645e071f40d/resource/43bb8694-7f97-468d-9ba9-4acd355b06a2/download/montos_totales_2020_1.xlsx",
+          "name": "Montos totales de Subsidios al Transporte Automotor de Pasajeros 2020",
+          "format": "XLSX",
+          "updatedAt": "2022-04-01T17:46:15.112Z",
+          "description": "Montos totales de Subsidios al Transporte Automotor de Pasajeros 2020",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/06207146-7570-4a9e-a959-e645e071f40d/resource/43bb8694-7f97-468d-9ba9-4acd355b06a2"
+        },
+        {
+          "id": "9f7e27c8-66c4-48d7-b7ef-764c131f589e",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/06207146-7570-4a9e-a959-e645e071f40d/resource/9f7e27c8-66c4-48d7-b7ef-764c131f589e/download/montos_totales_2019.xlsx",
+          "name": "Montos totales de Subsidios al Transporte Automotor de Pasajeros 2019",
+          "format": "XLSX",
+          "updatedAt": "2022-04-01T17:46:46.092Z",
+          "description": "Montos totales de Subsidios al Transporte Automotor de Pasajeros 2019",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/06207146-7570-4a9e-a959-e645e071f40d/resource/9f7e27c8-66c4-48d7-b7ef-764c131f589e"
+        },
+        {
+          "id": "eaa3f1c6-568f-44ef-b956-055b13b426dc",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/06207146-7570-4a9e-a959-e645e071f40d/resource/eaa3f1c6-568f-44ef-b956-055b13b426dc/download/compensacion-gasoil-2023.xlsx",
+          "name": "Compensación Precio diferencial del Gas oil por Petrolera 2023",
+          "format": "XLSX",
+          "updatedAt": "2023-06-21T16:35:04.609Z",
+          "description": "Compensación Precio diferencial del Gas oil por Petrolera 2023",
+          "landingUrl": ""
+        },
+        {
+          "id": "dc82740e-618c-47d6-9592-1c120bc5af8b",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/06207146-7570-4a9e-a959-e645e071f40d/resource/dc82740e-618c-47d6-9592-1c120bc5af8b/download/compensacion_gasoil_septiembre_2022.xlsx",
+          "name": "Compensación Precio diferencial del Gas oil por Petrolera 2022",
+          "format": "XLSX",
+          "updatedAt": "2022-11-10T15:31:22.078Z",
+          "description": "Compensación Precio diferencial del Gas oil por Petrolera 2022",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/06207146-7570-4a9e-a959-e645e071f40d/resource/dc82740e-618c-47d6-9592-1c120bc5af8b"
+        },
+        {
+          "id": "84f19d9f-54f0-4b2e-ad1e-6dbf88c4ae26",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/06207146-7570-4a9e-a959-e645e071f40d/resource/84f19d9f-54f0-4b2e-ad1e-6dbf88c4ae26/download/compensacion_precio_diferencial09_2021.xlsx",
+          "name": "Compensación Precio diferencial del Gas oil por Petrolera 2021",
+          "format": "XLSX",
+          "updatedAt": "2022-04-01T17:53:33.530Z",
+          "description": "Compensación Precio diferencial del Gas oil por Petrolera 2021",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/06207146-7570-4a9e-a959-e645e071f40d/resource/84f19d9f-54f0-4b2e-ad1e-6dbf88c4ae26"
+        },
+        {
+          "id": "d8f1aa4b-ef04-4679-86ee-a40b369c5145",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/06207146-7570-4a9e-a959-e645e071f40d/resource/d8f1aa4b-ef04-4679-86ee-a40b369c5145/download/compensacion_precio_diferencial_2020_1.xlsx",
+          "name": "Compensación Precio diferencial del Gas oil por Petrolera 2020",
+          "format": "XLSX",
+          "updatedAt": "2022-06-15T05:28:46.498Z",
+          "description": "Compensación Precio diferencial del Gas oil por Petrolera 2020",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/06207146-7570-4a9e-a959-e645e071f40d/resource/d8f1aa4b-ef04-4679-86ee-a40b369c5145"
+        },
+        {
+          "id": "e7c752e1-65a5-4eaa-b810-c3bf7a82539c",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/06207146-7570-4a9e-a959-e645e071f40d/resource/e7c752e1-65a5-4eaa-b810-c3bf7a82539c/download/compensacion_precio_diferencial_2019_1.xlsx",
+          "name": "Compensación Precio diferencial del Gas oil por Petrolera 2019",
+          "format": "XLSX",
+          "updatedAt": "2022-06-15T05:28:49.223Z",
+          "description": "Compensación Precio diferencial del Gas oil por Petrolera 2019",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/06207146-7570-4a9e-a959-e645e071f40d/resource/e7c752e1-65a5-4eaa-b810-c3bf7a82539c"
+        },
+        {
+          "id": "206ed955-123a-45bc-9831-0d5c2515f044",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/06207146-7570-4a9e-a959-e645e071f40d/resource/206ed955-123a-45bc-9831-0d5c2515f044/download/compensaciones_cuit_amba_2020.xlsx",
+          "name": "Compensaciones por CUIT - AMBA 2020",
+          "format": "XLSX",
+          "updatedAt": "2022-06-15T05:28:52.799Z",
+          "description": "Detalle compensaciones por CUIT - AMBA - período 2020",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/06207146-7570-4a9e-a959-e645e071f40d/resource/206ed955-123a-45bc-9831-0d5c2515f044"
+        },
+        {
+          "id": "faf34ae2-b5fc-4c1c-b40e-7d8a89a5f790",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/06207146-7570-4a9e-a959-e645e071f40d/resource/faf34ae2-b5fc-4c1c-b40e-7d8a89a5f790/download/compensaciones_cuit_amba_2019.xlsx",
+          "name": "Compensaciones por CUIT - AMBA 2019",
+          "format": "XLSX",
+          "updatedAt": "2022-06-15T05:28:58.099Z",
+          "description": "Detalle compensaciones por CUIT - AMBA - período 2019",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/06207146-7570-4a9e-a959-e645e071f40d/resource/faf34ae2-b5fc-4c1c-b40e-7d8a89a5f790"
+        }
+      ],
+      "createdAt": "2022-04-01T17:38:03.633Z",
+      "updatedAt": "2023-08-30T16:46:20.746Z",
+      "contact": {
+        "name": "Dirección de Acceso a la Información Pública y Transparencia",
+        "email": "accesoalainformacion@transporte.gob.ar"
+      }
+    },
+    {
+      "id": "fb9311f5-b99a-4746-b7c5-eace0035008c",
+      "name": "terminales-automaticas-sube",
+      "title": "Terminales Automáticas SUBE",
+      "keywords": [
+        "red de carga",
+        "sube",
+        "tarjeta"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/terminales-automaticas-sube",
+      "resources": [
+        {
+          "id": "a70e9985-a6de-4d3f-94e7-4c14da0ab302",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/fb9311f5-b99a-4746-b7c5-eace0035008c/resource/a70e9985-a6de-4d3f-94e7-4c14da0ab302/download/sube_terminales_autoservicio_activas_2019-10-01.zip",
+          "name": "Terminales automáticas SUBE",
+          "format": "SHP",
+          "updatedAt": "2022-06-15T05:34:10.778Z",
+          "description": "activos al 01/10/2019_x000D_\nformato shape",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/fb9311f5-b99a-4746-b7c5-eace0035008c/resource/a70e9985-a6de-4d3f-94e7-4c14da0ab302"
+        },
+        {
+          "id": "95f0cd3e-e611-4feb-b88f-f669b79a0eeb",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/fb9311f5-b99a-4746-b7c5-eace0035008c/resource/95f0cd3e-e611-4feb-b88f-f669b79a0eeb/download/sube_terminales_autoservicio_activas_2019-10-01.kml",
+          "name": "Terminales automáticas SUBE",
+          "format": "KML",
+          "updatedAt": "2022-06-15T05:34:15.140Z",
+          "description": "activos al 01/10/2019",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/fb9311f5-b99a-4746-b7c5-eace0035008c/resource/95f0cd3e-e611-4feb-b88f-f669b79a0eeb"
+        },
+        {
+          "id": "e2a67874-0b8b-485e-bace-a8e3a4cf86d1",
+          "downloadUrl": "https://datos.transporte.gob.ar/dataset/fb9311f5-b99a-4746-b7c5-eace0035008c/resource/e2a67874-0b8b-485e-bace-a8e3a4cf86d1/download/sube_terminales_autoservicio_activas_2019-10-01.geojson",
+          "name": "Terminales automáticas SUBE",
+          "format": "GeoJSON",
+          "updatedAt": "2022-06-15T05:34:19.156Z",
+          "description": "activos al 01/10/2019",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/fb9311f5-b99a-4746-b7c5-eace0035008c/resource/e2a67874-0b8b-485e-bace-a8e3a4cf86d1"
+        }
+      ],
+      "createdAt": "2022-04-01T16:42:25.673Z",
+      "updatedAt": "2023-04-12T17:33:29.594Z",
+      "contact": {
+        "name": "SUBE - Nación Servicios",
+        "email": ""
+      }
+    },
+    {
+      "id": "f07d3f14-64ce-475b-9788-2603dd2fe02e",
+      "name": "terminales-portuarias",
+      "title": "Terminales Portuarias",
+      "keywords": [
+        "fluvial",
+        "transporte",
+        "terminales"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/terminales-portuarias",
+      "resources": [
+        {
+          "id": "8fbf707b-00ec-4786-a5f0-7ca7b0c31347",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.3.1.terminales_portuarias_view&maxFeatures=150&outputFormat=shape-zip",
+          "name": "Terminales Portuarias",
+          "format": "ZIP",
+          "updatedAt": "2019-06-24T10:57:48.721Z",
+          "description": "Archivo 'shape' de Terminales Portuarias de la República Argentina. Fuente: Observatorio Nacional de Transporte. Año: 2019.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f07d3f14-64ce-475b-9788-2603dd2fe02e/resource/8fbf707b-00ec-4786-a5f0-7ca7b0c31347"
+        },
+        {
+          "id": "0d4d9400-c0c9-41f7-84b6-f13c2f6cbb4d",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.3.1.terminales_portuarias_view&maxFeatures=150&outputFormat=application%2Fjson",
+          "name": "Terminales Portuarias",
+          "format": "GeoJSON",
+          "updatedAt": "2019-06-24T10:58:02.141Z",
+          "description": "Archivo 'GeoJSON' de Terminales Portuarias de la República Argentina. Fuente: Observatorio Nacional de Transporte. Año: 2019.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f07d3f14-64ce-475b-9788-2603dd2fe02e/resource/0d4d9400-c0c9-41f7-84b6-f13c2f6cbb4d"
+        },
+        {
+          "id": "a115ada4-11fa-4b3b-8e10-ee7b3d3104d5",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.3.1.terminales_portuarias_view&maxFeatures=150&outputFormat=kml",
+          "name": "Terminales Portuarias",
+          "format": "KML",
+          "updatedAt": "2019-06-24T10:58:11.399Z",
+          "description": "Archivo 'KML' de Terminales Portuarias de la República Argentina. Fuente: Observatorio Nacional de Transporte. Año: 2019.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/f07d3f14-64ce-475b-9788-2603dd2fe02e/resource/a115ada4-11fa-4b3b-8e10-ee7b3d3104d5"
+        }
+      ],
+      "createdAt": "2022-04-01T16:43:38.832Z",
+      "updatedAt": "2023-04-12T17:02:03.619Z",
+      "contact": {
+        "name": "Dirección de Observatorio Nacional de Transporte",
+        "email": "dotes@transporte.gob.ar"
+      }
+    },
+    {
+      "id": "bc0e36f6-9775-4f20-86b5-56bf34baa224",
+      "name": "tmda",
+      "title": "TMDA",
+      "keywords": [
+        "automotor",
+        "transito",
+        "transporte",
+        "vialidad"
+      ],
+      "landingPage": "https://datos.transporte.gob.ar/dataset/tmda",
+      "resources": [
+        {
+          "id": "0601a874-9ae6-431a-bd9d-ae435c558f70",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.1.4.1.tmda_17_18_view&maxFeatures=1550&outputFormat=shape-zip",
+          "name": "TMDA",
+          "format": "ZIP",
+          "updatedAt": "2019-06-24T10:29:55.869Z",
+          "description": "Archivo \"shape\" del tránsito medio diario de las rutas nacionales. Fuente: Dirección Nacional de Vialidad. Año: 2017.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/bc0e36f6-9775-4f20-86b5-56bf34baa224/resource/0601a874-9ae6-431a-bd9d-ae435c558f70"
+        },
+        {
+          "id": "08bb7b07-af98-4e81-bb45-7fd42bebda28",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.1.4.1.tmda_17_18_view&maxFeatures=1550&outputFormat=kml",
+          "name": "TMDA",
+          "format": "KML",
+          "updatedAt": "2019-06-24T10:30:30.643Z",
+          "description": "Archivo \"KML\" del tránsito medio diario de las rutas nacionales. Fuente: Dirección Nacional de Vialidad. Año: 2017.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/bc0e36f6-9775-4f20-86b5-56bf34baa224/resource/08bb7b07-af98-4e81-bb45-7fd42bebda28"
+        },
+        {
+          "id": "d43a3e36-2143-4b91-8b2b-6d718b61070a",
+          "downloadUrl": "https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=observ:_3.4.1.4.1.tmda_17_18_view&maxFeatures=1550&outputFormat=application%2Fjson",
+          "name": "TMDA",
+          "format": "GeoJSON",
+          "updatedAt": "2019-06-24T10:30:58.010Z",
+          "description": "Archivo \"GeoJSON\" del tránsito medio diario de las rutas nacionales. Fuente: Dirección Nacional de Vialidad. Año: 2017.",
+          "landingUrl": "https://datos.transporte.gob.ar/dataset/bc0e36f6-9775-4f20-86b5-56bf34baa224/resource/d43a3e36-2143-4b91-8b2b-6d718b61070a"
+        }
+      ],
+      "createdAt": "2022-04-01T16:44:22.776Z",
+      "updatedAt": "2023-04-12T17:15:34.572Z",
+      "contact": {
+        "name": "Dirección de Observatorio Nacional de Transporte",
+        "email": "dotes@transporte.gob.ar"
+      }
+    }
+  ],
+  "organizations": [],
+  "updatedAt": "2023-12-09T08:58:54.034Z"
+}

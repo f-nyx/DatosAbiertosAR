@@ -1,0 +1,947 @@
+{
+  "id": "yZ3nhGUtXh",
+  "datasets": [
+    {
+      "id": "bbfd1341-843b-43ff-9250-39d8b67712a6",
+      "name": "compras-y-contrataciones-ministerio-de-defensa",
+      "title": "Compras y contrataciones Ministerio de Defensa",
+      "keywords": [
+        "compras",
+        "contrataciones",
+        "covid"
+      ],
+      "landingPage": "http://datos.mindef.gov.ar/dataset/compras-y-contrataciones-ministerio-de-defensa",
+      "resources": [
+        {
+          "id": "8e11cdd3-042d-456e-a2da-285dab8b4200",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/bbfd1341-843b-43ff-9250-39d8b67712a6/resource/8e11cdd3-042d-456e-a2da-285dab8b4200/download/contrataciones-covid-19-mindef.xlsx",
+          "name": "Compras y contrataciones COVID-19 ",
+          "format": ".xlsx",
+          "updatedAt": "2021-08-05T15:31:39.224Z",
+          "description": "Compras y contrataciones realizadas en el marco del Covid-19 por el Ministerio de Defensa",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-07-20T16:09:59.296Z",
+      "updatedAt": "2021-08-05T15:31:39.252Z",
+      "contact": {
+        "name": "Ministerio de Defensa - Dirección de Gestión de Adquisiciones",
+        "email": ""
+      }
+    },
+    {
+      "id": "dd0d361d-bad5-46f6-bffd-af0fe51d9489",
+      "name": "declaraciones-juradas-2019",
+      "title": "Declaraciones Juradas 2019",
+      "keywords": [
+        "2019",
+        "ddjj",
+        "ddjj2019",
+        "declaraciones juradas"
+      ],
+      "landingPage": "http://datos.mindef.gov.ar/dataset/declaraciones-juradas-2019",
+      "resources": [
+        {
+          "id": "b51adb47-1beb-4a59-95fb-d4106771be56",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/dd0d361d-bad5-46f6-bffd-af0fe51d9489/resource/b51adb47-1beb-4a59-95fb-d4106771be56/download/ddjj-2019.rar",
+          "name": "Declaraciones Juradas 2019",
+          "format": "RAR",
+          "updatedAt": "2021-02-02T20:02:34.050Z",
+          "description": "Declaraciones Juradas 2019",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-02-02T20:01:19.218Z",
+      "updatedAt": "2021-02-02T20:02:39.057Z",
+      "contact": {
+        "name": "Ministerio de Defensa - Dirección de Transparencia Institucional",
+        "email": "transparencia@mindef.gov.ar"
+      }
+    },
+    {
+      "id": "d7453c13-9c4a-4ce3-8af4-c99a331ba750",
+      "name": "defensa-auditorias",
+      "title": "Defensa-Auditorias",
+      "keywords": [
+        "auditoria",
+        "auditorias",
+        "defensa",
+        "ministerio"
+      ],
+      "landingPage": "http://datos.mindef.gov.ar/dataset/defensa-auditorias",
+      "resources": [
+        {
+          "id": "41fc92e4-aad4-46c6-980c-98613dd4f5b6",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/d7453c13-9c4a-4ce3-8af4-c99a331ba750/resource/41fc92e4-aad4-46c6-980c-98613dd4f5b6/download/defensa-auditorias.csv",
+          "name": "Auditorías Ministerio de Defensa",
+          "format": "CSV",
+          "updatedAt": "2019-07-31T18:52:09.112Z",
+          "description": "Auditorías realizadas por el Ministerio de Defensa",
+          "landingUrl": ""
+        },
+        {
+          "id": "9918e521-ddc2-46c1-bab1-04487d38f14d",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/d7453c13-9c4a-4ce3-8af4-c99a331ba750/resource/9918e521-ddc2-46c1-bab1-04487d38f14d/download/auditorias-serie-de-tiempo-2016-2020.csv",
+          "name": "Auditorias del Ministerio de Defensa",
+          "format": "CSV",
+          "updatedAt": "2021-03-10T22:46:10.531Z",
+          "description": "Listado de Auditorias realizadas por la Unidad de Auditoría Interna (UAI) del Ministerio de Defensa, período 2016 - 2020.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-07-31T18:39:28.946Z",
+      "updatedAt": "2021-03-10T22:48:51.899Z",
+      "contact": {
+        "name": "Ministerio de Defensa. Unidad de Auditoría Interna.",
+        "email": "uaidefensa@mindef.gov.ar"
+      }
+    },
+    {
+      "id": "e32525cd-8922-42df-a2b3-50d2ec490d70",
+      "name": "fragata-libertad",
+      "title": "Fragata Libertad",
+      "keywords": [
+        "armada argentina",
+        "fragata",
+        "instrucción",
+        "viajes"
+      ],
+      "landingPage": "http://datos.mindef.gov.ar/dataset/fragata-libertad",
+      "resources": [
+        {
+          "id": "f9d049ef-127a-4bd4-9bdc-d40c12cd76fc",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/e32525cd-8922-42df-a2b3-50d2ec490d70/resource/f9d049ef-127a-4bd4-9bdc-d40c12cd76fc/download/viajes-instruccion-fragata-libertad-historico.csv",
+          "name": "Fragata Libertad",
+          "format": "CSV",
+          "updatedAt": "2019-04-23T13:27:46.350Z",
+          "description": "Histórico de viajes de a Fragata Libertad",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-04-22T17:03:53.467Z",
+      "updatedAt": "2019-04-23T13:28:29.782Z",
+      "contact": {
+        "name": "Ministerio de Defensa. Armada Argentina. Departamento Prensa y Difusión.",
+        "email": ""
+      }
+    },
+    {
+      "id": "9b4767d9-6102-46ae-a720-047dd2de79f0",
+      "name": "instituto-penal-fuerzas-armadas",
+      "title": "Instituto Penal de las Fuerzas Armadas",
+      "keywords": [
+        "fuerzas armadas",
+        "legajos",
+        "penal"
+      ],
+      "landingPage": "http://datos.mindef.gov.ar/dataset/instituto-penal-fuerzas-armadas",
+      "resources": [
+        {
+          "id": "298d6708-e497-4224-9104-964408ca30e1",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/9b4767d9-6102-46ae-a720-047dd2de79f0/resource/298d6708-e497-4224-9104-964408ca30e1/download/legajos-internos-instituto-penal-fuerzas-armadas-magdalena.csv",
+          "name": "Legajos del Instituto Penal de las Fuerzas Armadas",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T18:04:55.320Z",
+          "description": "Archivo Abierto con datos de los Legajos Internos del Penal de las Fuerzas Armadas",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-02-26T18:02:59.627Z",
+      "updatedAt": "2019-03-25T17:45:27.952Z",
+      "contact": {
+        "name": "Ministerio de Defensa. Dirección Nacional de los Derechos Humanos y el Derecho Internacional Humanitario. Sistema de Archivos de la Defensa (SAD).",
+        "email": "archivosabiertos@mindef.gov.ar"
+      }
+    },
+    {
+      "id": "d2a4e8c2-b955-4765-9079-109500979386",
+      "name": "inventario-causa-13",
+      "title": "Inventario de documentos utilizados en la Causa XIII en Juicio a las Juntas Militares",
+      "keywords": [
+        "13",
+        "abiertos",
+        "archivos",
+        "causa"
+      ],
+      "landingPage": "http://datos.mindef.gov.ar/dataset/inventario-causa-13",
+      "resources": [
+        {
+          "id": "e0b7d766-c634-4449-8f31-f9be36a4870e",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/d2a4e8c2-b955-4765-9079-109500979386/resource/e0b7d766-c634-4449-8f31-f9be36a4870e/download/inventario-causa-13.csv",
+          "name": "Causa 13",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T18:02:26.914Z",
+          "description": "Registro de documentos usados por la defensa de la Fuerza Aérea Argentina en la denominada “Causa 13”, en el marco del Juicio a las Juntas Militares (1984-1985).",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-02-26T17:53:17.750Z",
+      "updatedAt": "2019-03-25T17:41:52.125Z",
+      "contact": {
+        "name": "Dirección Nacional de los Derechos Humanos y del Derecho Internacional Humanitario. Sistema de Archivos de la Defensa (SAD)",
+        "email": "archivosabiertos@mindef.gov.ar"
+      }
+    },
+    {
+      "id": "e73c6aff-e2e3-46b2-adf9-3933f8727f13",
+      "name": "inventario-edificio-condor",
+      "title": "Inventario de documentos hallados en el Edificio Condor",
+      "keywords": [
+        "abiertos",
+        "aerea",
+        "archivos",
+        "armadas",
+        "condor",
+        "edificio",
+        "fuerza",
+        "fuerzas"
+      ],
+      "landingPage": "http://datos.mindef.gov.ar/dataset/inventario-edificio-condor",
+      "resources": [
+        {
+          "id": "70511355-1079-4739-8366-3951b4ae91eb",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/e73c6aff-e2e3-46b2-adf9-3933f8727f13/resource/70511355-1079-4739-8366-3951b4ae91eb/download/registro-hallazgo-edificio-condor.csv",
+          "name": "Inventario del Edificio Cóndor",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T18:18:19.753Z",
+          "description": "Registro de los documentos de archivo hallados en el Edificio Cóndor de la Fuerza Aérea Argentina, a fines del año 2013.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-02-26T18:09:08.964Z",
+      "updatedAt": "2019-03-25T17:58:13.427Z",
+      "contact": {
+        "name": "Ministerio de Defensa. Dirección Nacional de los Derechos Humanos y del Derecho Humanitario Internacional. Sistema de Archivos de la Defensa (SAD).",
+        "email": "archivosabiertos@mindef.gov.ar"
+      }
+    },
+    {
+      "id": "a6108291-4809-42d8-ac57-498afd5973e3",
+      "name": "inventario-fondo-rojas",
+      "title": "Inventario sobre documental Isaac Francisco Rojas.",
+      "keywords": [
+        "abiertos",
+        "archivos",
+        "documental",
+        "estudios",
+        "fondo",
+        "historicos",
+        "naval",
+        "rojas"
+      ],
+      "landingPage": "http://datos.mindef.gov.ar/dataset/inventario-fondo-rojas",
+      "resources": [
+        {
+          "id": "e5538f74-5a1e-4f51-838a-f576a0176c84",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/a6108291-4809-42d8-ac57-498afd5973e3/resource/e5538f74-5a1e-4f51-838a-f576a0176c84/download/inventario-fondo-rojas-direccion-estudios-historicos-navales.csv",
+          "name": "Inventario Fondo Rojas: Dirección de Estudios Históricos Navales",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T18:25:33.863Z",
+          "description": "Inventario analítico de los documentos de archivo que integran el Fondo documental “Isaac Francisco Rojas”, preservados en el Departamento de Estudios Históricos Navales.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-02-26T18:22:43.298Z",
+      "updatedAt": "2019-03-25T17:40:32.443Z",
+      "contact": {
+        "name": "Ministerio de Defensa. Dirección Nacional de los Derechos Humanos y del Derecho Humanitario Internacional. Sistema de Archivos de la Defensa (SAD).",
+        "email": "archivosabiertos@mindef.gov.ar"
+      }
+    },
+    {
+      "id": "1d283b99-5f5e-46d1-a7f7-3371b98619b5",
+      "name": "inventario-malvinas-armada-comision-analisis-acciones-combate",
+      "title": "Inventario de la Comisión de Análisis de Acciones en Combate en Malvinas de la Armada Argentina",
+      "keywords": [],
+      "landingPage": "http://datos.mindef.gov.ar/dataset/inventario-malvinas-armada-comision-analisis-acciones-combate",
+      "resources": [
+        {
+          "id": "182344b1-815a-4f59-ac7f-ebb70d0c58ef",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/1d283b99-5f5e-46d1-a7f7-3371b98619b5/resource/182344b1-815a-4f59-ac7f-ebb70d0c58ef/download/malvinas-armada-comision-analisis-acciones-combate.csv",
+          "name": "Fondo Documental Malvinas de la Armada: Comisión de análisis acciones de combate",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T18:39:28.805Z",
+          "description": "Fondo documental “Comisión de Análisis de Acciones en Combate” y la colección “Historiales Malvinas del Comando de Operaciones Navales\"",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-02-26T18:37:12.743Z",
+      "updatedAt": "2019-03-25T17:58:54.350Z",
+      "contact": {
+        "name": "Ministerio de Defensa. Dirección Nacional de los Derechos Humanos y del Derecho Humanitario Internacional. Sistema de Archivos de la Defensa (SAD).",
+        "email": "archivosabiertos@mindef.gov.ar"
+      }
+    },
+    {
+      "id": "f8f265c3-ae52-483d-b27a-c4c274ec5d4e",
+      "name": "inventario-serie-actas-junta-militar",
+      "title": "Inventario de la serie de Actas de la Reunión de la Junta Militar",
+      "keywords": [
+        "abiertos",
+        "actas",
+        "archivos",
+        "junta",
+        "militar"
+      ],
+      "landingPage": "http://datos.mindef.gov.ar/dataset/inventario-serie-actas-junta-militar",
+      "resources": [
+        {
+          "id": "945670aa-8346-4bf1-99ae-1b1a15e22433",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/f8f265c3-ae52-483d-b27a-c4c274ec5d4e/resource/945670aa-8346-4bf1-99ae-1b1a15e22433/download/inventario-serie-actas-junta-militar.csv",
+          "name": "Inventario de la Serie Actas de la Junta Militar",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T18:45:25.984Z",
+          "description": "Inventario analítico de la serie documental “Actas de reunión de la Junta Militar (1976-1983)”.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-02-26T18:44:14.982Z",
+      "updatedAt": "2019-03-25T17:57:45.307Z",
+      "contact": {
+        "name": "Ministerio de Defensa. Dirección Nacional de los Derechos Humanos y del Derecho Humanitario Internacional. Sistema de Archivos de la Defensa (SAD).",
+        "email": "archivosabiertos@mindef.gov.ar"
+      }
+    },
+    {
+      "id": "9b77046d-c202-4589-83ac-9b7937592cc7",
+      "name": "inventario-servicio-historico-ejercito",
+      "title": "Inventario del Servicio Histórico del Ejército Argentino",
+      "keywords": [
+        "abiertos",
+        "archivos",
+        "atlantico",
+        "belico",
+        "comision",
+        "conflicto",
+        "ejercito",
+        "especial",
+        "historico",
+        "malvinas",
+        "servicio",
+        "sur"
+      ],
+      "landingPage": "http://datos.mindef.gov.ar/dataset/inventario-servicio-historico-ejercito",
+      "resources": [
+        {
+          "id": "1266a8ec-a133-4f4a-895e-c7440d1cb82b",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/9b77046d-c202-4589-83ac-9b7937592cc7/resource/1266a8ec-a133-4f4a-895e-c7440d1cb82b/download/servicio-historico-ejercito-fondo-comision-especial-malvinas.csv",
+          "name": "Servicio Histórico del Ejército - Fondo Comisión Especial Malvinas",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T18:52:05.636Z",
+          "description": "Inventario analítico de los documentos de archivo que integran el Fondo documental “Comisión Especial Malvinas”.",
+          "landingUrl": ""
+        },
+        {
+          "id": "7e5b75d4-dba2-45f2-bf4a-327bc76ab1be",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/9b77046d-c202-4589-83ac-9b7937592cc7/resource/7e5b75d4-dba2-45f2-bf4a-327bc76ab1be/download/servicio-historico-ejercito-fondo-comision-especial-malvinas-adhesiones.csv",
+          "name": "Servicio Histórico del Ejército - Fondo Comisión Especial Malvinas: Sección Adhesiones",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T18:53:56.331Z",
+          "description": "Inventario analítico de los documentos de archivo que integran el Fondo documental “Comisión Especial Malvinas”."
+        },
+        {
+          "id": "a6d4fe02-169f-4139-8140-d3892d35471b",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/9b77046d-c202-4589-83ac-9b7937592cc7/resource/a6d4fe02-169f-4139-8140-d3892d35471b/download/servicio-historico-ejercito-fondo-comision-especial-malvinas-administracion-britanica.csv",
+          "name": "Servicio Histórico del Ejército - Fondo Comisión Especial Malvinas: Sección Administración Británica",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T18:54:40.904Z",
+          "description": "Inventario analítico de los documentos de archivo que integran el Fondo documental “Comisión Especial Malvinas”.",
+          "landingUrl": ""
+        },
+        {
+          "id": "e81deb89-cffc-4a16-a375-f0e2462d2964",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/9b77046d-c202-4589-83ac-9b7937592cc7/resource/e81deb89-cffc-4a16-a375-f0e2462d2964/download/servicio-historico-ejercito-fondo-comision-especial-malvinas-cancilleria.csv",
+          "name": "Servicio Histórico del Ejército - Fondo Comisión Especial Malvinas: Sección Cancillería",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T18:55:46.258Z",
+          "description": "Inventario analítico de los documentos de archivo que integran el Fondo documental “Comisión Especial Malvinas”.",
+          "landingUrl": ""
+        },
+        {
+          "id": "7470dc3f-37eb-45e7-8b4a-344c61540125",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/9b77046d-c202-4589-83ac-9b7937592cc7/resource/7470dc3f-37eb-45e7-8b4a-344c61540125/download/servicio-historico-ejercito-fondo-comision-especial-malvinas-cancilleria-prensa.csv",
+          "name": "Servicio Histórico del Ejército - Fondo Comisión Especial Malvinas: Sección Cancillería Prensa",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T18:56:29.169Z",
+          "description": "Inventario analítico de los documentos de archivo que integran el Fondo documental “Comisión Especial Malvinas”."
+        },
+        {
+          "id": "dff59b7a-d3ab-4aba-8faf-fa21f1d0e566",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/9b77046d-c202-4589-83ac-9b7937592cc7/resource/dff59b7a-d3ab-4aba-8faf-fa21f1d0e566/download/servicio-historico-ejercito-fondo-comision-especial-malvinas-consejo-supremo-fuerzas-armadas.csv",
+          "name": "Servicio Histórico del Ejército - Fondo Comisión Especial Malvinas:Sección  Consejo Supremo Fuerzas Armadas",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T18:57:36.591Z",
+          "description": "Inventario analítico de los documentos de archivo que integran el Fondo documental “Comisión Especial Malvinas”."
+        },
+        {
+          "id": "24c590b1-e459-4ad5-9812-08be4ea2a9ab",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/9b77046d-c202-4589-83ac-9b7937592cc7/resource/24c590b1-e459-4ad5-9812-08be4ea2a9ab/download/servicio-historico-ejercito-fondo-comision-especial-malvinas-consejo-supremo-fuerzas-armadas-cri.csv",
+          "name": "Servicio Histórico del Ejército - Fondo Comisión Especial Malvinas: Sección Consejo Supremo Fuerzas Armadas Crim",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T18:58:15.116Z",
+          "description": "Inventario analítico de los documentos de archivo que integran el Fondo documental “Comisión Especial Malvinas”.",
+          "landingUrl": ""
+        },
+        {
+          "id": "c799d6ba-65ed-4688-b930-90ce36a23079",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/9b77046d-c202-4589-83ac-9b7937592cc7/resource/c799d6ba-65ed-4688-b930-90ce36a23079/download/servicio-historico-ejercito-fondo-comision-especial-malvinas-diario-guerra.csv",
+          "name": "Servicio Histórico del Ejército - Fondo Comisión Especial Malvinas: Sección Diario de Guerra",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T18:58:42.914Z",
+          "description": "Inventario analítico de los documentos de archivo que integran el Fondo documental “Comisión Especial Malvinas”.",
+          "landingUrl": ""
+        },
+        {
+          "id": "130c1107-da62-4b05-91f3-c96e8712e491",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/9b77046d-c202-4589-83ac-9b7937592cc7/resource/130c1107-da62-4b05-91f3-c96e8712e491/download/servicio-historico-ejercito-fondo-comision-especial-malvinas-documentos-britanicos.csv",
+          "name": "Servicio Histórico del Ejército - Fondo Comisión Especial Malvinas: Sección Documentos Británicos",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T18:59:23.840Z",
+          "description": "Inventario analítico de los documentos de archivo que integran el Fondo documental “Comisión Especial Malvinas”."
+        },
+        {
+          "id": "77ebd806-2127-4424-b3e8-96149a862a8a",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/9b77046d-c202-4589-83ac-9b7937592cc7/resource/77ebd806-2127-4424-b3e8-96149a862a8a/download/servicio-historico-ejercito-fondo-comision-especial-malvinas-ex-comandantes.csv",
+          "name": "Servicio Histórico del Ejército - Fondo Comisión Especial Malvinas: Sección Ex Comandantes",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T18:59:55.622Z",
+          "description": "Inventario analítico de los documentos de archivo que integran el Fondo documental “Comisión Especial Malvinas”."
+        },
+        {
+          "id": "316d1145-f717-4989-b1db-c9fb7ba6806b",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/9b77046d-c202-4589-83ac-9b7937592cc7/resource/316d1145-f717-4989-b1db-c9fb7ba6806b/download/servicio-historico-ejercito-fondo-comision-especial-malvinas-informes-experiencias.csv",
+          "name": "Servicio Histórico del Ejército - Fondo Comisión Especial Malvinas: Sección Informes Experiencias",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T19:01:45.391Z",
+          "description": "Inventario analítico de los documentos de archivo que integran el Fondo documental “Comisión Especial Malvinas”."
+        },
+        {
+          "id": "37017e58-1e6c-4022-8d1c-03e9da7ea4a5",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/9b77046d-c202-4589-83ac-9b7937592cc7/resource/37017e58-1e6c-4022-8d1c-03e9da7ea4a5/download/servicio-historico-ejercito-fondo-comision-especial-malvinas-inteligencia.csv",
+          "name": "Servicio Histórico del Ejército - Fondo Comisión Especial Malvinas: Sección Inteligencia",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T19:02:15.527Z",
+          "description": "Inventario analítico de los documentos de archivo que integran el Fondo documental “Comisión Especial Malvinas”."
+        },
+        {
+          "id": "8993727d-aeca-4666-9e77-3ee8ae782842",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/9b77046d-c202-4589-83ac-9b7937592cc7/resource/8993727d-aeca-4666-9e77-3ee8ae782842/download/servicio-historico-ejercito-fondo-comision-especial-malvinas-logistica.csv",
+          "name": "Servicio Histórico del Ejército - Fondo Comisión Especial Malvinas: Sección Logística",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T19:05:13.451Z",
+          "description": "Inventario analítico de los documentos de archivo que integran el Fondo documental “Comisión Especial Malvinas”."
+        },
+        {
+          "id": "4a78c8d3-0ce8-4f28-afac-361ec5d7de76",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/9b77046d-c202-4589-83ac-9b7937592cc7/resource/4a78c8d3-0ce8-4f28-afac-361ec5d7de76/download/servicio-historico-ejercito-fondo-comision-especial-malvinas-operaciones.csv",
+          "name": "Servicio Histórico del Ejército - Fondo Comisión Especial Malvinas: Sección Operaciones",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T19:06:50.522Z",
+          "description": "Inventario analítico de los documentos de archivo que integran el Fondo documental “Comisión Especial Malvinas”."
+        },
+        {
+          "id": "52aa4ce1-628a-4893-b40a-97c9526a2027",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/9b77046d-c202-4589-83ac-9b7937592cc7/resource/52aa4ce1-628a-4893-b40a-97c9526a2027/download/servicio-historico-ejercito-fondo-comision-especial-malvinas-personal.csv",
+          "name": "Servicio Histórico del Ejército - Fondo Comisión Especial Malvinas: Sección Personal",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T19:07:17.270Z",
+          "description": "Inventario analítico de los documentos de archivo que integran el Fondo documental “Comisión Especial Malvinas”."
+        },
+        {
+          "id": "6652aec9-2353-43a4-99ee-0711ff30adda",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/9b77046d-c202-4589-83ac-9b7937592cc7/resource/6652aec9-2353-43a4-99ee-0711ff30adda/download/servicio-historico-ejercito-fondo-comision-especial-malvinas-registro-voluntarios.csv",
+          "name": "Servicio Histórico del Ejército - Fondo Comisión Especial Malvinas: Sección Registro de Voluntarios",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T19:07:52.394Z",
+          "description": "Inventario analítico de los documentos de archivo que integran el Fondo documental “Comisión Especial Malvinas”."
+        },
+        {
+          "id": "1f721d66-650c-45e3-8ccc-fefc106d4166",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/9b77046d-c202-4589-83ac-9b7937592cc7/resource/1f721d66-650c-45e3-8ccc-fefc106d4166/download/servicio-historico-ejercito-fondo-comision-especial-malvinas-comisiones-evaluacion.csv",
+          "name": "Servicio Histórico del Ejército - Fondo Comisión Especial Malvinas: Sección Comisiones de Evaluación",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T19:11:55.026Z",
+          "description": "Inventario analítico de los documentos de archivo que integran el Fondo documental “Comisión Especial Malvinas”."
+        },
+        {
+          "id": "8fcc076f-358c-45c4-9760-8031be7ec702",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/9b77046d-c202-4589-83ac-9b7937592cc7/resource/8fcc076f-358c-45c4-9760-8031be7ec702/download/servicio-historico-ejercito-fondo-comision-especial-malvinas-varios.csv",
+          "name": "Servicio Histórico del Ejército - Fondo Comisión Especial Malvinas: Sección Varios",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T19:14:49.303Z",
+          "description": "Inventario analítico de los documentos de archivo que integran el Fondo documental “Comisión Especial Malvinas”."
+        },
+        {
+          "id": "ed9c7491-867d-4230-90fc-3a317e785a6c",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/9b77046d-c202-4589-83ac-9b7937592cc7/resource/ed9c7491-867d-4230-90fc-3a317e785a6c/download/servicio-historico-ejercito-fondo-comision-especial-malvinas-resenias-historicas.csv",
+          "name": "Servicio Histórico Ejército - Fondo Comisión Especial Malvinas: Sección Resenias Históricas",
+          "format": "CSV",
+          "updatedAt": "2019-03-14T19:26:28.338Z",
+          "description": "Inventario analítico de los documentos de archivo que integran el Fondo documental “Comisión Especial Malvinas”.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-02-26T18:48:49.594Z",
+      "updatedAt": "2019-03-25T17:54:32.577Z",
+      "contact": {
+        "name": "Ministerio de Defensa. Dirección Nacional de los Derechos Humanos y del Derecho Humanitario Internacional. Sistema de Archivos de la Defensa (SAD).",
+        "email": "archivosabiertos@mindef.gov.ar"
+      }
+    },
+    {
+      "id": "be7ca757-f49c-41f4-a4e7-fe0dc4eca3b8",
+      "name": "mindef-solicitud-aip-2017",
+      "title": "Solicitud AIP Mindef 2017",
+      "keywords": [
+        "aip",
+        "informacion publica",
+        "mindef"
+      ],
+      "landingPage": "http://datos.mindef.gov.ar/dataset/mindef-solicitud-aip-2017",
+      "resources": [
+        {
+          "id": "850b2617-caf8-4b43-a1b2-869be31ecc2b",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/be7ca757-f49c-41f4-a4e7-fe0dc4eca3b8/resource/850b2617-caf8-4b43-a1b2-869be31ecc2b/download/mindef-solicitud-aip-2017.csv",
+          "name": "Solicitud de Acceso a la Información Pública 2017",
+          "format": "CSV",
+          "updatedAt": "2019-09-16T03:04:14.694Z",
+          "description": "Listado de solicitudes de Acceso a la Información Pública del Ministerio de Defensa 2017",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-09-16T02:08:04.749Z",
+      "updatedAt": "2020-01-10T16:35:25.553Z",
+      "contact": {
+        "name": "Ministerio de Defensa. Dirección General de Integridad, Transparencia y Fortalecimiento Institucional",
+        "email": "transparencia@mindef.gov.ar"
+      }
+    },
+    {
+      "id": "c864a572-e5e9-4727-aee3-bed0faab88a1",
+      "name": "ministros-de-defensa",
+      "title": "Ministros de Defensa",
+      "keywords": [
+        "historico",
+        "ministerio de defensa",
+        "ministros"
+      ],
+      "landingPage": "http://datos.mindef.gov.ar/dataset/ministros-de-defensa",
+      "resources": [
+        {
+          "id": "534480e2-400c-4923-a748-6e9ee2183878",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/c864a572-e5e9-4727-aee3-bed0faab88a1/resource/534480e2-400c-4923-a748-6e9ee2183878/download/ministro.csv",
+          "name": "Ministros de Defensa: Histórico",
+          "format": "CSV",
+          "updatedAt": "2020-09-10T17:45:00.559Z",
+          "description": "Listado de los Ministros de Defensa",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-02-26T16:54:01.662Z",
+      "updatedAt": "2020-09-10T17:49:46.427Z",
+      "contact": {
+        "name": "Ministerio de Defensa. ",
+        "email": "transparencia@mindef.gov.ar"
+      }
+    },
+    {
+      "id": "a28acada-ca73-47a2-9ef6-d3c751579407",
+      "name": "patrimonio-cultural",
+      "title": "Patrimonio Cultural del Ministerio de Defensa y Fuerzas Armadas",
+      "keywords": [
+        "bandas",
+        "bibliotecas",
+        "emblema escudo azul",
+        "monumentos hirstórico",
+        "museos"
+      ],
+      "landingPage": "http://datos.mindef.gov.ar/dataset/patrimonio-cultural",
+      "resources": [
+        {
+          "id": "d699cbce-7ea1-4285-9904-8267e1181cc3",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/a28acada-ca73-47a2-9ef6-d3c751579407/resource/d699cbce-7ea1-4285-9904-8267e1181cc3/download/bienes-senalizados-emblema-escudo-azul.csv",
+          "name": "Bienes señalizados con el Emblema de Escudo Azul",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T16:41:25.229Z",
+          "description": "Detalle de los Bienes señalizados con el Emblema de Escudo Azul.",
+          "landingUrl": ""
+        },
+        {
+          "id": "de0d484c-d37f-4d48-9f79-e43290052d73",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/a28acada-ca73-47a2-9ef6-d3c751579407/resource/de0d484c-d37f-4d48-9f79-e43290052d73/download/listado-bandas.csv",
+          "name": "Listado de Bandas Militares",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T16:41:58.798Z",
+          "description": "Listado de Bandas Militares.",
+          "landingUrl": ""
+        },
+        {
+          "id": "162974bc-1e8c-4d99-a0d8-c3db4759bdc2",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/a28acada-ca73-47a2-9ef6-d3c751579407/resource/162974bc-1e8c-4d99-a0d8-c3db4759bdc2/download/listado-monumentos-historico.csv",
+          "name": "Listado de los Monumentos Históricos",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T16:42:43.281Z",
+          "description": "Listado de los Monumentos Históricos de las Fuerzas Armadas y Ministerio de Defensa."
+        },
+        {
+          "id": "bc6b7810-4e41-47c1-a1ad-5c08a0689a00",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/a28acada-ca73-47a2-9ef6-d3c751579407/resource/bc6b7810-4e41-47c1-a1ad-5c08a0689a00/download/listado-museos.csv",
+          "name": "Listado de los Museos",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T16:43:34.503Z",
+          "description": "Lista de los Museos de las Fuerzas Armadas y Ministerio de Defensa."
+        },
+        {
+          "id": "83a15d7c-8599-4a4e-bf17-357746f4f2e1",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/a28acada-ca73-47a2-9ef6-d3c751579407/resource/83a15d7c-8599-4a4e-bf17-357746f4f2e1/download/red-bibliotecas.csv",
+          "name": "Red de Bibliotecas",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T16:44:13.863Z",
+          "description": "Red de Bibliotecas de las Fuerzas Armadas y Ministerio de Defensa."
+        }
+      ],
+      "createdAt": "2019-02-26T16:40:21.601Z",
+      "updatedAt": "2019-03-25T17:46:24.696Z",
+      "contact": {
+        "name": "Ministerio de Defensa. Dirección de Gestión Cultural.",
+        "email": "patrimoniocultural@mindef.gov.ar"
+      }
+    },
+    {
+      "id": "5dd37fda-830c-49e6-8645-b4559fa38840",
+      "name": "personal-del-ministerio-de-defensa",
+      "title": "Personal del Ministerio de Defensa",
+      "keywords": [
+        "empleados",
+        "mindef",
+        "nomina",
+        "personal"
+      ],
+      "landingPage": "http://datos.mindef.gov.ar/dataset/personal-del-ministerio-de-defensa",
+      "resources": [
+        {
+          "id": "4e883b86-8e1a-4559-820e-f2c10ee0273d",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/5dd37fda-830c-49e6-8645-b4559fa38840/resource/4e883b86-8e1a-4559-820e-f2c10ee0273d/download/ministerio-defensa-nomina-hasta-agosto-2019.csv",
+          "name": "Ministerio-Defensa-Nomina-personal-hasta-agosto-2019",
+          "format": "CSV",
+          "updatedAt": "2019-10-07T18:35:04.537Z",
+          "description": "Nomina del personal del Ministerio de Defensa al 31 de agosto de 2019",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-10-07T18:25:52.756Z",
+      "updatedAt": "2019-10-07T18:35:08.338Z",
+      "contact": {
+        "name": "Dirección General de Recursos Humanos. Ministerio de Defensa",
+        "email": "recursoshumanos@mindef.gov.ar"
+      }
+    },
+    {
+      "id": "32a3341e-4207-44b8-870c-aba7f882b651",
+      "name": "personal-del-ministerio-de-defensa-enero-2021",
+      "title": "Personal Ministerio de Defensa al 31 de enero 2021",
+      "keywords": [
+        "contratado",
+        "defensa",
+        "nómina",
+        "personal",
+        "planta permanente",
+        "rrhh"
+      ],
+      "landingPage": "http://datos.mindef.gov.ar/dataset/personal-del-ministerio-de-defensa-enero-2021",
+      "resources": [
+        {
+          "id": "22f75a1b-6f1e-4a6e-b151-bfa5d8927f94",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/32a3341e-4207-44b8-870c-aba7f882b651/resource/22f75a1b-6f1e-4a6e-b151-bfa5d8927f94/download/personal-al-31-de-enero-2021.csv",
+          "name": "Personal del Ministerio de Defensa",
+          "format": "CSV",
+          "updatedAt": "2021-03-08T23:03:00.857Z",
+          "description": "Nomina del personal del Ministerio de Defensa al 31 de enero de 2021",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-03-08T22:54:12.420Z",
+      "updatedAt": "2021-03-08T23:03:03.810Z",
+      "contact": {
+        "name": "Dirección General de Recursos Humanos. Ministerio de Defensa",
+        "email": "recursoshumanos@mindef.gov.ar"
+      }
+    },
+    {
+      "id": "b026cef2-d1cb-4081-a545-2691bfe2c835",
+      "name": "personal-militar-segun-genero",
+      "title": "Personal Militar según Género",
+      "keywords": [
+        "armada",
+        "ejercito",
+        "femenino",
+        "fuerza aerea",
+        "fuerzas armadas",
+        "masculino"
+      ],
+      "landingPage": "http://datos.mindef.gov.ar/dataset/personal-militar-segun-genero",
+      "resources": [
+        {
+          "id": "8548a4fb-0a55-48d7-a128-f0df373e8a71",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/b026cef2-d1cb-4081-a545-2691bfe2c835/resource/8548a4fb-0a55-48d7-a128-f0df373e8a71/download/ejercito-personal-militar-segun-genero.csv",
+          "name": "Ejército: Personal militar según género",
+          "format": "CSV",
+          "updatedAt": "2019-03-29T14:57:35.568Z",
+          "description": "Personal Militar según Género en el Ejército Argentino",
+          "landingUrl": ""
+        },
+        {
+          "id": "9823463f-0bbc-4bee-8c64-59cdf20f03e1",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/b026cef2-d1cb-4081-a545-2691bfe2c835/resource/9823463f-0bbc-4bee-8c64-59cdf20f03e1/download/fuerza-aerea-personal-militar-segun-genero.csv",
+          "name": "Fuerza Aérea: Personal militar según género",
+          "format": "CSV",
+          "updatedAt": "2019-12-09T15:57:18.397Z",
+          "description": "Personal Militar según Género en la Fuerza Aérea Argentina.",
+          "landingUrl": ""
+        },
+        {
+          "id": "2dc27690-5305-482f-9677-19e4e757508e",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/b026cef2-d1cb-4081-a545-2691bfe2c835/resource/2dc27690-5305-482f-9677-19e4e757508e/download/armada-personal-militar-segun-genero.csv",
+          "name": "Armada: Personal militar según género",
+          "format": "CSV",
+          "updatedAt": "2019-12-09T15:56:11.520Z",
+          "description": "Personal Militar según Género en la Armada Argentina",
+          "landingUrl": ""
+        },
+        {
+          "id": "ef608f8a-48ec-44cf-91d2-d7166cd8b837",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/b026cef2-d1cb-4081-a545-2691bfe2c835/resource/ef608f8a-48ec-44cf-91d2-d7166cd8b837/download/fuerzas-armadas-anos-ingreso-personal-femenino.csv",
+          "name": "Fuerzas Armadas: Años de ingreso del personal femenino",
+          "format": "CSV",
+          "updatedAt": "2019-03-25T18:19:52.555Z",
+          "description": "Año de ingreso del personal Militar femenino a las Fuerzas Armadas",
+          "landingUrl": ""
+        },
+        {
+          "id": "5661b8f5-c724-400b-aa80-b62f2e71c2d1",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/b026cef2-d1cb-4081-a545-2691bfe2c835/resource/5661b8f5-c724-400b-aa80-b62f2e71c2d1/download/fuerzas-armadas-maximo-grado-alcanzado.csv",
+          "name": "Fuerzas Armadas: Máximo grado alcanzado",
+          "format": "CSV",
+          "updatedAt": "2019-03-25T18:27:13.594Z",
+          "description": "Máximo grado alcanzado por el personal Militar femenino en las Fuerzas Armadas.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-02-26T17:24:50.488Z",
+      "updatedAt": "2019-12-09T15:57:18.436Z",
+      "contact": {
+        "name": "Ministerio de Defensa. Dirección Nacional de los Derechos Humanos y del Derecho Internacional Humanitario. Dirección de Políticas de Género.",
+        "email": "genero@mindef.gov.ar"
+      }
+    },
+    {
+      "id": "c65c06be-2305-4776-b9a3-2b8d23c37bd7",
+      "name": "piddef",
+      "title": "Programa de Investigación y Desarrollo para la Defensa (PIDDEF)",
+      "keywords": [
+        "desarrollo",
+        "educacion",
+        "investigacion",
+        "piddef",
+        "proyectos"
+      ],
+      "landingPage": "http://datos.mindef.gov.ar/dataset/piddef",
+      "resources": [
+        {
+          "id": "46542658-7a16-421f-987e-bb6b74f2bc07",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/c65c06be-2305-4776-b9a3-2b8d23c37bd7/resource/46542658-7a16-421f-987e-bb6b74f2bc07/download/piddef.csv",
+          "name": "Piddef",
+          "format": "CSV",
+          "updatedAt": "2019-03-22T16:37:22.939Z",
+          "description": "El Programa de Investigación y Desarrollo para la Defensa (PIDDEF) cuyo  objetivo es fortalecer la actividad de investigación, desarrollo e innovación mediante proyectos orientados a la obtención de s",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-03-22T15:44:26.621Z",
+      "updatedAt": "2019-09-19T15:42:44.296Z",
+      "contact": {
+        "name": "Ministerio de Defensa. Secretaría de Investigación, Política Industrial y Producción para la Defensa. Subsecretaría de Investigación Científica y Política Industrial para la Defensa. Dirección Nacional de Ciencia, Tecnología y Producción.",
+        "email": "consultas.sigeva@mindef.gov.ar"
+      }
+    },
+    {
+      "id": "69feab44-63cb-453e-a8e4-fb1742b2ae51",
+      "name": "repertorio-documentacion-preservada-archivos-fuerzas-armadas",
+      "title": "Documentación preservada de Archivos de las Fuerzas Armadas",
+      "keywords": [
+        "abiertos",
+        "aerea",
+        "archivos",
+        "armada",
+        "defensa",
+        "edena",
+        "ejercito",
+        "escuela",
+        "fuerza"
+      ],
+      "landingPage": "http://datos.mindef.gov.ar/dataset/repertorio-documentacion-preservada-archivos-fuerzas-armadas",
+      "resources": [
+        {
+          "id": "42e530c4-6468-4e43-964a-fc10e2d15bc8",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/69feab44-63cb-453e-a8e4-fb1742b2ae51/resource/42e530c4-6468-4e43-964a-fc10e2d15bc8/download/archivo-general-armada-repertorio-documentacion.csv",
+          "name": "Archivo General de la Armada: Repertorio de documentación",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T19:30:33.146Z",
+          "description": "Listado de los principales agrupamientos documentales preservados en el Archivo General de la Armada Argentina, identificados por denominación, fechas extremas y volumen.",
+          "landingUrl": ""
+        },
+        {
+          "id": "c138bf2d-2438-40dc-8dca-30da0405ebcb",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/69feab44-63cb-453e-a8e4-fb1742b2ae51/resource/c138bf2d-2438-40dc-8dca-30da0405ebcb/download/archivo-general-ejercito-repertorio-documentacion.csv",
+          "name": "Archivo General del Ejercito: Repertorio de documentación",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T19:31:28.027Z",
+          "description": "Listado de los principales agrupamientos documentales preservados en el Archivo General del Ejército Argentino, identificados por denominación, fechas extremas y volumen."
+        },
+        {
+          "id": "d13856ec-5dcc-44d9-898e-f12498e64758",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/69feab44-63cb-453e-a8e4-fb1742b2ae51/resource/d13856ec-5dcc-44d9-898e-f12498e64758/download/archivo-general-fuerza-aerea-repertorio-documentacion.csv",
+          "name": "Archivo General de la Fuerza Aérea: Repertorio de documentación",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T19:32:03.895Z",
+          "description": "Listado de los principales agrupamientos documentales preservados en el Archivo General de la Fuerza Aérea Argentina, identificados por denominación, fechas extremas y volumen."
+        },
+        {
+          "id": "69d7ad30-745f-470d-9c35-0765e410fb5d",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/69feab44-63cb-453e-a8e4-fb1742b2ae51/resource/69d7ad30-745f-470d-9c35-0765e410fb5d/download/departamento-estudios-historicos-fuerza-aerea-repertorio-documentacion.csv",
+          "name": "Departamento de Estudios Históricos de la Fuerza Aérea: Repertorio de documentación",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T19:32:57.023Z",
+          "description": "Listado de los principales agrupamientos documentales preservados en la Dirección de Estudios Históricos de la Fuerza Aérea Argentina, identificados por denominación, fechas extremas y volumen."
+        },
+        {
+          "id": "aad9d405-bb90-4701-b6b9-a6ff8257f9a6",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/69feab44-63cb-453e-a8e4-fb1742b2ae51/resource/aad9d405-bb90-4701-b6b9-a6ff8257f9a6/download/departamento-estudios-historicos-navales-repertorio-documentacion.csv",
+          "name": "Departamento de Estudios Históricos Navales: Repertorio de documentación",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T19:33:33.830Z",
+          "description": "Listado de los principales agrupamientos documentales preservados en el Departamento de Estudios Históricos Navales de la Armada Argentina, identificados por denominación, fechas extremas y volumen.",
+          "landingUrl": ""
+        },
+        {
+          "id": "413dbb98-1337-47cb-9de4-0848592ef9c7",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/69feab44-63cb-453e-a8e4-fb1742b2ae51/resource/413dbb98-1337-47cb-9de4-0848592ef9c7/download/escuela-defensa-nacional-repertorio-documentacion.csv",
+          "name": "Escuela de Defensa Nacional: Repertorio de documentación",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T19:34:07.385Z",
+          "description": "Listado de los principales agrupamientos documentales preservados en el Archivo de la ex Escuela de Defensa Nacional, identificados por denominación, fechas extremas y volumen."
+        },
+        {
+          "id": "bbb522ac-d6fb-4583-8d7a-808296d7fc16",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/69feab44-63cb-453e-a8e4-fb1742b2ae51/resource/bbb522ac-d6fb-4583-8d7a-808296d7fc16/download/servicio-historico-ejercito-repertorio-documentacion.csv",
+          "name": "Servicio Histórico del Ejército: Repertorio de documentación",
+          "format": "CSV",
+          "updatedAt": "2019-02-26T19:34:38.493Z",
+          "description": "Listado de los principales agrupamientos documentales preservados en el Servicio Histórico del Ejército Argentino, identificados por denominación, fechas extremas y volumen."
+        }
+      ],
+      "createdAt": "2019-02-26T19:29:31.650Z",
+      "updatedAt": "2019-03-25T18:00:19.230Z",
+      "contact": {
+        "name": "Ministerio de Defensa. Dirección Nacional de los Derechos Humanos y del Derecho Humanitario Internacional. Sistema de Archivos de la Defensa (SAD).",
+        "email": "archivosabiertos@mindef.gov.ar"
+      }
+    },
+    {
+      "id": "26d2cf2c-16f9-4354-8ca8-93326f29cdeb",
+      "name": "solicitud-aip-mindef-2018",
+      "title": "Solicitud AIP Mindef 2018",
+      "keywords": [
+        "aip",
+        "acceso a la informacion",
+        "informacón publica"
+      ],
+      "landingPage": "http://datos.mindef.gov.ar/dataset/solicitud-aip-mindef-2018",
+      "resources": [
+        {
+          "id": "3426acee-77db-43f3-83c8-b463f6916f3c",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/26d2cf2c-16f9-4354-8ca8-93326f29cdeb/resource/3426acee-77db-43f3-83c8-b463f6916f3c/download/solicitud-aip-mindef-2018.csv",
+          "name": "Solicitudes AIP Mindef 2018",
+          "format": "CSV",
+          "updatedAt": "2020-01-10T16:34:16.225Z",
+          "description": "Solicitudes de Acceso a la Información Pública 2018- Ministerio de Defensa",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-01-10T16:11:23.379Z",
+      "updatedAt": "2020-01-10T16:34:20.361Z",
+      "contact": {
+        "name": "Ministerio de Defensa. Dirección General de Integridad, Transparencia y Fortalecimiento Institucional",
+        "email": "transparencia@mindef.gov.ar"
+      }
+    },
+    {
+      "id": "05d55659-0d71-4e6d-a669-9a5ffa5a9875",
+      "name": "solicitud-de-acceso-a-la-informacion-publica-2019",
+      "title": "Solicitud de Acceso a la Información Pública 2019",
+      "keywords": [
+        "aip",
+        "acceso a la información",
+        "defensa",
+        "solicitudes"
+      ],
+      "landingPage": "http://datos.mindef.gov.ar/dataset/solicitud-de-acceso-a-la-informacion-publica-2019",
+      "resources": [
+        {
+          "id": "a049bf2c-4b70-40ed-83c8-12c5ffe08551",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/05d55659-0d71-4e6d-a669-9a5ffa5a9875/resource/a049bf2c-4b70-40ed-83c8-12c5ffe08551/download/aip-2019.csv",
+          "name": "Solicitud de Acceso a la Información Pública 2019",
+          "format": "CSV",
+          "updatedAt": "2021-03-08T20:53:32.301Z",
+          "description": "Listado de solicitudes de Acceso a la Información Pública del Ministerio de Defensa 2019",
+          "landingUrl": ""
+        },
+        {
+          "id": "2b2b2c4a-240a-48d0-ace1-696ea0263abe",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/05d55659-0d71-4e6d-a669-9a5ffa5a9875/resource/2b2b2c4a-240a-48d0-ace1-696ea0263abe/download/aip-2019.csv",
+          "name": "Solicitud de Acceso a la Información Pública 2019",
+          "format": "CSV",
+          "updatedAt": "2021-03-08T20:54:27.123Z",
+          "description": "Listado de solicitudes de Acceso a la Información Pública del Ministerio de Defensa 2019",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-03-08T20:33:55.402Z",
+      "updatedAt": "2021-03-08T20:54:31.409Z",
+      "contact": {
+        "name": "Ministerio de Defensa. Dirección de Transparencia Institucional.",
+        "email": "accesoalainformacionpublica@mindef.gov.ar"
+      }
+    },
+    {
+      "id": "9f3b6876-48bf-4ac8-842e-10283dc63938",
+      "name": "solicitud-de-acceso-a-la-informacion-publica-2020",
+      "title": "Solicitud de Acceso a la Información Pública 2020",
+      "keywords": [
+        "aip",
+        "acceso",
+        "acceso a la informacion"
+      ],
+      "landingPage": "http://datos.mindef.gov.ar/dataset/solicitud-de-acceso-a-la-informacion-publica-2020",
+      "resources": [
+        {
+          "id": "5d5ff1cc-5cce-4946-80d8-860f5786f6f7",
+          "downloadUrl": "http://datos.mindef.gov.ar/dataset/9f3b6876-48bf-4ac8-842e-10283dc63938/resource/5d5ff1cc-5cce-4946-80d8-860f5786f6f7/download/aip-2020.csv",
+          "name": "Solicitud de Acceso a la Información Pública 2020",
+          "format": "CSV",
+          "updatedAt": "2021-04-14T23:24:40.940Z",
+          "description": "Listado de solicitudes de Acceso a la Información Pública del Ministerio de Defensa 2020",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-04-14T23:12:00.858Z",
+      "updatedAt": "2021-04-14T23:24:47.237Z",
+      "contact": {
+        "name": "Ministerio de Defensa. Dirección de Transparencia Institucional",
+        "email": "accesoalainformacionpublica@mindef.gov.ar"
+      }
+    }
+  ],
+  "organizations": [],
+  "updatedAt": "2023-12-09T09:01:01.785Z"
+}

@@ -1,0 +1,1529 @@
+{
+  "id": "Fj6HJ650ag",
+  "datasets": [
+    {
+      "id": "87bb1c93-be41-43e1-93d3-c756985780cd",
+      "name": "areas-provinciales",
+      "title": "Áreas Protegidas Provinciales",
+      "keywords": [],
+      "landingPage": "http://datos.yvera.gob.ar/dataset/",
+      "resources": [
+        {
+          "id": "d51a430f-d020-4999-85cf-7ae367b90ee9",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/87bb1c93-be41-43e1-93d3-c756985780cd/resource/d51a430f-d020-4999-85cf-7ae367b90ee9/download/parques_chubut.csv",
+          "name": "Visitas a Áreas Naturales Protegidas del Chubut según tipo de residencia del visitante",
+          "format": "CSV",
+          "updatedAt": "2023-11-23T21:02:39.274Z",
+          "description": "Cantidad de visitas a Áreas Naturales Protegidas Provinciales del Chubut según tipo de residencia del visitante por mes."
+        },
+        {
+          "id": "b1c5ea42-fcda-44c3-9003-f798c4181659",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/87bb1c93-be41-43e1-93d3-c756985780cd/resource/b1c5ea42-fcda-44c3-9003-f798c4181659/download/parque_ischigualasto.csv",
+          "name": "Visitas al Parque Provincial Ischigualasto en San Juan",
+          "format": "CSV",
+          "updatedAt": "2023-11-23T21:02:40.359Z",
+          "description": "Cantidad de visitas al Parque Provincial Ischigualasto en la provincia de San Juan por mes."
+        },
+        {
+          "id": "5496bde6-29ee-4594-9f5a-ef3283418c61",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/87bb1c93-be41-43e1-93d3-c756985780cd/resource/5496bde6-29ee-4594-9f5a-ef3283418c61/download/parques_prov.pdf",
+          "name": "Ficha Técnica: Áreas Protegidas Provinciales",
+          "format": "PDF",
+          "updatedAt": "2023-10-31T21:03:01.187Z",
+          "description": "Aspectos conceptuales y metodológicos de la fuente de datos",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-10-27T18:47:53.477Z",
+      "updatedAt": "2023-11-23T21:02:40.371Z",
+      "contact": {
+        "name": "Ministerio de Turismo y Deportes. Subsecretaría de Desarrollo Estratégico. Dirección Nacional de Mercados y Estadística",
+        "email": "estadistica@turismo.gob.ar"
+      }
+    },
+    {
+      "id": "fdd18127-d54c-45bc-946d-5ceb445a2f32",
+      "name": "certificado-unico-habilitante-para-circulacion-cuhc---verano",
+      "title": "Certificado Único Habilitante para Circulación (CUHC) - VERANO",
+      "keywords": [
+        "turismo interno",
+        "certificado verano",
+        "circulacion",
+        "coronavirus",
+        "covid",
+        "permiso",
+        "turismo",
+        "viajes"
+      ],
+      "landingPage": "http://datos.yvera.gob.ar/dataset/certificado-unico-habilitante-para-circulacion-cuhc---verano",
+      "resources": [
+        {
+          "id": "ec36bd05-6ed0-492b-be03-ae10b356ce81",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/fdd18127-d54c-45bc-946d-5ceb445a2f32/resource/ec36bd05-6ed0-492b-be03-ae10b356ce81/download/serie-de-tiempo-personas-certificados-por-provincia-origen-destino.csv",
+          "name": "Serie de tiempo",
+          "format": "CSV",
+          "updatedAt": "2022-04-29T21:54:03.498Z",
+          "description": "Cantidad de certificados totales emitidos y cantidad de personas que lo solicitaron por fecha de ingreso, provincia de origen y destino, desde el 01 de diciembre de 2020 a la última actualización."
+        },
+        {
+          "id": "ed645552-8ba6-4d3c-914d-e4e89f0757af",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/fdd18127-d54c-45bc-946d-5ceb445a2f32/resource/ed645552-8ba6-4d3c-914d-e4e89f0757af/download/certificados-personas-por-fecha-ingreso.csv",
+          "name": "Certificados emitidos y cantidad de personas por fecha de ingreso",
+          "format": "CSV",
+          "updatedAt": "2022-04-29T21:53:57.482Z",
+          "description": "Cantidad de certificados emitidos y personas que lo solicitaron a nivel nacional por fecha de ingreso al destino"
+        },
+        {
+          "id": "176dc4bc-7597-4e9b-850d-0d27bcbca8d0",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/fdd18127-d54c-45bc-946d-5ceb445a2f32/resource/176dc4bc-7597-4e9b-850d-0d27bcbca8d0/download/certificados-personas-por-fecha-ingreso-provincia-localidad.csv",
+          "name": "Certificados emitidos y cantidad de personas por fecha de ingreso, provincia y localidad de destino",
+          "format": "CSV",
+          "updatedAt": "2022-04-29T21:54:00.508Z",
+          "description": "Cantidad de certificados emitidos y personas que lo solicitaron por fecha de ingreso, provincia y localidad de destino"
+        },
+        {
+          "id": "c1ecae40-d7b4-44e5-be53-3f07b93ea43d",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/fdd18127-d54c-45bc-946d-5ceb445a2f32/resource/c1ecae40-d7b4-44e5-be53-3f07b93ea43d/download/personas-por-fecha-de-ingreso-provincia-de-origen-y-destino.csv",
+          "name": "Cantidad de personas por fecha de ingreso, provincia de origen y destino",
+          "format": "CSV",
+          "updatedAt": "2022-04-29T21:54:02.286Z",
+          "description": "Cantidad de personas por fecha de ingreso, provincia de origen y destino."
+        },
+        {
+          "id": "8fb98ab3-3bf3-44bb-adcf-0bcef8aa2a5d",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/fdd18127-d54c-45bc-946d-5ceb445a2f32/resource/8fb98ab3-3bf3-44bb-adcf-0bcef8aa2a5d/download/personas-por-certificado-provincia-y-localidad-de-destino.csv",
+          "name": "Media de viajeros por certificado emitido según provincia y localidad de destino",
+          "format": "CSV",
+          "updatedAt": "2022-04-29T21:54:01.045Z",
+          "description": "Cantidad media de viajeros por certificado emitido por provincia y localidad de destino"
+        },
+        {
+          "id": "8f533ab8-1852-4aa0-9377-96c9019f22fe",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/fdd18127-d54c-45bc-946d-5ceb445a2f32/resource/8f533ab8-1852-4aa0-9377-96c9019f22fe/download/provincia-y-localidad-de-destino-por-duracion-de-viaje.csv",
+          "name": "Provincia y localidad de destino por duración del viaje",
+          "format": "CSV",
+          "updatedAt": "2022-04-29T21:54:02.880Z",
+          "description": "Provincia y localidad de destino por duración (mediana) del viaje."
+        },
+        {
+          "id": "1068cd0b-8bd3-48d3-9d04-fc7b692038f6",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/fdd18127-d54c-45bc-946d-5ceb445a2f32/resource/1068cd0b-8bd3-48d3-9d04-fc7b692038f6/download/novedades_cuidar.csv",
+          "name": "Novedades",
+          "format": "CSV",
+          "updatedAt": "2022-04-29T21:45:03.560Z",
+          "description": "Novedades sobre la actualización de los recursos incluidos en el dataset"
+        }
+      ],
+      "createdAt": "2021-02-09T23:37:31.832Z",
+      "updatedAt": "2022-04-29T21:54:03.513Z",
+      "contact": {
+        "name": "Ministerio de Turismo y Deportes. Subsecretaría de Desarrollo Estratégico. Dirección Nacional de Mercados y Estadística",
+        "email": "estadistica@turismo.gob.ar"
+      }
+    },
+    {
+      "id": "c0e7bc3d-553c-405c-8b32-79282b28ffd5",
+      "name": "conectividad-aerea",
+      "title": "Conectividad Aérea",
+      "keywords": [
+        "movilidad",
+        "transporte"
+      ],
+      "landingPage": "http://datos.yvera.gob.ar/dataset/",
+      "resources": [
+        {
+          "id": "aab49234-28c9-48ab-a978-a83485139290",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/c0e7bc3d-553c-405c-8b32-79282b28ffd5/resource/aab49234-28c9-48ab-a978-a83485139290/download/base_microdatos.csv",
+          "name": "Base agregada de frecuencias aéreas",
+          "format": "CSV",
+          "updatedAt": "2023-12-06T20:50:47.855Z",
+          "description": "Base agregada con datos a nivel diario de vuelos, pasajeros y asientos por origen y destino, clase y clasificación del vuelo."
+        },
+        {
+          "id": "03b4176f-a065-450a-b411-101d2a884720",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/c0e7bc3d-553c-405c-8b32-79282b28ffd5/resource/03b4176f-a065-450a-b411-101d2a884720/download/vuelos_asientos_pasajeros.csv",
+          "name": "Vuelos, asientos y pasajeros por día",
+          "format": "CSV",
+          "updatedAt": "2023-12-06T20:50:57.174Z",
+          "description": "Vuelos, asientos y pasajeros por día según clasificación de vuelo"
+        },
+        {
+          "id": "81d7d664-d54b-4e34-aae6-c3cdd00e8728",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/c0e7bc3d-553c-405c-8b32-79282b28ffd5/resource/81d7d664-d54b-4e34-aae6-c3cdd00e8728/download/aerolineas_por_trimestre.csv",
+          "name": "Aerolíneas por trimestre",
+          "format": "CSV",
+          "updatedAt": "2023-12-06T20:51:00.997Z",
+          "description": "Cantidad de aerolíneas que realizan vuelos por trimestre"
+        },
+        {
+          "id": "a37f611a-b7cf-450a-aaa9-7d02ae685ee9",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/c0e7bc3d-553c-405c-8b32-79282b28ffd5/resource/a37f611a-b7cf-450a-aaa9-7d02ae685ee9/download/rutas_por_mes.csv",
+          "name": "Rutas aéreas por mes",
+          "format": "CSV",
+          "updatedAt": "2023-12-06T20:51:04.274Z",
+          "description": "Cantidad de rutas aéreas por mes según clasificación del vuelo"
+        },
+        {
+          "id": "26bf262e-3f1b-4043-a012-870988073c4e",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/c0e7bc3d-553c-405c-8b32-79282b28ffd5/resource/26bf262e-3f1b-4043-a012-870988073c4e/download/principales_aeros_cabotaje.csv",
+          "name": "Principales aerolíneas de cabotaje por mes",
+          "format": "CSV",
+          "updatedAt": "2023-12-06T20:51:06.550Z",
+          "description": "Cantidad de vuelos, pasajeros y asientos y factor de ocupación de las principales aerolíneas de cabotaje por mes"
+        },
+        {
+          "id": "bdb24072-a463-4305-9fde-f38f753ebf26",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/c0e7bc3d-553c-405c-8b32-79282b28ffd5/resource/bdb24072-a463-4305-9fde-f38f753ebf26/download/magnitudes_por_ruta.csv",
+          "name": "Principales rutas por año",
+          "format": "CSV",
+          "updatedAt": "2023-12-06T20:51:09.416Z",
+          "description": "Cantidad de vuelos, pasajeros y asientos por año, según ruta y clasificación del vuelo"
+        },
+        {
+          "id": "b23e3a61-f80d-44cf-a71b-ef7c2b9324c2",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/c0e7bc3d-553c-405c-8b32-79282b28ffd5/resource/b23e3a61-f80d-44cf-a71b-ef7c2b9324c2/download/2023.08.24_conectividad.pdf",
+          "name": "Ficha Técnica: Conectividad Aérea",
+          "format": "PDF",
+          "updatedAt": "2023-08-24T17:38:56.955Z",
+          "description": "Aspectos conceptuales y metodológicos de la fuente de datos",
+          "landingUrl": ""
+        },
+        {
+          "id": "d406a6fa-c209-4b15-b648-6bcceb1d040c",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/c0e7bc3d-553c-405c-8b32-79282b28ffd5/resource/d406a6fa-c209-4b15-b648-6bcceb1d040c/download/aeropuertos.csv",
+          "name": "Aeropuertos",
+          "format": "CSV",
+          "updatedAt": "2023-12-06T20:51:11.214Z",
+          "description": "Listado de aeropuertos de Argentina presentes en la base agregada geolocalizados"
+        },
+        {
+          "id": "6d021c08-2d9e-45f2-8030-aeb178877541",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/c0e7bc3d-553c-405c-8b32-79282b28ffd5/resource/6d021c08-2d9e-45f2-8030-aeb178877541/download/novedades.csv",
+          "name": "Novedades",
+          "format": "CSV",
+          "updatedAt": "2023-10-06T22:20:17.941Z",
+          "description": "Novedades sobre la actualización de los recursos incluidos en el dataset\r\n\r\n",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-08-23T19:15:06.623Z",
+      "updatedAt": "2023-12-06T20:51:11.246Z",
+      "contact": {
+        "name": "Ministerio de Turismo y Deportes. Subsecretaría de Desarrollo Estratégico. Dirección Nacional de Mercados y Estadística",
+        "email": "estadistica@turismo.gob.ar"
+      }
+    },
+    {
+      "id": "b18f1c90-0c66-4771-8bd8-289e5cfa6e60",
+      "name": "conectividad-terrestre-interurbana",
+      "title": "Conectividad Terrestre Interurbana",
+      "keywords": [],
+      "landingPage": "http://datos.yvera.gob.ar/dataset/",
+      "resources": [
+        {
+          "id": "76847ea4-5e3b-4ae4-82d7-b85f87362577",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/b18f1c90-0c66-4771-8bd8-289e5cfa6e60/resource/76847ea4-5e3b-4ae4-82d7-b85f87362577/download/viajes_asientos_pasajeros.csv",
+          "name": "Viajes, Asientos y Pasajeros diarios",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T19:59:32.760Z",
+          "description": "Cantidad de viajes, asientos y pasajeros por día de finalización del viaje"
+        },
+        {
+          "id": "0209bd91-dec6-41c6-9c39-192f1c9a35b1",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/b18f1c90-0c66-4771-8bd8-289e5cfa6e60/resource/0209bd91-dec6-41c6-9c39-192f1c9a35b1/download/rutas_por_mes.csv",
+          "name": "Rutas con más de cuatro frecuencias por mes",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T19:59:33.263Z",
+          "description": "Total de rutas con más de cuatro frecuencias por mes"
+        },
+        {
+          "id": "0e8a61b7-8127-41a4-8e83-a37f50e24d1f",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/b18f1c90-0c66-4771-8bd8-289e5cfa6e60/resource/0e8a61b7-8127-41a4-8e83-a37f50e24d1f/download/magnitudes_por_ruta.csv",
+          "name": "Viajes, Asientos y Pasajeros anuales por ruta con al menos un viaje semanal",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T19:59:33.907Z",
+          "description": "Cantidad de viajes, asientos y pasajeros anuales por ruta con al menos un viaje semanal"
+        },
+        {
+          "id": "7681f929-c189-4506-ae76-c21ec31425f4",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/b18f1c90-0c66-4771-8bd8-289e5cfa6e60/resource/7681f929-c189-4506-ae76-c21ec31425f4/download/base_microdatos.zip",
+          "name": "Base agregada de viajes interurbanos de micros de media y larga distancia",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T22:09:12.312Z",
+          "description": "Base agregada de viajes interurbanos de micros de media y larga distancia a nivel diario",
+          "landingUrl": ""
+        },
+        {
+          "id": "a5b850c6-8865-4945-848e-44e8fc43388c",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/b18f1c90-0c66-4771-8bd8-289e5cfa6e60/resource/a5b850c6-8865-4945-848e-44e8fc43388c/download/transporte_terrestre.pdf",
+          "name": "Ficha Técnica: Conectividad Terrestre Interurbana",
+          "format": "PDF",
+          "updatedAt": "2023-11-28T19:47:03.420Z",
+          "description": "Aspectos conceptuales y metodológicos de la fuente de datos",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-11-27T20:03:41.905Z",
+      "updatedAt": "2023-12-07T22:09:12.324Z",
+      "contact": {
+        "name": "Ministerio de Turismo y Deportes. Subsecretaría de Desarrollo Estratégico. Dirección Nacional de Mercados y Estadística",
+        "email": "estadistica@turismo.gob.ar"
+      }
+    },
+    {
+      "id": "fbc269ea-5f71-45b6-b70c-8eb38a03b8db",
+      "name": "crucerismo-maritimo",
+      "title": "Crucerismo Marítimo",
+      "keywords": [],
+      "landingPage": "http://datos.yvera.gob.ar/dataset/",
+      "resources": [
+        {
+          "id": "f7ce925a-0a48-4e38-8f48-360d6513fd83",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/fbc269ea-5f71-45b6-b70c-8eb38a03b8db/resource/f7ce925a-0a48-4e38-8f48-360d6513fd83/download/cruceristas-por-puerto-crucero-temporada.csv",
+          "name": "Cruceristas por temporada, puerto y crucero",
+          "format": "CSV",
+          "updatedAt": "2023-09-29T17:43:19.057Z",
+          "description": "Cantidad de cruceristas por temporada, puerto y nombre del crucero"
+        },
+        {
+          "id": "720a3bcc-456e-4293-9389-e3bb15b8a2fe",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/fbc269ea-5f71-45b6-b70c-8eb38a03b8db/resource/720a3bcc-456e-4293-9389-e3bb15b8a2fe/download/cruceristas-por-puerto-genero-mes.csv",
+          "name": "Cruceristas por temporada, mes, puerto y género",
+          "format": "CSV",
+          "updatedAt": "2023-09-29T17:44:37.092Z",
+          "description": "Cantidad de cruceristas por temporada, mes, puerto y género"
+        },
+        {
+          "id": "40c8b7d7-ff88-4d85-a26c-281538647b05",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/fbc269ea-5f71-45b6-b70c-8eb38a03b8db/resource/40c8b7d7-ff88-4d85-a26c-281538647b05/download/cruceristas-por-puerto-grupo-etario-mes.csv",
+          "name": "Cruceristas por temporada, mes, puerto y grupo etario",
+          "format": "CSV",
+          "updatedAt": "2023-09-29T17:45:42.631Z",
+          "description": "Cantidad de cruceristas por temporada, mes, puerto y grupo etario"
+        },
+        {
+          "id": "0774a0bb-71c2-44d7-9ea6-780e6bd06d50",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/fbc269ea-5f71-45b6-b70c-8eb38a03b8db/resource/0774a0bb-71c2-44d7-9ea6-780e6bd06d50/download/cruceristas-por-puerto-residencia-desagregado-por-pais-mes.csv",
+          "name": "Cruceristas por temporada, mes, puerto y país de residencia",
+          "format": "CSV",
+          "updatedAt": "2023-09-29T17:46:30.370Z",
+          "description": "Cantidad de cruceristas por temporada, mes, puerto y país de residencia"
+        },
+        {
+          "id": "da85d231-6741-41b3-ba8b-8bed38d66b13",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/fbc269ea-5f71-45b6-b70c-8eb38a03b8db/resource/da85d231-6741-41b3-ba8b-8bed38d66b13/download/cruceristas-por-puerto-residencia-mes.csv",
+          "name": "Cruceristas por temporada, mes, puerto y residencia",
+          "format": "CSV",
+          "updatedAt": "2023-09-29T17:47:28.029Z",
+          "description": "Cantidad de cruceristas por temporada, mes, puerto y residencia"
+        },
+        {
+          "id": "33f90b36-e763-4a26-9559-b29b725dd73c",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/fbc269ea-5f71-45b6-b70c-8eb38a03b8db/resource/33f90b36-e763-4a26-9559-b29b725dd73c/download/crucerismo_maritimo.pdf",
+          "name": "Ficha Técnica: Crucerismo Marítimo",
+          "format": "PDF",
+          "updatedAt": "2023-09-29T17:49:35.005Z",
+          "description": "Aspectos conceptuales y metodológicos de la fuente de datos",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-09-29T17:32:03.202Z",
+      "updatedAt": "2023-09-29T17:49:35.027Z",
+      "contact": {
+        "name": "Ministerio de Turismo y Deportes. Subsecretaría de Desarrollo Estratégico. Dirección Nacional de Mercados y Estadística",
+        "email": "estadistica@turismo.gob.ar"
+      }
+    },
+    {
+      "id": "b5819e9b-5edf-4aad-bd39-a81158a2b3f3",
+      "name": "encuesta-de-viajes-y-turismo-de-los-hogares-evyth-microdatos",
+      "title": "Encuesta de Viajes y Turismo de los Hogares (EVyTH) - Microdatos",
+      "keywords": [
+        "evyth",
+        "gasto turístico",
+        "microdatos",
+        "turismo",
+        "turismo argentino",
+        "turismo interno",
+        "turismo nacional",
+        "viajes turísticos"
+      ],
+      "landingPage": "http://datos.yvera.gob.ar/dataset/encuesta-de-viajes-y-turismo-de-los-hogares-evyth-microdatos",
+      "resources": [
+        {
+          "id": "8c663c32-fee2-4a57-a918-7ab0f3819624",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/b5819e9b-5edf-4aad-bd39-a81158a2b3f3/resource/8c663c32-fee2-4a57-a918-7ab0f3819624/download/evyth_microdatos.txt",
+          "name": "Base de microdatos EVyTH (.txt)",
+          "format": "TXT",
+          "updatedAt": "2023-10-06T21:15:53.416Z",
+          "description": "Base de microdatos de la Encuesta de Viajes y Turismo de los Hogares (EVyTH). Total aglomerados. Formato .txt"
+        },
+        {
+          "id": "645e5505-68ee-4cfa-90f9-fcc9a4a34a85",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/b5819e9b-5edf-4aad-bd39-a81158a2b3f3/resource/645e5505-68ee-4cfa-90f9-fcc9a4a34a85/download/evyth_microdatos.csv",
+          "name": "Base de microdatos EVyTH",
+          "format": "CSV",
+          "updatedAt": "2023-10-06T21:15:27.804Z",
+          "description": "Base de microdatos de la Encuesta de Viajes y Turismo de los Hogares (EVyTH). Total aglomerados. Formato .csv"
+        },
+        {
+          "id": "5dd966f5-6868-4a43-b027-d2f5c1a18038",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/b5819e9b-5edf-4aad-bd39-a81158a2b3f3/resource/5dd966f5-6868-4a43-b027-d2f5c1a18038/download/evyth_microdatos.xlsx",
+          "name": "Base de microdatos EVyTH (.xlsx)",
+          "format": "XLSX",
+          "updatedAt": "2023-10-06T21:15:59.118Z",
+          "description": "Base de microdatos de la Encuesta de Viajes y Turismo de los Hogares (EVyTH). Total aglomerados. Formato .xlsx (Excel)"
+        },
+        {
+          "id": "ea027b0d-669c-4b4a-ac8e-6a8863dd9740",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/b5819e9b-5edf-4aad-bd39-a81158a2b3f3/resource/ea027b0d-669c-4b4a-ac8e-6a8863dd9740/download/evyth_microdatos.sav",
+          "name": "Base de microdatos EVyTH (.sav)",
+          "format": "sav",
+          "updatedAt": "2023-10-06T21:15:48.019Z",
+          "description": "Base de microdatos de la Encuesta de Viajes y Turismo de los Hogares (EVyTH). Total aglomerados. Formato .sav (SPSS)"
+        },
+        {
+          "id": "3453fb66-74a3-4903-afa4-6737b8a98e0c",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/b5819e9b-5edf-4aad-bd39-a81158a2b3f3/resource/3453fb66-74a3-4903-afa4-6737b8a98e0c/download/evyth_microdatos.dta",
+          "name": "Base de microdatos EVyTH (.dta)",
+          "format": "dta",
+          "updatedAt": "2023-10-06T21:15:44.041Z",
+          "description": "Base de microdatos de la Encuesta de Viajes y Turismo de los Hogares (EVyTH). Total aglomerados. Formato .dta (STATA)"
+        },
+        {
+          "id": "0f3493e9-2a99-48ed-bb19-aa1cf87f1318",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/b5819e9b-5edf-4aad-bd39-a81158a2b3f3/resource/0f3493e9-2a99-48ed-bb19-aa1cf87f1318/download/evyth_diccionario_registro.xlsx",
+          "name": "Diccionario de registro de la EVyTH (.xlsx)",
+          "format": "XLSX",
+          "updatedAt": "2022-09-07T20:31:28.686Z",
+          "description": "Diccionario de los nombres de las variables, opciones de respuesta y su respectiva descripción correspondientes a la base de microdatos de la Encuesta de Viajes y Turismo de los Hogares (EVyTH)"
+        },
+        {
+          "id": "20e2c018-a2ee-4d97-9c67-a4303f669255",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/b5819e9b-5edf-4aad-bd39-a81158a2b3f3/resource/20e2c018-a2ee-4d97-9c67-a4303f669255/download/evyth_diccionario_registro.txt",
+          "name": "Diccionario de registro de la EVyTH (.txt)",
+          "format": "TXT",
+          "updatedAt": "2022-09-07T20:31:28.047Z",
+          "description": "Diccionario de los nombres de las variables, opciones de respuesta y su respectiva descripción correspondientes a la base de microdatos de la Encuesta de Viajes y Turismo de los Hogares (EVyTH)."
+        },
+        {
+          "id": "1b5d26f1-0ab9-4908-a44f-9ac5bd685f1b",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/b5819e9b-5edf-4aad-bd39-a81158a2b3f3/resource/1b5d26f1-0ab9-4908-a44f-9ac5bd685f1b/download/evyth-data.pdf",
+          "name": "Ficha Técnica: EVyTH",
+          "format": "PDF",
+          "updatedAt": "2022-04-18T21:25:37.038Z",
+          "description": "Aspectos conceptuales y metodológicos de la fuente de datos",
+          "landingUrl": ""
+        },
+        {
+          "id": "3d2884db-1f40-4ddb-915f-31fe77ccec79",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/b5819e9b-5edf-4aad-bd39-a81158a2b3f3/resource/3d2884db-1f40-4ddb-915f-31fe77ccec79/download/novedades.csv",
+          "name": "Novedades",
+          "format": "CSV",
+          "updatedAt": "2022-08-19T18:41:24.380Z",
+          "description": "Novedades sobre la actualización de los recursos incluidos en el dataset"
+        },
+        {
+          "id": "d8107236-f5ba-428d-8a31-f9b2034d8c8f",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/b5819e9b-5edf-4aad-bd39-a81158a2b3f3/resource/d8107236-f5ba-428d-8a31-f9b2034d8c8f/download/evyth_diccionario_registro.csv",
+          "name": "Diccionario de registro de la EVyTH (.csv)",
+          "format": "CSV",
+          "updatedAt": "2022-09-07T20:31:26.976Z",
+          "description": "Diccionario de los nombres de las variables, opciones de respuesta y su respectiva descripción correspondientes a la base de microdatos de la Encuesta de Viajes y Turismo de los Hogares (EVyTH)."
+        }
+      ],
+      "createdAt": "2021-10-06T15:26:36.296Z",
+      "updatedAt": "2023-10-06T21:15:59.157Z",
+      "contact": {
+        "name": "Ministerio de Turismo y Deportes. Subsecretaría de Desarrollo Estratégico. Dirección Nacional de Mercados y Estadística",
+        "email": "estadistica@turismo.gob.ar"
+      }
+    },
+    {
+      "id": "93db331e-6970-4d74-8589-c1223ac9c282",
+      "name": "encuesta-ocupacion-hotelera-parahotelera-eoh",
+      "title": "Encuesta de Ocupación Hotelera y Parahotelera (EOH)",
+      "keywords": [
+        "sector hotelero",
+        "encuesta de ocupación hotelera",
+        "hoteles",
+        "noches en hoteles",
+        "pernoctaciones",
+        "turismo",
+        "viajeros"
+      ],
+      "landingPage": "http://datos.yvera.gob.ar/dataset/encuesta-ocupacion-hotelera-parahotelera-eoh",
+      "resources": [
+        {
+          "id": "d1624c27-4b0d-4b73-b0f8-e7db5c56386f",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/d1624c27-4b0d-4b73-b0f8-e7db5c56386f/download/viajeros-hospedados-residentes-y-no-residentes.csv",
+          "name": "Viajeros hospedados en hoteles y parahoteles según tipo de residencia",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:13:12.414Z",
+          "description": "Cantidad de viajeros alojados en establecimientos hoteleros y parahoteleros según residencia en formato de series de tiempo."
+        },
+        {
+          "id": "1f6b78aa-d3b4-440a-bd7d-30d76e1728aa",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/1f6b78aa-d3b4-440a-bd7d-30d76e1728aa/download/viajeros-hospedados-residentes-y-no-residentes-por-destino.csv",
+          "name": "Viajeros hospedados en hoteles y parahoteles por región de destino según tipo de residencia",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:13:20.358Z",
+          "description": "Cantidad de viajeros alojados en establecimientos hoteleros y parahoteleros por región de destino según tipo de residencia en formato de series de tiempo."
+        },
+        {
+          "id": "86098160-840e-4191-a0fc-b3923bf2b0b0",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/86098160-840e-4191-a0fc-b3923bf2b0b0/download/pernoctes-residentes-y-no-residentes.csv",
+          "name": "Pernoctes en hoteles y parahoteles según tipo de residencia",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:13:23.319Z",
+          "description": "Cantidad de noches en establecimientos hoteleros y parahoteleros por tipo de residencia en formato de series de tiempo."
+        },
+        {
+          "id": "a54e2f69-a5b1-42b4-a7bb-ead40338c28f",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/a54e2f69-a5b1-42b4-a7bb-ead40338c28f/download/pernoctes-residentes-y-no-residentes-por-destino.csv",
+          "name": "Pernoctes en hoteles y parahoteles por región de destino según tipo de residencia",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:13:25.843Z",
+          "description": "Cantidad de noches en establecimientos hoteleros y parahoteleros por región de destino según tipo de residencia en formato de series de tiempo."
+        },
+        {
+          "id": "eace228a-aeb6-466d-9d13-49823e1a9ff3",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/eace228a-aeb6-466d-9d13-49823e1a9ff3/download/estadia-media-residentes-y-no-residentes.csv",
+          "name": "Estadía media de los viajeros hospedados en hoteles y parahoteles según tipo de residencia",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:13:28.407Z",
+          "description": "Estadía promedio de permanencia en los establecimientos hoteleros y parahoteleros del país por tipo de residencia en formato de series de tiempo."
+        },
+        {
+          "id": "46a0b45c-9f22-455a-9328-6c8bd51710b2",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/46a0b45c-9f22-455a-9328-6c8bd51710b2/download/estadia-media-residentes-y-no-residentes-por-destino.csv",
+          "name": "Estadía media en hoteles y parahoteles por región de destino según tipo de residencia",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:13:32.039Z",
+          "description": "Estadía promedio en establecimientos hoteleros y parahoteleros por región de destino según tipo de residencia en formato de series de tiempo."
+        },
+        {
+          "id": "c9307d07-4f64-4b76-a189-468aba1d2caf",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/c9307d07-4f64-4b76-a189-468aba1d2caf/download/eoh-data-.pdf",
+          "name": "Ficha Técnica: EOH",
+          "format": "PDF",
+          "updatedAt": "2022-04-18T21:21:28.986Z",
+          "description": "Aspectos conceptuales y metodológicos de la fuente de datos",
+          "landingUrl": ""
+        },
+        {
+          "id": "7f68d6ee-fece-471a-b92c-5f04cd3706b1",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/7f68d6ee-fece-471a-b92c-5f04cd3706b1/download/tasas-de-ocupacion-plazas-por-categoria.csv",
+          "name": "Tasa de ocupación de plazas por tipo de categoría de alojamiento",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:13:34.293Z",
+          "description": "Tasa de ocupación de plazas de los establecimientos hoteleros y parahoteleros por categoría de alojamiento en formato de serie de tiempo"
+        },
+        {
+          "id": "ffc7f951-dd04-4796-a1e9-b75908163285",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/ffc7f951-dd04-4796-a1e9-b75908163285/download/tasas-de-ocupacion-plazas-por-region-y-categoria.csv",
+          "name": "Tasa de ocupación de plazas por región de destino según tipo de categoría de alojamiento",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:13:36.388Z",
+          "description": "Tasa de ocupación de plazas de los establecimientos hoteleros y parahoteleros por región de destino según categoría de alojamiento en formato de serie de tiempo."
+        },
+        {
+          "id": "a8b3a099-f9e5-4bdf-826a-9ff17a730be7",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/a8b3a099-f9e5-4bdf-826a-9ff17a730be7/download/serie-tiempo-eoh-mensual.csv",
+          "name": "Serie de tiempo - Mensual",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:13:39.276Z",
+          "description": "Evolución de los principales indicadores producidos por la Encuesta de Ocupación Hotelera y Parahotelera (EOH), desde el año 2004 a la última actualización."
+        },
+        {
+          "id": "81cfbbee-4485-4a40-a31b-c98382100f3d",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/81cfbbee-4485-4a40-a31b-c98382100f3d/download/tasas-de-ocupacion-habitacion-por-categoria.csv",
+          "name": "Tasa de ocupación de habitaciones por tipo de categoría de alojamiento",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:13:41.110Z",
+          "description": "Tasa de ocupación de habitaciones de los establecimientos hoteleros y parahoteleros por categoría de alojamiento en formato de serie de tiempo"
+        },
+        {
+          "id": "e465c1a9-1564-4747-9500-3bf6aa36b87a",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/e465c1a9-1564-4747-9500-3bf6aa36b87a/download/tasas-de-ocupacion-habitacion-por-region-y-categoria.csv",
+          "name": "Tasa de ocupación de habitaciones por región de destino según tipo de categoría de alojamiento",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:13:43.870Z",
+          "description": "Tasa de ocupación de habitaciones de los establecimientos hoteleros y parahoteleros por región de destino según categoría de alojamiento en formato de serie de tiempo."
+        },
+        {
+          "id": "c60b1deb-aed7-42a9-b39e-4395d421a65a",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/c60b1deb-aed7-42a9-b39e-4395d421a65a/download/facturacion-total-en-pesos.csv",
+          "name": "Facturación total en hoteles y parahoteles",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:13:45.695Z",
+          "description": "Ingresos totales (en pesos y a precios corrientes) de los establecimientos hoteleros y parahoteleros por los servicios de alojamiento y otros servicios secundarios."
+        },
+        {
+          "id": "bae842e8-6555-4390-b854-7b533c4c6bdc",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/bae842e8-6555-4390-b854-7b533c4c6bdc/download/facturacion-total-en-pesos-por-region-y-categoria.csv",
+          "name": "Facturación total en hoteles y parahoteles por categoría del alojamiento según región de destino",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:13:48.419Z",
+          "description": "Ingresos totales (en pesos y a precios corrientes) de los hoteleros y parahoteleros por los servicios de alojamiento y otros servicios secundarios por categoría del alojamiento según región de destino"
+        },
+        {
+          "id": "b773fa8a-0839-4a46-98f0-b583327ebffc",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/b773fa8a-0839-4a46-98f0-b583327ebffc/download/ingresos-por-habitacion-disponible-en-usd-por-categoria.csv",
+          "name": "Ingresos por habitación disponible en USD por categoría del alojamiento",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:13:50.105Z",
+          "description": "Ingreso promedio por habitación disponible (Revenue Per Available Room -RevPar-) en dólares estadounidenses por categoría del alojamiento."
+        },
+        {
+          "id": "97e8eea7-e7dc-452b-bd8c-c22b6efebbd1",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/97e8eea7-e7dc-452b-bd8c-c22b6efebbd1/download/ingresos-por-habitacion-disponible-en-usd-por-region-y-categoria.csv",
+          "name": "Ingresos por habitación disponible en USD por categoría del alojamiento  según región de destino",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:13:53.644Z",
+          "description": "Ingreso promedio por habitación disponible (Revenue Per Available Room -RevPar-) en dólares estadounidenses por categoría del alojamiento según región de destino"
+        },
+        {
+          "id": "3b9dbd16-cbf7-43e5-9679-ce6c550eff90",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/3b9dbd16-cbf7-43e5-9679-ce6c550eff90/download/tarifa-media-diaria-en-usd-por-categoria.csv",
+          "name": "Tarifa media diaria en USD por categoría del alojamiento",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:13:56.222Z",
+          "description": "Precio promedio diario (Average Daily Rate -ADR-) en dólares estadounidenses por categoría del alojamiento."
+        },
+        {
+          "id": "d3aece2a-431d-4165-9623-6b8ce38dca02",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/d3aece2a-431d-4165-9623-6b8ce38dca02/download/tarifa-media-diaria-en-usd-por-region-y-categoria.csv",
+          "name": "Tarifa media diaria en USD por categoría del alojamiento según región de destino",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:13:58.734Z",
+          "description": "Precio promedio diario (Average Daily Rate -ADR-) en dólares estadounidenses por categoría del alojamiento según región de destino"
+        },
+        {
+          "id": "72a85e1d-2f37-4338-95b8-a1ddceb5c859",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/72a85e1d-2f37-4338-95b8-a1ddceb5c859/download/puestos-de-trabajo-equivalentes-totales.csv",
+          "name": "Puestos de trabajo equivalentes en hoteles y parahoteles",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:14:00.523Z",
+          "description": "Cantidad de puestos de trabajo a tiempo completo (45 horas semanales) en hoteles y parahoteles"
+        },
+        {
+          "id": "76a8cfed-89f7-4cc0-baf4-9a2f2374fa5e",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/76a8cfed-89f7-4cc0-baf4-9a2f2374fa5e/download/puestos-de-trabajo-equivalentes-totales-por-region-y-categoria.csv",
+          "name": "Puestos de trabajo equivalentes en hoteles y parahoteles por categoría del alojamiento según región de destino",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:14:02.405Z",
+          "description": "Cantidad de puestos de trabajo a tiempo completo (45 horas semanales) en hoteles y parahoteles por categoría del alojamiento según región de destino"
+        },
+        {
+          "id": "36775b32-0c74-4c35-ae06-6fdd53761b48",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/36775b32-0c74-4c35-ae06-6fdd53761b48/download/establecimientos-abiertos-covid-por-region.csv",
+          "name": "Establecimientos que permanecieron abiertos afectados a la COVID 19",
+          "format": "CSV",
+          "updatedAt": "2021-07-29T17:42:15.169Z",
+          "description": "Cantidad de establecimientos que permanecieron abiertos afectados a la COVID 19 por región.",
+          "landingUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/36775b32-0c74-4c35-ae06-6fdd53761b48"
+        },
+        {
+          "id": "5b33e730-2ec7-4d3b-bef3-00a03b530292",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/5b33e730-2ec7-4d3b-bef3-00a03b530292/download/puestos-de-trabajo-totales.csv",
+          "name": "Puestos de trabajo en hoteles y parahoteles",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:14:03.813Z",
+          "description": "Cantidad de puestos de trabajo en hoteles y para hoteles."
+        },
+        {
+          "id": "29f52b38-6d09-462d-b200-f1eab9703b79",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/29f52b38-6d09-462d-b200-f1eab9703b79/download/puestos-de-trabajo-totales-por-region-y-categoria.csv",
+          "name": "Puestos de trabajo en hoteles y parahoteles por categoría del alojamiento según región de destino",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:14:05.793Z",
+          "description": "Cantidad de puestos de trabajo en hoteles y para hoteles por categoría del alojamiento según región de destino."
+        },
+        {
+          "id": "693ae3c2-6e79-4c55-b1ef-95dae96ef0ff",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/693ae3c2-6e79-4c55-b1ef-95dae96ef0ff/download/viajeros-y-pernoctes-por-region-de-destino-segun-origen.csv",
+          "name": "Viajeros hospedados y pernoctes en hoteles y parahoteles por región de destino y categoría hotelera según origen de los viajeros",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:14:08.118Z",
+          "description": "Cantidad de viajeros alojados y noches en establecimientos hoteleros y parahoteleros por región de destino y categoría del establecimiento según provincia de origen (residentes) o país/región de origen (no residentes)."
+        },
+        {
+          "id": "7b6ba47f-4aa9-4743-96be-d0e6157cfc5e",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/7b6ba47f-4aa9-4743-96be-d0e6157cfc5e/download/pernoctes_por_localidad_segun_residencia.csv",
+          "name": "Pernoctaciones en hoteles y parahoteles por localidad de destino según tipo de residencia",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:14:11.863Z",
+          "description": "Cantidad de noches en hoteles y parahoteles por localidad de destino según tipo de residencia en formato de series de tiempo"
+        },
+        {
+          "id": "57b5deae-026e-4413-9f90-89a428496bfb",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/57b5deae-026e-4413-9f90-89a428496bfb/download/viajeros_por_localidad_segun_residencia.csv",
+          "name": "Viajeros hospedados en hoteles y parahoteles por localidad de destino según tipo de residencia",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:14:14.613Z",
+          "description": "Cantidad de viajeros hospedados en hoteles y parahoteles por localidad de destino según tipo de residencia en formato de series de tiempo"
+        },
+        {
+          "id": "61d3ddc5-3554-4a21-a55b-00228ca2efa5",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/61d3ddc5-3554-4a21-a55b-00228ca2efa5/download/ingresos-por-habitacion-disponible-por-categoria.csv",
+          "name": "Ingresos por habitación disponible en pesos por categoría del alojamiento",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:14:17.274Z",
+          "description": "Ingreso promedio por habitación disponible (Revenue Per Available Room -RevPar-) en pesos argentinos por categoría del alojamiento."
+        },
+        {
+          "id": "4e0dd9b1-8f06-48c3-9645-e394fb6d9db5",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/4e0dd9b1-8f06-48c3-9645-e394fb6d9db5/download/ingresos-por-habitacion-disponible-por-region-y-categoria.csv",
+          "name": "Ingresos por habitación disponible en pesos por categoría del alojamiento según región de destino",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:14:19.577Z",
+          "description": "Ingreso promedio por habitación disponible (Revenue Per Available Room -RevPar-) en pesos argentinos por categoría del alojamiento según región de destino"
+        },
+        {
+          "id": "08762488-c267-4c83-b8fc-aa12fca1c60d",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/08762488-c267-4c83-b8fc-aa12fca1c60d/download/tarifa-media-diaria-por-categoria.csv",
+          "name": "Tarifa media diaria en pesos por categoría del alojamiento",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:14:21.720Z",
+          "description": "Precio promedio diario (Average Daily Rate -ADR-) en pesos argentinos por categoría del alojamiento."
+        },
+        {
+          "id": "43519401-66e0-4bc1-9ac8-1a3feedb83f8",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/43519401-66e0-4bc1-9ac8-1a3feedb83f8/download/tarifa-media-diaria-por-region-y-categoria.csv",
+          "name": "Tarifa media diaria en pesos por categoría del alojamiento según región de destino",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:14:24.374Z",
+          "description": "Precio promedio diario (Average Daily Rate -ADR-) en pesos argentinos por categoría del alojamiento según región de destino"
+        },
+        {
+          "id": "d0c33b68-e6ac-4e1c-a2c6-7ed1dc83f84d",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/d0c33b68-e6ac-4e1c-a2c6-7ed1dc83f84d/download/viajeros-y-pernoctes-por-region-de-destino-segun-origen-total.csv",
+          "name": "Viajeros hospedados y pernoctes en hoteles y parahoteles por región de destino según origen de los viajeros",
+          "format": "CSV",
+          "updatedAt": "2023-11-22T22:14:09.909Z",
+          "description": "Cantidad de viajeros alojados y noches en establecimientos hoteleros y parahoteleros por región de destino según provincia de origen (residentes) o país/región de origen (no residentes)."
+        }
+      ],
+      "createdAt": "2020-12-29T03:16:56.205Z",
+      "updatedAt": "2023-11-22T22:14:24.407Z",
+      "contact": {
+        "name": "Ministerio de Turismo y Deportes. Subsecretaría de Desarrollo Estratégico. Dirección Nacional de Mercados y Estadística",
+        "email": "estadistica@turismo.gob.ar"
+      }
+    },
+    {
+      "id": "78b880c1-50d5-4a0c-9c87-7350e70548c2",
+      "name": "encuesta-turismo-internacional",
+      "title": "Encuesta de Turismo Internacional (ETI)",
+      "keywords": [
+        "turismo internacional"
+      ],
+      "landingPage": "http://datos.yvera.gob.ar/dataset/",
+      "resources": [
+        {
+          "id": "32cd65c4-7558-48cf-a8ac-bbb07147b5a1",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/78b880c1-50d5-4a0c-9c87-7350e70548c2/resource/32cd65c4-7558-48cf-a8ac-bbb07147b5a1/download/turistas_pernoctes_estadia_media_turistas_no_residentes_por_residencia_ezeiza_aeroparque_mensual.csv",
+          "name": "Turistas no residentes, pernoctaciones y estadía media mensual en Ezeiza y Aeroparque",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:06:16.057Z",
+          "description": "Cantidad de turistas no residentes, pernoctaciones y estadía media mensual por pasos de Ezeiza y Aeroparque"
+        },
+        {
+          "id": "5a6eaddb-a874-4657-a184-8795e870d6b7",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/78b880c1-50d5-4a0c-9c87-7350e70548c2/resource/5a6eaddb-a874-4657-a184-8795e870d6b7/download/turistas_pernoctes_estadia_media_turistas_no_residentes_por_residencia_ezeiza_aeroparque_trimest.csv",
+          "name": "Turistas no residentes, pernoctaciones y estadía media trimestral en Ezeiza y Aeroparque",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:06:47.101Z",
+          "description": "Cantidad de turistas no residentes, pernoctaciones y estadía media trimestral por pasos de Ezeiza y Aeroparque"
+        },
+        {
+          "id": "dae8b7f8-f3dc-431b-887e-3de4b54f09a9",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/78b880c1-50d5-4a0c-9c87-7350e70548c2/resource/dae8b7f8-f3dc-431b-887e-3de4b54f09a9/download/turistas_pernoctes_estadia_media_turistas_no_residentes_por_residencia_aeropuerto_cordoba_trimes.csv",
+          "name": "Turistas no residentes, pernoctaciones y estadía media trimestral en el Aeropuerto Internacional de Córdoba",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:06:48.103Z",
+          "description": "Cantidad de turistas no residentes, pernoctaciones y estadía media trimestral por paso Aeropuerto Internacional de Córdoba"
+        },
+        {
+          "id": "c112ca01-2563-4a48-a8d6-1126af9a5f1d",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/78b880c1-50d5-4a0c-9c87-7350e70548c2/resource/c112ca01-2563-4a48-a8d6-1126af9a5f1d/download/turistas_pernoctes_estadia_media_turistas_no_residentes_por_residencia_aeropuerto_mendoza_trimes.csv",
+          "name": "Turistas no residentes, pernoctaciones y estadía media trimestral en el Aeropuerto Internacional de Mendoza",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:06:49.179Z",
+          "description": "Cantidad de turistas no residentes, pernoctaciones y estadía media trimestral por paso Aeropuerto Internacional de Mendoza"
+        },
+        {
+          "id": "6ca84a56-8006-435b-8062-e00868263174",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/78b880c1-50d5-4a0c-9c87-7350e70548c2/resource/6ca84a56-8006-435b-8062-e00868263174/download/turistas_pernoctes_estadia_media_turistas_no_residentes_por_residencia_puerto_buenos_aires_trime.csv",
+          "name": "Turistas no residentes, pernoctaciones y estadía media trimestral en el Puerto de Buenos Aires",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:06:50.243Z",
+          "description": "Cantidad de turistas no residentes, pernoctaciones y estadía media trimestral por paso Puerto de Buenos Aires"
+        },
+        {
+          "id": "941a5faf-898d-47f5-b889-25e3919bc468",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/78b880c1-50d5-4a0c-9c87-7350e70548c2/resource/941a5faf-898d-47f5-b889-25e3919bc468/download/turistas_pernoctes_estadia_media_turistas_no_residentes_por_residencia_cristo_redentor_trimestra.csv",
+          "name": "Turistas no residentes, pernoctaciones y estadía media trimestral en el Paso Internacional Cristo Redentor",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:06:51.244Z",
+          "description": "Cantidad de turistas no residentes, pernoctaciones y estadía media trimestral por paso internacional Cristo Redentor"
+        },
+        {
+          "id": "8ba3c9e8-3d57-4d31-90a7-f6a0ab5bd51b",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/78b880c1-50d5-4a0c-9c87-7350e70548c2/resource/8ba3c9e8-3d57-4d31-90a7-f6a0ab5bd51b/download/turistas_no_residentes_por_motivo_de_viaje_segun_paso_trimestral.csv",
+          "name": "Turistas no residentes según principal motivo de viaje, por paso y trimestre",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:06:52.422Z",
+          "description": "Cantidad de turistas no residentes según motivo principal del viaje, por paso y trimestre"
+        },
+        {
+          "id": "eba3bb00-e0d6-4d5f-bc87-364a3e0569dd",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/78b880c1-50d5-4a0c-9c87-7350e70548c2/resource/eba3bb00-e0d6-4d5f-bc87-364a3e0569dd/download/turistas_no_residentes_por_tipo_de_alojamiento_segun_paso_trimestral.csv",
+          "name": "Turistas no residentes según principal tipo de alojamiento, paso y trimestre",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:06:53.347Z",
+          "description": "Cantidad de turistas no residentes según principal tipo de alojamiento, paso y trimestre"
+        },
+        {
+          "id": "9a2c43e4-8037-4cf3-8559-bdab2a37ca94",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/78b880c1-50d5-4a0c-9c87-7350e70548c2/resource/9a2c43e4-8037-4cf3-8559-bdab2a37ca94/download/gasto_total_promedio_diario_por_turista_en_usd_turistas_no_residentes_trimestral_segun_paso.csv",
+          "name": "Gasto total, gasto por turista no residente y gasto promedio diario, en USD, por paso y trimestre",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:06:54.446Z",
+          "description": "Gasto total, por turista y promedio diario de turistas no residentes, en dólares estadounidenses, por paso y trimestre"
+        },
+        {
+          "id": "a72b7476-fefd-4fe0-991d-a1cdaf15239f",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/78b880c1-50d5-4a0c-9c87-7350e70548c2/resource/a72b7476-fefd-4fe0-991d-a1cdaf15239f/download/ficha_eti.pdf",
+          "name": "Ficha Técnica: ETI",
+          "format": "PDF",
+          "updatedAt": "2022-05-30T17:59:47.679Z",
+          "description": "Aspectos conceptuales y metodológicos de la fuente de datos",
+          "landingUrl": ""
+        },
+        {
+          "id": "54441076-c475-42ac-a844-47f57e688a84",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/78b880c1-50d5-4a0c-9c87-7350e70548c2/resource/54441076-c475-42ac-a844-47f57e688a84/download/serie-tiempo-eti-trimestral.csv",
+          "name": "Serie de tiempo - Trimestral",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:06:55.868Z",
+          "description": "Evolución de los principales indicadores producidos por la Encuesta de Turismo Internacional en formato serie de tiempo trimestral"
+        },
+        {
+          "id": "4af57562-9ca5-4301-8865-e04e9bfdf327",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/78b880c1-50d5-4a0c-9c87-7350e70548c2/resource/4af57562-9ca5-4301-8865-e04e9bfdf327/download/turistas_pernoctes_por_provincia_segun_origen_y_destinos_visitados_ezeiza_aeroparque.csv",
+          "name": "Turistas y pernoctes según origen por provincia de destino y destinos visitados",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:06:17.194Z",
+          "description": "Cantidad de turistas no residentes por provincia visitada, pernoctaciones por provincia visitada y en la totalidad del viaje en la Argentina, según país/región de residencia y destinos visitados. Paso Ezeiza-Aeroparque."
+        },
+        {
+          "id": "63a4fd23-fe81-4cd1-b5bc-ca3abf6dda9d",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/78b880c1-50d5-4a0c-9c87-7350e70548c2/resource/63a4fd23-fe81-4cd1-b5bc-ca3abf6dda9d/download/turistas_pernoctes_estadia_media_turistas_residentes_por_destino_ezeiza_aeroparque_mensual.csv",
+          "name": "Turistas residentes, pernoctaciones y estadía media mensual en Ezeiza y Aeroparque",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:06:18.881Z",
+          "description": "Cantidad de turistas residentes, pernoctaciones y estadía media mensual según país de destino por paso Ezeiza y Aeroparque."
+        },
+        {
+          "id": "6373ee50-8eea-461b-8883-caa31faf0a07",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/78b880c1-50d5-4a0c-9c87-7350e70548c2/resource/6373ee50-8eea-461b-8883-caa31faf0a07/download/turistas_pernoctes_estadia_media_turistas_residentes_por_destino_ezeiza_aeroparque_trimestral.csv",
+          "name": "Turistas residentes, pernoctaciones y estadía media trimestral en Ezeiza y Aeroparque",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:06:57.529Z",
+          "description": "Cantidad de turistas residentes, pernoctaciones y estadía media trimestral según país de destino por paso Ezeiza y Aeroparque."
+        },
+        {
+          "id": "badeabbe-0703-4750-b79d-bb235eb45e36",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/78b880c1-50d5-4a0c-9c87-7350e70548c2/resource/badeabbe-0703-4750-b79d-bb235eb45e36/download/turistas_pernoctes_estadia_media_turistas_residentes_por_destino_aeropuerto_cordoba_trimestral.csv",
+          "name": "Turistas residentes, pernoctaciones y estadía media trimestral en el Aeropuerto Internacional de Córdoba",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:06:59.091Z",
+          "description": "Cantidad de turistas residentes, pernoctaciones y estadía media trimestral según país de destino por paso Aeropuerto Internacional de Córdoba."
+        },
+        {
+          "id": "cd2cb69a-8aaa-4570-b519-0f1f2891bb61",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/78b880c1-50d5-4a0c-9c87-7350e70548c2/resource/cd2cb69a-8aaa-4570-b519-0f1f2891bb61/download/turistas_pernoctes_estadia_media_turistas_residentes_por_destino_aeropuerto_mendoza_trimestral.csv",
+          "name": "Turistas residentes, pernoctaciones y estadía media trimestral en el Aeropuerto Internacional de Mendoza",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:07:00.443Z",
+          "description": "Cantidad de turistas residentes, pernoctaciones y estadía media trimestral según país de destino por paso Aeropuerto Internacional de Mendoza."
+        },
+        {
+          "id": "56917b04-edf9-4079-b904-cd61b7a63465",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/78b880c1-50d5-4a0c-9c87-7350e70548c2/resource/56917b04-edf9-4079-b904-cd61b7a63465/download/turistas_pernoctes_estadia_media_turistas_residentes_por_destino_puerto_buenos_aires_trimestral.csv",
+          "name": "Turistas residentes, pernoctaciones y estadía media trimestral en el Puerto de Buenos Aires",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:07:01.451Z",
+          "description": "Cantidad de turistas residentes, pernoctaciones y estadía media trimestral según país de destino por paso Puerto de Buenos Aires."
+        },
+        {
+          "id": "23c84cba-c265-405a-a135-ca98273c0729",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/78b880c1-50d5-4a0c-9c87-7350e70548c2/resource/23c84cba-c265-405a-a135-ca98273c0729/download/turistas_pernoctes_estadia_media_turistas_residentes_por_destino_cristo_redentor_trimestral.csv",
+          "name": "Turistas residentes, pernoctaciones y estadía media trimestral en el Paso Internacional Cristo Redentor",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:07:02.631Z",
+          "description": "Cantidad de turistas residentes, pernoctaciones y estadía media trimestral según país de destino por Paso Internacional Cristo Redentor."
+        },
+        {
+          "id": "9a0dd910-3af7-41ea-aff2-cc89a2dedad3",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/78b880c1-50d5-4a0c-9c87-7350e70548c2/resource/9a0dd910-3af7-41ea-aff2-cc89a2dedad3/download/turistas_residentes_por_motivo_de_viaje_segun_paso_trimestral.csv",
+          "name": "Turistas residentes según principal motivo de viaje, por paso y trimestre",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:07:03.578Z",
+          "description": "Cantidad de turistas residentes según motivo principal del viaje, por paso y trimestre."
+        },
+        {
+          "id": "6c938f69-ad6f-4bfa-82b1-c4df4b1d522e",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/78b880c1-50d5-4a0c-9c87-7350e70548c2/resource/6c938f69-ad6f-4bfa-82b1-c4df4b1d522e/download/turistas_residentes_por_tipo_de_alojamiento_segun_paso_trimestral.csv",
+          "name": "Turistas residentes según principal tipo de alojamiento, paso y trimestre",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:07:04.512Z",
+          "description": "Cantidad de turistas residentes según principal tipo de alojamiento, paso y trimestre."
+        },
+        {
+          "id": "42801ab6-0fc6-476d-8f7c-9ecfc9a9e6e1",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/78b880c1-50d5-4a0c-9c87-7350e70548c2/resource/42801ab6-0fc6-476d-8f7c-9ecfc9a9e6e1/download/gasto_total_promedio_diario_por_turista_en_usd_turistas_residentes_trimestral_segun_paso.csv",
+          "name": "Gasto total, gasto por turista residente y gasto promedio diario, en USD, por paso y trimestre",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:07:05.510Z",
+          "description": "Gasto total, por turista y promedio diario de turistas residentes, en dólares estadounidenses, por paso y trimestre."
+        },
+        {
+          "id": "0b1f4fb0-c7b8-48f7-bcb2-a820b88f9a08",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/78b880c1-50d5-4a0c-9c87-7350e70548c2/resource/0b1f4fb0-c7b8-48f7-bcb2-a820b88f9a08/download/serie-tiempo-eti-mensual.csv",
+          "name": "Serie de tiempo - Mensual",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:06:21.535Z",
+          "description": "Evolución de los principales indicadores producidos por la Encuesta de Turismo Internacional en formato serie de tiempo mensual para el paso Ezeiza y Aeroparque"
+        },
+        {
+          "id": "e4efea07-7c17-42e8-9fb4-197777e43976",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/78b880c1-50d5-4a0c-9c87-7350e70548c2/resource/e4efea07-7c17-42e8-9fb4-197777e43976/download/turistas_pernoctes_por_provincia_segun_destinos_visitados_y_alojamiento_ezeiza_aeroparque_trimes.csv",
+          "name": "Turistas y pernoctes según principal tipo de alojamiento utilizado en su viaje a la Argentina, por provincia de destino y destinos visitados",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:07:06.713Z",
+          "description": "Cantidad de turistas no residentes y pernoctes según principal tipo de alojamiento utilizado en su viaje a la Argentina, por provincia de destino, destinos visitados y trimestre. Paso Ezeiza-Aeroparque."
+        },
+        {
+          "id": "973b9964-1ec9-43c0-9f3b-a842bc5b41f9",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/78b880c1-50d5-4a0c-9c87-7350e70548c2/resource/973b9964-1ec9-43c0-9f3b-a842bc5b41f9/download/turistas_pernoctes_por_provincia_segun_destinos_visitados_y_motivo_de_viaje_ezeiza_aeroparque_tr.csv",
+          "name": "Turistas y pernoctes según motivo de viaje, por provincia de destino y destinos visitados",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:07:07.921Z",
+          "description": "Cantidad de turistas no residentes y pernoctes según motivo de viaje, por provincia de destino, destinos visitados y trimestre. Paso Ezeiza-Aeroparque."
+        },
+        {
+          "id": "09cee5f8-933c-4653-afb1-b7821bf8634f",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/78b880c1-50d5-4a0c-9c87-7350e70548c2/resource/09cee5f8-933c-4653-afb1-b7821bf8634f/download/gasto_turistas_no_residentes_por_provincia_segun_destinos_visitados_ezeiza_aeroparque_trimestral.csv",
+          "name": "Turistas, pernoctes y gasto (en el país y en la provincia), por provincia de destino y destinos visitados",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:07:08.864Z",
+          "description": "Cantidad de turistas no residentes, pernoctes y gasto (en el país y en la provincia), por provincia de destino, destinos visitados y trimestre. Paso Ezeiza-Aeroparque."
+        },
+        {
+          "id": "d3490d30-251b-47b2-8e9b-53ec198305c9",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/78b880c1-50d5-4a0c-9c87-7350e70548c2/resource/d3490d30-251b-47b2-8e9b-53ec198305c9/download/turistas_no_residentes_por_motivo_de_viaje_desagregado_todos_los_pasos_trimestral.csv",
+          "name": "Turistas y casos muestrales según motivo de viaje",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:07:09.929Z",
+          "description": "Cantidad de turistas y casos muestrales según trimestre y motivo de viaje con desagregación de casos por motivo de 'estudio'. Todos los pasos."
+        }
+      ],
+      "createdAt": "2022-05-30T15:49:50.198Z",
+      "updatedAt": "2023-11-09T22:07:09.965Z",
+      "contact": {
+        "name": "Ministerio de Turismo y Deportes. Subsecretaría de Desarrollo Estratégico. Dirección Nacional de Mercados y Estadística",
+        "email": "estadistica@turismo.gob.ar"
+      }
+    },
+    {
+      "id": "945e10f1-eee7-48a2-b0ef-8aff11df8814",
+      "name": "encuesta-viajes-turismo-hogares-evyth",
+      "title": "Encuesta de Viajes y Turismo de los Hogares (EVyTH)",
+      "keywords": [
+        "turismo interno",
+        "evyth",
+        "turismo",
+        "turistas argentinos",
+        "turistas argentinos en argentina",
+        "viajes turísticos"
+      ],
+      "landingPage": "http://datos.yvera.gob.ar/dataset/encuesta-viajes-turismo-hogares-evyth",
+      "resources": [
+        {
+          "id": "b8f0f46d-eb2f-4d68-a182-e66778bbf89a",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/945e10f1-eee7-48a2-b0ef-8aff11df8814/resource/b8f0f46d-eb2f-4d68-a182-e66778bbf89a/download/tur_int_turistas_residentes_destino_serie.csv",
+          "name": "Turistas residentes por región de destino del viaje",
+          "format": "CSV",
+          "updatedAt": "2023-10-06T21:13:35.933Z",
+          "description": "Cantidad de turistas residentes en Argentina según región de destino de los viajes, por trimestre"
+        },
+        {
+          "id": "678a669c-9fd0-4e46-a519-32d8acdf3b81",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/945e10f1-eee7-48a2-b0ef-8aff11df8814/resource/678a669c-9fd0-4e46-a519-32d8acdf3b81/download/tur_int_turistas_residentes_origen_serie.csv",
+          "name": "Turistas residentes por región de residencia",
+          "format": "CSV",
+          "updatedAt": "2023-10-06T21:13:38.780Z",
+          "description": "Cantidad de turistas residentes en Argentina según región de origen, por trimestre"
+        },
+        {
+          "id": "54779849-690a-49da-a7c7-8d2f4e70d83f",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/945e10f1-eee7-48a2-b0ef-8aff11df8814/resource/54779849-690a-49da-a7c7-8d2f4e70d83f/download/tur_int_turistas_residentes_motivo_serie.csv",
+          "name": "Turistas residentes por motivo principal del viaje",
+          "format": "CSV",
+          "updatedAt": "2023-10-06T21:13:40.548Z",
+          "description": "Cantidad de turistas residentes en Argentina según motivo principal del viaje, por trimestre"
+        },
+        {
+          "id": "eab20d9c-137f-4a56-8140-cb035848c057",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/945e10f1-eee7-48a2-b0ef-8aff11df8814/resource/eab20d9c-137f-4a56-8140-cb035848c057/download/tur_int_turistas_residentes_tipo_alojamiento_serie.csv",
+          "name": "Turistas residentes por tipo de alojamiento principal del viaje",
+          "format": "CSV",
+          "updatedAt": "2023-10-06T21:13:42.559Z",
+          "description": "Cantidad de turistas residentes en Argentina según tipo de alojamiento principal del viaje, por trimestre"
+        },
+        {
+          "id": "abdacfcd-4a6c-4283-9abb-c1352def52e1",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/945e10f1-eee7-48a2-b0ef-8aff11df8814/resource/abdacfcd-4a6c-4283-9abb-c1352def52e1/download/tur_int_turistas_residentes_edad_serie.csv",
+          "name": "Turistas residentes por edad",
+          "format": "CSV",
+          "updatedAt": "2023-10-06T21:13:43.941Z",
+          "description": "Cantidad de turistas residentes en Argentina según rango de edad, por trimestre"
+        },
+        {
+          "id": "f5e38aa3-e038-4cf1-89f8-973d03e20fd7",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/945e10f1-eee7-48a2-b0ef-8aff11df8814/resource/f5e38aa3-e038-4cf1-89f8-973d03e20fd7/download/tur_int_turistas_residentes_sexo_serie.csv",
+          "name": "Turistas residentes por sexo",
+          "format": "CSV",
+          "updatedAt": "2023-10-06T21:13:45.234Z",
+          "description": "Cantidad de turistas residentes en Argentina según sexo, por trimestre"
+        },
+        {
+          "id": "5895fdf2-7b50-484f-9305-b368b8744423",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/945e10f1-eee7-48a2-b0ef-8aff11df8814/resource/5895fdf2-7b50-484f-9305-b368b8744423/download/tur_int_turistas_residentes_tipo_transporte_serie.csv",
+          "name": "Turistas residentes por tipo de transporte utilizado",
+          "format": "CSV",
+          "updatedAt": "2023-10-06T21:13:46.517Z",
+          "description": "Cantidad de turistas residentes en Argentina según tipo de transporte utilizado durante el viaje, por trimestre"
+        },
+        {
+          "id": "1c9e99b6-e5aa-44e5-80cb-52c01d8295a5",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/945e10f1-eee7-48a2-b0ef-8aff11df8814/resource/1c9e99b6-e5aa-44e5-80cb-52c01d8295a5/download/tur_int_turistas_residentes_quintil_serie.csv",
+          "name": "Turistas residentes por quintil de ingresos del hogar",
+          "format": "CSV",
+          "updatedAt": "2023-10-06T21:13:47.752Z",
+          "description": "Cantidad de turistas residentes en Argentina según quintil de ingresos del hogar, por trimestre"
+        },
+        {
+          "id": "f19caa7c-db8e-40c4-97db-1aaceafe5672",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/945e10f1-eee7-48a2-b0ef-8aff11df8814/resource/f19caa7c-db8e-40c4-97db-1aaceafe5672/download/tur_int_turistas_residentes_pernoctaciones_destino_serie.csv",
+          "name": "Pernoctaciones de turistas residentes en Argentina por región de destino",
+          "format": "CSV",
+          "updatedAt": "2023-10-06T21:13:49.072Z",
+          "description": "Cantidad de pernoctes (noches) de los turistas residentes en Argentina por región de destino, por trimestre"
+        },
+        {
+          "id": "f41af122-ca31-4654-907b-a9cd57b80651",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/945e10f1-eee7-48a2-b0ef-8aff11df8814/resource/f41af122-ca31-4654-907b-a9cd57b80651/download/evyth-data.pdf",
+          "name": "Ficha Técnica: EVyTH",
+          "format": "PDF",
+          "updatedAt": "2022-04-18T21:26:29.002Z",
+          "description": "Aspectos conceptuales y metodológicos de la fuente de datos",
+          "landingUrl": ""
+        },
+        {
+          "id": "873f216b-131b-4d43-b136-b232fff1e44e",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/945e10f1-eee7-48a2-b0ef-8aff11df8814/resource/873f216b-131b-4d43-b136-b232fff1e44e/download/serie-tiempo-turismo-interno-trimestral.csv",
+          "name": "Serie de tiempo - Trimestral",
+          "format": "CSV",
+          "updatedAt": "2023-10-06T21:13:50.158Z",
+          "description": "Evolución de los principales indicadores producidos por la Encuesta de Viajes y Turismo de los Hogares (EVyTH) - Ministerio de Turismo y Deporte, desde el año 2014 a la última actualización."
+        },
+        {
+          "id": "9e4c5e37-fea0-4028-ac0f-53bd60cca9a9",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/945e10f1-eee7-48a2-b0ef-8aff11df8814/resource/9e4c5e37-fea0-4028-ac0f-53bd60cca9a9/download/tur_int_turistas_residentes_gasto_promedio_trim_destino_serie.csv",
+          "name": "Gasto promedio de turistas residentes en Argentina por región de destino",
+          "format": "CSV",
+          "updatedAt": "2023-10-06T21:13:51.206Z",
+          "description": "Gasto promedio (en pesos y a precios corrientes) de turistas residentes por región de destino, por trimestre"
+        },
+        {
+          "id": "1c866310-7f11-45bd-b2b5-5f13ce1a0d46",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/945e10f1-eee7-48a2-b0ef-8aff11df8814/resource/1c866310-7f11-45bd-b2b5-5f13ce1a0d46/download/tur_int_turistas_residentes_estadia_media_trim_destino_serie.csv",
+          "name": "Estadía media del viaje de los turistas residentes en Argentina por región de destino",
+          "format": "CSV",
+          "updatedAt": "2023-10-06T21:13:52.220Z",
+          "description": "Permanencia promedio (en noches) de los turistas residentes por región de destino, por trimestre"
+        },
+        {
+          "id": "9fd12924-afa0-4a0d-a829-66785414e8ba",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/945e10f1-eee7-48a2-b0ef-8aff11df8814/resource/9fd12924-afa0-4a0d-a829-66785414e8ba/download/tur_int_turistas_residentes_gasto_pesos_corrientes_destino_serie.csv",
+          "name": "Gasto total de los turistas residentes en Argentina por región de destino",
+          "format": "CSV",
+          "updatedAt": "2023-10-06T21:13:53.475Z",
+          "description": "Ingresos totales (en pesos y a precios corrientes) de los viajes de los turistas residentes en Argentina por región de destino, por trimestre"
+        },
+        {
+          "id": "284ebe6e-3df4-452e-8b96-ef5265c4b03b",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/945e10f1-eee7-48a2-b0ef-8aff11df8814/resource/284ebe6e-3df4-452e-8b96-ef5265c4b03b/download/tur_int_turistas_residentes_gasto_promedio_anual_destino_serie.csv",
+          "name": "Gasto promedio anual de turistas residentes en Argentina por región de destino",
+          "format": "CSV",
+          "updatedAt": "2023-06-22T22:16:35.791Z",
+          "description": "Gasto promedio (en pesos y a precios corrientes) de turistas residentes por región de destino, por año"
+        },
+        {
+          "id": "7279f9e8-5b31-45bf-9988-b5a87e8fb34a",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/945e10f1-eee7-48a2-b0ef-8aff11df8814/resource/7279f9e8-5b31-45bf-9988-b5a87e8fb34a/download/tur_int_turistas_residentes_estadia_media_anual_destino_serie.csv",
+          "name": "Estadía media anual del viaje de los turistas residentes en Argentina por región de destino",
+          "format": "CSV",
+          "updatedAt": "2023-06-22T22:16:36.805Z",
+          "description": "Permanencia promedio (en noches) de los turistas residentes por región de destino, por año"
+        },
+        {
+          "id": "dd0aba8b-0028-460d-b8a8-7ec6f5554bf8",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/945e10f1-eee7-48a2-b0ef-8aff11df8814/resource/dd0aba8b-0028-460d-b8a8-7ec6f5554bf8/download/comptur_poblacion_viajera_anual_serie.csv",
+          "name": "Proporción de la población que al menos realizó un viaje en el año",
+          "format": "CSV",
+          "updatedAt": "2023-06-22T22:16:38.077Z",
+          "description": "Proporción de personas de un año y más que realizaron al menos un viaje al año,"
+        },
+        {
+          "id": "7b408df8-1faa-4ce0-a929-b671f3358a8e",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/945e10f1-eee7-48a2-b0ef-8aff11df8814/resource/7b408df8-1faa-4ce0-a929-b671f3358a8e/download/comptur_poblacion_viajera_condicion_actividad_anual_serie.csv",
+          "name": "Proporción de la población viajera según condición de actividad del jefe de hogar",
+          "format": "CSV",
+          "updatedAt": "2023-06-22T22:16:38.872Z",
+          "description": "Participación de la población viajera según la condición de actividad del jefe de hogar, por año"
+        },
+        {
+          "id": "730c456c-4f4b-4bd8-ba6f-15994075b6d6",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/945e10f1-eee7-48a2-b0ef-8aff11df8814/resource/730c456c-4f4b-4bd8-ba6f-15994075b6d6/download/comptur_poblacion_viajera_nivel_educativo_anual_serie.csv",
+          "name": "Proporción de la población viajera según nivel educativo del jefe de hogar",
+          "format": "CSV",
+          "updatedAt": "2023-06-22T22:16:39.720Z",
+          "description": "Participación de la población viajera según nivel educativo del jefe de hogar, por año"
+        },
+        {
+          "id": "49d47d13-4012-47ea-b84a-4a61c7b0e2ec",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/945e10f1-eee7-48a2-b0ef-8aff11df8814/resource/49d47d13-4012-47ea-b84a-4a61c7b0e2ec/download/comptur_motivo_no_viaje_anual_serie.csv",
+          "name": "Proporción de la población que no realizaron viajes al año según motivo principal",
+          "format": "CSV",
+          "updatedAt": "2023-06-22T22:16:40.456Z",
+          "description": "Participación de la población no viajera según el motivo principal, por año"
+        },
+        {
+          "id": "239d839f-de53-4a75-84a3-b0969627b176",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/945e10f1-eee7-48a2-b0ef-8aff11df8814/resource/239d839f-de53-4a75-84a3-b0969627b176/download/serie-tiempo-turismo-interno-anual.csv",
+          "name": "Serie de tiempo - Anual",
+          "format": "CSV",
+          "updatedAt": "2023-10-25T21:25:41.288Z",
+          "description": "Evolución de los principales indicadores producidos por la Encuesta de Viajes y Turismo de los Hogares (EVyTH) - Ministerio de Turismo y Deporte, desde el año 2014 a la última actualización."
+        }
+      ],
+      "createdAt": "2020-12-30T23:18:15.837Z",
+      "updatedAt": "2023-10-25T21:25:41.375Z",
+      "contact": {
+        "name": "Ministerio de Turismo y Deportes. Subsecretaría de Desarrollo Estratégico. Dirección Nacional de Mercados y Estadística",
+        "email": "estadistica@turismo.gob.ar"
+      }
+    },
+    {
+      "id": "a57be48b-3660-4f39-a295-a283e9ec4a74",
+      "name": "organizaciones-distinguidas-sistema-argentino-calidad-turistica-sact",
+      "title": "Organizaciones distinguidas del Sistema Argentino de Calidad Turística (SACT)",
+      "keywords": [
+        "calidad turística",
+        "distincion",
+        "sact"
+      ],
+      "landingPage": "http://datos.yvera.gob.ar/dataset/organizaciones-distinguidas-sistema-argentino-calidad-turistica-sact",
+      "resources": [
+        {
+          "id": "a725b9dc-7480-4aee-b6c8-bf8d2a014015",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/a57be48b-3660-4f39-a295-a283e9ec4a74/resource/a725b9dc-7480-4aee-b6c8-bf8d2a014015/download/2022.08.25_data_calidad.pdf",
+          "name": "Ficha Técnica: Sistema Argentino de Calidad Turística",
+          "format": "PDF",
+          "updatedAt": "2022-08-25T22:10:06.142Z",
+          "description": "Especificaciones técnicas de la fuente de datos utilizada"
+        },
+        {
+          "id": "5c4c977c-d36c-4bda-b59f-448a17c9bc55",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/a57be48b-3660-4f39-a295-a283e9ec4a74/resource/5c4c977c-d36c-4bda-b59f-448a17c9bc55/download/registro-organizaciones-distinguidas-certificadas-sact-v20220824.csv",
+          "name": "Organizaciones distinguidas por el Sistema Argentino de Calidad Turística",
+          "format": "CSV",
+          "updatedAt": "2022-08-25T19:09:25.238Z",
+          "description": "Detalle de las organizaciones distinguidas al mes de agosto de 2022"
+        },
+        {
+          "id": "0909d60a-522a-4c5e-bcfb-791329c9d04e",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/a57be48b-3660-4f39-a295-a283e9ec4a74/resource/0909d60a-522a-4c5e-bcfb-791329c9d04e/download/registro-organizaciones-distinguidas-certificadas-sact-v20220824.xlsx",
+          "name": "Organizaciones distinguidas por el Sistema Argentino de Calidad Turística",
+          "format": "XLSX",
+          "updatedAt": "2022-08-25T19:09:25.756Z",
+          "description": "Detalle de las organizaciones distinguidas al mes de agosto de 2022"
+        }
+      ],
+      "createdAt": "2018-10-18T20:48:36.940Z",
+      "updatedAt": "2022-08-25T22:10:06.183Z",
+      "contact": {
+        "name": "Dirección Nacional de Calidad Turística",
+        "email": ""
+      }
+    },
+    {
+      "id": "c9dc110e-2a09-4b51-ac0a-a2db2ca76fbb",
+      "name": "padron-unico-nacional-alojamiento",
+      "title": "Padrón Único Nacional de Alojamiento",
+      "keywords": [
+        "sector hotelero",
+        "turismo"
+      ],
+      "landingPage": "http://datos.yvera.gob.ar/dataset/",
+      "resources": [
+        {
+          "id": "67727a58-7a43-450d-a685-a9fba9218b20",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/c9dc110e-2a09-4b51-ac0a-a2db2ca76fbb/resource/67727a58-7a43-450d-a685-a9fba9218b20/download/puna_indicadores_provincias.csv",
+          "name": "Plazas, habitaciones y establecimientos de alojamiento turístico disponibles por provincia",
+          "format": "CSV",
+          "updatedAt": "2023-09-29T21:51:17.646Z",
+          "description": "Cantidad de plazas, habitaciones y establecimientos de alojamiento turístico disponibles por provincia"
+        },
+        {
+          "id": "d948548d-bc56-4462-b5cd-cc425fedf0e7",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/c9dc110e-2a09-4b51-ac0a-a2db2ca76fbb/resource/d948548d-bc56-4462-b5cd-cc425fedf0e7/download/puna_indicadores_categorias.csv",
+          "name": "Plazas, habitaciones y establecimientos de alojamiento turístico disponibles por provincia según categoría",
+          "format": "CSV",
+          "updatedAt": "2023-09-29T21:51:18.330Z",
+          "description": "Cantidad de plazas, habitaciones y establecimientos de alojamiento turístico disponibles por provincia según categoría (propia del Ministerio de Turismo y Deportes)"
+        },
+        {
+          "id": "f7f748b8-5852-4ca5-bc05-fe7dedafa254",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/c9dc110e-2a09-4b51-ac0a-a2db2ca76fbb/resource/f7f748b8-5852-4ca5-bc05-fe7dedafa254/download/puna_indicadores_cadena.csv",
+          "name": "Plazas y establecimientos de cadenas hoteleras según tipo de cadena",
+          "format": "CSV",
+          "updatedAt": "2023-09-29T21:51:18.992Z",
+          "description": "Cantidad de plazas y establecimientos de alojamiento turístico pertenecientes a cadenas hoteleras por origen (nacional o internacional), nombre y marca de la cadena"
+        },
+        {
+          "id": "01d23e57-ba58-48ed-a1c9-e1604ae78a1d",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/c9dc110e-2a09-4b51-ac0a-a2db2ca76fbb/resource/01d23e57-ba58-48ed-a1c9-e1604ae78a1d/download/puna_base_agregada.csv",
+          "name": "Base agrupada del Padrón Único Nacional de Alojamiento (PUNA)",
+          "format": "CSV",
+          "updatedAt": "2023-09-29T21:51:20.052Z",
+          "description": "Base agrupada del Padrón Único Nacional de Alojamiento con datos de establecimientos, unidades, habitaciones y plazas de alojamientos turísticos."
+        },
+        {
+          "id": "3aef82ad-ab6a-455a-a9dc-2bcb39755959",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/c9dc110e-2a09-4b51-ac0a-a2db2ca76fbb/resource/3aef82ad-ab6a-455a-a9dc-2bcb39755959/download/data-oferta-puna.pdf",
+          "name": "Ficha Técnica: PUNA",
+          "format": "PDF",
+          "updatedAt": "2022-05-16T23:53:53.480Z",
+          "description": "Aspectos conceptuales y metodológicos del Padrón Único Nacional de Alojamiento",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-05-16T21:59:30.567Z",
+      "updatedAt": "2023-09-29T21:51:20.065Z",
+      "contact": {
+        "name": "Ministerio de Turismo y Deportes. Subsecretaría de Desarrollo Estratégico. Dirección Nacional de Mercados y Estadística",
+        "email": "estadistica@turismo.gob.ar"
+      }
+    },
+    {
+      "id": "458bcbe1-855c-4bc3-a1c9-cd4e84fedbbc",
+      "name": "parques-nacionales",
+      "title": "Parques Nacionales",
+      "keywords": [
+        "turismo naturaleza",
+        "parques nacionales",
+        "turismo",
+        "visitantes",
+        "visitas"
+      ],
+      "landingPage": "http://datos.yvera.gob.ar/dataset/parques-nacionales",
+      "resources": [
+        {
+          "id": "a570af75-ed33-427c-9797-980fc0cd8fd1",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/458bcbe1-855c-4bc3-a1c9-cd4e84fedbbc/resource/a570af75-ed33-427c-9797-980fc0cd8fd1/download/visitas-residentes-y-no-residentes.csv",
+          "name": "Visitas a los Parques Nacionales según tipo de residencia del visitante",
+          "format": "CSV",
+          "updatedAt": "2023-11-23T21:02:33.136Z",
+          "description": "Cantidad de visitas al total de Parques Nacionales según tipo de residencia del visitante en formato de series de tiempo."
+        },
+        {
+          "id": "e8f7c0d7-02f9-4fdd-aa83-d61c13f565ae",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/458bcbe1-855c-4bc3-a1c9-cd4e84fedbbc/resource/e8f7c0d7-02f9-4fdd-aa83-d61c13f565ae/download/visitas-residentes-y-no-residentes-por-region.csv",
+          "name": "Visitas a los Parques Nacionales por región de destino según tipo de residencia del visitante",
+          "format": "CSV",
+          "updatedAt": "2023-11-23T21:02:36.430Z",
+          "description": "Cantidad de visitas al total de Parques Nacionales por región de destino según tipo de residencia del visitante en formato de series de tiempo."
+        },
+        {
+          "id": "06e92813-b7d7-4702-8298-d73db3dbdce0",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/458bcbe1-855c-4bc3-a1c9-cd4e84fedbbc/resource/06e92813-b7d7-4702-8298-d73db3dbdce0/download/parques_nac.pdf",
+          "name": "Ficha Técnica: Parques Nacionales",
+          "format": "PDF",
+          "updatedAt": "2023-10-31T21:03:35.201Z",
+          "description": "Aspectos conceptuales y metodológicos de la fuente de datos",
+          "landingUrl": ""
+        },
+        {
+          "id": "78aea6ed-761c-4659-bdf2-7fcb0f616fad",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/458bcbe1-855c-4bc3-a1c9-cd4e84fedbbc/resource/78aea6ed-761c-4659-bdf2-7fcb0f616fad/download/serie-tiempo-parques-nacionales-mensual.csv",
+          "name": "Serie de tiempo",
+          "format": "CSV",
+          "updatedAt": "2023-11-23T21:02:37.492Z",
+          "description": "Evolución de los principales indicadores producidos por la Administración de Parques Nacionales, desde el año 2008 a la última actualización."
+        },
+        {
+          "id": "678bc2ed-871b-4aae-a4a3-69f070b488aa",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/458bcbe1-855c-4bc3-a1c9-cd4e84fedbbc/resource/678bc2ed-871b-4aae-a4a3-69f070b488aa/download/novedades.csv",
+          "name": "Novedades",
+          "format": "CSV",
+          "updatedAt": "2022-05-12T17:34:30.006Z",
+          "description": "Novedades sobre la actualización de los recursos incluidos en el dataset"
+        }
+      ],
+      "createdAt": "2020-12-29T23:54:44.051Z",
+      "updatedAt": "2023-11-23T21:02:37.595Z",
+      "contact": {
+        "name": "Ministerio de Turismo y Deportes. Subsecretaría de Desarrollo Estratégico. Dirección Nacional de Mercados y Estadística",
+        "email": "estadistica@turismo.gob.ar"
+      }
+    },
+    {
+      "id": "59fe000c-6ff0-4a8f-b32d-e576a4353368",
+      "name": "plan-nacional-inversiones-turisticas---50-destinos",
+      "title": "Plan Nacional de Inversiones Turísticas - 50 Destinos",
+      "keywords": [
+        "inversiones turísticas",
+        "inversiones",
+        "pnit"
+      ],
+      "landingPage": "http://datos.yvera.gob.ar/dataset/plan-nacional-de-infraestructura-turistica",
+      "resources": [
+        {
+          "id": "efb78004-03d3-4d48-89e3-944c1d1d637a",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/59fe000c-6ff0-4a8f-b32d-e576a4353368/resource/efb78004-03d3-4d48-89e3-944c1d1d637a/download/inversiones-pnit-2015-2020-1.csv",
+          "name": "Programa Nacional de Inversiones Turísticas 2015/2020",
+          "format": "CSV",
+          "updatedAt": "2021-05-04T00:15:20.198Z",
+          "description": "Inversiones realizadas por el PNIT en su distribución territorial entre los años 2015 hasta el año 2020",
+          "landingUrl": "http://datos.yvera.gob.ar/dataset/59fe000c-6ff0-4a8f-b32d-e576a4353368/resource/efb78004-03d3-4d48-89e3-944c1d1d637a"
+        },
+        {
+          "id": "d57a8dfc-a275-4877-b1ca-e649b7a0882c",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/59fe000c-6ff0-4a8f-b32d-e576a4353368/resource/d57a8dfc-a275-4877-b1ca-e649b7a0882c/download/data_pnit.pdf",
+          "name": "Ficha Técnica: Programa Nacional de Inversiones Turísticas",
+          "format": "PDF",
+          "updatedAt": "2022-04-18T21:27:08.605Z",
+          "description": "Especificaciones técnicas sobre la fuente de datos utilizada",
+          "landingUrl": "http://datos.yvera.gob.ar/dataset/59fe000c-6ff0-4a8f-b32d-e576a4353368/resource/d57a8dfc-a275-4877-b1ca-e649b7a0882c"
+        }
+      ],
+      "createdAt": "2018-10-09T16:58:55.250Z",
+      "updatedAt": "2022-04-18T21:27:08.615Z",
+      "contact": {
+        "name": "Secretaria de Gobierno de Turismo",
+        "email": ""
+      }
+    },
+    {
+      "id": "09679fe3-7379-481d-a36a-6b1e3d7374b1",
+      "name": "previaje",
+      "title": "Previaje",
+      "keywords": [],
+      "landingPage": "http://datos.yvera.gob.ar/dataset/previaje",
+      "resources": [
+        {
+          "id": "2eaac913-0273-41cb-b1b2-c810e59d2334",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/09679fe3-7379-481d-a36a-6b1e3d7374b1/resource/2eaac913-0273-41cb-b1b2-c810e59d2334/download/comprobantes_fecha.csv",
+          "name": "Comprobantes y monto por CLAE a 6 dígitos y fecha de carga",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T16:10:53.242Z",
+          "description": "Cantidad de comprobantes y monto total en pesos por CLAE a 6 dígitos y fecha de carga"
+        },
+        {
+          "id": "9e938356-b471-457a-a54d-fa346fb786bc",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/09679fe3-7379-481d-a36a-6b1e3d7374b1/resource/9e938356-b471-457a-a54d-fa346fb786bc/download/gasto_credito.csv",
+          "name": "Consumo del crédito según operaciones y monto por día",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T16:10:55.163Z",
+          "description": "Cantidad de operaciones y monto en pesos de los consumos realizados por gasto del crédito por día"
+        },
+        {
+          "id": "42a60de1-a6d5-473b-a2c0-415e25ad7f31",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/09679fe3-7379-481d-a36a-6b1e3d7374b1/resource/42a60de1-a6d5-473b-a2c0-415e25ad7f31/download/personas_beneficiarias.csv",
+          "name": "Personas beneficiarias por provincia de residencia, grupos de edad y género",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T16:10:57.149Z",
+          "description": "Cantidad de personas beneficiarias del programa por provincia de residencia, grupo de edad y género"
+        },
+        {
+          "id": "70a00ea0-45fc-47b3-ae66-8e7bf369c8e8",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/09679fe3-7379-481d-a36a-6b1e3d7374b1/resource/70a00ea0-45fc-47b3-ae66-8e7bf369c8e8/download/prestadores_clae.csv",
+          "name": "Prestadores inscriptos por CLAE",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T16:10:58.506Z",
+          "description": "Cantidad de prestadores inscriptos al programa y cantidad de establecimientos (para PV2 y PV3), por CLAE a 6 dígitos"
+        },
+        {
+          "id": "9d4db872-0a51-4042-9daa-e55bc7a3044c",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/09679fe3-7379-481d-a36a-6b1e3d7374b1/resource/9d4db872-0a51-4042-9daa-e55bc7a3044c/download/viajes_origen_destino_mes.csv",
+          "name": "Viajes y viajeros por mes de inicio, provincia de origen y destino",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T16:10:59.586Z",
+          "description": "Cantidad de viajes y viajeros por mes de inicio del viaje, provincia de origen y destino"
+        },
+        {
+          "id": "5c38d5d2-1481-43ef-8683-15691fd5cb88",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/09679fe3-7379-481d-a36a-6b1e3d7374b1/resource/5c38d5d2-1481-43ef-8683-15691fd5cb88/download/previaje_ficha_data_abierta.pdf",
+          "name": "Ficha Técnica: Previaje",
+          "format": "PDF",
+          "updatedAt": "2023-09-20T20:13:04.684Z",
+          "description": "Especificaciones ténicas sobre la fuente de datos utilizada",
+          "landingUrl": ""
+        },
+        {
+          "id": "eb96b75d-4963-451f-96d0-c8cc7bb254d6",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/09679fe3-7379-481d-a36a-6b1e3d7374b1/resource/eb96b75d-4963-451f-96d0-c8cc7bb254d6/download/novedades_pv.csv",
+          "name": "Novedades",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T16:22:37.291Z",
+          "description": "Novedades sobre la actualización de los recursos incluidos en el dataset",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-02-13T18:16:12.157Z",
+      "updatedAt": "2023-12-07T16:22:37.313Z",
+      "contact": {
+        "name": "Subsecretaría de Promoción Turística y Nuevos Productos del Ministerio de Turismo y Deportes",
+        "email": ""
+      }
+    },
+    {
+      "id": "4cbf7d4a-702a-4911-8c1e-717a45214902",
+      "name": "turismo-internacional-total-pais",
+      "title": "Turismo Internacional - Total País",
+      "keywords": [
+        "turismo internacional",
+        "turistas",
+        "visitas"
+      ],
+      "landingPage": "http://datos.yvera.gob.ar/dataset/",
+      "resources": [
+        {
+          "id": "fdfe0ae4-4acc-4421-aa48-6149a02bc615",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/4cbf7d4a-702a-4911-8c1e-717a45214902/resource/fdfe0ae4-4acc-4421-aa48-6149a02bc615/download/turistas-no-residentes-serie.csv",
+          "name": "Turismo receptivo",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:04:25.668Z",
+          "description": "Viajes de turistas no residentes que visitaron Argentina por país o agrupamiento de origen según medio de transporte utilizado en formato de serie de tiempo. Corresponde al total país."
+        },
+        {
+          "id": "fd710cb7-1981-43ea-aba3-7a14c356446b",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/4cbf7d4a-702a-4911-8c1e-717a45214902/resource/fd710cb7-1981-43ea-aba3-7a14c356446b/download/turistas-residentes-serie.csv",
+          "name": "Turismo emisivo",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:04:29.868Z",
+          "description": "Viajes de turistas residentes por destino visitado en el exterior según medio de transporte utilizado. Corresponde al total país."
+        },
+        {
+          "id": "7f96ec00-9300-4ea3-88b4-073fd4fa6d71",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/4cbf7d4a-702a-4911-8c1e-717a45214902/resource/7f96ec00-9300-4ea3-88b4-073fd4fa6d71/download/saldo-turistas-serie.csv",
+          "name": "Balanza turística",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:04:32.468Z",
+          "description": "Saldo de viajes de turistas por país o agrupamiento de países según medio de transporte utilizado. Corresponde al total país."
+        },
+        {
+          "id": "39455901-5488-4a01-8594-7b2b0a1e85a1",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/4cbf7d4a-702a-4911-8c1e-717a45214902/resource/39455901-5488-4a01-8594-7b2b0a1e85a1/download/serie-tiempo-turismo-internacional.csv",
+          "name": "Serie de tiempo - Mensual",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T22:04:34.245Z",
+          "description": "Evolución del turismo receptivo, emisivo y el saldo de viajes de turistas, según medio de transporte utilizado y región de destino/origen, en formato serie de tiempo. Corresponde al total país."
+        },
+        {
+          "id": "200bf770-d6f2-4847-af20-678fc0f13a0f",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/4cbf7d4a-702a-4911-8c1e-717a45214902/resource/200bf770-d6f2-4847-af20-678fc0f13a0f/download/tur-inter-data.pdf",
+          "name": "Ficha Técnica: Turismo Internacional - Total País",
+          "format": "PDF",
+          "updatedAt": "2022-05-19T21:53:12.798Z",
+          "description": "Aspectos conceptuales y metodológicos de la fuente de datos",
+          "landingUrl": ""
+        },
+        {
+          "id": "56801eb5-12c6-4cf2-b20a-b3d48399bf1f",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/4cbf7d4a-702a-4911-8c1e-717a45214902/resource/56801eb5-12c6-4cf2-b20a-b3d48399bf1f/download/novedades.csv",
+          "name": "Novedades",
+          "format": "CSV",
+          "updatedAt": "2022-11-11T18:08:54.725Z",
+          "description": "Novedades sobre la actualización de los recursos incluidos en el dataset"
+        }
+      ],
+      "createdAt": "2022-05-19T20:37:54.434Z",
+      "updatedAt": "2023-11-09T22:04:34.304Z",
+      "contact": {
+        "name": "Ministerio de Turismo y Deportes. Subsecretaría de Desarrollo Estratégico. Dirección Nacional de Mercados y Estadística",
+        "email": "estadistica@turismo.gob.ar"
+      }
+    },
+    {
+      "id": "453b2446-f93b-440e-9f51-f6471c57259a",
+      "name": "turismo-social",
+      "title": "Turismo Social",
+      "keywords": [
+        "social",
+        "turismo"
+      ],
+      "landingPage": "http://datos.yvera.gob.ar/dataset/turismo-social",
+      "resources": [
+        {
+          "id": "fa9c82f3-ee51-4f62-bce7-cb9c399b3369",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/453b2446-f93b-440e-9f51-f6471c57259a/resource/fa9c82f3-ee51-4f62-bce7-cb9c399b3369/download/pernoctes_solicitudes_chapadmalal.csv",
+          "name": "Solicitudes y pernoctaciones de turistas alojados en la Unidad Turística de Chapadmalal por provincia de origen y tipo de plan",
+          "format": "CSV",
+          "updatedAt": "2023-02-06T23:26:57.811Z",
+          "description": "Cantidad de solicitudes y de pernoctaciones de turistas alojados en la Unidad Turística de Chapadmalal por año, provincia de origen y tipo de plan. ",
+          "landingUrl": ""
+        },
+        {
+          "id": "6b7b7d1c-bc9e-4f00-9012-7e5a44ac88c1",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/453b2446-f93b-440e-9f51-f6471c57259a/resource/6b7b7d1c-bc9e-4f00-9012-7e5a44ac88c1/download/pernoctes_solicitudes_embalse.csv",
+          "name": "Solicitudes y pernoctaciones de turistas alojados en la Unidad Turística de Embalse por provincia de origen y tipo de plan",
+          "format": "CSV",
+          "updatedAt": "2023-02-06T23:26:58.533Z",
+          "description": "Cantidad de solicitudes y de pernoctaciones de turistas alojados en la Unidad Turística de Embalse por año, provincia de origen y tipo de plan. ",
+          "landingUrl": ""
+        },
+        {
+          "id": "1f1c149a-0482-4983-825f-c0597fcda91c",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/453b2446-f93b-440e-9f51-f6471c57259a/resource/1f1c149a-0482-4983-825f-c0597fcda91c/download/serie-tiempo-turismo-social-anual.csv",
+          "name": "Serie de tiempo - Anual",
+          "format": "CSV",
+          "updatedAt": "2023-02-06T23:26:59.368Z",
+          "description": "Evolución de los principales indicadores producidos por el Observatorio de Turismo Social"
+        },
+        {
+          "id": "1f13f246-db8a-476b-8dad-1d0af040543c",
+          "downloadUrl": "http://datos.yvera.gob.ar/dataset/453b2446-f93b-440e-9f51-f6471c57259a/resource/1f13f246-db8a-476b-8dad-1d0af040543c/download/ficha_turismo_social.pdf",
+          "name": "Ficha Técnica: Turismo Social",
+          "format": "PDF",
+          "updatedAt": "2023-01-06T17:22:29.715Z",
+          "description": "Especificaciones técnicas sobre la fuente de datos utilizada"
+        }
+      ],
+      "createdAt": "2023-01-04T17:26:47.309Z",
+      "updatedAt": "2023-02-06T23:28:48.496Z",
+      "contact": {
+        "name": "Observatorio de Turismo Social, Subsecretaría de Calidad, Accesibilidad y Sustentabilidad del Turismo Nacional",
+        "email": ""
+      }
+    }
+  ],
+  "organizations": [],
+  "updatedAt": "2023-12-09T08:59:51.259Z"
+}

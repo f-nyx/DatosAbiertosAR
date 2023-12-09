@@ -1,0 +1,2199 @@
+{
+  "id": "W26pHTU99X",
+  "datasets": [
+    {
+      "id": "96f82263-c68b-4a52-bf4d-5017edd690f1",
+      "name": "equipamiento-cientifico-tecnologico",
+      "title": "Equipamiento científico-tecnológico",
+      "keywords": [
+        "equipamiento científico-tecnológico",
+        "instituciones"
+      ],
+      "landingPage": "https://datasets.datos.mincyt.gob.ar/dataset/equipamiento-cientifico-tecnologico",
+      "resources": [
+        {
+          "id": "af706381-b958-41b1-ba9e-31822eb73df0",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/96f82263-c68b-4a52-bf4d-5017edd690f1/resource/af706381-b958-41b1-ba9e-31822eb73df0/download/equipos-sistemas-nacionales.csv",
+          "name": "Equipamiento científico-tecnológico según tipo de institución y provincia",
+          "format": "CSV",
+          "updatedAt": "2019-02-14T21:45:30.442Z",
+          "description": "Equipamiento científico-tecnológico según tipo de institución y provincia de localización",
+          "landingUrl": ""
+        },
+        {
+          "id": "ee87be56-2985-4702-91c0-b77e79b0e82a",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/96f82263-c68b-4a52-bf4d-5017edd690f1/resource/ee87be56-2985-4702-91c0-b77e79b0e82a/download/equipos-sistemas-nacionales.json",
+          "name": "Equipamiento científico-tecnológico según tipo de institución y provincia",
+          "format": "JSON",
+          "updatedAt": "2019-02-14T21:46:43.047Z",
+          "description": "Equipamiento científico-tecnológico según tipo de institución y provincia de localización",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-02-14T21:42:25.692Z",
+      "updatedAt": "2019-02-14T21:56:04.739Z",
+      "contact": {
+        "name": "Sistema de Información de Ciencia y Tecnología Argentino (SICYTAR) ",
+        "email": "ciencia.abierta@mincyt.gob.ar"
+      }
+    },
+    {
+      "id": "ce17edf2-25ea-488d-9839-db1d3a7774f9",
+      "name": "instituciones-del-sistema-nacional-de-ciencia-y-tecnologia-argentino",
+      "title": "Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino",
+      "keywords": [
+        "ciencia",
+        "innovación",
+        "instituciones",
+        "tecnología"
+      ],
+      "landingPage": "https://datasets.datos.mincyt.gob.ar/dataset/instituciones-del-sistema-nacional-de-ciencia-y-tecnologia-argentino",
+      "resources": [
+        {
+          "id": "c7947acc-3df1-436b-971e-fa0a49b98eed",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/ce17edf2-25ea-488d-9839-db1d3a7774f9/resource/c7947acc-3df1-436b-971e-fa0a49b98eed/download/organizaciones.csv",
+          "name": "organizaciones",
+          "format": "CSV",
+          "updatedAt": "2021-10-22T20:42:18.230Z",
+          "description": "Organizaciones vinculadas con actividades científico tecnológicas o bien en las que se desarrollan actividades de I+D y/o innovación.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "a033ce58-20b9-4b79-93f3-57ed82ac69c7",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/ce17edf2-25ea-488d-9839-db1d3a7774f9/resource/a033ce58-20b9-4b79-93f3-57ed82ac69c7/download/organizaciones.json",
+          "name": "organizaciones",
+          "format": "JSON",
+          "updatedAt": "2021-10-22T20:44:08.468Z",
+          "description": "Organizaciones vinculadas con actividades científico tecnológicas o bien en las que se desarrollan actividades de I+D y/o innovación.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "cd0faa24-2e36-4333-a9f6-e01954b01676",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/ce17edf2-25ea-488d-9839-db1d3a7774f9/resource/cd0faa24-2e36-4333-a9f6-e01954b01676/download/organizaciones_dependencia_conjunta.csv",
+          "name": "organizaciones_dependencia_conjunta",
+          "format": "CSV",
+          "updatedAt": "2021-10-22T20:49:57.706Z",
+          "description": "Niveles organizacionales (institutos, centros y otros), en los que se desarrolla alguna actividad científico tecnológica, que dependen de dos o más organizaciones.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "2a56adbe-e34a-4442-b54a-e614e1debd07",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/ce17edf2-25ea-488d-9839-db1d3a7774f9/resource/2a56adbe-e34a-4442-b54a-e614e1debd07/download/organizaciones_dependencia_conjunta.json",
+          "name": "organizaciones_dependencia_conjunta",
+          "format": "JSON",
+          "updatedAt": "2021-10-22T20:50:33.218Z",
+          "description": "Niveles organizacionales (institutos, centros y otros), en los que se desarrolla alguna actividad científico tecnológica, que dependen de dos o más organizaciones.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "7d1e14ec-903f-4c96-88a7-0f3ca315248c",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/ce17edf2-25ea-488d-9839-db1d3a7774f9/resource/7d1e14ec-903f-4c96-88a7-0f3ca315248c/download/organizaciones_localizacion.csv",
+          "name": "organizaciones_localizacion",
+          "format": "CSV",
+          "updatedAt": "2021-10-22T20:58:27.189Z",
+          "description": "Datos sobre la localización geográfica de las organizaciones.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "3bf4a614-4379-4a92-9868-53efee823c3e",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/ce17edf2-25ea-488d-9839-db1d3a7774f9/resource/3bf4a614-4379-4a92-9868-53efee823c3e/download/organizaciones_localizacion.json",
+          "name": "organizaciones_localizacion",
+          "format": "JSON",
+          "updatedAt": "2021-10-22T20:59:18.366Z",
+          "description": "Datos sobre la localización geográfica de las organizaciones.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "6c04ac22-32fc-41e4-b022-7139d4a11321",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/ce17edf2-25ea-488d-9839-db1d3a7774f9/resource/6c04ac22-32fc-41e4-b022-7139d4a11321/download/organizaciones_actividad_economica.csv",
+          "name": "organizaciones_actividad_economica",
+          "format": "CSV",
+          "updatedAt": "2021-10-22T21:01:45.805Z",
+          "description": "Datos sobre la actividad económica que desarrollan las organizaciones.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "91bb52d4-e46e-4f1e-9b0f-1591ade76ece",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/ce17edf2-25ea-488d-9839-db1d3a7774f9/resource/91bb52d4-e46e-4f1e-9b0f-1591ade76ece/download/organizaciones_actividad_economica.json",
+          "name": "organizaciones_actividad_economica",
+          "format": "JSON",
+          "updatedAt": "2021-10-22T21:02:40.563Z",
+          "description": "Datos sobre la actividad económica que desarrollan las organizaciones.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "4d88eb66-f598-4087-8123-aa928c5fcef7",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/ce17edf2-25ea-488d-9839-db1d3a7774f9/resource/4d88eb66-f598-4087-8123-aa928c5fcef7/download/ref_tipo_institucion.csv",
+          "name": "ref_TIPO_INSTITUCION",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T22:32:58.937Z",
+          "description": "Tabla de referencia para el campo tipo institución.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "aa9a3178-5ed2-4b35-bb7f-c690fd2895e2",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/ce17edf2-25ea-488d-9839-db1d3a7774f9/resource/aa9a3178-5ed2-4b35-bb7f-c690fd2895e2/download/ref_tipo_institucion.json",
+          "name": "ref_TIPO_INSTITUCION",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T22:33:33.536Z",
+          "description": "Tabla de referencia para el campo tipo institución.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "1560388c-7b87-4cb7-875c-bcc675005ffc",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/ce17edf2-25ea-488d-9839-db1d3a7774f9/resource/1560388c-7b87-4cb7-875c-bcc675005ffc/download/ref_tipo_entidad_privada.csv",
+          "name": "ref_TIPO_ENTIDAD_PRIVADA",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T22:34:08.416Z",
+          "description": "Tabla de referencia para el campo tipo de entidad privada.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "71253b83-4ad5-4e6f-8819-efd6841004c9",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/ce17edf2-25ea-488d-9839-db1d3a7774f9/resource/71253b83-4ad5-4e6f-8819-efd6841004c9/download/ref_tipo_entidad_privada.json",
+          "name": "ref_TIPO_ENTIDAD_PRIVADA",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T22:34:43.968Z",
+          "description": "Tabla de referencia para el campo tipo de entidad privada.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "85e3b551-ddb2-4f25-a973-77161ba41201",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/ce17edf2-25ea-488d-9839-db1d3a7774f9/resource/85e3b551-ddb2-4f25-a973-77161ba41201/download/ref_estado_organizacion.csv",
+          "name": "ref_ESTADO_ORGANIZACION",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T22:35:23.091Z",
+          "description": "Tabla de referencia para el campo estado organización.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "55734596-9d49-4a72-a4da-51401bfbe9ff",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/ce17edf2-25ea-488d-9839-db1d3a7774f9/resource/55734596-9d49-4a72-a4da-51401bfbe9ff/download/ref_estado_organizacion.json",
+          "name": "ref_ESTADO_ORGANIZACION",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T22:36:03.865Z",
+          "description": "Tabla de referencia para el campo estado organización.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "c814ebfc-a88f-43e9-8384-3698f59ff4c1",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/ce17edf2-25ea-488d-9839-db1d3a7774f9/resource/c814ebfc-a88f-43e9-8384-3698f59ff4c1/download/ref_actividad_economica.csv",
+          "name": "ref_ACTIVIDAD_ECONOMICA",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T22:36:31.421Z",
+          "description": "Tabla de referencia para actividad económica\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "330d4e27-406b-4175-8c33-7dbfadf33b5c",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/ce17edf2-25ea-488d-9839-db1d3a7774f9/resource/330d4e27-406b-4175-8c33-7dbfadf33b5c/download/ref_actividad_economica.json",
+          "name": "ref_ACTIVIDAD_ECONOMICA",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T22:37:31.996Z",
+          "description": "Tabla de referencia para actividad económica\r\n",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-02-08T18:11:08.384Z",
+      "updatedAt": "2021-10-22T21:15:40.763Z",
+      "contact": {
+        "name": "Sistema de Información de Ciencia y Tecnología Argentino (SICYTAR)",
+        "email": "ciencia.abierta@mincyt.gob.ar"
+      }
+    },
+    {
+      "id": "06ae9728-c376-47bd-9c41-fbdca68707c6",
+      "name": "personal-de-ciencia-y-tecnologia",
+      "title": "Personal de ciencia y tecnología",
+      "keywords": [
+        "becarios",
+        "becas",
+        "capacidades científicas",
+        "ciencia",
+        "doctores",
+        "estancias",
+        "género",
+        "indicadores",
+        "innovación",
+        "investigadores",
+        "movilidad",
+        "pasantías",
+        "personal científico-tecnológico",
+        "posdoctorado",
+        "producción",
+        "rrhh",
+        "tecnología"
+      ],
+      "landingPage": "https://datasets.datos.mincyt.gob.ar/dataset/personal-de-ciencia-y-tecnologia",
+      "resources": [
+        {
+          "id": "11dca5bb-9a5f-4da5-b040-28957126be18",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/11dca5bb-9a5f-4da5-b040-28957126be18/download/personas_2011.csv",
+          "name": "personas_2011",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T20:45:18.235Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "fdcfe792-a17f-4e7d-9bae-ba8a47d8ba3e",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/fdcfe792-a17f-4e7d-9bae-ba8a47d8ba3e/download/personas_2011.json",
+          "name": "personas_2011",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T20:48:04.078Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "5d49a616-2fc1-4270-8b09-73f1f5cdd335",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/5d49a616-2fc1-4270-8b09-73f1f5cdd335/download/personas_2012.csv",
+          "name": "personas_2012",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T20:49:27.272Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "41b7e52d-825b-4a9e-8ec0-4c8ded376ceb",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/41b7e52d-825b-4a9e-8ec0-4c8ded376ceb/download/personas_2012.json",
+          "name": "personas_2012",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T20:50:45.488Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "0fb38a7e-829b-4128-b318-4affd51c022c",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/0fb38a7e-829b-4128-b318-4affd51c022c/download/personas_2013.csv",
+          "name": "personas_2013",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T20:52:38.195Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "3365a75c-5748-4790-a694-9c0e2cb73019",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/3365a75c-5748-4790-a694-9c0e2cb73019/download/personas_2013.json",
+          "name": "personas_2013",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T20:53:36.746Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "0c8dfedc-a2b5-4c0a-8e78-eed5fe90025f",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/0c8dfedc-a2b5-4c0a-8e78-eed5fe90025f/download/personas_2014.csv",
+          "name": "personas_2014",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T20:54:24.113Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "6870439c-984c-40e7-a37f-a655c7b9e7ad",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/6870439c-984c-40e7-a37f-a655c7b9e7ad/download/personas_2014.json",
+          "name": "personas_2014",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T20:55:52.689Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "b5c212d2-104f-426c-95d0-25ac5bf819d8",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/b5c212d2-104f-426c-95d0-25ac5bf819d8/download/personas_2015.csv",
+          "name": "personas_2015",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T20:56:34.465Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "7a9d850b-983a-4d7d-b260-9c6bb7776f6e",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/7a9d850b-983a-4d7d-b260-9c6bb7776f6e/download/personas_2015.json",
+          "name": "personas_2015",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T20:58:04.864Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "2fbdbf08-4de0-4a1b-92d5-d16751757ab8",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/2fbdbf08-4de0-4a1b-92d5-d16751757ab8/download/personas_2016.csv",
+          "name": "personas_2016",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T20:58:47.261Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "039f0fc5-a3af-411e-b097-b5e10a5ff79c",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/039f0fc5-a3af-411e-b097-b5e10a5ff79c/download/personas_2016.json",
+          "name": "personas_2016",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T21:00:11.358Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "ff318872-775a-4403-bff5-a1c5cdeb85ea",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/ff318872-775a-4403-bff5-a1c5cdeb85ea/download/personas_2017.csv",
+          "name": "personas_2017",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T21:02:23.169Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "0f144535-9ac8-4380-b152-c657299b9390",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/0f144535-9ac8-4380-b152-c657299b9390/download/personas_2017.json",
+          "name": "personas_2017",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T21:04:32.983Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "7b07fb44-64c3-4902-ab73-f59d4ed8a2f5",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/7b07fb44-64c3-4902-ab73-f59d4ed8a2f5/download/personas_2018.csv",
+          "name": "personas_2018",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T21:20:24.981Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "87a7573d-98b1-4ba5-97f1-c37ac1970043",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/87a7573d-98b1-4ba5-97f1-c37ac1970043/download/personas_2018.json",
+          "name": "personas_2018",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T21:23:42.645Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "cdd821b1-55e1-44cc-8b19-72673d037f18",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/cdd821b1-55e1-44cc-8b19-72673d037f18/download/personas_indicadores_genero_2011.csv",
+          "name": "personas_indicadores_genero_2011",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T21:24:46.675Z",
+          "description": "Permite realizar un análisis por sexo de la producción CyT, la participación en proyectos de I+D, las actividades de evaluación y la movilidad internacional de investigadorxs y becarixs de Argentina.",
+          "landingUrl": ""
+        },
+        {
+          "id": "ed3a4f5b-dbcc-40ba-9342-5ace0741bcc8",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/ed3a4f5b-dbcc-40ba-9342-5ace0741bcc8/download/personas_indicadores_genero_2011.json",
+          "name": "personas_indicadores_genero_2011",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T21:26:03.713Z",
+          "description": "Permite realizar un análisis por sexo de la producción CyT, la participación en proyectos de I+D, las actividades de evaluación y la movilidad internacional de investigadorxs y becarixs de Argentina.",
+          "landingUrl": ""
+        },
+        {
+          "id": "57c82785-09ab-44af-b25b-c6344bf26ead",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/57c82785-09ab-44af-b25b-c6344bf26ead/download/personas_indicadores_genero_2012.csv",
+          "name": "personas_indicadores_genero_2012",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T21:30:50.572Z",
+          "description": "Permite realizar un análisis por sexo de la producción CyT, la participación en proyectos de I+D, las actividades de evaluación y la movilidad internacional de investigadorxs y becarixs de Argentina.",
+          "landingUrl": ""
+        },
+        {
+          "id": "4c7baf69-c84b-4c3d-8416-fb09004386ad",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/4c7baf69-c84b-4c3d-8416-fb09004386ad/download/personas_indicadores_genero_2012.json",
+          "name": "personas_indicadores_genero_2012",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T21:32:43.066Z",
+          "description": "Permite realizar un análisis por sexo de la producción CyT, la participación en proyectos de I+D, las actividades de evaluación y la movilidad internacional de investigadorxs y becarixs de Argentina.",
+          "landingUrl": ""
+        },
+        {
+          "id": "11def25d-4939-45ce-9775-b6801dcc1dc2",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/11def25d-4939-45ce-9775-b6801dcc1dc2/download/personas_indicadores_genero_2013.csv",
+          "name": "personas_indicadores_genero_2013",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T21:33:41.886Z",
+          "description": "Permite realizar un análisis por sexo de la producción CyT, la participación en proyectos de I+D, las actividades de evaluación y la movilidad internacional de investigadorxs y becarixs de Argentina.",
+          "landingUrl": ""
+        },
+        {
+          "id": "b5fba1c2-11ab-4d98-ba26-1ae96c30ed69",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/b5fba1c2-11ab-4d98-ba26-1ae96c30ed69/download/personas_indicadores_genero_2013.json",
+          "name": "personas_indicadores_genero_2013",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T21:34:40.215Z",
+          "description": "Permite realizar un análisis por sexo de la producción CyT, la participación en proyectos de I+D, las actividades de evaluación y la movilidad internacional de investigadorxs y becarixs de Argentina.",
+          "landingUrl": ""
+        },
+        {
+          "id": "c614cc08-ad3c-4614-9754-6b497183c1b3",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/c614cc08-ad3c-4614-9754-6b497183c1b3/download/personas_indicadores_genero_2014.csv",
+          "name": "personas_indicadores_genero_2014",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T21:35:34.043Z",
+          "description": "Permite realizar un análisis por sexo de la producción CyT, la participación en proyectos de I+D, las actividades de evaluación y la movilidad internacional de investigadorxs y becarixs de Argentina.",
+          "landingUrl": ""
+        },
+        {
+          "id": "3457b25b-777b-428b-aa1e-b8b27bec7135",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/3457b25b-777b-428b-aa1e-b8b27bec7135/download/personas_indicadores_genero_2014.json",
+          "name": "personas_indicadores_genero_2014",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T21:36:41.932Z",
+          "description": "Permite realizar un análisis por sexo de la producción CyT, la participación en proyectos de I+D, las actividades de evaluación y la movilidad internacional de investigadorxs y becarixs de Argentina.",
+          "landingUrl": ""
+        },
+        {
+          "id": "16e0f9eb-de8f-4d94-8bc4-d72465cf7a29",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/16e0f9eb-de8f-4d94-8bc4-d72465cf7a29/download/personas_indicadores_genero_2015.csv",
+          "name": "personas_indicadores_genero_2015",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T21:37:30.321Z",
+          "description": "Permite realizar un análisis por sexo de la producción CyT, la participación en proyectos de I+D, las actividades de evaluación y la movilidad internacional de investigadorxs y becarixs de Argentina.",
+          "landingUrl": ""
+        },
+        {
+          "id": "21949591-0eb9-4b3a-9a46-cf669c373fdd",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/21949591-0eb9-4b3a-9a46-cf669c373fdd/download/personas_indicadores_genero_2015.json",
+          "name": "personas_indicadores_genero_2015",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T21:38:39.459Z",
+          "description": "Permite realizar un análisis por sexo de la producción CyT, la participación en proyectos de I+D, las actividades de evaluación y la movilidad internacional de investigadorxs y becarixs de Argentina.",
+          "landingUrl": ""
+        },
+        {
+          "id": "0449f2f1-414c-41b6-84d3-9ad8346c7313",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/0449f2f1-414c-41b6-84d3-9ad8346c7313/download/personas_indicadores_genero_2016.csv",
+          "name": "personas_indicadores_genero_2016",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T21:39:25.873Z",
+          "description": "Permite realizar un análisis por sexo de la producción CyT, la participación en proyectos de I+D, las actividades de evaluación y la movilidad internacional de investigadorxs y becarixs de Argentina.",
+          "landingUrl": ""
+        },
+        {
+          "id": "30090c70-5d8e-4638-8eb8-cdaef6c8ef68",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/30090c70-5d8e-4638-8eb8-cdaef6c8ef68/download/personas_indicadores_genero_2016.json",
+          "name": "personas_indicadores_genero_2016",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T21:40:31.883Z",
+          "description": "Permite realizar un análisis por sexo de la producción CyT, la participación en proyectos de I+D, las actividades de evaluación y la movilidad internacional de investigadorxs y becarixs de Argentina.",
+          "landingUrl": ""
+        },
+        {
+          "id": "17940af2-8082-4262-a36f-3e7474b35931",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/17940af2-8082-4262-a36f-3e7474b35931/download/personas_indicadores_genero_2017.csv",
+          "name": "personas_indicadores_genero_2017",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T21:43:03.630Z",
+          "description": "Permite realizar un análisis por sexo de la producción CyT, la participación en proyectos de I+D, las actividades de evaluación y la movilidad internacional de investigadorxs y becarixs de Argentina.",
+          "landingUrl": ""
+        },
+        {
+          "id": "a7dd15a1-d4cc-4a90-8fe2-0a71da4af50b",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/a7dd15a1-d4cc-4a90-8fe2-0a71da4af50b/download/personas_indicadores_genero_2017.json",
+          "name": "personas_indicadores_genero_2017",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T21:44:54.398Z",
+          "description": "Permite realizar un análisis por sexo de la producción CyT, la participación en proyectos de I+D, las actividades de evaluación y la movilidad internacional de investigadorxs y becarixs de Argentina.",
+          "landingUrl": ""
+        },
+        {
+          "id": "f3dd2f11-5c1d-40d2-8b0d-41ebef6dff31",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/f3dd2f11-5c1d-40d2-8b0d-41ebef6dff31/download/personas_indicadores_genero_2018.csv",
+          "name": "personas_indicadores_genero_2018",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T21:59:11.562Z",
+          "description": "Permite realizar un análisis por sexo de la producción CyT, la participación en proyectos de I+D, las actividades de evaluación y la movilidad internacional de investigadorxs y becarixs de Argentina.",
+          "landingUrl": ""
+        },
+        {
+          "id": "c4f27a22-2326-47b3-bb70-d1fd7d16b906",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/c4f27a22-2326-47b3-bb70-d1fd7d16b906/download/personas_indicadores_genero_2018.json",
+          "name": "personas_indicadores_genero_2018",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T22:02:40.627Z",
+          "description": "Permite realizar un análisis por sexo de la producción CyT, la participación en proyectos de I+D, las actividades de evaluación y la movilidad internacional de investigadorxs y becarixs de Argentina.",
+          "landingUrl": ""
+        },
+        {
+          "id": "8ab77b16-f1a8-4d3f-b664-67becf83a9b9",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/8ab77b16-f1a8-4d3f-b664-67becf83a9b9/download/personas.csv",
+          "name": "personas",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T22:03:39.122Z",
+          "description": "Conjunto de datos que describe mediante atributos tales como nombre, apellido, sexo, edad, a las personas físicas.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "f935668a-261e-4cc4-b56c-bc09cd4f521e",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/f935668a-261e-4cc4-b56c-bc09cd4f521e/download/personas.json",
+          "name": "personas",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T22:04:26.816Z",
+          "description": "Conjunto de datos que describe mediante atributos tales como nombre, apellido, sexo, edad, a las personas físicas.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "a69384fd-fd1b-4be6-9521-00c833583b63",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/a69384fd-fd1b-4be6-9521-00c833583b63/download/ref_sexo.csv",
+          "name": "ref_SEXO",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T22:06:10.393Z",
+          "description": "Tabla de referencia para campo sexo.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "a3ebcdf1-2095-4f5d-87db-0d5a50f6ac33",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/a3ebcdf1-2095-4f5d-87db-0d5a50f6ac33/download/ref_sexo.json",
+          "name": "ref_SEXO",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T22:07:16.576Z",
+          "description": "Tabla de referencia para campo sexo.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "d54a9918-1f9e-4951-bbce-ea24d728f195",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/d54a9918-1f9e-4951-bbce-ea24d728f195/download/ref_grado_academico.csv",
+          "name": "ref_GRADO_ACADEMICO",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T22:08:09.059Z",
+          "description": "Tabla de referencia para el campo grado académico.",
+          "landingUrl": ""
+        },
+        {
+          "id": "b63af885-e33d-4cd8-9ab0-7c43e681eafa",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/b63af885-e33d-4cd8-9ab0-7c43e681eafa/download/ref_grado_academico.json",
+          "name": "ref_GRADO_ACADEMICO",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T22:09:02.614Z",
+          "description": "Tabla de referencia para el campo grado académico.",
+          "landingUrl": ""
+        },
+        {
+          "id": "ab280873-8206-4e16-a020-064a9243277f",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/ab280873-8206-4e16-a020-064a9243277f/download/ref_disciplina.csv",
+          "name": "ref_DISCIPLINA",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T22:09:44.560Z",
+          "description": "Tabla de referencia para el campo disciplina.",
+          "landingUrl": ""
+        },
+        {
+          "id": "07c6ff2d-d205-4875-a225-3f12bcaf8bda",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/07c6ff2d-d205-4875-a225-3f12bcaf8bda/download/ref_disciplina.json",
+          "name": "ref_DISCIPLINA",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T22:10:33.915Z",
+          "description": "Tabla de referencia para el campo disciplina.",
+          "landingUrl": ""
+        },
+        {
+          "id": "90d498e9-5a96-46df-b51d-956b5702bb02",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/90d498e9-5a96-46df-b51d-956b5702bb02/download/ref_tipo_personal.csv",
+          "name": "ref_TIPO_PERSONAL",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T22:11:24.387Z",
+          "description": "Tabla de referencia para el campo tipo personal.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "c1d371fd-9b94-485e-896d-92bf4e363af0",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/c1d371fd-9b94-485e-896d-92bf4e363af0/download/ref_tipo_personal.json",
+          "name": "ref_TIPO_PERSONAL",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T22:12:47.434Z",
+          "description": "Tabla de referencia para el campo tipo personal.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "c72c9f88-d9ef-4349-bb20-5c9a1aca5d67",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/c72c9f88-d9ef-4349-bb20-5c9a1aca5d67/download/ref_categoria_conicet.csv",
+          "name": "ref_CATEGORIA_CONICET",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T22:13:30.849Z",
+          "description": "Tabla de referencia para el campo categoría conicet.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "5e7235ea-90b1-4a6c-8522-24ed50d16570",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/5e7235ea-90b1-4a6c-8522-24ed50d16570/download/ref_categoria_conicet.json",
+          "name": "ref_CATEGORIA_CONICET",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T22:15:12.276Z",
+          "description": "Tabla de referencia para el campo categoría conicet.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "730a11f0-d961-4bae-9f65-ab3736d7ddbd",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/730a11f0-d961-4bae-9f65-ab3736d7ddbd/download/ref_tipo_dedicacion_horaria_semanal.csv",
+          "name": "ref_TIPO_DEDICACION_HORARIA_SEMANAL",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T22:15:53.482Z",
+          "description": "Tabla de referencia para el campo tipo dedicación horaria semanal.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "3e94b120-d402-427d-9f2b-bb3cb59cc0c9",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/3e94b120-d402-427d-9f2b-bb3cb59cc0c9/download/ref_tipo_dedicacion_horaria_semanal.json",
+          "name": "ref_TIPO_DEDICACION_HORARIA_SEMANAL",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T22:16:28.661Z",
+          "description": "Tabla de referencia para el campo tipo dedicación horaria semanal.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "0098aa63-cad3-4d58-bc2e-213d3b2950c1",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/0098aa63-cad3-4d58-bc2e-213d3b2950c1/download/ref_clase_cargo.csv",
+          "name": "ref_CLASE_CARGO",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T22:17:50.178Z",
+          "description": "Tabla de referencia para el campo clase cargo.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "5719d3a8-bf19-49ae-830b-74f3fd5e094e",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/5719d3a8-bf19-49ae-830b-74f3fd5e094e/download/ref_clase_cargo.json",
+          "name": "ref_CLASE_CARGO",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T22:18:30.290Z",
+          "description": "Tabla de referencia para el campo clase cargo.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "7d5d4957-81e1-4ac7-99f5-0ad7a88a3111",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/7d5d4957-81e1-4ac7-99f5-0ad7a88a3111/download/ref_tipo_condicion_docente.csv",
+          "name": "ref_TIPO_CONDICION_DOCENTE",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T22:19:10.487Z",
+          "description": "Tabla de referencia para el campo tipo condición docente.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "3b5c63a1-4ecf-423e-b0c4-ab62ab1b6149",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/3b5c63a1-4ecf-423e-b0c4-ab62ab1b6149/download/ref_tipo_condicion_docente.json",
+          "name": "ref_TIPO_CONDICION_DOCENTE",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T22:20:26.552Z",
+          "description": "Tabla de referencia para el campo tipo condición docente.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "4523ac5e-7eaf-4d32-9ba9-1739c62ce892",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/4523ac5e-7eaf-4d32-9ba9-1739c62ce892/download/personas_2011.csv",
+          "name": "personas_2011",
+          "format": "CSV",
+          "updatedAt": "2021-10-29T20:57:45.714Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "d4c6605f-5704-4f0a-9182-12e67213def0",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/d4c6605f-5704-4f0a-9182-12e67213def0/download/personas_2011.json",
+          "name": "personas_2011",
+          "format": "JSON",
+          "updatedAt": "2021-10-29T20:58:52.657Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "bfc5b9a4-107f-4a70-80cf-9313a6d92b1f",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/bfc5b9a4-107f-4a70-80cf-9313a6d92b1f/download/personas_2012.csv",
+          "name": "personas_2012",
+          "format": "CSV",
+          "updatedAt": "2021-10-29T21:16:53.325Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "9960659f-a17d-4a51-98af-1b67e281e0d3",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/9960659f-a17d-4a51-98af-1b67e281e0d3/download/personas_2012.json",
+          "name": "personas_2012",
+          "format": "JSON",
+          "updatedAt": "2021-10-29T21:18:02.563Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "03e83860-9b9a-4eb0-b600-4b9c52a946c3",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/03e83860-9b9a-4eb0-b600-4b9c52a946c3/download/personas_2013.csv",
+          "name": "personas_2013",
+          "format": "CSV",
+          "updatedAt": "2021-10-29T21:27:05.021Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "e9dc57dd-ef56-4d99-940e-ec9b6351bec4",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/e9dc57dd-ef56-4d99-940e-ec9b6351bec4/download/personas_2013.json",
+          "name": "personas_2013",
+          "format": "JSON",
+          "updatedAt": "2021-10-29T21:27:55.474Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "abc622d6-8e41-412c-8a5f-ca897950db9a",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/abc622d6-8e41-412c-8a5f-ca897950db9a/download/personas_2014.csv",
+          "name": "personas_2014",
+          "format": "CSV",
+          "updatedAt": "2021-10-29T21:39:43.495Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "c532931d-94cf-4948-8f93-f501851008b0",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/c532931d-94cf-4948-8f93-f501851008b0/download/personas_2014.json",
+          "name": "personas_2014",
+          "format": "JSON",
+          "updatedAt": "2021-10-29T21:40:29.809Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "69c2fc53-7291-473c-8cb2-80cdd4c3e865",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/69c2fc53-7291-473c-8cb2-80cdd4c3e865/download/personas_2015.csv",
+          "name": "personas_2015",
+          "format": "CSV",
+          "updatedAt": "2021-10-29T22:08:57.796Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "d19f1020-0efb-451e-a3fe-e9e126a87a00",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/d19f1020-0efb-451e-a3fe-e9e126a87a00/download/personas_2015.json",
+          "name": "personas_2015",
+          "format": "JSON",
+          "updatedAt": "2021-10-29T22:09:43.304Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "dea725f6-9304-49f6-8021-83edaf8b08ec",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/dea725f6-9304-49f6-8021-83edaf8b08ec/download/personas_2016.csv",
+          "name": "personas_2016",
+          "format": "CSV",
+          "updatedAt": "2021-10-29T22:38:33.492Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "f8973d0a-4f98-4b15-9e05-18b6882dd51c",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/f8973d0a-4f98-4b15-9e05-18b6882dd51c/download/personas_2016.json",
+          "name": "personas_2016",
+          "format": "JSON",
+          "updatedAt": "2021-10-29T22:39:31.823Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "8cc951c9-a843-4503-b72f-5963a24a595d",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/8cc951c9-a843-4503-b72f-5963a24a595d/download/personas_2017.csv",
+          "name": "personas_2017",
+          "format": "CSV",
+          "updatedAt": "2021-11-01T20:04:33.921Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "cdcd5329-9efa-4dc6-9417-027a4c028f50",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/cdcd5329-9efa-4dc6-9417-027a4c028f50/download/personas_2017.json",
+          "name": "personas_2017",
+          "format": "JSON",
+          "updatedAt": "2021-11-01T20:05:33.007Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "8bcaef45-844f-404f-aaa8-b21723b1dd44",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/8bcaef45-844f-404f-aaa8-b21723b1dd44/download/personas_2018.csv",
+          "name": "personas_2018",
+          "format": "CSV",
+          "updatedAt": "2021-11-04T17:53:50.809Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "d64311a6-a65b-4693-addb-99b88cfc2587",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/d64311a6-a65b-4693-addb-99b88cfc2587/download/personas_2018.json",
+          "name": "personas_2018",
+          "format": "JSON",
+          "updatedAt": "2021-11-04T17:54:42.142Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "91a963a0-be14-4f70-9cbb-2122afdff201",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/91a963a0-be14-4f70-9cbb-2122afdff201/download/personas_2019.csv",
+          "name": "personas_2019",
+          "format": "CSV",
+          "updatedAt": "2021-11-04T18:02:11.808Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "0d4bc4a9-f4aa-4272-9eb8-ff00c7a0b076",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/0d4bc4a9-f4aa-4272-9eb8-ff00c7a0b076/download/personas_2019.json",
+          "name": "personas_2019",
+          "format": "JSON",
+          "updatedAt": "2021-11-04T18:03:10.260Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "5743ab23-022b-482a-a50a-afd547518ad3",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/5743ab23-022b-482a-a50a-afd547518ad3/download/personas_2020.csv",
+          "name": "personas_2020",
+          "format": "JSON",
+          "updatedAt": "2021-11-04T18:12:53.199Z",
+          "description": "Persona se define como una entidad relacional descrita a través de atributos tales como: sexo, edad, nivel educativo y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "33165a34-5b60-46b0-8159-b46e9ca433e0",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/33165a34-5b60-46b0-8159-b46e9ca433e0/download/personas.csv",
+          "name": "personas",
+          "format": "CSV",
+          "updatedAt": "2021-11-04T18:18:09.699Z",
+          "description": "Conjunto de datos que describe mediante atributos tales como nombre, apellido, sexo, edad, a las personas físicas.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "64a3fdbc-4500-472a-8dad-8b342c97a46f",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/64a3fdbc-4500-472a-8dad-8b342c97a46f/download/personas.json",
+          "name": "personas",
+          "format": "JSON",
+          "updatedAt": "2021-11-04T18:18:57.901Z",
+          "description": "Conjunto de datos que describe mediante atributos tales como nombre, apellido, sexo, edad, a las personas físicas.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "b4851a7c-075c-4fef-bad1-8d9e7e32fb2a",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/b4851a7c-075c-4fef-bad1-8d9e7e32fb2a/download/personas_indicadores_genero_2011.json",
+          "name": "personas_indicadores_genero_2011",
+          "format": "JSON",
+          "updatedAt": "2022-01-10T16:59:35.404Z",
+          "description": "Permite realizar un análisis por sexo de la producción CyT, la participación en proyectos de I+D, las actividades de evaluación y la movilidad internacional de investigadorxs y becarixs de Argentina.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "392bd165-bfb8-4737-a8e6-44f7aee4a412",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/06ae9728-c376-47bd-9c41-fbdca68707c6/resource/392bd165-bfb8-4737-a8e6-44f7aee4a412/download/personas_indicadores_genero_2012.csv",
+          "name": "personas_indicadores_genero_2012",
+          "format": "CSV",
+          "updatedAt": "2022-07-14T20:07:52.183Z",
+          "description": "Permite realizar un análisis por sexo de la producción CyT, la participación en proyectos de I+D, las actividades de evaluación y la movilidad internacional de investigadorxs y becarixs de Argentina.\r\n",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-02-08T16:13:53.120Z",
+      "updatedAt": "2022-07-14T20:10:43.052Z",
+      "contact": {
+        "name": "Sistema de Información de Ciencia y Tecnología Argentino (SICYTAR)\r\n",
+        "email": "ciencia.abierta@mincyt.gob.ar"
+      }
+    },
+    {
+      "id": "b0c0ae96-4028-4d0e-919a-c6830110f6b6",
+      "name": "pisac-programa-de-investigacion-sobre-la-sociedad-argentina-contemporanea",
+      "title": "PISAC - Programa de Investigación sobre la Sociedad Argentina Contemporánea",
+      "keywords": [
+        "culturales",
+        "económicas",
+        "estadísticas",
+        "hogares",
+        "investigación",
+        "personas",
+        "social",
+        "sociales",
+        "sociedad"
+      ],
+      "landingPage": "https://datasets.datos.mincyt.gob.ar/dataset/pisac-programa-de-investigacion-sobre-la-sociedad-argentina-contemporanea",
+      "resources": [
+        {
+          "id": "421a7e29-7d15-4b69-a2e8-d7242b58b770",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/b0c0ae96-4028-4d0e-919a-c6830110f6b6/resource/421a7e29-7d15-4b69-a2e8-d7242b58b770/download/base_enespersonas.csv",
+          "name": "Encuesta Nacional sobre la Estructura Social (ENES) Base Personas",
+          "format": "CSV",
+          "updatedAt": "2019-04-16T21:50:37.678Z",
+          "description": "La Encuesta Nacional sobre la Estructura Social (ENES) es una encuesta de hogares y personas que permitió recabar información sobre diversos componentes.",
+          "landingUrl": ""
+        },
+        {
+          "id": "2141ff0e-9840-4da0-827e-f460d4f52f82",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/b0c0ae96-4028-4d0e-919a-c6830110f6b6/resource/2141ff0e-9840-4da0-827e-f460d4f52f82/download/base_eneshogares.csv",
+          "name": "Encuesta Nacional sobre la Estructura Social (ENES) Base Hogares",
+          "format": "CSV",
+          "updatedAt": "2019-04-16T21:51:21.456Z",
+          "description": "La Encuesta Nacional sobre la Estructura Social (ENES) es una encuesta de hogares y personas que permitió recabar información sobre diversos componentes.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-04-16T21:21:00.820Z",
+      "updatedAt": "2019-05-07T21:56:39.487Z",
+      "contact": {
+        "name": "Secretaría de Gobierno de Ciencia, Tecnología en Innovación Productiva. Secretaría de Planeamiento y Políticas en Ciencia, Tecnología e Innovación Productiva. Subsecretaría de Políticas en Ciencia, Tecnología e Innovación Productiva. Dirección Nacional de Políticas y Planificación.",
+        "email": "planificacion@mincyt.gob.ar"
+      }
+    },
+    {
+      "id": "4f823995-1a78-4f43-b6c8-89a32d61329f",
+      "name": "producciones-cientifico-tecnologicas",
+      "title": "Producciones científico-tecnológicas",
+      "keywords": [],
+      "landingPage": "https://datasets.datos.mincyt.gob.ar/dataset/producciones-cientifico-tecnologicas",
+      "resources": [
+        {
+          "id": "749f0b9d-5f51-4cb1-b2b4-35910fd04439",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/749f0b9d-5f51-4cb1-b2b4-35910fd04439/download/producto_2011.csv",
+          "name": "Producción científico-tecnológica del año 2011",
+          "format": "CSV",
+          "updatedAt": "2019-07-17T20:04:32.594Z",
+          "description": "Producción científico-tecnológica descrita a través de  atributos tales como: tipo, título, resumen, palabras clave y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "c2a47725-dae5-4583-a18d-df2a0155197c",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/c2a47725-dae5-4583-a18d-df2a0155197c/download/producto_2011.json",
+          "name": "Producción científico-tecnológica del año 2011",
+          "format": "JSON",
+          "updatedAt": "2019-07-17T20:06:10.643Z",
+          "description": "Producción científico-tecnológica descrita a través de atributos tales como: tipo, título, resumen, palabras clave y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "306efae2-ff42-4b2c-abca-cd9651e72376",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/306efae2-ff42-4b2c-abca-cd9651e72376/download/producto_2012.csv",
+          "name": "Producción científico-tecnológica del año 2012",
+          "format": "CSV",
+          "updatedAt": "2019-07-17T20:07:02.838Z",
+          "description": "Producción científico-tecnológica descrita a través de atributos tales como: tipo, título, resumen, palabras clave y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "21ba4dae-902a-42a6-8e68-2e4180a6d862",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/21ba4dae-902a-42a6-8e68-2e4180a6d862/download/producto_2012.json",
+          "name": "Producción científico-tecnológica del año 2012",
+          "format": "JSON",
+          "updatedAt": "2019-07-17T20:08:05.475Z",
+          "description": "Producción científico-tecnológica descrita a través de atributos tales como: tipo, título, resumen, palabras clave y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "15fdec11-12e4-4a7d-bf33-4b0b6d2943c4",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/15fdec11-12e4-4a7d-bf33-4b0b6d2943c4/download/producto_2013.csv",
+          "name": "Producción científico-tecnológica del año 2013",
+          "format": "CSV",
+          "updatedAt": "2019-07-17T20:09:43.248Z",
+          "description": "Producción científico-tecnológica descrita a través de atributos tales como: tipo, título, resumen, palabras clave y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "b210a87f-fc2b-466d-8e13-a708947aa6a4",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/b210a87f-fc2b-466d-8e13-a708947aa6a4/download/producto_2013.json",
+          "name": "Producción científico-tecnológica del año 2013",
+          "format": "JSON",
+          "updatedAt": "2019-07-17T20:10:50.024Z",
+          "description": "Producción científico-tecnológica descrita a través de atributos tales como: tipo, título, resumen, palabras clave y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "190f6b01-6bfc-4a01-8b7c-dc6bdfface52",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/190f6b01-6bfc-4a01-8b7c-dc6bdfface52/download/producto_2014.csv",
+          "name": "Producción científico-tecnológica del año 2014",
+          "format": "CSV",
+          "updatedAt": "2019-07-17T20:18:05.994Z",
+          "description": "Producción científico-tecnológica descrita a través de atributos tales como: tipo, título, resumen, palabras clave y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "6ca6f086-3102-41ae-afb7-b8f8b42faeae",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/6ca6f086-3102-41ae-afb7-b8f8b42faeae/download/producto_2014.json",
+          "name": "Producción científico-tecnológica del año 2014",
+          "format": "JSON",
+          "updatedAt": "2019-07-17T20:19:23.274Z",
+          "description": "Producción científico-tecnológica descrita a través de atributos tales como: tipo, título, resumen, palabras clave y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "479eb76c-1f4a-409e-9d53-5cb862b6389d",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/479eb76c-1f4a-409e-9d53-5cb862b6389d/download/producto_2015.csv",
+          "name": "Producción científico-tecnológica del año 2015",
+          "format": "CSV",
+          "updatedAt": "2019-07-25T22:01:19.734Z",
+          "description": "Producción científico-tecnológica descrita a través de atributos tales como: tipo, título, resumen, palabras clave y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "37366464-9750-43cb-b905-9d4561811c61",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/37366464-9750-43cb-b905-9d4561811c61/download/producto_2015.json",
+          "name": "Producción científico-tecnológica del año 2015",
+          "format": "JSON",
+          "updatedAt": "2019-07-17T20:20:49.847Z",
+          "description": "Producción científico-tecnológica descrita a través de atributos tales como: tipo, título, resumen, palabras clave y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "2e1605f2-b4b8-4666-b9f3-57a7f7d41f51",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/2e1605f2-b4b8-4666-b9f3-57a7f7d41f51/download/personas_indicadores_genero_2016.csv",
+          "name": "Producción científico-tecnológica del año 2016",
+          "format": "CSV",
+          "updatedAt": "2019-07-17T20:21:24.325Z",
+          "description": "Producción científico-tecnológica descrita a través de atributos tales como: tipo, título, resumen, palabras clave y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "46317271-be9d-4828-a9f8-cd0499c63803",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/46317271-be9d-4828-a9f8-cd0499c63803/download/producto_2016.json",
+          "name": "Producción científico-tecnológica del año 2016",
+          "format": "JSON",
+          "updatedAt": "2019-07-17T20:22:14.654Z",
+          "description": "Producción científico-tecnológica descrita a través de atributos tales como: tipo, título, resumen, palabras clave y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "be663208-1b91-461c-a015-f2b300b484ea",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/be663208-1b91-461c-a015-f2b300b484ea/download/producto_2017.csv",
+          "name": "Producción científico-tecnológica del año 2017",
+          "format": "CSV",
+          "updatedAt": "2019-07-17T20:22:58.007Z",
+          "description": "Producción científico-tecnológica descrita a través de atributos tales como: tipo, título, resumen, palabras clave y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "14d799a9-2343-423a-9db2-d6e28cad9f3d",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/14d799a9-2343-423a-9db2-d6e28cad9f3d/download/producto_2017.json",
+          "name": "Producción científico-tecnológica del año 2017",
+          "format": "JSON",
+          "updatedAt": "2019-07-17T20:23:43.635Z",
+          "description": "Producción científico-tecnológica descrita a través de atributos tales como: tipo, título, resumen, palabras clave y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "439f3533-a2fe-4ef9-8996-977de5192f26",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/439f3533-a2fe-4ef9-8996-977de5192f26/download/producto_2018.csv",
+          "name": "Producción científico-tecnológica del año 2018",
+          "format": "CSV",
+          "updatedAt": "2019-07-17T20:28:00.560Z",
+          "description": "Producción científico-tecnológica descrita a través de atributos tales como: tipo, título, resumen, palabras clave y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "80d1032c-fed0-4838-87f9-36dc23298243",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/80d1032c-fed0-4838-87f9-36dc23298243/download/producto_2018.json",
+          "name": "Producción científico-tecnológica del año 2018",
+          "format": "JSON",
+          "updatedAt": "2019-07-17T20:29:30.824Z",
+          "description": "Producción científico-tecnológica descrita a través de atributos tales como: tipo, título, resumen, palabras clave y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "e02e33de-7cf0-4b93-9ddb-25386b2794c6",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/e02e33de-7cf0-4b93-9ddb-25386b2794c6/download/producto_articulo_2011.csv",
+          "name": "producto_articulo_2011",
+          "format": "CSV",
+          "updatedAt": "2019-07-17T20:30:41.234Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISSN, revista, volumen, entre otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "b2c514a0-695c-4e71-b4bf-c746ee6e47e8",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/b2c514a0-695c-4e71-b4bf-c746ee6e47e8/download/producto_articulo_2011.json",
+          "name": "producto_articulo_2011",
+          "format": "JSON",
+          "updatedAt": "2019-07-17T20:31:35.592Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISSN, revista, volumen, entre otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "14fe5efd-77b8-4176-bfc7-7f2d6e7fbc3a",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/14fe5efd-77b8-4176-bfc7-7f2d6e7fbc3a/download/producto_articulo_2012.csv",
+          "name": "producto_articulo_2012",
+          "format": "CSV",
+          "updatedAt": "2019-07-17T20:32:50.489Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISSN, revista, volumen, entre otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "5c6e4cc2-c8af-4f3c-ad06-c1837c3bf9e2",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/5c6e4cc2-c8af-4f3c-ad06-c1837c3bf9e2/download/producto_articulo_2012.json",
+          "name": "producto_articulo_2012",
+          "format": "JSON",
+          "updatedAt": "2019-07-17T20:33:49.923Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISSN, revista, volumen, entre otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "7c2bbdf7-b797-4192-996d-3055ac82c4b0",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/7c2bbdf7-b797-4192-996d-3055ac82c4b0/download/producto_articulo_2013.csv",
+          "name": "producto_articulo_2013",
+          "format": "CSV",
+          "updatedAt": "2019-07-17T20:34:55.816Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISSN, revista, volumen, entre otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "fd42a9f1-256c-46d5-8b26-8850192a12d3",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/fd42a9f1-256c-46d5-8b26-8850192a12d3/download/producto_articulo_2013.json",
+          "name": "producto_articulo_2013",
+          "format": "JSON",
+          "updatedAt": "2019-07-17T20:36:07.280Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISSN, revista, volumen, entre otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "451fd684-6387-4a8b-b941-96ec4724e5d1",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/451fd684-6387-4a8b-b941-96ec4724e5d1/download/producto_articulo_2014.csv",
+          "name": "producto_articulo_2014",
+          "format": "CSV",
+          "updatedAt": "2019-07-17T20:41:52.924Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISSN, revista, volumen, entre otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "82db484b-5d8e-4553-bf2d-be031a08c83b",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/82db484b-5d8e-4553-bf2d-be031a08c83b/download/producto_articulo_2014.json",
+          "name": "producto_articulo_2014",
+          "format": "JSON",
+          "updatedAt": "2019-07-17T20:42:44.218Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISSN, revista, volumen, entre otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "5961b9dd-ce23-4b0f-8619-5f63e37e9774",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/5961b9dd-ce23-4b0f-8619-5f63e37e9774/download/producto_articulo_2015.csv",
+          "name": "producto_articulo_2015",
+          "format": "CSV",
+          "updatedAt": "2019-07-17T20:43:44.357Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISSN, revista, volumen, entre otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "80acb236-0f23-449f-9e3b-0b0f7dc8dab1",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/80acb236-0f23-449f-9e3b-0b0f7dc8dab1/download/producto_autor_2015.json",
+          "name": "producto_articulo_2015",
+          "format": "JSON",
+          "updatedAt": "2019-07-17T20:44:45.477Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISSN, revista, volumen, entre otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "4463d3ab-afcc-4452-aad5-edbd676f09b1",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/4463d3ab-afcc-4452-aad5-edbd676f09b1/download/producto_articulo_2016.csv",
+          "name": "producto_articulo_2016",
+          "format": "CSV",
+          "updatedAt": "2019-07-17T20:45:56.973Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISSN, revista, volumen, entre otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "5aa3ae14-4beb-4914-b19a-d4b2fe84f07f",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/5aa3ae14-4beb-4914-b19a-d4b2fe84f07f/download/producto_autor_2016.json",
+          "name": "producto_articulo_2016",
+          "format": "JSON",
+          "updatedAt": "2019-07-17T20:46:42.643Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISSN, revista, volumen, entre otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "0d072ae6-2f23-458a-a708-a1cf746197e1",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/0d072ae6-2f23-458a-a708-a1cf746197e1/download/producto_articulo_2017.csv",
+          "name": "producto_articulo_2017",
+          "format": "CSV",
+          "updatedAt": "2019-07-25T22:04:39.221Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISSN, revista, volumen, entre otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "f698bee7-a3e9-4bd7-a7bb-e7f850b8aa5a",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/f698bee7-a3e9-4bd7-a7bb-e7f850b8aa5a/download/producto_articulo_2017.json",
+          "name": "producto_articulo_2017",
+          "format": "JSON",
+          "updatedAt": "2019-07-17T20:48:58.988Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISSN, revista, volumen, entre otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "75e58015-8d33-47cb-8b73-1d13bbbd08d9",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/75e58015-8d33-47cb-8b73-1d13bbbd08d9/download/producto_articulo_2018.csv",
+          "name": "producto_articulo_2018",
+          "format": "CSV",
+          "updatedAt": "2019-07-17T20:54:25.671Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISSN, revista, volumen, entre otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "649d9fbb-807b-49ce-8e38-f4cd2b4bcc8a",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/649d9fbb-807b-49ce-8e38-f4cd2b4bcc8a/download/producto_articulo_2018.json",
+          "name": "producto_articulo_2018",
+          "format": "JSON",
+          "updatedAt": "2019-07-17T20:55:58.290Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISSN, revista, volumen, entre otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "5144963e-3cd2-49f4-b1b5-0acd2d486336",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/5144963e-3cd2-49f4-b1b5-0acd2d486336/download/producto_parte_libro_2011.csv",
+          "name": "producto_parte_libro_2011",
+          "format": "CSV",
+          "updatedAt": "2019-07-23T20:05:35.476Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, título del libro, entre otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "61b1c88d-4c80-4ed5-876e-d86a6f816435",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/61b1c88d-4c80-4ed5-876e-d86a6f816435/download/producto_parte_libro_2011.json",
+          "name": "producto_parte_libro_2011",
+          "format": "JSON",
+          "updatedAt": "2019-07-23T20:07:12.547Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, título del libro, entre otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "0b4beb3c-81d9-451d-8951-bb6fe42e6d09",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/0b4beb3c-81d9-451d-8951-bb6fe42e6d09/download/producto_parte_libro_2012.csv",
+          "name": "producto_parte_libro_2012",
+          "format": "CSV",
+          "updatedAt": "2019-07-23T20:22:56.263Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, título del libro, entre otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "823f871b-0386-459a-ae84-be31ca8671e6",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/823f871b-0386-459a-ae84-be31ca8671e6/download/producto_parte_libro_2012.json",
+          "name": "producto_parte_libro_2012",
+          "format": "JSON",
+          "updatedAt": "2019-07-23T20:23:43.781Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, título del libro, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "8f54339b-b423-46fb-8027-7bd6c8c21313",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/8f54339b-b423-46fb-8027-7bd6c8c21313/download/producto_parte_libro_2013.csv",
+          "name": "producto_parte_libro_2013",
+          "format": "CSV",
+          "updatedAt": "2019-07-23T20:31:42.635Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, título del libro, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "97702035-9513-4d37-a307-cb1c83148e9e",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/97702035-9513-4d37-a307-cb1c83148e9e/download/producto_parte_libro_2013.json",
+          "name": "producto_parte_libro_2013",
+          "format": "JSON",
+          "updatedAt": "2019-07-23T20:32:32.664Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, título del libro, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "6e591518-4683-4fb4-b005-66e7f48ecffb",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/6e591518-4683-4fb4-b005-66e7f48ecffb/download/producto_parte_libro_2014.csv",
+          "name": "producto_parte_libro_2014",
+          "format": "CSV",
+          "updatedAt": "2019-07-23T20:45:43.895Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, título del libro, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "aa1c5c2a-f2b0-4ea9-894d-f0ce3e1b4c1a",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/aa1c5c2a-f2b0-4ea9-894d-f0ce3e1b4c1a/download/producto_parte_libro_2014.json",
+          "name": "producto_parte_libro_2014",
+          "format": "JSON",
+          "updatedAt": "2019-07-23T20:46:41.072Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, título del libro, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "7ce346f2-a5db-4cf9-808a-26832351394a",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/7ce346f2-a5db-4cf9-808a-26832351394a/download/producto_parte_libro_2015.csv",
+          "name": "producto_parte_libro_2015",
+          "format": "CSV",
+          "updatedAt": "2019-07-23T20:49:24.487Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, título del libro, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "b03c3ef7-2916-4deb-b414-97d5d82f62e5",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/b03c3ef7-2916-4deb-b414-97d5d82f62e5/download/producto_parte_libro_2015.json",
+          "name": "producto_parte_libro_2015",
+          "format": "JSON",
+          "updatedAt": "2019-07-23T20:50:18.610Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, título del libro, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "29590186-47e4-41df-a491-3d3bef0562cf",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/29590186-47e4-41df-a491-3d3bef0562cf/download/producto_parte_libro_2016.csv",
+          "name": "producto_parte_libro_2016",
+          "format": "CSV",
+          "updatedAt": "2019-07-23T21:30:04.725Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, título del libro, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "a02e37f5-fd97-491d-91a5-6f9de12ae6d3",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/a02e37f5-fd97-491d-91a5-6f9de12ae6d3/download/producto_parte_libro_2016.json",
+          "name": "producto_parte_libro_2016",
+          "format": "JSON",
+          "updatedAt": "2019-07-23T21:35:32.855Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, título del libro, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "650c7bf6-9068-4b4d-94d8-da1fb9aac233",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/650c7bf6-9068-4b4d-94d8-da1fb9aac233/download/personas_indicadores_genero_2017.csv",
+          "name": "producto_parte_libro_2017",
+          "format": "CSV",
+          "updatedAt": "2019-07-23T21:33:35.012Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, título del libro, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "1714ecc2-b2a4-4fea-8671-171a27e2d737",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/1714ecc2-b2a4-4fea-8671-171a27e2d737/download/producto_parte_libro_2017.json",
+          "name": "producto_parte_libro_2017",
+          "format": "JSON",
+          "updatedAt": "2019-07-23T21:34:17.620Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, título del libro, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "73799b28-78d9-4c8e-9d41-f0a20ba00057",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/73799b28-78d9-4c8e-9d41-f0a20ba00057/download/producto_parte_libro_2018.csv",
+          "name": "producto_parte_libro_2018",
+          "format": "CSV",
+          "updatedAt": "2019-07-23T21:38:30.037Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, título del libro, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "daa20546-5949-42f0-9f4e-c3f2ab03c8b3",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/daa20546-5949-42f0-9f4e-c3f2ab03c8b3/download/producto_parte_libro_2018.json",
+          "name": "producto_parte_libro_2018",
+          "format": "JSON",
+          "updatedAt": "2019-07-23T21:39:16.578Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, título del libro, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "4b3e12dc-c1db-4e55-b005-f278a2473912",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/4b3e12dc-c1db-4e55-b005-f278a2473912/download/producto_libro_2011.csv",
+          "name": "producto_libro_2011",
+          "format": "CSV",
+          "updatedAt": "2019-07-25T20:19:59.017Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "996ab5af-060a-446d-a114-765d7d7ff4d4",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/996ab5af-060a-446d-a114-765d7d7ff4d4/download/producto_libro_2011.json",
+          "name": "producto_libro_2011",
+          "format": "JSON",
+          "updatedAt": "2019-07-25T20:21:03.133Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "c366ad05-3e28-4d78-8d0d-db7dd7158c31",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/c366ad05-3e28-4d78-8d0d-db7dd7158c31/download/producto_libro_2012.csv",
+          "name": "producto_libro_2012",
+          "format": "CSV",
+          "updatedAt": "2019-07-25T20:28:50.915Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "f64424ad-a36d-4bb8-8d12-ba829266f80f",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/f64424ad-a36d-4bb8-8d12-ba829266f80f/download/producto_libro_2012.json",
+          "name": "producto_libro_2012",
+          "format": "JSON",
+          "updatedAt": "2019-07-25T20:29:30.280Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "a94a4412-5a7f-4d68-9de2-37d12448b29f",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/a94a4412-5a7f-4d68-9de2-37d12448b29f/download/producto_libro_2013.csv",
+          "name": "producto_libro_2013",
+          "format": "CSV",
+          "updatedAt": "2019-07-25T20:31:35.738Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "1a894502-bd28-41cd-8a19-ac54dcbb3718",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/1a894502-bd28-41cd-8a19-ac54dcbb3718/download/producto_libro_2013.json",
+          "name": "producto_libro_2013",
+          "format": "JSON",
+          "updatedAt": "2019-07-25T20:37:49.941Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "a4d93d4a-9249-4fbc-9d0b-16746137b6d3",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/a4d93d4a-9249-4fbc-9d0b-16746137b6d3/download/producto_libro_2014.csv",
+          "name": "producto_libro_2014",
+          "format": "CSV",
+          "updatedAt": "2019-07-25T20:42:50.279Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "524732f1-1105-4d03-87e1-a536921445bc",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/524732f1-1105-4d03-87e1-a536921445bc/download/producto_libro_2014.json",
+          "name": "producto_libro_2014",
+          "format": "JSON",
+          "updatedAt": "2019-07-25T20:43:44.075Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "21475d1c-4bbd-4b50-8da8-3da6fc3ec4a4",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/21475d1c-4bbd-4b50-8da8-3da6fc3ec4a4/download/producto_libro_2015.csv",
+          "name": "producto_libro_2015",
+          "format": "CSV",
+          "updatedAt": "2019-07-25T20:45:58.690Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "8021b318-6a10-42ea-9298-a111a7598b87",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/8021b318-6a10-42ea-9298-a111a7598b87/download/producto_libro_2015.json",
+          "name": "producto_libro_2015",
+          "format": "JSON",
+          "updatedAt": "2019-07-25T20:46:58.130Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "cdcea270-34ff-4cda-bfb6-af0212e5af89",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/cdcea270-34ff-4cda-bfb6-af0212e5af89/download/producto_libro_2016.csv",
+          "name": "producto_libro_2016",
+          "format": "CSV",
+          "updatedAt": "2019-07-25T21:20:48.574Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "e57b53c4-9e6c-4ac2-916e-c7a4a4b0a097",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/e57b53c4-9e6c-4ac2-916e-c7a4a4b0a097/download/producto_libro_2016.json",
+          "name": "producto_libro_2016",
+          "format": "JSON",
+          "updatedAt": "2019-07-25T21:21:42.824Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "f5f709f8-93b4-45b4-a48e-330e3b364e70",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/f5f709f8-93b4-45b4-a48e-330e3b364e70/download/producto_libro_2017.csv",
+          "name": "producto_libro_2017",
+          "format": "CSV",
+          "updatedAt": "2019-07-25T21:23:25.007Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "a039d370-825a-41bb-affd-04cba3f98172",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/a039d370-825a-41bb-affd-04cba3f98172/download/producto_libro_2017.json",
+          "name": "producto_libro_2017",
+          "format": "JSON",
+          "updatedAt": "2019-07-25T21:24:12.025Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "657f86e0-fc3c-49cb-9b96-4ba175f0e415",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/657f86e0-fc3c-49cb-9b96-4ba175f0e415/download/producto_libro_2018.csv",
+          "name": "producto_libro_2018",
+          "format": "CSV",
+          "updatedAt": "2019-07-25T21:26:57.711Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "954821a8-5432-414b-bf8d-065a996fa553",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/954821a8-5432-414b-bf8d-065a996fa553/download/producto_libro_2018.json",
+          "name": "producto_libro_2018",
+          "format": "JSON",
+          "updatedAt": "2019-07-25T21:38:55.883Z",
+          "description": "Contiene atributos descriptivos tales como: país, ISBN, entre otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "c6c5b25b-1565-4f23-a372-bc7e49172558",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/c6c5b25b-1565-4f23-a372-bc7e49172558/download/producto_autor_2011.csv",
+          "name": "producto_autor_2011",
+          "format": "CSV",
+          "updatedAt": "2019-07-17T20:57:07.453Z",
+          "description": "Es una entidad relacional descrita a través de atributos tales como: alias, tipo de autor, organización, país, orden del autor y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "3ed99236-024b-49d6-826a-0aa827ab4a09",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/3ed99236-024b-49d6-826a-0aa827ab4a09/download/producto_articulo_2011.json",
+          "name": "producto_autor_2011",
+          "format": "JSON",
+          "updatedAt": "2019-07-17T20:57:45.785Z",
+          "description": "Es una entidad relacional descrita a través de atributos tales como: alias, tipo de autor, organización, país, orden del autor y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "00e9b63d-89bc-4df9-8b9d-61c5c03d9343",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/00e9b63d-89bc-4df9-8b9d-61c5c03d9343/download/producto_autor_2012.csv",
+          "name": "producto_autor_2012",
+          "format": "CSV",
+          "updatedAt": "2019-07-17T20:59:52.071Z",
+          "description": "Es una entidad relacional descrita a través de atributos tales como: alias, tipo de autor, organización, país, orden del autor y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "1eba731d-b6b5-4881-b7e4-bde01d6ae273",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/1eba731d-b6b5-4881-b7e4-bde01d6ae273/download/producto_autor_2012.json",
+          "name": "producto_autor_2012",
+          "format": "JSON",
+          "updatedAt": "2019-07-17T21:00:42.094Z",
+          "description": "Es una entidad relacional descrita a través de atributos tales como: alias, tipo de autor, organización, país, orden del autor y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "e87622d1-2931-42c3-bccc-929b0c634118",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/e87622d1-2931-42c3-bccc-929b0c634118/download/producto_autor_2013.csv",
+          "name": "producto_autor_2013",
+          "format": "CSV",
+          "updatedAt": "2019-07-18T20:30:06.933Z",
+          "description": "Es una entidad relacional descrita a través de atributos tales como: alias, tipo de autor, organización, país, orden del autor y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "373fd52b-cafb-48af-8bf5-e2f825e059ef",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/373fd52b-cafb-48af-8bf5-e2f825e059ef/download/producto_autor_2013.json",
+          "name": "producto_autor_2013",
+          "format": "JSON",
+          "updatedAt": "2019-07-17T23:14:27.768Z",
+          "description": "Es una entidad relacional descrita a través de atributos tales como: alias, tipo de autor, organización, país, orden del autor y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "ed9ec403-e54c-438a-a8f5-89eb5dbb6658",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/ed9ec403-e54c-438a-a8f5-89eb5dbb6658/download/producto_autor_2014.csv",
+          "name": "producto_autor_2014",
+          "format": "CSV",
+          "updatedAt": "2019-07-18T20:31:01.426Z",
+          "description": "Es una entidad relacional descrita a través de atributos tales como: alias, tipo de autor, organización, país, orden del autor y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "f1c7dd60-1d57-462e-ad4b-ad3af98a6ed9",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/f1c7dd60-1d57-462e-ad4b-ad3af98a6ed9/download/producto_autor_2014.json",
+          "name": "producto_autor_2014",
+          "format": "JSON",
+          "updatedAt": "2019-07-18T20:35:22.704Z",
+          "description": "Es una entidad relacional descrita a través de atributos tales como: alias, tipo de autor, organización, país, orden del autor y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "5793d777-49fe-4e4d-b77c-944096582edd",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/5793d777-49fe-4e4d-b77c-944096582edd/download/producto_autor_2015.csv",
+          "name": "producto_autor_2015",
+          "format": "CSV",
+          "updatedAt": "2019-07-18T20:38:31.144Z",
+          "description": "Es una entidad relacional descrita a través de atributos tales como: alias, tipo de autor, organización, país, orden del autor y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "47633790-6144-4ece-8ed8-9cc3a87cdc49",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/47633790-6144-4ece-8ed8-9cc3a87cdc49/download/producto_autor_2015.json",
+          "name": "producto_autor_2015",
+          "format": "JSON",
+          "updatedAt": "2019-07-18T20:39:07.343Z",
+          "description": "Es una entidad relacional descrita a través de atributos tales como: alias, tipo de autor, organización, país, orden del autor y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "22758256-4e24-4353-841a-1c080a8b72d4",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/22758256-4e24-4353-841a-1c080a8b72d4/download/producto_autor_2016.csv",
+          "name": "producto_autor_2016",
+          "format": "CSV",
+          "updatedAt": "2019-07-18T20:40:25.360Z",
+          "description": "Es una entidad relacional descrita a través de atributos tales como: alias, tipo de autor, organización, país, orden del autor y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "5d31c010-f7d0-44f7-81ee-34d9c23f09ce",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/5d31c010-f7d0-44f7-81ee-34d9c23f09ce/download/producto_autor_2016.json",
+          "name": "producto_autor_2016",
+          "format": "JSON",
+          "updatedAt": "2019-07-18T20:42:35.314Z",
+          "description": "Es una entidad relacional descrita a través de atributos tales como: alias, tipo de autor, organización, país, orden del autor y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "a1637ed6-5aff-428d-be49-52121ac64e5a",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/a1637ed6-5aff-428d-be49-52121ac64e5a/download/producto_autor_2017.csv",
+          "name": "producto_autor_2017",
+          "format": "CSV",
+          "updatedAt": "2019-02-08T21:07:14.889Z",
+          "description": "Es una entidad relacional descrita a través de atributos tales como: alias, tipo de autor, organización, país, orden del autor y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "4bb8006a-5994-44ff-afa4-e46b54021168",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/4bb8006a-5994-44ff-afa4-e46b54021168/download/producto_autor_2017.json",
+          "name": "producto_autor_2017",
+          "format": "JSON",
+          "updatedAt": "2019-07-18T20:50:34.715Z",
+          "description": "Es una entidad relacional descrita a través de atributos tales como: alias, tipo de autor, organización, país, orden del autor y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "9a49271f-5d1a-49b6-a678-b1f83ad55f77",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/9a49271f-5d1a-49b6-a678-b1f83ad55f77/download/producto_autor_2018.csv",
+          "name": "producto_autor_2018",
+          "format": "CSV",
+          "updatedAt": "2019-07-18T21:32:53.395Z",
+          "description": "Es una entidad relacional descrita a través de atributos tales como: alias, tipo de autor, organización, país, orden del autor y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "a010e31a-d4a2-4149-8f5c-4a42b352dadb",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/a010e31a-d4a2-4149-8f5c-4a42b352dadb/download/producto_autor_2018.json",
+          "name": "producto_autor_2018",
+          "format": "JSON",
+          "updatedAt": "2019-07-18T21:34:19.915Z",
+          "description": "Es una entidad relacional descrita a través de atributos tales como: alias, tipo de autor, organización, país, orden del autor y otros.",
+          "landingUrl": ""
+        },
+        {
+          "id": "9f5c6997-8a24-4db4-b5d6-a7fcbbda567d",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/9f5c6997-8a24-4db4-b5d6-a7fcbbda567d/download/producto_disciplina.csv",
+          "name": "producto_disciplina",
+          "format": "CSV",
+          "updatedAt": "2019-07-18T21:35:31.683Z",
+          "description": "Datos de las disciplinas del conocimiento que poseen los productos científico-tecnológicos.",
+          "landingUrl": ""
+        },
+        {
+          "id": "65a03d3b-9884-4cf9-8f99-8ea24dfc26c3",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/65a03d3b-9884-4cf9-8f99-8ea24dfc26c3/download/producto_disciplina.json",
+          "name": "producto_disciplina",
+          "format": "JSON",
+          "updatedAt": "2019-07-18T21:36:31.904Z",
+          "description": "Datos de las disciplinas del conocimiento que poseen los productos científico-tecnológicos.",
+          "landingUrl": ""
+        },
+        {
+          "id": "7da80541-1b05-4c29-b677-b6373e141415",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/7da80541-1b05-4c29-b677-b6373e141415/download/producto_persona_funcion.csv",
+          "name": "producto_persona_funcion",
+          "format": "CSV",
+          "updatedAt": "2019-07-18T21:38:32.372Z",
+          "description": "Datos que describen los roles desempeñados por las personas en los productos.",
+          "landingUrl": ""
+        },
+        {
+          "id": "0c2ce2cd-5344-4747-a707-6218f065b8ee",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/0c2ce2cd-5344-4747-a707-6218f065b8ee/download/producto_persona_funcion.json",
+          "name": "producto_persona_funcion",
+          "format": "JSON",
+          "updatedAt": "2019-07-18T21:39:16.943Z",
+          "description": "Datos que describen los roles desempeñados por las personas en los productos.",
+          "landingUrl": ""
+        },
+        {
+          "id": "0665dc9f-6309-473a-b1e5-22c9fb410a15",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/0665dc9f-6309-473a-b1e5-22c9fb410a15/download/ref_tipo_produccion.csv",
+          "name": "ref_TIPO_PRODUCCION",
+          "format": "CSV",
+          "updatedAt": "2019-07-18T21:56:19.363Z",
+          "description": "Tabla de referencia para el campo tipo de producción.",
+          "landingUrl": ""
+        },
+        {
+          "id": "6fedae12-f364-4d20-b073-2762a1c9dd2a",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/6fedae12-f364-4d20-b073-2762a1c9dd2a/download/ref_tipo_produccion.json",
+          "name": "ref_TIPO_PRODUCCION",
+          "format": "JSON",
+          "updatedAt": "2019-07-18T21:56:56.250Z",
+          "description": "Tabla de referencia para el campo tipo de producción.",
+          "landingUrl": ""
+        },
+        {
+          "id": "088e587c-35bf-4116-939d-a36975a27138",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/088e587c-35bf-4116-939d-a36975a27138/download/ref_idioma.csv",
+          "name": "ref_IDIOMA",
+          "format": "CSV",
+          "updatedAt": "2019-07-18T21:58:45.793Z",
+          "description": "Tabla de referencia para el campo idioma.",
+          "landingUrl": ""
+        },
+        {
+          "id": "0ff151ca-f81b-4a62-8c8a-a1460aa08382",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/0ff151ca-f81b-4a62-8c8a-a1460aa08382/download/ref_idioma.json",
+          "name": "ref_IDIOMA",
+          "format": "JSON",
+          "updatedAt": "2019-07-18T21:59:30.975Z",
+          "description": "Tabla de referencia para el campo idioma.",
+          "landingUrl": ""
+        },
+        {
+          "id": "55f8a226-9f8a-4f0a-ab2a-6f4c2ac56365",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/55f8a226-9f8a-4f0a-ab2a-6f4c2ac56365/download/ref_pais.csv",
+          "name": "ref_PAIS",
+          "format": "CSV",
+          "updatedAt": "2019-07-18T22:00:09.635Z",
+          "description": "Tabla de referencia para el campo país.",
+          "landingUrl": ""
+        },
+        {
+          "id": "f19207b6-690a-44d8-86b4-6f36c84681e9",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/f19207b6-690a-44d8-86b4-6f36c84681e9/download/ref_pais.json",
+          "name": "ref_PAIS",
+          "format": "JSON",
+          "updatedAt": "2019-07-18T22:00:58.820Z",
+          "description": "Tabla de referencia para el campo país.",
+          "landingUrl": ""
+        },
+        {
+          "id": "e2bbd362-3992-4444-8c15-4fe43f862e5e",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/e2bbd362-3992-4444-8c15-4fe43f862e5e/download/ref_tipo_autor.csv",
+          "name": "ref_TIPO_AUTOR",
+          "format": "CSV",
+          "updatedAt": "2019-07-18T22:03:50.727Z",
+          "description": "Tabla de referencia para el campo tipo de autor.",
+          "landingUrl": ""
+        },
+        {
+          "id": "e50e3f41-eb41-4904-9e99-b7e45f353507",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/e50e3f41-eb41-4904-9e99-b7e45f353507/download/ref_tipo_autor.json",
+          "name": "ref_TIPO_AUTOR",
+          "format": "JSON",
+          "updatedAt": "2019-07-18T22:04:48.167Z",
+          "description": "Tabla de referencia del campo tipo de autor.",
+          "landingUrl": ""
+        },
+        {
+          "id": "a958ece5-5d50-4b73-8762-f6dbe0fc2a6e",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/a958ece5-5d50-4b73-8762-f6dbe0fc2a6e/download/ref_disciplina.csv",
+          "name": "ref_DISCIPLINA",
+          "format": "CSV",
+          "updatedAt": "2019-07-18T22:05:24.759Z",
+          "description": "Tabla de referencia para el campo disciplina.",
+          "landingUrl": ""
+        },
+        {
+          "id": "9520a00a-b1e7-4417-953d-4b03c99d2647",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/9520a00a-b1e7-4417-953d-4b03c99d2647/download/ref_disciplina.json",
+          "name": "ref_DISCIPLINA",
+          "format": "JSON",
+          "updatedAt": "2019-07-18T22:06:02.640Z",
+          "description": "Tabla de referencia para el campo disciplina.",
+          "landingUrl": ""
+        },
+        {
+          "id": "3bc78d26-b253-4fe4-ad25-2eae0719783b",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/3bc78d26-b253-4fe4-ad25-2eae0719783b/download/ref_tipo_parte_libro.csv",
+          "name": "ref_TIPO_PARTE_LIBRO",
+          "format": "CSV",
+          "updatedAt": "2019-07-23T21:46:52.179Z",
+          "description": "Tabla de referencia para el campo tipo de parte de libro.",
+          "landingUrl": ""
+        },
+        {
+          "id": "b3ede6ca-bd6e-4439-b2c3-70eaa6e3968a",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/4f823995-1a78-4f43-b6c8-89a32d61329f/resource/b3ede6ca-bd6e-4439-b2c3-70eaa6e3968a/download/ref_tipo_parte_libro.json",
+          "name": "ref_TIPO_PARTE_LIBRO",
+          "format": "JSON",
+          "updatedAt": "2019-07-23T21:49:37.501Z",
+          "description": "Tabla de referencia para el campo tipo de parte de libro.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-02-08T18:36:53.950Z",
+      "updatedAt": "2019-07-25T22:04:40.120Z",
+      "contact": {
+        "name": "Sistema de Información de Ciencia y Tecnología Argentino (SICYTAR)",
+        "email": "ciencia.abierta@mincyt.gob.ar"
+      }
+    },
+    {
+      "id": "79e643e7-c75f-4f2b-9e8a-66ca8050a262",
+      "name": "proyectos-de-ciencia-tecnologia-e-innovacion",
+      "title": "Proyectos de ciencia, tecnología e innovación",
+      "keywords": [
+        "ciencia",
+        "innovación",
+        "proyectos",
+        "tecnología"
+      ],
+      "landingPage": "https://datasets.datos.mincyt.gob.ar/dataset/proyectos-de-ciencia-tecnologia-e-innovacion",
+      "resources": [
+        {
+          "id": "854345e8-99a9-416f-98d2-d4892485c3eb",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/854345e8-99a9-416f-98d2-d4892485c3eb/download/proyectos_2008.csv",
+          "name": "proyectos_2008",
+          "format": "CSV",
+          "updatedAt": "2021-10-25T20:10:59.693Z",
+          "description": "Proyecto de ciencia, tecnología e innovación se define como una entidad relacional descrita a través de atributos tales como título, fecha, montos y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "e53e50fa-d2d4-4797-8327-06190525d95f",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/e53e50fa-d2d4-4797-8327-06190525d95f/download/proyectos_2008.json",
+          "name": "proyectos_2008",
+          "format": "JSON",
+          "updatedAt": "2021-10-25T20:12:14.315Z",
+          "description": "Proyecto de ciencia, tecnología e innovación se define como una entidad relacional descrita a través de atributos tales como título, fecha, montos y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "8cffb10e-225c-438c-a9bb-e8e0bf269945",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/8cffb10e-225c-438c-a9bb-e8e0bf269945/download/proyectos_2009.csv",
+          "name": "proyectos_2009",
+          "format": "CSV",
+          "updatedAt": "2021-10-25T20:37:16.582Z",
+          "description": "Proyecto de ciencia, tecnología e innovación se define como una entidad relacional descrita a través de atributos tales como título, fecha, montos y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "e4d7b119-4453-4215-b17c-a79faab4831e",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/e4d7b119-4453-4215-b17c-a79faab4831e/download/proyectos_2009.json",
+          "name": "proyectos_2009",
+          "format": "JSON",
+          "updatedAt": "2021-10-25T20:38:09.206Z",
+          "description": "Proyecto de ciencia, tecnología e innovación se define como una entidad relacional descrita a través de atributos tales como título, fecha, montos y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "08257f42-14d6-4a5f-803f-c5bf904bf1b7",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/08257f42-14d6-4a5f-803f-c5bf904bf1b7/download/proyectos_2010.csv",
+          "name": "proyectos_2010",
+          "format": "CSV",
+          "updatedAt": "2021-10-25T20:57:19.209Z",
+          "description": "Proyecto de ciencia, tecnología e innovación se define como una entidad relacional descrita a través de atributos tales como título, fecha, montos y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "9078dcf4-502d-4a4d-84da-afc8af1487d3",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/9078dcf4-502d-4a4d-84da-afc8af1487d3/download/proyectos_2010.json",
+          "name": "proyectos_2010",
+          "format": "JSON",
+          "updatedAt": "2021-10-25T20:59:05.887Z",
+          "description": "Proyecto de ciencia, tecnología e innovación se define como una entidad relacional descrita a través de atributos tales como título, fecha, montos y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "21284041-ce67-413d-ab06-2b6582316014",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/21284041-ce67-413d-ab06-2b6582316014/download/proyectos_2011.csv",
+          "name": "proyectos_2011",
+          "format": "CSV",
+          "updatedAt": "2021-10-25T21:31:41.312Z",
+          "description": "Proyecto de ciencia, tecnología e innovación se define como una entidad relacional descrita a través de atributos tales como título, fecha, montos y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "b2253b66-93e6-4564-bc50-0640d960fe8c",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/b2253b66-93e6-4564-bc50-0640d960fe8c/download/proyectos_2011.json",
+          "name": "proyectos_2011",
+          "format": "JSON",
+          "updatedAt": "2021-10-25T21:32:30.405Z",
+          "description": "Proyecto de ciencia, tecnología e innovación se define como una entidad relacional descrita a través de atributos tales como título, fecha, montos y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "40a8a8e1-97fd-487d-a9dd-5ca8bae7e705",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/40a8a8e1-97fd-487d-a9dd-5ca8bae7e705/download/proyectos_2012.csv",
+          "name": "proyectos_2012",
+          "format": "CSV",
+          "updatedAt": "2021-10-25T22:05:01.557Z",
+          "description": "Proyecto de ciencia, tecnología e innovación se define como una entidad relacional descrita a través de atributos tales como título, fecha, montos y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "6867050a-10cc-490e-9ee8-70f084812501",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/6867050a-10cc-490e-9ee8-70f084812501/download/proyectos_2012.json",
+          "name": "proyectos_2012",
+          "format": "JSON",
+          "updatedAt": "2021-10-25T22:05:48.651Z",
+          "description": "Proyecto de ciencia, tecnología e innovación se define como una entidad relacional descrita a través de atributos tales como título, fecha, montos y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "195bac80-7b07-4e23-acbc-5e4c50d08453",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/195bac80-7b07-4e23-acbc-5e4c50d08453/download/proyectos_2013.csv",
+          "name": "proyectos_2013",
+          "format": "CSV",
+          "updatedAt": "2021-10-25T22:19:56.657Z",
+          "description": "Proyecto de ciencia, tecnología e innovación se define como una entidad relacional descrita a través de atributos tales como título, fecha, montos y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "d633f2bd-995a-414c-8d91-28ac36d9adda",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/d633f2bd-995a-414c-8d91-28ac36d9adda/download/proyectos_2013.json",
+          "name": "proyectos_2013",
+          "format": "JSON",
+          "updatedAt": "2021-10-25T22:21:56.214Z",
+          "description": "Proyecto de ciencia, tecnología e innovación se define como una entidad relacional descrita a través de atributos tales como título, fecha, montos y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "81d4ad2a-bc25-4b54-a0c4-45a6b2bf1a57",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/81d4ad2a-bc25-4b54-a0c4-45a6b2bf1a57/download/proyectos_2014.csv",
+          "name": "proyectos_2014",
+          "format": "CSV",
+          "updatedAt": "2021-10-25T22:33:59.008Z",
+          "description": "Proyecto de ciencia, tecnología e innovación se define como una entidad relacional descrita a través de atributos tales como título, fecha, montos y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "773bb528-ace3-48a0-bf1e-da4e2bf45bee",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/773bb528-ace3-48a0-bf1e-da4e2bf45bee/download/proyectos_2014.json",
+          "name": "proyectos_2014",
+          "format": "JSON",
+          "updatedAt": "2021-10-25T22:35:08.038Z",
+          "description": "Proyecto de ciencia, tecnología e innovación se define como una entidad relacional descrita a través de atributos tales como título, fecha, montos y otros.\r\n\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "27901a76-2696-470e-94a8-e6a70318deca",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/27901a76-2696-470e-94a8-e6a70318deca/download/proyectos_2015.csv",
+          "name": "proyectos_2015",
+          "format": "CSV",
+          "updatedAt": "2021-10-25T22:49:13.755Z",
+          "description": "Proyecto de ciencia, tecnología e innovación se define como una entidad relacional descrita a través de atributos tales como título, fecha, montos y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "a3caa906-bf07-43f2-92b1-e42aa484eb97",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/a3caa906-bf07-43f2-92b1-e42aa484eb97/download/proyectos_2015.json",
+          "name": "proyectos_2015",
+          "format": "JSON",
+          "updatedAt": "2021-10-25T22:50:24.859Z",
+          "description": "Proyecto de ciencia, tecnología e innovación se define como una entidad relacional descrita a través de atributos tales como título, fecha, montos y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "d5a90000-0b45-4639-a2b9-477dbebeaf6b",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/d5a90000-0b45-4639-a2b9-477dbebeaf6b/download/proyectos_2016.csv",
+          "name": "proyectos_2016",
+          "format": "CSV",
+          "updatedAt": "2021-10-25T22:59:34.642Z",
+          "description": "Proyecto de ciencia, tecnología e innovación se define como una entidad relacional descrita a través de atributos tales como título, fecha, montos y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "38ecb431-22b2-4163-8f8f-3f83099aaf31",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/38ecb431-22b2-4163-8f8f-3f83099aaf31/download/proyectos_2016.json",
+          "name": "proyectos_2016",
+          "format": "JSON",
+          "updatedAt": "2021-10-25T23:00:17.225Z",
+          "description": "Proyecto de ciencia, tecnología e innovación se define como una entidad relacional descrita a través de atributos tales como título, fecha, montos y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "60675091-b5ca-4d2d-af9d-cbaffd23b16e",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/60675091-b5ca-4d2d-af9d-cbaffd23b16e/download/proyectos_2017.csv",
+          "name": "proyectos_2017",
+          "format": "CSV",
+          "updatedAt": "2021-10-25T23:14:54.772Z",
+          "description": "Proyecto de ciencia, tecnología e innovación se define como una entidad relacional descrita a través de atributos tales como título, fecha, montos y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "c901d110-c68b-42ac-bd3b-14fe9a4a793d",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/c901d110-c68b-42ac-bd3b-14fe9a4a793d/download/proyectos_2017.json",
+          "name": "proyectos_2017",
+          "format": "JSON",
+          "updatedAt": "2021-10-25T23:15:56.724Z",
+          "description": "Proyecto de ciencia, tecnología e innovación se define como una entidad relacional descrita a través de atributos tales como título, fecha, montos y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "50f6887a-386a-4e83-bc4c-80dfd002cbde",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/50f6887a-386a-4e83-bc4c-80dfd002cbde/download/proyectos_2018.csv",
+          "name": "proyectos_2018",
+          "format": "CSV",
+          "updatedAt": "2021-10-25T23:31:12.350Z",
+          "description": "Proyecto de ciencia, tecnología e innovación se define como una entidad relacional descrita a través de atributos tales como título, fecha, montos y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "7b03cfd5-6ec8-47bb-8444-fdee8ff0a690",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/7b03cfd5-6ec8-47bb-8444-fdee8ff0a690/download/proyectos_2018.json",
+          "name": "proyectos_2018",
+          "format": "JSON",
+          "updatedAt": "2021-10-25T23:32:09.533Z",
+          "description": "Proyecto de ciencia, tecnología e innovación se define como una entidad relacional descrita a través de atributos tales como título, fecha, montos y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "bccbd57e-3a22-4f77-a6e4-5ad3296f981f",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/bccbd57e-3a22-4f77-a6e4-5ad3296f981f/download/proyectos_2019.csv",
+          "name": "proyectos_2019",
+          "format": "CSV",
+          "updatedAt": "2021-10-25T23:49:12.117Z",
+          "description": "Proyecto de ciencia, tecnología e innovación se define como una entidad relacional descrita a través de atributos tales como título, fecha, montos y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "09b326b7-0c93-48a3-8974-41061cea8be5",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/09b326b7-0c93-48a3-8974-41061cea8be5/download/proyectos_2019.json",
+          "name": "proyectos_2019",
+          "format": "JSON",
+          "updatedAt": "2021-10-25T23:49:54.868Z",
+          "description": "Proyecto de ciencia, tecnología e innovación se define como una entidad relacional descrita a través de atributos tales como título, fecha, montos y otros.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "7155bdc8-c361-437c-9158-8eaa88f3d555",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/7155bdc8-c361-437c-9158-8eaa88f3d555/download/proyecto_participante.csv",
+          "name": "proyecto_participante",
+          "format": "CSV",
+          "updatedAt": "2021-10-26T01:03:11.939Z",
+          "description": "Datos que vinculan personas, proyectos y funciones desempeñadas por las personas en los mismos.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "f902344e-3258-4ab7-918f-ab2757ba47ad",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/f902344e-3258-4ab7-918f-ab2757ba47ad/download/proyecto_participante.json",
+          "name": "proyecto_participante",
+          "format": "JSON",
+          "updatedAt": "2021-10-26T01:04:15.092Z",
+          "description": "Datos que vinculan personas, proyectos y funciones desempeñadas por las personas en los mismos.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "aa97dfd8-4146-4f07-97b5-c36c6a7e9521",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/aa97dfd8-4146-4f07-97b5-c36c6a7e9521/download/proyecto_disciplina.csv",
+          "name": "proyecto_disciplina",
+          "format": "CSV",
+          "updatedAt": "2021-10-26T01:06:32.939Z",
+          "description": "Datos de las disciplinas del conocimiento que poseen los proyectos de los recursos proyectos_anio.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "40dc3d1b-3cc5-430c-8d42-5ff06558ea47",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/40dc3d1b-3cc5-430c-8d42-5ff06558ea47/download/proyecto_disciplina.json",
+          "name": "proyecto_disciplina",
+          "format": "JSON",
+          "updatedAt": "2021-10-26T01:07:46.628Z",
+          "description": "Datos de las disciplinas del conocimiento que poseen los proyectos de los recursos proyectos_anio.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "28ec732b-b0de-4430-9029-70af77c968e8",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/28ec732b-b0de-4430-9029-70af77c968e8/download/proyecto_beneficiario.csv",
+          "name": "proyecto_beneficiario",
+          "format": "CSV",
+          "updatedAt": "2021-10-26T01:13:36.183Z",
+          "description": "Datos que describen los roles desempeñados por las instituciones y/o personas en los proyectos.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "052cbbb2-a5d7-4479-af82-52ccab5847a6",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/052cbbb2-a5d7-4479-af82-52ccab5847a6/download/proyecto_beneficiario.json",
+          "name": "proyecto_beneficiario",
+          "format": "JSON",
+          "updatedAt": "2021-10-26T01:14:20.167Z",
+          "description": "Datos que describen los roles desempeñados por las instituciones y/o personas en los proyectos.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "93df382f-3254-4d45-89cb-85d809776598",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/93df382f-3254-4d45-89cb-85d809776598/download/ref_moneda.csv",
+          "name": "ref_MONEDA",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T23:08:58.440Z",
+          "description": "Tabla de referencia para el campo moneda.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "a82b4809-b7b9-4261-8980-e7f905af0cfd",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/a82b4809-b7b9-4261-8980-e7f905af0cfd/download/ref_moneda.json",
+          "name": "ref_MONEDA",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T23:09:44.228Z",
+          "description": "Tabla de referencia para el campo moneda.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "e8510c58-1d69-4847-8284-4d28353b58e9",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/e8510c58-1d69-4847-8284-4d28353b58e9/download/ref_tipo_proyecto.csv",
+          "name": "ref_TIPO_PROYECTO",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T23:10:15.599Z",
+          "description": "Tabla de referencia para el campo tipo de proyecto.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "49d838fa-40ee-4b3f-b8ba-51d9c930f524",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/49d838fa-40ee-4b3f-b8ba-51d9c930f524/download/ref_tipo_proyecto.json",
+          "name": "ref_TIPO_PROYECTO",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T23:11:00.689Z",
+          "description": "Tabla de referencia para el campo tipo de proyecto.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "731e60e6-b040-45c7-b031-1f08e2eaa7f1",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/731e60e6-b040-45c7-b031-1f08e2eaa7f1/download/ref_estado_proyecto.csv",
+          "name": "ref_ESTADO_PROYECTO",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T23:12:27.490Z",
+          "description": "Tabla de referencia para el campo estado del proyecto.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "93c1aad1-62f9-4e65-ae51-efd9737d2bb3",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/93c1aad1-62f9-4e65-ae51-efd9737d2bb3/download/ref_estado_proyecto.json",
+          "name": "ref_ESTADO_PROYECTO",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T23:13:12.003Z",
+          "description": "Tabla de referencia para el campo estado del proyecto.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "7229ebac-6b7d-4680-8442-2c31ee3be934",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/7229ebac-6b7d-4680-8442-2c31ee3be934/download/ref_funcion.csv",
+          "name": "ref_FUNCION",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T23:13:47.235Z",
+          "description": "Tabla de referencia para el campo función.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "ed52db1b-1c1b-4f9a-92c9-7cfe9d3f22d2",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/ed52db1b-1c1b-4f9a-92c9-7cfe9d3f22d2/download/ref_funcion.json",
+          "name": "ref_FUNCION",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T23:14:30.840Z",
+          "description": "Tabla de referencia para el campo función.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "1485e432-60f8-4f93-9710-8266d7e98c24",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/1485e432-60f8-4f93-9710-8266d7e98c24/download/ref_disciplina.csv",
+          "name": "ref_DISCIPLINA",
+          "format": "CSV",
+          "updatedAt": "2019-07-16T23:16:04.035Z",
+          "description": "Tabla de referencia para el campo disciplina.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "786d0bfc-b0a5-4891-860b-e6f7928f2544",
+          "downloadUrl": "https://datasets.datos.mincyt.gob.ar/dataset/79e643e7-c75f-4f2b-9e8a-66ca8050a262/resource/786d0bfc-b0a5-4891-860b-e6f7928f2544/download/ref_disciplina.json",
+          "name": "ref_DISCIPLINA",
+          "format": "JSON",
+          "updatedAt": "2019-07-16T23:16:39.627Z",
+          "description": "Tabla de referencia para el campo disciplina.\r\n",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-02-08T16:35:22.794Z",
+      "updatedAt": "2021-10-26T01:22:23.023Z",
+      "contact": {
+        "name": "Sistema de Información de Ciencia y Tecnología Argentino (SICYTAR)",
+        "email": "ciencia.abierta@mincyt.gob.ar"
+      }
+    }
+  ],
+  "organizations": [],
+  "updatedAt": "2023-12-09T08:58:21.644Z"
+}

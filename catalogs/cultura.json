@@ -1,0 +1,1080 @@
+{
+  "id": "UXhnSOVddN",
+  "datasets": [
+    {
+      "id": "0560ef96-55ca-4026-b70a-d638e1541c05",
+      "name": "agentes-culturales-argentina",
+      "title": "Mapa Cultural: Agentes y Actividades Culturales",
+      "keywords": [
+        "canales de televisión abierta",
+        "carreras culturales",
+        "diarios impresos",
+        "editoriales de libros",
+        "fiestas y festivales",
+        "radios",
+        "sellos musicales"
+      ],
+      "landingPage": "https://www.sinca.gob.ar",
+      "resources": [
+        {
+          "id": "d948730c-e029-49c2-b63d-86fac65ac30a",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/0560ef96-55ca-4026-b70a-d638e1541c05/resource/d948730c-e029-49c2-b63d-86fac65ac30a/download/10_fiestaspopulares_festivales-datos_abiertos-2.csv",
+          "name": "Fiestas y Festivales",
+          "format": "CSV",
+          "updatedAt": "2023-06-23T22:54:37.816Z",
+          "description": "Evento comunitario o societal que tiene por finalidad cohesionar los lazos grupales, afianzando la solidaridad, la tradición y el modo de vida de los pueblos.",
+          "landingUrl": ""
+        },
+        {
+          "id": "38e234d9-4dce-45f3-9fb0-6072ab4ac4ca",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/0560ef96-55ca-4026-b70a-d638e1541c05/resource/38e234d9-4dce-45f3-9fb0-6072ab4ac4ca/download/canales-de-tv-abierta.csv",
+          "name": "Canales de televisión abierta (base discontinuada, 2014)",
+          "format": "CSV",
+          "updatedAt": "2018-07-16T20:37:01.814Z",
+          "description": "Un canal de TV abierta es un establecimiento cuya finalidad es crear y difundir, a través de una señal, imágenes y sonidos a los artefactos televisivos en los hogares de manera gratuita.",
+          "landingUrl": ""
+        },
+        {
+          "id": "558d9a3c-6b9f-4f20-8605-d22c0398e4c1",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/0560ef96-55ca-4026-b70a-d638e1541c05/resource/558d9a3c-6b9f-4f20-8605-d22c0398e4c1/download/carreras_universitarias.csv",
+          "name": "Carreras Culturales Universitarias",
+          "format": "CSV",
+          "updatedAt": "2022-07-06T23:48:24.985Z",
+          "description": "Una carrera cultural universitaria es una carrera de pregrado, grado o posgrado que se dicta en una universidad pública o privada cuyo programa de estudios está vinculado a temáticas culturales.",
+          "landingUrl": ""
+        },
+        {
+          "id": "0d1b731b-28c9-4402-a7eb-018c9cf8958b",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/0560ef96-55ca-4026-b70a-d638e1541c05/resource/0d1b731b-28c9-4402-a7eb-018c9cf8958b/download/diario_impreso.csv",
+          "name": "Diarios impresos",
+          "format": "CSV",
+          "updatedAt": "2021-11-12T22:53:03.771Z",
+          "description": "Establecimiento que edita contenidos periodísticos de aparición diaria en formato papel que contiene información sobre todas las áreas temáticas de interés general. ",
+          "landingUrl": ""
+        },
+        {
+          "id": "2bcb7ee9-1c75-4a37-adec-2e8c822d2e3d",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/0560ef96-55ca-4026-b70a-d638e1541c05/resource/2bcb7ee9-1c75-4a37-adec-2e8c822d2e3d/download/editorial.csv",
+          "name": "Editoriales de libro",
+          "format": "CSV",
+          "updatedAt": "2021-11-12T22:06:25.737Z",
+          "description": "Establecimiento cuya finalidad es organizar el proceso de edición y producción del libro. Se considera activa si ha publicado al menos 3 libros durante los últimos 12 meses. ",
+          "landingUrl": ""
+        },
+        {
+          "id": "2e52f749-d537-4d68-b2c2-b57a5ff6c4e0",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/0560ef96-55ca-4026-b70a-d638e1541c05/resource/2e52f749-d537-4d68-b2c2-b57a5ff6c4e0/download/radios.csv",
+          "name": "Radios (base discontinuada, 2015)",
+          "format": "CSV",
+          "updatedAt": "2018-07-16T20:44:31.441Z",
+          "description": "establecimiento cuya finalidad es crear y/o difundir, a través de una señal de Amplitud o Frecuencia Modulada, sonidos que alcanzan los artefactos radiales en los hogares, de manera gratuita.",
+          "landingUrl": ""
+        },
+        {
+          "id": "f79cc950-6976-420d-b4ec-bce0530cc3a8",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/0560ef96-55ca-4026-b70a-d638e1541c05/resource/f79cc950-6976-420d-b4ec-bce0530cc3a8/download/sellos-musicales.csv",
+          "name": "Sellos Musicales ",
+          "format": "CSV",
+          "updatedAt": "2022-06-15T17:27:32.275Z",
+          "description": "Un sello musical es un establecimiento que se dedica a producir grabaciones de música en distintos formatos (CD, Casettes, DVD) así como a la comercialización y distribución de las mismas.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "eb517a71-ccc5-400d-b489-455bccbbb0b4",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/0560ef96-55ca-4026-b70a-d638e1541c05/resource/eb517a71-ccc5-400d-b489-455bccbbb0b4/download/27_feriasdellibtro-datosabiertos_2022-1.csv",
+          "name": "Feria del libro",
+          "format": "CSV",
+          "updatedAt": "2023-06-22T18:10:31.490Z",
+          "description": "Evento social, económico y cultural —que se realiza con cierta periodicidad – en la que se difunden y comercializan libros y se promueve la lectura, la estimulación y difusión comercial de editoriales",
+          "landingUrl": ""
+        },
+        {
+          "id": "cbad73b9-85ab-4ece-9b8f-7fa6cb8b6052",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/0560ef96-55ca-4026-b70a-d638e1541c05/resource/cbad73b9-85ab-4ece-9b8f-7fa6cb8b6052/download/prod_distrib_audiovisuales.csv",
+          "name": "Productoras y distribuidoras audiovisuales",
+          "format": "CSV",
+          "updatedAt": "2022-07-21T21:22:58.755Z",
+          "description": "Entidades que se ocupan de realizar, producir y distribuir contenidos audiovisuales para distintos medios de comunicación y exhibidores.",
+          "landingUrl": ""
+        },
+        {
+          "id": "d0791f8f-dfc1-4018-810c-598a25e7032a",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/0560ef96-55ca-4026-b70a-d638e1541c05/resource/d0791f8f-dfc1-4018-810c-598a25e7032a/download/videojuegos_datos_abiertos.csv",
+          "name": "Estudios Desarrolladores de Videojuegos ",
+          "format": "CSV",
+          "updatedAt": "2022-08-23T19:20:26.702Z",
+          "description": "Estudios que se ocupan del diseño, programación y producción de videojuegos y/o aplicaciones para distintas plataformas, soportes y tecnologías. ",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-02-23T17:33:31.008Z",
+      "updatedAt": "2023-11-07T18:42:00.643Z",
+      "contact": {
+        "name": "Sistema de Información Cultural de la Argentina - Ministerio de Cultura de la Nación",
+        "email": "sinca@cultura.gob.ar"
+      }
+    },
+    {
+      "id": "7b36872a-835d-484f-bd8b-ad4f02b1f3f9",
+      "name": "consumo-cultural-privado",
+      "title": "Cuente satélite de Cultura: consumo cultural privado",
+      "keywords": [
+        "consumo cultural"
+      ],
+      "landingPage": "https://datos.cultura.gob.ar/dataset/consumo-cultural-privado",
+      "resources": [
+        {
+          "id": "681ce2c8-5562-4649-841b-696125b5e608",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/7b36872a-835d-484f-bd8b-ad4f02b1f3f9/resource/681ce2c8-5562-4649-841b-696125b5e608/download/csc30-consumo-nac-priv-cult-precios-c.csv",
+          "name": "Consumo privado cultural nacional a precios corrientes",
+          "format": "CSV",
+          "updatedAt": "2023-12-08T00:34:59.076Z",
+          "description": "Consumo privado cultural nacional a precios corrientes.\r\nAlcance temporal: 2004-2022.\r\nUnidad de medida: miles de pesos corrientes.",
+          "landingUrl": ""
+        },
+        {
+          "id": "58e03723-058f-4e73-8231-84374efd62dc",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/7b36872a-835d-484f-bd8b-ad4f02b1f3f9/resource/58e03723-058f-4e73-8231-84374efd62dc/download/csc29-consumo-nac-priv-cult-precios-k.csv",
+          "name": "Consumo privado cultural nacional a precios constantes",
+          "format": "CSV",
+          "updatedAt": "2023-12-08T00:35:16.396Z",
+          "description": "Consumo privado cultural nacional a precios del año 2004.\r\nAlcance temporal: 2004-2022.\r\nUnidad de medida: miles de pesos constantes.",
+          "landingUrl": ""
+        },
+        {
+          "id": "065eedfa-e9e5-428a-9812-9bb663ac73c1",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/7b36872a-835d-484f-bd8b-ad4f02b1f3f9/resource/065eedfa-e9e5-428a-9812-9bb663ac73c1/download/csc31-part-consumo-cult-consumo-total-k.csv",
+          "name": "Participación del consumo cultural privado en el consumo privado total en valores constantes",
+          "format": "CSV",
+          "updatedAt": "2023-12-08T00:35:49.306Z",
+          "description": "Participación del consumo cultural privado el consumo privado total constante.  \r\nAlcance temporal: 2004-2022.\r\nUnidad de medida: porcentaje.",
+          "landingUrl": ""
+        },
+        {
+          "id": "3df87586-bd5f-4a1e-9bdc-1575b985e399",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/7b36872a-835d-484f-bd8b-ad4f02b1f3f9/resource/3df87586-bd5f-4a1e-9bdc-1575b985e399/download/csc32-part-consumo-cult-consumo-total-c.csv",
+          "name": "Participación del consumo cultural privado en  el consumo privado total en valores corrientes",
+          "format": "CSV",
+          "updatedAt": "2023-12-08T00:32:21.618Z",
+          "description": "Participación del consumo cultural privado corriente en el consumo privado total corriente. \r\nAlcance temporal: 2004-2022. \r\nUnidad de medida: porcentaje.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-10-29T15:50:31.268Z",
+      "updatedAt": "2023-12-08T00:48:15.782Z",
+      "contact": {
+        "name": "Sistema de Información Cultural de la Argentina (SINCA)-Ministerio de Cultura de la Nación. ",
+        "email": "sinca@cultura.gob.ar"
+      }
+    },
+    {
+      "id": "1ddb1be9-ec77-4af1-8193-bd16fc613cc9",
+      "name": "cuenta-satelite-de-cultura-comercio-exterior",
+      "title": "Cuenta satélite de cultura: comercio exterior",
+      "keywords": [
+        "artes escénicas",
+        "artes visuales",
+        "audiovisual",
+        "comercio exterior",
+        "diseño",
+        "edición de libros y publicaciones",
+        "exportaciones",
+        "importaciones",
+        "música",
+        "patrimonio material"
+      ],
+      "landingPage": "https://datos.cultura.gob.ar/dataset/cuenta-satelite-de-cultura-comercio-exterior",
+      "resources": [
+        {
+          "id": "fdc81983-c30e-4e07-ba2c-5c500b4abe08",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/1ddb1be9-ec77-4af1-8193-bd16fc613cc9/resource/fdc81983-c30e-4e07-ba2c-5c500b4abe08/download/csc13-expo-bienes-cult-sector-pesos-c.csv",
+          "name": "Exportaciones de bienes culturales característicos por sector en pesos corrientes",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T23:33:16.223Z",
+          "description": "Exportaciones de bienes culturales característicos en pesos corrientes. \r\nAlcance temporal: 2004-2022.\r\nUnidad de medida: miles de pesos corrientes.",
+          "landingUrl": ""
+        },
+        {
+          "id": "c7340e8c-13fa-42f4-b792-496acba42ba4",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/1ddb1be9-ec77-4af1-8193-bd16fc613cc9/resource/c7340e8c-13fa-42f4-b792-496acba42ba4/download/csc14-impo-bienes-cult-sector-pesos-c.csv",
+          "name": "Importaciones de bienes culturales característicos por sector en pesos corrientes",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T23:35:44.680Z",
+          "description": "Importaciones de bienes culturales característicos en pesos corrientes. \r\nAlcance temporal: 2004-2022.\r\nUnidad de medida: miles de pesos corrientes.",
+          "landingUrl": ""
+        },
+        {
+          "id": "f888e319-f40f-40d4-a046-659454546e6e",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/1ddb1be9-ec77-4af1-8193-bd16fc613cc9/resource/f888e319-f40f-40d4-a046-659454546e6e/download/csc15-saldo-bienes-cult-sector-pesos-c.csv",
+          "name": "Saldo comercial por sector cultural en pesos corrientes",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T23:43:22.322Z",
+          "description": "Saldo de importaciones y exportaciones de bienes culturales característicos por sector en pesos corrientes.\r\nAlcance temporal: 2004-2022.\r\nUnidad de medida: miles de pesos corrientes.",
+          "landingUrl": ""
+        },
+        {
+          "id": "0a569b68-2e32-47f2-b435-48374a158290",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/1ddb1be9-ec77-4af1-8193-bd16fc613cc9/resource/0a569b68-2e32-47f2-b435-48374a158290/download/csc16-expo-bienes-cult-sector-pesos-k.csv",
+          "name": "Exportaciones de bienes culturales característicos en pesos constantes",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T23:50:45.991Z",
+          "description": "Exportaciones de bienes culturales característicos en pesos del año 2004.\r\nAlcance temporal: 2004-2022.\r\nUnidad de medida: miles de pesos constantes (k).",
+          "landingUrl": ""
+        },
+        {
+          "id": "8a23b7cf-52d3-44a4-bc03-d93513e0f8ad",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/1ddb1be9-ec77-4af1-8193-bd16fc613cc9/resource/8a23b7cf-52d3-44a4-bc03-d93513e0f8ad/download/csc17-impo-bienes-cult-sector-pesos-k.csv",
+          "name": "Importaciones de bienes culturales característicos en pesos constantes",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T23:51:32.013Z",
+          "description": "Importaciones de bienes culturales característicos en pesos del año 2004.\r\nAlcance temporal: 2004-2022.\r\nUnidad de medida: miles de pesos constantes (k).",
+          "landingUrl": ""
+        },
+        {
+          "id": "0f9bcd04-3bd0-4ab3-aaf0-ca4be33d619b",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/1ddb1be9-ec77-4af1-8193-bd16fc613cc9/resource/0f9bcd04-3bd0-4ab3-aaf0-ca4be33d619b/download/csc18-saldo-bienes-cult-sector-pesos-k.csv",
+          "name": "Saldo comercial por sector cultural en pesos constantes  ",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T23:52:42.674Z",
+          "description": "Saldo de importaciones y exportaciones de bienes culturales característicos por sector en pesos de 2004.\r\nAlcance temporal: 2004-2022.\r\nUnidad de medida: pesos corrientes (k)",
+          "landingUrl": ""
+        },
+        {
+          "id": "b7a7b751-fb71-46de-95a2-f0815e2c4384",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/1ddb1be9-ec77-4af1-8193-bd16fc613cc9/resource/b7a7b751-fb71-46de-95a2-f0815e2c4384/download/csc19-expo-impo-servicios-cult-pesos-c.csv",
+          "name": "Exportaciones e importaciones de servicios culturales en pesos corrientes",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T23:53:36.517Z",
+          "description": "Exportaciones, importaciones y saldo comercial de servicios culturales en pesos corrientes.\r\nAlcance temporal: 2004-2022.\r\nUnidad de medida: miles de pesos corrientes.",
+          "landingUrl": ""
+        },
+        {
+          "id": "93725056-94f6-4d74-8bca-d74f905316ff",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/1ddb1be9-ec77-4af1-8193-bd16fc613cc9/resource/93725056-94f6-4d74-8bca-d74f905316ff/download/csc20-expo-impo-servicios-cult-pesos-k.csv",
+          "name": "Exportaciones e importaciones de servicios culturales en pesos constantes",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T23:54:30.757Z",
+          "description": "Exportaciones, importaciones y saldo comercial de servicios culturales en pesos del año 2004\r\nAlcance temporal: 2004-2022.\r\nUnidad de medida: miles de pesos constantes",
+          "landingUrl": ""
+        },
+        {
+          "id": "c873e2aa-465e-43fc-bb9b-dfad43da2c2d",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/1ddb1be9-ec77-4af1-8193-bd16fc613cc9/resource/c873e2aa-465e-43fc-bb9b-dfad43da2c2d/download/csc21-expo-impo-bienes-servicios-cult-pesos-c.csv",
+          "name": "Exportaciones e importaciones de bienes y servicios culturales en pesos corrientes",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T23:55:27.238Z",
+          "description": "Exportaciones,  importaciones y saldo comercial de bienes característicos  y servicios culturales en pesos corrientes.\r\nAlcance temporal: 2004-2022.\r\nUnidad de medida: miles de pesos corrientes.",
+          "landingUrl": ""
+        },
+        {
+          "id": "deabe9b6-1166-4b7d-8ae8-bd51fc8a3eec",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/1ddb1be9-ec77-4af1-8193-bd16fc613cc9/resource/deabe9b6-1166-4b7d-8ae8-bd51fc8a3eec/download/csc22-expo-impo-bienes-servicios-cult-pesos-k.csv",
+          "name": "Exportaciones e importaciones de bienes y servicios culturales en pesos constantes",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T23:56:34.615Z",
+          "description": "Exportaciones, importaciones y saldo comercial de bienes característicos  y servicios culturales en pesos del año 2004.\r\nAlcance temporal: 2004-2022.\r\nUnidad de medida: miles de pesos constantes.",
+          "landingUrl": ""
+        },
+        {
+          "id": "81c0f4ab-8b99-480c-80bc-e1552de5954f",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/1ddb1be9-ec77-4af1-8193-bd16fc613cc9/resource/81c0f4ab-8b99-480c-80bc-e1552de5954f/download/csc23-participacion-expo-culturales-total-expo-k.csv",
+          "name": "Participación de las exportaciones culturales en total de exportaciones ",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T23:58:09.431Z",
+          "description": "Participación de las exportaciones de bienes característicos y servicios culturales en total exportado en pesos del año 2004.\r\nAlcance temporal: 2004-2022.\r\nUnidad de medida: porcentaje.",
+          "landingUrl": ""
+        },
+        {
+          "id": "2e53c6d6-4ce2-4335-8c71-8d95bcaf3662",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/1ddb1be9-ec77-4af1-8193-bd16fc613cc9/resource/2e53c6d6-4ce2-4335-8c71-8d95bcaf3662/download/csc24-participacion-impo-culturales-total-impo-k.csv",
+          "name": "Participación de las importaciones culturales en total de importaciones ",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T23:59:17.830Z",
+          "description": "Participación de las importaciones  de bienes característicos y servicios culturales en total importado en pesos del año 2004.\r\nAlcance temporal: 2004-2022.\r\nUnidad de medida: porcentaje.",
+          "landingUrl": ""
+        },
+        {
+          "id": "03ff98ee-6b58-44c7-89d7-81ce5c215bbd",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/1ddb1be9-ec77-4af1-8193-bd16fc613cc9/resource/03ff98ee-6b58-44c7-89d7-81ce5c215bbd/download/csc25-participacion-expo-cult_vbp_cult_pesos_c.csv",
+          "name": "Participación de las exportaciones culturales en el valor bruto de producción cultural a precios corrientes",
+          "format": "CSV",
+          "updatedAt": "2023-12-08T00:01:33.638Z",
+          "description": "Exportaciones de bienes característicos y servicios culturales en el valor bruto de producción cultural a precios corrientes.\r\nAlcance temporal: 2004-2022.\r\nUnidad de medida: porcentaje.",
+          "landingUrl": ""
+        },
+        {
+          "id": "46ac86cf-bc24-43b0-b3ab-eecd6008cf1e",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/1ddb1be9-ec77-4af1-8193-bd16fc613cc9/resource/46ac86cf-bc24-43b0-b3ab-eecd6008cf1e/download/csc26-participacion-expo-cult-vbp-cult-pesos-k.csv",
+          "name": "Participación de las exportaciones culturales en el valor bruto de producción cultural a precios constantes",
+          "format": "CSV",
+          "updatedAt": "2023-12-08T00:04:08.213Z",
+          "description": "Exportaciones de bienes característicos y servicios culturales en el valor bruto de producción cultural en pesos del año 2004\r\nAlcance temporal: 2004-2022.\r\nUnidad de medida: porcentaje.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-10-20T19:40:45.363Z",
+      "updatedAt": "2023-12-08T00:48:04.564Z",
+      "contact": {
+        "name": "Sistema de Información Cultural de la Argentina (SINCA)-Ministerio de Cultura de la Nación ",
+        "email": "sinca@cultura.gob.ar"
+      }
+    },
+    {
+      "id": "2a70a2d3-b8ba-4805-afff-40ae91a8c3ba",
+      "name": "cuenta-satelite-de-cultura-generacion-del-ingreso",
+      "title": "Cuenta Satélite de Cultura: cuenta generación del Ingreso",
+      "keywords": [
+        "cultura",
+        "ingresos"
+      ],
+      "landingPage": "https://www.sinca.gob.ar/default.aspx",
+      "resources": [
+        {
+          "id": "f6a8a059-5178-4384-95d0-5924afe736d2",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/2a70a2d3-b8ba-4805-afff-40ae91a8c3ba/resource/f6a8a059-5178-4384-95d0-5924afe736d2/download/csc28-cuenta-generacion-ingreso-cultural.csv",
+          "name": "Cuenta Generación del ingreso cultural",
+          "format": "CSV",
+          "updatedAt": "2023-12-08T00:36:12.976Z",
+          "description": "Ingresos de remuneraciones al trabajo asalariado, ingreso bruto mixto, excedente de explotación bruto e impuestos netos de subsidios. \r\nAños: 2016-2022. \r\nUnidad de medida: miles de pesos corrientes. ",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-10-19T21:12:51.059Z",
+      "updatedAt": "2023-12-08T00:48:52.472Z",
+      "contact": {
+        "name": "Sistema de Información Cultural de la Argentina (SINCA)-Ministerio de Cultura de la Nación",
+        "email": "sinca@cultura.gob.ar"
+      }
+    },
+    {
+      "id": "7cede781-9d4d-42d7-9329-b6c487dc405a",
+      "name": "cuenta-satelite-de-cultura-produccion",
+      "title": "Cuenta Satélite de Cultura: producción",
+      "keywords": [
+        "artes escénicas",
+        "artes visuales",
+        "audiovisual",
+        "contenido digital cultural",
+        "cultura",
+        "diseño",
+        "edición de libros y publicaciones",
+        "formación cultural",
+        "música",
+        "patrimonio material",
+        "producción",
+        "publicidad",
+        "valor agregado"
+      ],
+      "landingPage": "https://datos.cultura.gob.ar/dataset/cuenta-satelite-de-cultura-produccion",
+      "resources": [
+        {
+          "id": "633a2260-c077-4e98-9a1e-a02798bb5176",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/7cede781-9d4d-42d7-9329-b6c487dc405a/resource/633a2260-c077-4e98-9a1e-a02798bb5176/download/csc01-vbp-sector-k.csv",
+          "name": "Valor bruto de producción a precios constantes por sector cultural",
+          "format": "CSV",
+          "updatedAt": "2023-11-15T00:59:36.352Z",
+          "description": "Valor bruto de producción por sector en pesos del año 2004.\r\nAlcance temporal: 2004-2022. \r\nUnidad de medida: miles de pesos constantes (k).\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "f578de77-e544-4f35-9afb-b43ba4cfe5aa",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/7cede781-9d4d-42d7-9329-b6c487dc405a/resource/f578de77-e544-4f35-9afb-b43ba4cfe5aa/download/csc03-vab-sector-k.csv",
+          "name": "Valor agregado bruto a precios constantes por sector cultural",
+          "format": "CSV",
+          "updatedAt": "2023-11-15T01:02:32.991Z",
+          "description": "Valor agregado bruto  por sector  en pesos del año 2004.\r\nAlcance temporal: 2004-2022. \r\nUnidad de medida: miles de pesos constantes (k).",
+          "landingUrl": ""
+        },
+        {
+          "id": "7b945d7b-7933-468e-8aac-aef5b75e11c5",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/7cede781-9d4d-42d7-9329-b6c487dc405a/resource/7b945d7b-7933-468e-8aac-aef5b75e11c5/download/csc02-c-i-sector-k.csv",
+          "name": "Consumo intermedio a precios constantes por sector cultural",
+          "format": "CSV",
+          "updatedAt": "2023-11-15T01:01:48.316Z",
+          "description": "Consumo intermedio por sector en pesos del año 2004.\r\nAlcance temporal: 2004-2022. \r\nUnidad de medida: miles de pesos constantes (k).",
+          "landingUrl": ""
+        },
+        {
+          "id": "7c445d75-832c-44b3-a19f-1185c55136f2",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/7cede781-9d4d-42d7-9329-b6c487dc405a/resource/7c445d75-832c-44b3-a19f-1185c55136f2/download/csc04-vbp-sector-c.csv",
+          "name": "Valor bruto de producción a precios corrientes por sector cultural",
+          "format": "CSV",
+          "updatedAt": "2023-11-15T01:03:23.406Z",
+          "description": "Valor bruto de producción por sector en pesos corrientes.\r\nAlcance temporal: 2004-2022. \r\nUnidad de medida: miles de pesos corrientes.",
+          "landingUrl": ""
+        },
+        {
+          "id": "2ede885d-43d2-49b8-a77c-5c52d583ab7a",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/7cede781-9d4d-42d7-9329-b6c487dc405a/resource/2ede885d-43d2-49b8-a77c-5c52d583ab7a/download/csc05-c-i-sector-c.csv",
+          "name": "Consumo intermedio a precios corrientes por sector cultural",
+          "format": "CSV",
+          "updatedAt": "2023-11-15T01:04:09.799Z",
+          "description": "Consumo intermedio por sector en pesos corrientes.\r\nAlcance temporal: 2004-2022. \r\nUnidad de medida: miles de pesos corrientes.",
+          "landingUrl": ""
+        },
+        {
+          "id": "2f34ce56-0e31-4446-90d7-17af1840d662",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/7cede781-9d4d-42d7-9329-b6c487dc405a/resource/2f34ce56-0e31-4446-90d7-17af1840d662/download/csc06-vab-sector-c.csv",
+          "name": "Valor agregado bruto a precios corrientes por sector cultural",
+          "format": "CSV",
+          "updatedAt": "2023-11-15T01:05:03.337Z",
+          "description": "Valor agregado bruto por sector en pesos corrientes.\r\nAlcance temporal: 2004-2022. \r\nUnidad de medida: miles de pesos corrientes.",
+          "landingUrl": ""
+        },
+        {
+          "id": "e0234a5e-9991-4019-bcfe-a207f33e5e22",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/7cede781-9d4d-42d7-9329-b6c487dc405a/resource/e0234a5e-9991-4019-bcfe-a207f33e5e22/download/csc09-part-vab-cult-k-total.csv",
+          "name": "Participación de la cultura en la economía total en valores constantes",
+          "format": "CSV",
+          "updatedAt": "2023-11-15T01:08:18.258Z",
+          "description": "Participación del valor agregado bruto cultural constante en el valor agregado constante de la economía.  \r\nAlcance temporal: 2004-2022.\r\nUnidad de medida: porcentaje.",
+          "landingUrl": ""
+        },
+        {
+          "id": "a8a781e1-1382-48cb-97c4-d2f4555478f0",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/7cede781-9d4d-42d7-9329-b6c487dc405a/resource/a8a781e1-1382-48cb-97c4-d2f4555478f0/download/csc10-part-vab-cult-c-eco_total.csv",
+          "name": "Participación de la cultura en la economía total en valores corrientes",
+          "format": "CSV",
+          "updatedAt": "2023-11-15T01:09:10.454Z",
+          "description": "Participación del valor agregado bruto cultural corriente en el valor agregado corriente de la economía.\r\nAlcance temporal: 2004-2022.\r\nUnidad de medida: porcentaje.",
+          "landingUrl": ""
+        },
+        {
+          "id": "b0e24aee-0719-4630-902a-ab221f4e6029",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/7cede781-9d4d-42d7-9329-b6c487dc405a/resource/b0e24aee-0719-4630-902a-ab221f4e6029/download/csc12-var-anual-indice-precios-implicitos-vab-cult-sector.csv",
+          "name": "Variación interanual del índice de precios ímplicitos por sector cultural ",
+          "format": "CSV",
+          "updatedAt": "2023-11-15T01:11:39.441Z",
+          "description": "Variación  interanual del índice de precios implícitos del valor agregado bruto por sector cultural. \r\nAlcance temporal: 2005-2021.\r\nUnidad de medida: porcentaje.",
+          "landingUrl": ""
+        },
+        {
+          "id": "27acdbee-253e-4db6-b024-f40b5c31e7d1",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/7cede781-9d4d-42d7-9329-b6c487dc405a/resource/27acdbee-253e-4db6-b024-f40b5c31e7d1/download/csc11-indice-precios-implicitos-vab-cult-sector.csv",
+          "name": "Índice de precios implícitos por sector cultural",
+          "format": "CSV",
+          "updatedAt": "2023-11-15T01:10:28.043Z",
+          "description": "Índice de precios implícitos del valor agregado bruto por sector cultural. \r\nAlcance temporal: 2004-2021. \r\nBase 2004=1",
+          "landingUrl": ""
+        },
+        {
+          "id": "7ce5c393-c703-41d2-a2ef-5e7a88592a4b",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/7cede781-9d4d-42d7-9329-b6c487dc405a/resource/7ce5c393-c703-41d2-a2ef-5e7a88592a4b/download/csc08-var-anual-vab-sectores-k.csv",
+          "name": "Variación  interanual del valor agregado bruto a precios constantes por sector cultural",
+          "format": "CSV",
+          "updatedAt": "2023-11-15T01:07:08.117Z",
+          "description": "Variación interanual del valor agregado bruto a precios del años 2004 por sector cultural. \r\nAlcance temporal: 2005-2022. \r\nUnidad de medida: porcentaje.",
+          "landingUrl": ""
+        },
+        {
+          "id": "fe2f277c-af74-471e-9684-c9b7a9e0a563",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/7cede781-9d4d-42d7-9329-b6c487dc405a/resource/fe2f277c-af74-471e-9684-c9b7a9e0a563/download/csc07-participacion-sectores-vab-c.csv",
+          "name": "Participación de los sectores culturales en el valor agregado bruto cultural a precios corrientes ",
+          "format": "CSV",
+          "updatedAt": "2023-11-15T01:05:49.495Z",
+          "description": "Participación del valor agregado bruto corriente de los sectores culturales en el valor agregado bruto cultural total. \r\nAlcance temporal: 2004-2022. \r\nUnidad de medida: porcantaje.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-10-20T18:27:01.454Z",
+      "updatedAt": "2023-12-08T00:47:55.268Z",
+      "contact": {
+        "name": "Sistema de Información Cultural de la Argentina (SINCA)-Ministerio de Cultura de la Nación ",
+        "email": "sinca@cultura.gob.ar"
+      }
+    },
+    {
+      "id": "1ba8cfc4-a1e6-4f29-bc6e-0a0347989e76",
+      "name": "cuenta-satelite-de-cultura-puestos-de-trabajo-privados",
+      "title": "Cuenta Satélite de Cultura: puestos de trabajo privados",
+      "keywords": [
+        "artes escénicas",
+        "artes visuales",
+        "audiovisual",
+        "contenido digital cultural",
+        "diseño",
+        "edición de libros y publicaciones",
+        "empleo cultural",
+        "formación cultural",
+        "música",
+        "patrimonio material",
+        "publicidad"
+      ],
+      "landingPage": "https://datos.cultura.gob.ar/dataset/cuenta-satelite-de-cultura-puestos-de-trabajo-privados",
+      "resources": [
+        {
+          "id": "e5b7f2d6-9312-4136-b51d-c1aa5fd49b33",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/1ba8cfc4-a1e6-4f29-bc6e-0a0347989e76/resource/e5b7f2d6-9312-4136-b51d-c1aa5fd49b33/download/csc27-puestos-t-reg-no-reg-indeptes-sector.csv",
+          "name": "Puestos de trabajo por sector de actividad cultural y por categoría ocupacional",
+          "format": "CSV",
+          "updatedAt": "2023-12-08T00:43:16.059Z",
+          "description": "Puestos de trabajo privados registrados, no registrados y no asalariados según sector cultural.\r\nUnidad de medida: puestos de trabajo.\r\nAños: 2016-2022.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-10-20T16:48:27.140Z",
+      "updatedAt": "2023-12-08T00:48:33.738Z",
+      "contact": {
+        "name": "Sistema de Información Cultural de la Argentina (SINCA)-Ministerio de Cultura de la Nación ",
+        "email": "sinca@cultura.gob.ar"
+      }
+    },
+    {
+      "id": "251c2ac2-e670-451c-9dbf-a4212af225b5",
+      "name": "encuesta-nacional-de-consumos-culturales",
+      "title": "Encuesta Nacional de Consumos Culturales",
+      "keywords": [
+        "consumos culturales",
+        "encuesta nacional de consumos culturales"
+      ],
+      "landingPage": "https://datos.cultura.gob.ar/dataset/encuesta-nacional-de-consumos-culturales",
+      "resources": [
+        {
+          "id": "171494ce-e3cf-43fb-ad6e-f204bae1bb19",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/251c2ac2-e670-451c-9dbf-a4212af225b5/resource/171494ce-e3cf-43fb-ad6e-f204bae1bb19/download/encc_2017.csv",
+          "name": "Encuesta Nacional de Consumos Culturales (2017)",
+          "format": "CSV",
+          "updatedAt": "2019-11-22T21:50:59.673Z",
+          "description": "La edición 2017 toma como punto de partida la encuesta realizada 2013 y otros relevamientos de la región.",
+          "landingUrl": ""
+        },
+        {
+          "id": "18ccc305-eada-44e7-a06a-5877ec83e0b8",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/251c2ac2-e670-451c-9dbf-a4212af225b5/resource/18ccc305-eada-44e7-a06a-5877ec83e0b8/download/cuestionario_encc-2017.pdf",
+          "name": "Cuestionario aplicado (2017)",
+          "format": "PDF",
+          "updatedAt": "2019-11-11T21:12:18.874Z",
+          "description": "Cuestionario utilizado en la Encuesta Nacional de Consumos Culturales 2017",
+          "landingUrl": ""
+        },
+        {
+          "id": "9a97dde5-3a33-4689-8333-24a2fa5b4a6e",
+          "downloadUrl": "https://back.sinca.gob.ar/download.aspx?id=2457",
+          "name": "Informe General ENCC 2017",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Informe sobre la ENCC 2017. Incluye ficha técnica (página 7)",
+          "landingUrl": ""
+        },
+        {
+          "id": "7f0af926-e365-4e9e-bb4f-a70a3bffe416",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/251c2ac2-e670-451c-9dbf-a4212af225b5/resource/7f0af926-e365-4e9e-bb4f-a70a3bffe416/download/cuestionario-encc-2022-2023.pdf",
+          "name": "Cuestionario de la Encuesta Nacional de Consumos Culturales 2022-23",
+          "format": "PDF",
+          "updatedAt": "2023-11-03T18:29:31.028Z",
+          "description": "Cuestionario aplicado para la Encuesta Nacional de Consumos Culturales de 2022-2023",
+          "landingUrl": ""
+        },
+        {
+          "id": "956e2046-40ec-4cb0-b6a7-345b83e93471",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/251c2ac2-e670-451c-9dbf-a4212af225b5/resource/956e2046-40ec-4cb0-b6a7-345b83e93471/download/diseno-muestral-ponderadores-encc-2022-2023.pdf",
+          "name": "Diseño muestral y ponderadores de la Encuesta Nacional de Consumos Culturales 2022-2023",
+          "format": "PDF",
+          "updatedAt": "2023-11-03T18:48:38.743Z",
+          "description": "Documento metodológico sobre el diseño muestral y los ponderadores empleados en la Encuesta Nacional de Consumos Culturales 2022-2023",
+          "landingUrl": ""
+        },
+        {
+          "id": "da9823d4-543b-4efc-bb43-13d9df7344d5",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/251c2ac2-e670-451c-9dbf-a4212af225b5/resource/da9823d4-543b-4efc-bb43-13d9df7344d5/download/metodologia-manual-uso-base-datos-encc-2022-2023.pdf",
+          "name": "Metodología y manual de uso de la base de datos de la Encuesta Nacional del Consumos Culturales 2022-2023",
+          "format": "PDF",
+          "updatedAt": "2023-11-03T18:46:45.435Z",
+          "description": "Documento que aborda aspectos metodológicos, conceptuales y técnicos de la Encuesta Nacional de Consumos Culturales 2022-2023.",
+          "landingUrl": ""
+        },
+        {
+          "id": "b635d1fc-2161-4901-a21d-7f93d56d99a4",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/251c2ac2-e670-451c-9dbf-a4212af225b5/resource/b635d1fc-2161-4901-a21d-7f93d56d99a4/download/base-datos-encc-2022-2023.csv",
+          "name": "Encuesta Nacional de Consumos Culturales 2022-2023",
+          "format": "CSV",
+          "updatedAt": "2023-11-03T19:46:09.993Z",
+          "description": "Base de datos de los resultados de la ENCC 2022-2023.",
+          "landingUrl": ""
+        },
+        {
+          "id": "d9570d16-f5d1-4d18-8145-3372eafb97af",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/251c2ac2-e670-451c-9dbf-a4212af225b5/resource/d9570d16-f5d1-4d18-8145-3372eafb97af/download/encc-serie-historica.csv",
+          "name": "Serie histórica de la Encuesta Nacional de Consumos Culturales",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T16:37:16.890Z",
+          "description": "Base de datos homologada de la ENCC de los años 2013, 2017 y 2022.",
+          "landingUrl": ""
+        },
+        {
+          "id": "84d3754e-583d-446d-b7d7-ca8bca3a0c38",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/251c2ac2-e670-451c-9dbf-a4212af225b5/resource/84d3754e-583d-446d-b7d7-ca8bca3a0c38/download/metodologia-base-homologada.pdf",
+          "name": "Metodología de la serie histórica de la ENCC",
+          "format": "PDF",
+          "updatedAt": "2023-12-06T23:56:38.483Z",
+          "description": "En el documento se abordan los criterios metodológicos utilizados para la homologación de las bases de datos de las ediciones 2013, 2017 y 2022 de la ENCC.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-11-08T21:27:47.596Z",
+      "updatedAt": "2023-12-07T16:37:16.916Z",
+      "contact": {
+        "name": "Sistema de Información Cultural de la Argentina - Ministerio de Cultura de la Nación",
+        "email": "sinca@cultura.gob.ar"
+      }
+    },
+    {
+      "id": "37305de4-3cce-4d4b-9d9a-fec3ca61d09f",
+      "name": "espacios-culturales-argentina-sinca",
+      "title": "Mapa Cultural: Espacios Culturales",
+      "keywords": [
+        "bibliotecas especializadas",
+        "bibliotecas populares",
+        "casas del bicentenario",
+        "centros culturales",
+        "librerias",
+        "museos",
+        "salas de cine",
+        "teatros"
+      ],
+      "landingPage": "https://www.sinca.gob.ar/institucional.aspx",
+      "resources": [
+        {
+          "id": "456d1087-87f9-4e27-9c9c-1d9734c7e51d",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/456d1087-87f9-4e27-9c9c-1d9734c7e51d/download/08_biblio_espec.xlsx-sheet2.csv",
+          "name": "Bibliotecas Especializadas",
+          "format": "CSV",
+          "updatedAt": "2022-07-08T21:38:49.901Z",
+          "description": "Es una institución cuya principal función consiste en mantener colecciones especializadas en diferentes áreas del conocimiento, económico, educativo, cultural y científico-técnico del país.",
+          "landingUrl": ""
+        },
+        {
+          "id": "01c6c048-dbeb-44e0-8efa-6944f73715d7",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/01c6c048-dbeb-44e0-8efa-6944f73715d7/download/11_bibliotecapopular-datos-abiertos.csv",
+          "name": "Bibliotecas Populares",
+          "format": "CSV",
+          "updatedAt": "2023-07-17T23:17:04.544Z",
+          "description": "Asociación civil autónoma, creada por la vocación solidaria de un grupo de vecinos de una localidad o barrio con el fin de brindar información, educación, recreación y animación socio-cultural.",
+          "landingUrl": ""
+        },
+        {
+          "id": "8d0b7f33-d570-4189-9961-9e907193aebc",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/8d0b7f33-d570-4189-9961-9e907193aebc/download/casas-del-bicentenario.csv",
+          "name": "Casas del Bicentenario",
+          "format": "CSV",
+          "updatedAt": "2022-05-11T20:38:26.691Z",
+          "description": "Una Casa del Bicentenario es un centro cultural construido por el Estado Nacional cuya finalidad es promover la inclusión social y el fortalecimiento de las identidades locales.",
+          "landingUrl": ""
+        },
+        {
+          "id": "4207def0-2ff7-41d5-9095-d42ae8207a5d",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos_datosabiertos.csv",
+          "name": "Museo",
+          "format": "CSV",
+          "updatedAt": "2022-03-23T16:55:56.529Z",
+          "description": "Es una institución permanente, sin fines de lucro, abierta al público, que adquiere, conserva, estudia, exhibe y comunica el patrimonio material e inmaterial de la humanidad y de su ambiente.",
+          "landingUrl": ""
+        },
+        {
+          "id": "87ebac9c-774c-4ef2-afa7-044c41ee4190",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/87ebac9c-774c-4ef2-afa7-044c41ee4190/download/17_teatro.xlsx-datos-abiertos.csv",
+          "name": "Sala de Teatro",
+          "format": "CSV",
+          "updatedAt": "2022-03-22T22:25:20.262Z",
+          "description": "Establecimiento en donde se desarrolla con regularidad actividad escénica con participación directa o tácita de los intérpretes y/o asistentes. ",
+          "landingUrl": ""
+        },
+        {
+          "id": "5a03b397-a27a-4404-a2ec-d5cce6d1bff2",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/5a03b397-a27a-4404-a2ec-d5cce6d1bff2/download/monumentos-y-lugares-historicos.csv",
+          "name": "Monumentos y lugares históricos",
+          "format": "CSV",
+          "updatedAt": "2018-10-17T17:52:20.514Z",
+          "description": "Un monumento y/o lugar histórico es un edificio público o privado, monumento, obra de arte o localización que por su importancia histórica, cultural o social ha sido declarado como tal por el Estado.",
+          "landingUrl": ""
+        },
+        {
+          "id": "ed0555f9-073a-42bf-9965-1d66108645c5",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/ed0555f9-073a-42bf-9965-1d66108645c5/download/galerias-de-arte.csv",
+          "name": "Galerías de arte ",
+          "format": "CSV",
+          "updatedAt": "2022-05-11T22:17:36.127Z",
+          "description": "Establecimiento donde se desarrolla con regularidad la exhibición, promoción y/o venta de obras de arte (pintura, escultura, dibujo, grabado, fotografía, artes gráficas e ilustración, etc). ",
+          "landingUrl": ""
+        },
+        {
+          "id": "0e9a431c-b4f7-455b-aa1a-f419b5740900",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/0e9a431c-b4f7-455b-aa1a-f419b5740900/download/centros_culturales.csv",
+          "name": "Centros Culturales",
+          "format": "CSV",
+          "updatedAt": "2022-09-09T17:43:32.395Z",
+          "description": "espacio no convencional y/o multifuncional en el que se realizan manifestaciones artísticas de cualquiera tipología, como espectáculos, funciones, festivales, bailes, exposiciones,  y/o muestras. ",
+          "landingUrl": ""
+        },
+        {
+          "id": "ee6ec36e-e4f2-42a0-adb8-525f0cb93c87",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/ee6ec36e-e4f2-42a0-adb8-525f0cb93c87/download/libreria.csv",
+          "name": "Librerías ",
+          "format": "CSV",
+          "updatedAt": "2021-12-09T16:09:19.770Z",
+          "description": "Establecimiento cuya actividad incluye la comercialización minorista de libros nuevos y/o usados. ",
+          "landingUrl": ""
+        },
+        {
+          "id": "67e091bd-2aff-4f8d-937b-003ebe2eecd2",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/67e091bd-2aff-4f8d-937b-003ebe2eecd2/download/sitiospatrimoniohumanidadunesco.csv",
+          "name": "Sitios declarados Patrimonio de la Humanidad por la UNESCO",
+          "format": "CSV",
+          "updatedAt": "2022-04-01T20:38:03.648Z",
+          "description": "Ámbito o zona de importancia excepcional para la herencia común de la humanidad. Han sido confirmados para su inclusión en la lista mantenida por el Programa Patrimonio de la Humanidad, UNESCO.",
+          "landingUrl": ""
+        },
+        {
+          "id": "f7a8edb8-9208-41b0-8f19-d72811dcea97",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/f7a8edb8-9208-41b0-8f19-d72811dcea97/download/salas_cine.csv",
+          "name": "Cine",
+          "format": "CSV",
+          "updatedAt": "2022-09-26T17:14:01.184Z",
+          "description": "Establecimiento donde se desarrolla con regularidad la proyección de películas para un significativo número de espectadores. Es abierto al público, gratuito o no.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-03-02T16:29:59.732Z",
+      "updatedAt": "2023-07-17T23:22:35.349Z",
+      "contact": {
+        "name": "Sistema de Información Cultural de la Argentina - Ministerio de Cultura de la Nación",
+        "email": "sinca@cultura.gob.ar"
+      }
+    },
+    {
+      "id": "3dc4ec3b-b563-4c29-9fc9-6da64d6117bd",
+      "name": "mas-cultura",
+      "title": "Más Cultura",
+      "keywords": [
+        "consumos culturales",
+        "encuesta",
+        "más cultura"
+      ],
+      "landingPage": "https://datos.cultura.gob.ar/dataset/mas-cultura",
+      "resources": [
+        {
+          "id": "d0d752aa-5a38-4a5c-9617-f555383935f3",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/3dc4ec3b-b563-4c29-9fc9-6da64d6117bd/resource/d0d752aa-5a38-4a5c-9617-f555383935f3/download/mas_cultura_205787.csv",
+          "name": "Información sobre beneficiarios del programa Más Cultura",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T19:47:17.354Z",
+          "description": "Esta tabla reúne las respuestas a la encuesta realizada a beneficiarios del programa Más Cultura, el tipo de beneficios que reciben de ANSES y el uso que los beneficiarios le dieron a la tarjeta. ",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-12-07T19:27:44.710Z",
+      "updatedAt": "2023-12-07T19:56:44.634Z",
+      "contact": {
+        "name": "Área de Monitoreo y Evaluación de la Dirección de Planificación y Seguimiento de Gestión. Ministerio de Cultura de la Nación.",
+        "email": "registrofederal@cultura.gob.ar"
+      }
+    },
+    {
+      "id": "e65e46b8-e460-40c4-ad54-6d4a0e0ea11b",
+      "name": "puntos-de-cultura",
+      "title": "Puntos de Cultura",
+      "keywords": [
+        "cultura comunitaria",
+        "espacios culturales",
+        "organizaciones culturales",
+        "puntos de cultura"
+      ],
+      "landingPage": "https://datos.cultura.gob.ar/dataset/puntos-de-cultura",
+      "resources": [
+        {
+          "id": "e4d10e70-ef94-49bb-bee5-35456aefb9bf",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/e65e46b8-e460-40c4-ad54-6d4a0e0ea11b/resource/e4d10e70-ef94-49bb-bee5-35456aefb9bf/download/puntos_datos_abiertos_v2.csv",
+          "name": "Base histórica de las organizaciones culturales beneficiarias del programa Puntos de Cultura",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T23:41:29.504Z",
+          "description": "Detalle de las organizaciones culturales beneficiarias del programa Puntos de Cultura desde 2011 hasta 2023. ",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-12-04T23:19:09.555Z",
+      "updatedAt": "2023-12-08T02:52:26.603Z",
+      "contact": {
+        "name": "Área de Monitoreo y Evaluación de la Dirección de Planificación y Seguimiento de Gestión. Ministerio de Cultura de la Nación. ",
+        "email": "registrofederal@cultura.gob.ar"
+      }
+    },
+    {
+      "id": "d47cf8e9-e338-4e8e-ba30-09d3e11f26f1",
+      "name": "registro-federal-de-cultura",
+      "title": "Registro Federal de Cultura",
+      "keywords": [
+        "registro federal de cultura",
+        "espacios culturales",
+        "organizaciones culturales",
+        "trabajadores culturales"
+      ],
+      "landingPage": "https://datos.cultura.gob.ar/dataset/registro-federal-de-cultura",
+      "resources": [
+        {
+          "id": "054e7cfb-9add-4a46-a68b-ef0bd26df391",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/d47cf8e9-e338-4e8e-ba30-09d3e11f26f1/resource/054e7cfb-9add-4a46-a68b-ef0bd26df391/download/df_personas_datos_abiertos.csv",
+          "name": "Personas inscriptas en el Registro Federal de Cultura",
+          "format": "CSV",
+          "updatedAt": "2023-12-05T22:11:32.952Z",
+          "description": "Detalle de las personas inscriptas en el Registro Federal de Cultura, desde su apertura en el mes de marzo de 2021 hasta el mes de noviembre de 2023. ",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-12-05T21:29:04.807Z",
+      "updatedAt": "2023-12-05T22:14:14.073Z",
+      "contact": {
+        "name": "Área de Monitoreo y Evaluación de la Dirección de Planificación y Seguimiento de Gestión. Ministerio de Cultura de la Nación.",
+        "email": "registrofederal@cultura.gob.ar"
+      }
+    },
+    {
+      "id": "4c15684d-6d23-4855-a144-0ee1e3419bc1",
+      "name": "rutas-culturales",
+      "title": "Rutas Culturales",
+      "keywords": [
+        "ruinasyestanciasjesuiticas",
+        "rutadelaindependencia",
+        "rutas culturales",
+        "valles calchaquíes",
+        "yerba mate"
+      ],
+      "landingPage": "https://www.sinca.gob.ar",
+      "resources": [
+        {
+          "id": "d4abca2c-7734-40e6-9946-84ee969e157c",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/4c15684d-6d23-4855-a144-0ee1e3419bc1/resource/d4abca2c-7734-40e6-9946-84ee969e157c/download/ruinasyestanciasjesuiticas.csv",
+          "name": "Ruinas y Estancias Jesuíticas",
+          "format": "CSV",
+          "updatedAt": "2022-03-30T21:01:02.583Z",
+          "description": "Ruinas y estancias jesuíticas une los sitios patrimoniales que indican el paso de los jesuitas por el país. La selección de hitos se realizó junto a las áreas de cultura de los gobiernos provinciales.",
+          "landingUrl": ""
+        },
+        {
+          "id": "9799f02e-4681-4fc2-831e-b8fa41b75f2b",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/4c15684d-6d23-4855-a144-0ee1e3419bc1/resource/9799f02e-4681-4fc2-831e-b8fa41b75f2b/download/rutacalchaqui.csv",
+          "name": "Ruta de los Valles Calchaquíes",
+          "format": "CSV",
+          "updatedAt": "2022-03-30T21:32:42.394Z",
+          "description": "Ruta de los valles Calchaquíes: une los sitios patrimoniales y lugares que preservan la cultura Calchaquí.  La selección de hitos se realizó junto a las áreas de cultura de los gobiernos provinciales.",
+          "landingUrl": ""
+        },
+        {
+          "id": "a6d7ae52-b1e8-47ae-935e-5926a571b59e",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/4c15684d-6d23-4855-a144-0ee1e3419bc1/resource/a6d7ae52-b1e8-47ae-935e-5926a571b59e/download/rutadelayerbamate.csv",
+          "name": "Ruta de la Yerba Mate",
+          "format": "CSV",
+          "updatedAt": "2022-03-30T21:53:52.508Z",
+          "description": "Ruta de la Yerba Mate: une lugares y/o sitios de la cultura de la yerba mate. La selección de hitos se realizó junto a las áreas de cultura de los gobiernos provinciales.",
+          "landingUrl": ""
+        },
+        {
+          "id": "beb1a99e-58ab-498a-8ab8-48cad6c15dde",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/4c15684d-6d23-4855-a144-0ee1e3419bc1/resource/beb1a99e-58ab-498a-8ab8-48cad6c15dde/download/rutadelaindependencia.csv",
+          "name": "Ruta de la Independencia",
+          "format": "CSV",
+          "updatedAt": "2022-03-30T22:56:11.557Z",
+          "description": "Une los museos, lugares y monumentos históricos que representan los principales hitos políticos y militares del proceso de la independencia. Fuente: Instituto Nacional Belgraniano. ",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-03-30T18:58:45.940Z",
+      "updatedAt": "2022-05-05T18:37:46.942Z",
+      "contact": {
+        "name": "Sistema de Información Cultural de la Argentina - Ministerio de Cultura de la Nación",
+        "email": "sinca@cultura.gob.ar"
+      }
+    },
+    {
+      "id": "db056139-2cfd-40ab-bed2-dec44f87e4f8",
+      "name": "sector-audiovisual",
+      "title": "Sector audiovisual",
+      "keywords": [
+        "audiovisual",
+        "cine",
+        "empleo",
+        "estrenos",
+        "recaudación",
+        "televisión"
+      ],
+      "landingPage": "https://datos.cultura.gob.ar/dataset/sector-audiovisual",
+      "resources": [
+        {
+          "id": "40ce52b7-2240-4c58-b662-803b97df0bc0",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/db056139-2cfd-40ab-bed2-dec44f87e4f8/resource/40ce52b7-2240-4c58-b662-803b97df0bc0/download/a02_recaudacion_de_cine_nivel_nacional_por_origen_de_film.csv",
+          "name": "Recaudación de cine a nivel nacional por origen de film",
+          "format": "CSV",
+          "updatedAt": "2023-03-06T22:29:37.502Z",
+          "description": "Recaudación de cine a nivel por origen del film. \r\nAlcance temporal: 2001-2021.\r\nUnidad de medida: pesos corrientes.\r\n\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "26914562-e043-4690-8251-fc94dd5ad3cd",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/db056139-2cfd-40ab-bed2-dec44f87e4f8/resource/26914562-e043-4690-8251-fc94dd5ad3cd/download/a03_estrenos_de_cine_por_origen_film.csv",
+          "name": "Estrenos de cine por origen de film",
+          "format": "CSV",
+          "updatedAt": "2022-06-03T17:01:35.709Z",
+          "description": "Estrenos de cine nacionales y extranjeros. \r\nAlcance temporal: 2001-2020.\r\nUnidad de medida: estrenos.",
+          "landingUrl": ""
+        },
+        {
+          "id": "f9912e5b-332a-4994-ae01-55f590f32acb",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/db056139-2cfd-40ab-bed2-dec44f87e4f8/resource/f9912e5b-332a-4994-ae01-55f590f32acb/download/a04_espectadores_de_cine_nivel_provincial.csv",
+          "name": "Espectadores de cine por provincia",
+          "format": "CSV",
+          "updatedAt": "2022-04-18T17:32:32.685Z",
+          "description": "Espectadores de cine según provincia.\r\nAlcance temporal:  2001-2020\r\nUnidad de medida: espectadores.",
+          "landingUrl": ""
+        },
+        {
+          "id": "2fc0eb39-e5b1-4be0-b350-7b140f959cff",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/db056139-2cfd-40ab-bed2-dec44f87e4f8/resource/2fc0eb39-e5b1-4be0-b350-7b140f959cff/download/a06_participacion_espectadores_de_cine_segun_distribuidora.csv",
+          "name": "Participación en total de espectadores según origen de la empresa distribuidora",
+          "format": "CSV",
+          "updatedAt": "2022-04-18T17:45:35.053Z",
+          "description": "Porcentaje de espectadores sobre el total, según origen de la empresa distribuidora. \r\nAlcance temporal: 2000-2020.\r\nUnidad de medida: porcentaje.",
+          "landingUrl": ""
+        },
+        {
+          "id": "168c583a-3104-40a2-8224-1275fcf2cea9",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/db056139-2cfd-40ab-bed2-dec44f87e4f8/resource/168c583a-3104-40a2-8224-1275fcf2cea9/download/a07_puestos_de_trabajo_en_largometrajes_nivel_nacional.csv",
+          "name": "Puestos de trabajo en largometrajes a nivel nacional",
+          "format": "CSV",
+          "updatedAt": "2022-04-18T17:47:16.347Z",
+          "description": "Puestos de trabajo en  largometrajes a nivel nacional. \r\nAlcance temporal: 1996-2020.\r\nUnidad de Medida: puestos de trabajo.",
+          "landingUrl": ""
+        },
+        {
+          "id": "a35e79fa-3a18-447a-8e59-ecb34bfe07c4",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/db056139-2cfd-40ab-bed2-dec44f87e4f8/resource/a35e79fa-3a18-447a-8e59-ecb34bfe07c4/download/a09_accesos_a_servicios_de_tv_por_suscripcion.csv",
+          "name": "Accesos a servicios de televisión por suscripción",
+          "format": "CSV",
+          "updatedAt": "2022-06-03T17:08:49.716Z",
+          "description": "Accesos a servicios de Televisión por cable y satelital.\r\nAlcance temporal: 2014-2020.\r\nUnidad de medida: miles de accesos.",
+          "landingUrl": ""
+        },
+        {
+          "id": "4029b3ad-63d9-4cc5-95b1-58b8b40c5169",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/db056139-2cfd-40ab-bed2-dec44f87e4f8/resource/4029b3ad-63d9-4cc5-95b1-58b8b40c5169/download/a10_ingresos_por_servicios_de_tv_por_suscripcion.csv",
+          "name": "Ingresos por servicios de televisión por suscripción",
+          "format": "CSV",
+          "updatedAt": "2022-04-18T18:00:49.654Z",
+          "description": "Ingresos generados por suscripciones a servicios de televisión por cable y satelital.\r\nAlcance Temporal: 2014-2020.\r\nUnidad de medida:  millones de pesos corrientes ",
+          "landingUrl": ""
+        },
+        {
+          "id": "c2fdfef0-38fe-4871-9976-f70eceae200f",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/db056139-2cfd-40ab-bed2-dec44f87e4f8/resource/c2fdfef0-38fe-4871-9976-f70eceae200f/download/a05_recaudacion_de_cine_nivel_provincial.csv",
+          "name": "Recaudación de cine a nivel provincial",
+          "format": "CSV",
+          "updatedAt": "2022-06-03T17:05:00.105Z",
+          "description": "Recaudación de cine a nivel provincial.\r\nAlcance temporal: 2001-2020.\r\nUnidad de medida: pesos corrientes.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-04-11T16:44:22.453Z",
+      "updatedAt": "2023-03-06T22:29:37.555Z",
+      "contact": {
+        "name": "Sistema de Información Cultural de la Argentina (SINCA)-Ministerio de Cultura de la Nación ",
+        "email": "sinca@cultura.gob.ar"
+      }
+    },
+    {
+      "id": "3aa221e7-2664-479b-afe7-c65d6711e485",
+      "name": "sector-musical",
+      "title": "Sector musical",
+      "keywords": [
+        "grabaciones",
+        "ingresos",
+        "música",
+        "recaudación",
+        "ventas"
+      ],
+      "landingPage": "https://datos.cultura.gob.ar/dataset/sector-musical",
+      "resources": [
+        {
+          "id": "f92c0928-26b6-423c-b34c-0d0f4a7fcf7a",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/3aa221e7-2664-479b-afe7-c65d6711e485/resource/f92c0928-26b6-423c-b34c-0d0f4a7fcf7a/download/m06_ingresos-globales-ventas-musica-grabada-segmento.csv",
+          "name": "Ingresos globales por venta de música grabada según segmento",
+          "format": "CSV",
+          "updatedAt": "2022-06-03T17:12:46.041Z",
+          "description": "Ingresos globales por venta de música vía streaming, descargas, formato físico, comunicación pública y contratos de sincronización.\r\nAlcance temporal: 2001-2020\r\nUnidad de medida: Billones de dólares.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-04-13T18:25:46.182Z",
+      "updatedAt": "2023-02-22T17:51:30.215Z",
+      "contact": {
+        "name": "Sistema de Información Cultural de la Argentina (SINCA)-Ministerio de Cultura de la Nación ",
+        "email": "sinca@cultura.gob.ar"
+      }
+    },
+    {
+      "id": "4d4f3ebb-e2e7-4679-bebf-ec4aa6e389d2",
+      "name": "sector-teatral",
+      "title": "Sector teatral",
+      "keywords": [
+        "artes esénicas",
+        "espectadores",
+        "funciones",
+        "teatro"
+      ],
+      "landingPage": "https://datos.cultura.gob.ar/dataset/sector-teatral",
+      "resources": [
+        {
+          "id": "939f6eaf-25a3-4994-bfd2-c573064e1df5",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/4d4f3ebb-e2e7-4679-bebf-ec4aa6e389d2/resource/939f6eaf-25a3-4994-bfd2-c573064e1df5/download/ae03_espectadores_de_teatro_del_circuito_publico_en_caba_por_teatro.csv",
+          "name": "Espectadores de teatro circuito público en CABA",
+          "format": "CSV",
+          "updatedAt": "2022-06-03T17:15:05.191Z",
+          "description": "Espectadores en teatros públicos de la Ciudad Autónoma de Buenos Aires.\r\nAlcance temporal: 2008-2020.\r\nUnidad de medida: espectadores.",
+          "landingUrl": ""
+        },
+        {
+          "id": "7a8f9f72-73f9-4708-b34d-dd7244fec0c0",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/4d4f3ebb-e2e7-4679-bebf-ec4aa6e389d2/resource/7a8f9f72-73f9-4708-b34d-dd7244fec0c0/download/ae04_funciones_de_teatro_del_circuito_publico_en_caba_por_teatro.csv",
+          "name": "Funciones de teatro del circuito público en CABA",
+          "format": "CSV",
+          "updatedAt": "2022-06-03T17:19:13.029Z",
+          "description": "Funciones en teatros  públicos de la Ciudad Autónoma de Buenos Aires.\r\nAlcance temporal: 2008-2020.\r\nUnidad de medida: funciones.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-04-12T20:10:13.908Z",
+      "updatedAt": "2022-06-03T17:19:13.067Z",
+      "contact": {
+        "name": "Sistema de Información Cultural de la Argentina (SINCA)-Ministerio de Cultura de la Nación ",
+        "email": "sinca@cultura.gob.ar"
+      }
+    },
+    {
+      "id": "91adccbc-aa14-43e8-9737-eab109449c6e",
+      "name": "sonidos-y-lenguas-argentina",
+      "title": "Sonidos y Lenguas | Argentina",
+      "keywords": [
+        "argentina",
+        "lenguas",
+        "sonidos"
+      ],
+      "landingPage": "https://datos.cultura.gob.ar/dataset/sonidos-y-lenguas-argentina",
+      "resources": [
+        {
+          "id": "c771ada5-7405-4e2e-84c8-a622d289b4cd",
+          "downloadUrl": "https://datos.cultura.gob.ar/dataset/91adccbc-aa14-43e8-9737-eab109449c6e/resource/c771ada5-7405-4e2e-84c8-a622d289b4cd/download/registros_20230908_183420.json",
+          "name": "Sonidos y Lenguas Argentina",
+          "format": "JSON",
+          "updatedAt": "2023-09-08T22:13:30.539Z",
+          "description": "Actualizado a Septiembre 2023",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-09-07T16:03:58.820Z",
+      "updatedAt": "2023-09-08T22:13:30.553Z",
+      "contact": {
+        "name": "Ministerio de Cultura. Secretaría de Patrimonio Cultural. Coordinación de Investigación Cultural",
+        "email": "ayar.sava@cultura.gob.ar"
+      }
+    }
+  ],
+  "organizations": [],
+  "updatedAt": "2023-12-09T09:00:53.242Z"
+}

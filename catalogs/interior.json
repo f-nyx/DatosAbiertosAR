@@ -1,0 +1,997 @@
+{
+  "id": "uJagcrxNtn",
+  "datasets": [
+    {
+      "id": "d7222fce-d57a-4334-9c34-7e56dedcf6d5",
+      "name": "atlas-de-indicadores",
+      "title": "Atlas de Indicadores",
+      "keywords": [
+        "indicadores"
+      ],
+      "landingPage": "http://atlasid.planificacion.gob.ar/",
+      "resources": [
+        {
+          "id": "7175a836-13f6-4286-94a8-a0cb4f38db3a",
+          "downloadUrl": "http://atlasid.planificacion.gob.ar/",
+          "name": "Atlas ID",
+          "format": "",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Enlace de acceso al sitio de AtlasID"
+        }
+      ],
+      "createdAt": "2017-12-07T20:53:12.570Z",
+      "updatedAt": "2017-12-12T21:37:52.936Z",
+      "contact": {
+        "name": "Subsecretaría de Planificación Territorial de la Inversión Pública",
+        "email": "privadasspt@mininterior.gob.ar"
+      }
+    },
+    {
+      "id": "71056c55-d0e9-4ef1-a75d-568cc0ef4b53",
+      "name": "elecciones-generales-2015-codigos-de-departamentos",
+      "title": "Elecciones generales 2015: códigos de departamentos",
+      "keywords": [
+        "elecciones generales"
+      ],
+      "landingPage": "https://datos.mininterior.gob.ar/dataset/elecciones-generales-2015-codigos-de-departamentos",
+      "resources": [
+        {
+          "id": "4a81a30e-bd1f-49fd-9edb-fda0ac79be78",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/71056c55-d0e9-4ef1-a75d-568cc0ef4b53/resource/4a81a30e-bd1f-49fd-9edb-fda0ac79be78/download/departamentos.zip",
+          "name": "Elecciones generales 2015: códigos de departamentos",
+          "format": "XLS",
+          "updatedAt": "2019-05-10T04:29:02.884Z",
+          "description": "Elecciones generales 2015: códigos de departamentos\r\nCódigos de departamento necesarios para la interpretación de los datos referidos a la elección general del 2015."
+        }
+      ],
+      "createdAt": "2019-05-10T04:27:59.841Z",
+      "updatedAt": "2019-05-10T04:29:03.153Z",
+      "contact": {
+        "name": "Dirección Nacional Electoral. Ministerio del interior, Obras Públicas y Vivienda. ",
+        "email": "estadistica@elecciones.gob.ar"
+      }
+    },
+    {
+      "id": "8bbec010-23b2-40e6-abe9-699e8cae166c",
+      "name": "elecciones-generales-2015-codigos-partidos",
+      "title": "Elecciones generales 2015: códigos partidos",
+      "keywords": [
+        "elecciones generales"
+      ],
+      "landingPage": "https://datos.mininterior.gob.ar/dataset/elecciones-generales-2015-codigos-partidos",
+      "resources": [
+        {
+          "id": "2487c7cd-0b59-4564-a431-0838a931880d",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/8bbec010-23b2-40e6-abe9-699e8cae166c/resource/2487c7cd-0b59-4564-a431-0838a931880d/download/fpartidos.zip",
+          "name": "Elecciones generales 2015: códigos partidos",
+          "format": "XLS",
+          "updatedAt": "2019-05-10T04:33:36.136Z",
+          "description": "Elecciones generales 2015: códigos partidos\r\nCódigos de partidos necesarios para la interpretación de los datos referidos a la elección general del 2015."
+        }
+      ],
+      "createdAt": "2019-05-10T04:32:37.019Z",
+      "updatedAt": "2019-05-10T04:33:36.395Z",
+      "contact": {
+        "name": "Dirección Nacional Electoral. Ministerio del interior, Obras Públicas y Vivienda. ",
+        "email": "estadistica@elecciones.gob.ar"
+      }
+    },
+    {
+      "id": "caf81ab8-198d-4878-b803-76fe0de22816",
+      "name": "elecciones-generales-2015-codigos-provincias",
+      "title": "Elecciones generales 2015: códigos provincias",
+      "keywords": [
+        "elecciones generales"
+      ],
+      "landingPage": "https://datos.mininterior.gob.ar/dataset/elecciones-generales-2015-codigos-provincias",
+      "resources": [
+        {
+          "id": "f409450b-f110-4d01-955f-04fbae3b7b6f",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/caf81ab8-198d-4878-b803-76fe0de22816/resource/f409450b-f110-4d01-955f-04fbae3b7b6f/download/provincias.zip",
+          "name": "Elecciones generales 2015: códigos provincias",
+          "format": "XLS",
+          "updatedAt": "2019-05-10T04:43:44.715Z",
+          "description": "Elecciones generales 2015: códigos provincias\r\nCódigos de provincias necesarios para la interpretación de los datos referidos a la elección general del 2015."
+        }
+      ],
+      "createdAt": "2019-05-10T04:42:48.662Z",
+      "updatedAt": "2019-05-10T04:43:44.956Z",
+      "contact": {
+        "name": "Dirección Nacional Electoral. Ministerio del interior, Obras Públicas y Vivienda. ",
+        "email": "estadistica@elecciones.gob.ar"
+      }
+    },
+    {
+      "id": "7a6d8815-7b45-4c7b-ac19-7607baab8be1",
+      "name": "elecciones-generales-2015-diputados-nacionales",
+      "title": "Elecciones generales 2015: Diputados Nacionales",
+      "keywords": [
+        "elecciones generales"
+      ],
+      "landingPage": "https://datos.mininterior.gob.ar/dataset/elecciones-generales-2015-diputados-nacionales",
+      "resources": [
+        {
+          "id": "a2f8f1be-99df-4c88-9c7c-ac22384410da",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/7a6d8815-7b45-4c7b-ac19-7607baab8be1/resource/a2f8f1be-99df-4c88-9c7c-ac22384410da/download/dipnac.zip",
+          "name": "Elecciones generales 2015: Diputados Nacionales",
+          "format": "XLS",
+          "updatedAt": "2019-05-10T04:09:25.525Z",
+          "description": "Elecciones generales 2015: Diputados Nacionales\r\nConteo de votos a nivel de mesa electoral, para las elecciones generales de 2015 en la categoría de Diputados Nacionales."
+        }
+      ],
+      "createdAt": "2019-05-10T04:03:39.958Z",
+      "updatedAt": "2019-05-10T04:09:25.788Z",
+      "contact": {
+        "name": "Dirección Nacional Electoral. Ministerio del interior, Obras Públicas y Vivienda.",
+        "email": "estadistica@elecciones.gob.ar"
+      }
+    },
+    {
+      "id": "289e8b47-e6b0-4eb0-862f-944a05348621",
+      "name": "elecciones-generales-2015-parlamentarios-del-mercosur-nacional",
+      "title": "Elecciones Generales 2015: Parlamentarios del Mercosur Nacional",
+      "keywords": [
+        "elecciones generales"
+      ],
+      "landingPage": "https://datos.mininterior.gob.ar/dataset/elecciones-generales-2015-parlamentarios-del-mercosur-nacional",
+      "resources": [
+        {
+          "id": "b7c3442c-244a-4aa3-93f0-650ad68f1c26",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/289e8b47-e6b0-4eb0-862f-944a05348621/resource/b7c3442c-244a-4aa3-93f0-650ad68f1c26/download/parlamentarionacional1.zip",
+          "name": "Elecciones Generales 2015: Parlamentarios del Mercosur Nacional",
+          "format": "XLS",
+          "updatedAt": "2019-05-10T03:47:07.981Z",
+          "description": "Elecciones Generales 2015: Parlamentarios del Mercosur Nacional\r\nConteo de votos a nivel de mesa electoral,  en la categoría de Parlamentarios del MERCOSUR en Distrito Nacional."
+        }
+      ],
+      "createdAt": "2019-05-10T03:42:50.694Z",
+      "updatedAt": "2019-05-10T03:47:09.238Z",
+      "contact": {
+        "name": "Dirección Nacional Electoral. Ministerio del interior, Obras Públicas y Vivienda.",
+        "email": "estadistica@elecciones.gob.ar"
+      }
+    },
+    {
+      "id": "087cd0ff-8202-4385-9e4a-680560d51b0a",
+      "name": "elecciones-generales-2015-parlamentarios-del-mercosur-regional",
+      "title": "Elecciones generales 2015: Parlamentarios del Mercosur Regional",
+      "keywords": [
+        "elecciones generales"
+      ],
+      "landingPage": "https://datos.mininterior.gob.ar/dataset/elecciones-generales-2015-parlamentarios-del-mercosur-regional",
+      "resources": [
+        {
+          "id": "ffb4b56c-b91b-4fe9-8092-a0ce5efae4ca",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/087cd0ff-8202-4385-9e4a-680560d51b0a/resource/ffb4b56c-b91b-4fe9-8092-a0ce5efae4ca/download/parlamentarioregional1.zip",
+          "name": "Elecciones generales 2015: Parlamentarios del Mercosur Regional",
+          "format": "XLS",
+          "updatedAt": "2019-05-10T03:58:57.005Z",
+          "description": "Elecciones generales 2015: Parlamentarios del Mercosur Regional\r\nConteo de votos a nivel de mesa electoral,  en la categoría de Parlamentarios del MERCOSUR en Distrito Regional."
+        }
+      ],
+      "createdAt": "2019-05-10T03:53:06.107Z",
+      "updatedAt": "2019-05-10T03:58:57.267Z",
+      "contact": {
+        "name": "Dirección Nacional Electoral. Ministerio del interior, Obras Públicas y Vivienda. ",
+        "email": "estadistica@elecciones.gob.ar"
+      }
+    },
+    {
+      "id": "11462852-2297-443e-80ab-d8f1afbe61f2",
+      "name": "elecciones-generales-2015-presidente-y-vicepresidente",
+      "title": "Elecciones Generales 2015: Presidente y Vicepresidente",
+      "keywords": [
+        "elecciones generales"
+      ],
+      "landingPage": "https://datos.mininterior.gob.ar/dataset/elecciones-generales-2015-presidente-y-vicepresidente",
+      "resources": [
+        {
+          "id": "e90be4e6-e786-436c-9c26-70d666103548",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/11462852-2297-443e-80ab-d8f1afbe61f2/resource/e90be4e6-e786-436c-9c26-70d666103548/download/presyvice2.zip",
+          "name": "Elecciones 2015 a Presidente y Vicepresidente de la Nación ",
+          "format": "XLS",
+          "updatedAt": "2019-05-10T03:37:51.978Z",
+          "description": "Elecciones 2015 a Presidente y Vicepresidente de la Nación. Nivel de mesa electoral."
+        }
+      ],
+      "createdAt": "2019-05-10T03:27:38.617Z",
+      "updatedAt": "2019-05-10T03:37:52.290Z",
+      "contact": {
+        "name": "Dirección Nacional Electoral. Ministerio del interior, Obras Públicas y Vivienda. ",
+        "email": "estadistica@elecciones.gob.ar"
+      }
+    },
+    {
+      "id": "f3c1e861-1796-4de3-ba55-fdff83f3d6c5",
+      "name": "elecciones-generales-2015-senadores-nacionales",
+      "title": "Elecciones generales 2015: Senadores Nacionales",
+      "keywords": [
+        "elecciones generales"
+      ],
+      "landingPage": "https://datos.mininterior.gob.ar/dataset/elecciones-generales-2015-senadores-nacionales",
+      "resources": [
+        {
+          "id": "112ec919-ebd0-49c7-bea5-5bd9a9603536",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/f3c1e861-1796-4de3-ba55-fdff83f3d6c5/resource/112ec919-ebd0-49c7-bea5-5bd9a9603536/download/fmessn0313.zip",
+          "name": "Elecciones generales 2015: Senadores Nacionales",
+          "format": "XLS",
+          "updatedAt": "2019-05-10T04:18:39.381Z",
+          "description": "Elecciones generales 2015: Senadores Nacionales\r\nConteo de votos a nivel de mesa electoral, para las elecciones generales de 2015 en la categoría de Senadores Nacionales."
+        }
+      ],
+      "createdAt": "2019-05-10T04:16:41.521Z",
+      "updatedAt": "2019-05-10T04:18:39.641Z",
+      "contact": {
+        "name": "Dirección Nacional Electoral. Ministerio del interior, Obras Públicas y Vivienda. ",
+        "email": "estadistica@elecciones.gob.ar"
+      }
+    },
+    {
+      "id": "93913deb-d22e-4c0d-bca3-f465e7b2bb94",
+      "name": "estaciones-de-medicion-valores-de-parametros-y-productos-de-la-red",
+      "title": "Estaciones de medición, valores de parámetros y productos de la Red",
+      "keywords": [
+        "calidad de agua",
+        "hidrología",
+        "hidrometeorología",
+        "meteorología",
+        "nivología",
+        "sedimentología"
+      ],
+      "landingPage": "https://datos.mininterior.gob.ar/dataset/estaciones-de-medicion-valores-de-parametros-y-productos-de-la-red",
+      "resources": [
+        {
+          "id": "c734cc27-4e6e-4f25-a8cc-ee3dfb0e25e3",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/c734cc27-4e6e-4f25-a8cc-ee3dfb0e25e3/download/estaciones.csv",
+          "name": "Listado de Estaciones de la Red ",
+          "format": "CSV",
+          "updatedAt": "2019-05-08T00:21:26.522Z",
+          "description": "Presenta información sobre el nombre, ubicación, cuenca, rio a la que pertenecen las estaciones de medición de la Red"
+        },
+        {
+          "id": "26d292a4-4d7f-48e1-872a-50a0dca35386",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/26d292a4-4d7f-48e1-872a-50a0dca35386/download/estacioneslatlong.csv",
+          "name": "Listado de Estaciones de la Red (LAT-LONG)",
+          "format": "CSV",
+          "updatedAt": "2019-05-08T00:27:30.228Z",
+          "description": "Nombre de las estaciones y coordenadas decimales."
+        },
+        {
+          "id": "ff6f0957-d65b-4133-ac40-3ee7805f801f",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/ff6f0957-d65b-4133-ac40-3ee7805f801f/download/links.csv",
+          "name": "Links de acceso a la BDHI, tutorial y links a Cartografía y Publicaciones",
+          "format": "CSV",
+          "updatedAt": "2019-05-08T01:50:57.446Z",
+          "description": "Los links dirigen a los documentos indicados. El tutorial detalla cómo manejarse dentro la Base de datos de la Red y como se extrae información de la misma."
+        }
+      ],
+      "createdAt": "2017-09-25T18:02:21.947Z",
+      "updatedAt": "2019-05-08T01:50:57.470Z",
+      "contact": {
+        "name": " Subsecretaría de Recursos Hídricos",
+        "email": "prensa.ssrh@gmail.com"
+      }
+    },
+    {
+      "id": "e724cb68-c43f-4e1f-9474-a3139517bc7d",
+      "name": "informacion-sobre-las-autoridades-ubicacion-geografica-datos-institucionales-y-contacto",
+      "title": "Información sobre las autoridades, ubicación geográfica, datos institucionales y contacto",
+      "keywords": [
+        "municipios",
+        "contacto municipio",
+        "ubicacion geografica"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "01e5aea2-96ac-4f23-abb6-df6868119689",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/resource/01e5aea2-96ac-4f23-abb6-df6868119689/download/chaco.csv",
+          "name": "Datos Chaco",
+          "format": "CSV",
+          "updatedAt": "2017-09-20T19:17:50.749Z",
+          "description": ""
+        },
+        {
+          "id": "7a3f157c-a0bd-4bb6-bbfd-ef8a9fa03bb8",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/resource/7a3f157c-a0bd-4bb6-bbfd-ef8a9fa03bb8/download/corrientes.csv",
+          "name": "Datos Corrientes",
+          "format": "CSV",
+          "updatedAt": "2017-09-20T19:19:41.419Z",
+          "description": ""
+        },
+        {
+          "id": "7921eb6a-fa66-44ff-a17e-7b98066591d3",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/resource/7921eb6a-fa66-44ff-a17e-7b98066591d3/download/formosa.csv",
+          "name": "Datos Formosa",
+          "format": "CSV",
+          "updatedAt": "2017-09-20T19:21:09.850Z",
+          "description": ""
+        },
+        {
+          "id": "1821ee38-a5c1-428d-8a2c-f66858dac52d",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/resource/1821ee38-a5c1-428d-8a2c-f66858dac52d/download/misiones.csv",
+          "name": "Datos Misiones",
+          "format": "CSV",
+          "updatedAt": "2017-09-20T19:22:58.928Z",
+          "description": ""
+        },
+        {
+          "id": "056edce5-7096-4d49-9ec1-ab3e04f4addd",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/resource/056edce5-7096-4d49-9ec1-ab3e04f4addd/download/rio-negro.csv",
+          "name": "Datos Rio Negro",
+          "format": "CSV",
+          "updatedAt": "2017-09-20T19:24:27.621Z",
+          "description": ""
+        },
+        {
+          "id": "6b5e4beb-f794-4a32-becb-656bde4fdc0c",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/resource/6b5e4beb-f794-4a32-becb-656bde4fdc0c/download/neuquen.csv",
+          "name": "Datos Neuquen",
+          "format": "CSV",
+          "updatedAt": "2017-09-20T19:25:16.773Z",
+          "description": ""
+        },
+        {
+          "id": "20aab24d-532b-4162-94d0-23d8a4182307",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/resource/20aab24d-532b-4162-94d0-23d8a4182307/download/chubut.csv",
+          "name": "Datos Chubut",
+          "format": "CSV",
+          "updatedAt": "2017-09-20T19:26:00.258Z",
+          "description": ""
+        },
+        {
+          "id": "9a573b5c-853e-4cfe-bfbb-64179db4dccf",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/resource/9a573b5c-853e-4cfe-bfbb-64179db4dccf/download/la-pampa.csv",
+          "name": "Datos La Pampa",
+          "format": "CSV",
+          "updatedAt": "2017-09-20T19:27:06.698Z",
+          "description": ""
+        },
+        {
+          "id": "44235a54-be3f-464c-84f6-aeeb66012fd5",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/resource/44235a54-be3f-464c-84f6-aeeb66012fd5/download/tierra-del-fuego.csv",
+          "name": "Datos Tierra del Fuego",
+          "format": "CSV",
+          "updatedAt": "2017-09-20T19:28:11.981Z",
+          "description": ""
+        },
+        {
+          "id": "f32954fa-214d-4306-bfda-8e5dea1d30f2",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/resource/f32954fa-214d-4306-bfda-8e5dea1d30f2/download/santa-cruz.csv",
+          "name": "Datos Santa Cruz",
+          "format": "CSV",
+          "updatedAt": "2017-09-20T19:29:30.789Z",
+          "description": ""
+        },
+        {
+          "id": "974eea94-b954-4d50-9f67-317bccc5139e",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/resource/974eea94-b954-4d50-9f67-317bccc5139e/download/mza.csv",
+          "name": "Datos Mendoza",
+          "format": "CSV",
+          "updatedAt": "2017-09-20T19:36:09.975Z",
+          "description": ""
+        },
+        {
+          "id": "b8fc561f-6369-4e18-9622-d22f4e8fca43",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/resource/b8fc561f-6369-4e18-9622-d22f4e8fca43/download/san-juan.csv",
+          "name": "Datos San Juan",
+          "format": "CSV",
+          "updatedAt": "2017-09-20T19:38:40.596Z",
+          "description": ""
+        },
+        {
+          "id": "a89a1d12-11d0-4f1d-a9e0-700cd60acfd2",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/resource/a89a1d12-11d0-4f1d-a9e0-700cd60acfd2/download/san-luis.csv",
+          "name": "Datos San Luis",
+          "format": "CSV",
+          "updatedAt": "2017-09-20T19:43:08.154Z",
+          "description": ""
+        },
+        {
+          "id": "7bda6dbd-c6e2-4beb-a42f-c6ebbd72f439",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/resource/7bda6dbd-c6e2-4beb-a42f-c6ebbd72f439/download/la-rioja.csv",
+          "name": "Datos La Rioja",
+          "format": "CSV",
+          "updatedAt": "2017-09-20T19:40:46.547Z",
+          "description": ""
+        },
+        {
+          "id": "8d3f4b2a-0729-4d24-83dc-0a052ed7816a",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/resource/8d3f4b2a-0729-4d24-83dc-0a052ed7816a/download/entre-rios.csv",
+          "name": "Datos Entre Rios",
+          "format": "CSV",
+          "updatedAt": "2017-09-20T19:13:37.553Z",
+          "description": ""
+        },
+        {
+          "id": "813ed8db-366b-44fd-9857-8b4e671045b4",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/resource/813ed8db-366b-44fd-9857-8b4e671045b4/download/ba.csv",
+          "name": "Datos Buenos Aires",
+          "format": "CSV",
+          "updatedAt": "2017-09-20T19:46:04.023Z",
+          "description": ""
+        },
+        {
+          "id": "243895a1-9a91-45f5-8f30-1baa7d411e70",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/resource/243895a1-9a91-45f5-8f30-1baa7d411e70/download/cordoba.csv",
+          "name": "Datos Cordoba",
+          "format": "CSV",
+          "updatedAt": "2017-09-20T19:59:17.533Z",
+          "description": ""
+        },
+        {
+          "id": "4759505f-b211-4a44-a4ab-8907db229ca3",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/resource/4759505f-b211-4a44-a4ab-8907db229ca3/download/santa-fe.csv",
+          "name": "Datos Santa Fe",
+          "format": "CSV",
+          "updatedAt": "2017-09-20T20:01:34.228Z",
+          "description": ""
+        },
+        {
+          "id": "c60817f4-c881-49c6-9194-59d15b93380a",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/resource/c60817f4-c881-49c6-9194-59d15b93380a/download/catamarca.csv",
+          "name": "Datos Catamarca",
+          "format": "CSV",
+          "updatedAt": "2017-09-20T20:04:29.244Z",
+          "description": ""
+        },
+        {
+          "id": "ca5e0c80-52e5-44a0-a846-50d6eff3e6fb",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/resource/ca5e0c80-52e5-44a0-a846-50d6eff3e6fb/download/jujuy.csv",
+          "name": "Datos Jujuy",
+          "format": "CSV",
+          "updatedAt": "2017-09-20T20:06:51.218Z",
+          "description": ""
+        },
+        {
+          "id": "599ef94e-0488-42ef-9ba5-3dacf6d11c0d",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/resource/599ef94e-0488-42ef-9ba5-3dacf6d11c0d/download/salta.csv",
+          "name": "Datos Salta",
+          "format": "CSV",
+          "updatedAt": "2017-09-20T20:08:34.137Z",
+          "description": ""
+        },
+        {
+          "id": "77e69ccc-8797-4ea2-bfbe-745c5e44710a",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/resource/77e69ccc-8797-4ea2-bfbe-745c5e44710a/download/santiado-del-estero.csv",
+          "name": "Santiago del Estero",
+          "format": "CSV",
+          "updatedAt": "2017-09-20T20:12:36.996Z",
+          "description": ""
+        },
+        {
+          "id": "208c8f22-875e-42fd-86a4-173c1bb76da1",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/e724cb68-c43f-4e1f-9474-a3139517bc7d/resource/208c8f22-875e-42fd-86a4-173c1bb76da1/download/tucuman.csv",
+          "name": "Datos de Tucuman",
+          "format": "CSV",
+          "updatedAt": "2017-09-20T20:14:28.303Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2017-09-20T19:07:51.199Z",
+      "updatedAt": "2017-09-20T20:18:15.992Z",
+      "contact": {
+        "name": "Secretaría de Asuntos Municipales",
+        "email": "gestionmunicipal@mininterior.gov.ar"
+      }
+    },
+    {
+      "id": "dd032084-b7eb-4317-9151-05fc850c1654",
+      "name": "movimientos-migratorios",
+      "title": "Ingresos y Egresos de personas al pais y Residencias Otorgadas.",
+      "keywords": [
+        "egresos al pais",
+        "ingresos al pais",
+        "migraciones",
+        "movimientos migratorios",
+        "residencias"
+      ],
+      "landingPage": "http://www.migraciones.gov.ar",
+      "resources": [
+        {
+          "id": "dfe03a54-cb30-4e40-a2a9-ad3a293b8fa5",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/dfe03a54-cb30-4e40-a2a9-ad3a293b8fa5/download/residencias-otorgadas---2-trimestre---ano-2020.csv",
+          "name": "Residencias otorgadas - 2° trimestre - año 2020",
+          "format": "CSV",
+          "updatedAt": "2020-08-04T19:19:50.111Z",
+          "description": "Detalle Residencias otorgadas - 2° trimestre - año 2020"
+        },
+        {
+          "id": "8bf5d629-c4cf-4cfa-824e-eae3181bdfc7",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/8bf5d629-c4cf-4cfa-824e-eae3181bdfc7/download/movimientos-migratorios--2-trimestre---ano-2020.csv",
+          "name": "Ingresos y Egresos de personas al país - 2° trimestre - año 2020",
+          "format": "CSV",
+          "updatedAt": "2020-08-04T19:33:45.117Z",
+          "description": "Movimientos Migratorios - Sumatoria de ingresos y egresos - 2° trimestre - año 2020"
+        },
+        {
+          "id": "78e8dc7c-c38e-4abd-a138-7eab54f22d8a",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/78e8dc7c-c38e-4abd-a138-7eab54f22d8a/download/residencias-otorgadas---1-trimestre---ano-2020.csv",
+          "name": "Residencias otorgadas - 1° trimestre - año 2020",
+          "format": "CSV",
+          "updatedAt": "2020-08-04T19:08:34.702Z",
+          "description": "Detalle Residencias otorgadas - 1° trimestre - año 2020"
+        },
+        {
+          "id": "2ff11382-8a2a-4368-a3f8-8b58a2e3c321",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/2ff11382-8a2a-4368-a3f8-8b58a2e3c321/download/movimientos-migratorios--1-trimestre---ano-2020.csv",
+          "name": "Ingresos y Egresos de personas al país - 1° trimestre - año 2020",
+          "format": "CSV",
+          "updatedAt": "2020-08-04T19:28:28.208Z",
+          "description": "Movimientos Migratorios - Sumatoria de ingresos y egresos - 1° trimestre - año 2020"
+        },
+        {
+          "id": "99d4492d-9787-4afd-8784-3d02635b58a5",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/99d4492d-9787-4afd-8784-3d02635b58a5/download/residencias-otorgadas---4-trimestre---ano-2019.csv",
+          "name": "Residencias otorgadas - 4° trimestre - año 2019",
+          "format": "CSV",
+          "updatedAt": "2020-02-10T18:44:40.784Z",
+          "description": "Detalle Residencias otorgadas - 4° trimestre - año 2019"
+        },
+        {
+          "id": "effbfa04-fec7-43af-ab9e-ad5347f5e767",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/effbfa04-fec7-43af-ab9e-ad5347f5e767/download/movimientos-migratorios--4-trimestre---ano-2019.csv",
+          "name": "Ingresos y Egresos de personas al país - 4° trimestre - año 2019",
+          "format": "CSV",
+          "updatedAt": "2020-02-10T18:52:33.476Z",
+          "description": "Movimientos Migratorios - Sumatoria de ingresos y egresos - 4° trimestre - año 2019"
+        },
+        {
+          "id": "244f6f18-ab64-4969-b7d3-49e3de9cf758",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/244f6f18-ab64-4969-b7d3-49e3de9cf758/download/residencias-otorgadas---3-trimestre---ano-2019.csv",
+          "name": "Residencias otorgadas - 3° trimestre - año 2019",
+          "format": "CSV",
+          "updatedAt": "2019-11-20T19:09:36.994Z",
+          "description": "Detalle Residencias otorgadas - 3° trimestre - año 2019"
+        },
+        {
+          "id": "b42a6abd-7e72-43d2-af89-64aea1b729d1",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/b42a6abd-7e72-43d2-af89-64aea1b729d1/download/movimientos-migratorios--3-trimestre---ano-2019.csv",
+          "name": "Ingresos y Egresos de personas al país - 3° trimestre - año 2019",
+          "format": "CSV",
+          "updatedAt": "2019-11-20T19:15:37.101Z",
+          "description": "Movimientos Migratorios - 3° trimestre - año 2019"
+        },
+        {
+          "id": "e14d00b5-5bd5-4bfe-b608-315c1a615aa8",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/e14d00b5-5bd5-4bfe-b608-315c1a615aa8/download/residencias-otorgadas---2-trimestre---ano-2019.csv",
+          "name": "Residencias otorgadas - 2° trimestre - año 2019",
+          "format": "CSV",
+          "updatedAt": "2019-07-12T19:19:31.245Z",
+          "description": "Detalle Residencias otorgadas - 2° trimestre - año 2019"
+        },
+        {
+          "id": "3fa4d279-367f-4f03-883a-588229632543",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/3fa4d279-367f-4f03-883a-588229632543/download/movimientos-migratorios--2-trimestre---ano-2019.csv",
+          "name": "Ingresos y Egresos de personas al país - 2° trimestre - año 2019",
+          "format": "CSV",
+          "updatedAt": "2019-07-12T19:25:09.825Z",
+          "description": "Movimientos Migratorios - 2° trimestre - año 2019"
+        },
+        {
+          "id": "47b78cd9-f8a0-4e05-8088-35051e8fbb0a",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/47b78cd9-f8a0-4e05-8088-35051e8fbb0a/download/residencias-otorgadas---1-trimestre---ano-2019.csv",
+          "name": "Residencias otorgadas - 1° trimestre - año 2019",
+          "format": "CSV",
+          "updatedAt": "2020-02-10T19:45:49.073Z",
+          "description": "Detalle Residencias otorgadas - 1° trimestre - año 2019"
+        },
+        {
+          "id": "d8c3f639-d25c-4d2e-bd1e-3b33d0cf62c2",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/d8c3f639-d25c-4d2e-bd1e-3b33d0cf62c2/download/movimientos-migratorios--1-trimestre---ano-2019.csv",
+          "name": "Ingresos y Egresos de personas al país - 1° trimestre - año 2019",
+          "format": "CSV",
+          "updatedAt": "2019-04-29T17:35:45.432Z",
+          "description": "Movimientos Migratorios - 1° trimestre - año 2019"
+        },
+        {
+          "id": "5e8da62c-3d9c-41c9-9ab8-c25b9af392d7",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/5e8da62c-3d9c-41c9-9ab8-c25b9af392d7/download/movimientos-migratorios--4-trimestre---ano-2018.csv",
+          "name": "Ingresos y Egresos de personas al país - 4° trimestre - año 2018",
+          "format": "CSV",
+          "updatedAt": "2019-01-11T19:00:11.517Z",
+          "description": "Movimientos Migratorios - 4° trimestre - año 2018"
+        },
+        {
+          "id": "5637e1df-00e8-42dd-abb2-40cc7530d281",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/5637e1df-00e8-42dd-abb2-40cc7530d281/download/residencias-otorgadas---4-trimestre---ano-2018.csv",
+          "name": "Residencias otorgadas - 4° trimestre - año 2018",
+          "format": "CSV",
+          "updatedAt": "2019-01-11T19:05:02.742Z",
+          "description": "Detalle Residencias otorgadas - 4° trimestre - año 2018"
+        },
+        {
+          "id": "85313fb9-2b74-4d6a-a842-33f9b05b80c1",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/85313fb9-2b74-4d6a-a842-33f9b05b80c1/download/movimientos-migratorios--3-trimestre-2017.csv",
+          "name": "Ingresos y Egresos de personas al pais - 3° trimestre - año 2017.",
+          "format": "CSV",
+          "updatedAt": "2018-02-06T23:06:26.020Z",
+          "description": "Movimientos Migratorios - 3° trimestre - año 2017"
+        },
+        {
+          "id": "36302b37-08ab-4d7f-ab8e-0fb5b3fc693e",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/36302b37-08ab-4d7f-ab8e-0fb5b3fc693e/download/movimientos-migratorios--3-trimestre---ano-2018.csv",
+          "name": "Ingresos y Egresos de personas al país - 3° trimestre - año 2018",
+          "format": "CSV",
+          "updatedAt": "2018-11-06T19:15:53.271Z",
+          "description": "Movimientos Migratorios - 3° trimestre - año 2018"
+        },
+        {
+          "id": "f40c5737-2020-4bb7-8fe7-efbdf889b0b4",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/f40c5737-2020-4bb7-8fe7-efbdf889b0b4/download/residencias-otorgadas---3-trimestre---ano-2018.csv",
+          "name": "Residencias otorgadas - 3° trimestre - año 2018",
+          "format": "CSV",
+          "updatedAt": "2018-11-06T19:14:24.181Z",
+          "description": "Detalle Residencias otorgadas - 3° trimestre - año 2018"
+        },
+        {
+          "id": "d02eb9bb-4ec6-40f0-9a6f-693b687d481b",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/d02eb9bb-4ec6-40f0-9a6f-693b687d481b/download/movimientos-migratorios--2-trimestre---ano-2018.csv",
+          "name": "Ingresos y Egresos de personas al país - 2° trimestre - año 2018",
+          "format": "CSV",
+          "updatedAt": "2018-09-17T22:09:49.924Z",
+          "description": "Movimientos Migratorios - 2° trimestre - año 2018"
+        },
+        {
+          "id": "393da90e-1be3-4e7c-871f-5138e014a34b",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/393da90e-1be3-4e7c-871f-5138e014a34b/download/residencias-otorgadas---2-trimestre---ano-2018.csv",
+          "name": "Residencias otorgadas - 2° trimestre - año 2018",
+          "format": "CSV",
+          "updatedAt": "2018-09-17T22:16:33.782Z",
+          "description": "Detalle Residencias otorgadas - 2° trimestre - año 2018"
+        },
+        {
+          "id": "f14f5bdb-dbeb-4de6-a455-39782c3a6b1d",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/f14f5bdb-dbeb-4de6-a455-39782c3a6b1d/download/movimientos-migratorios--1-trimestre---ano-2018.csv",
+          "name": "Ingresos y Egresos de personas al pais - 1° trimestre - año 2018",
+          "format": "CSV",
+          "updatedAt": "2018-04-26T23:06:20.298Z",
+          "description": "Movimientos Migratorios - 1° trimestre - año 2018"
+        },
+        {
+          "id": "fca725d8-d94a-47c0-9313-b7f9b7cc6192",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/fca725d8-d94a-47c0-9313-b7f9b7cc6192/download/residencias-otorgadas---1-trimestre---ano-2018.csv",
+          "name": "Residencias otorgadas - 1° trimestre - año 2018",
+          "format": "CSV",
+          "updatedAt": "2018-04-26T22:59:43.536Z",
+          "description": "Detalle Residencias otorgadas - 1° trimestre - año 2018"
+        },
+        {
+          "id": "ce89c526-ef09-4b35-a0ee-84d6c5b7a190",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/ce89c526-ef09-4b35-a0ee-84d6c5b7a190/download/movimientos-migratorios--4-trimestre-2017.csv",
+          "name": "Ingresos y Egresos de personas al pais - 4° trimestre - año 2017.",
+          "format": "CSV",
+          "updatedAt": "2018-02-06T22:49:52.482Z",
+          "description": "Movimientos Migratorios - 4° trimestre - año 2017"
+        },
+        {
+          "id": "a1b7bb00-9bd0-415d-b47e-89c19fa70c74",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/a1b7bb00-9bd0-415d-b47e-89c19fa70c74/download/residencias-otorgadas---4-trimestre---ano-2017.csv",
+          "name": "Residencias otorgadas - 4° trimestre - año 2017",
+          "format": "CSV",
+          "updatedAt": "2018-01-17T00:41:11.146Z",
+          "description": "Detalle Residencias otorgadas - 4° trimestre - año 2017"
+        },
+        {
+          "id": "8782b0fd-8f82-4652-93be-5b8c0cc8b19b",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/8782b0fd-8f82-4652-93be-5b8c0cc8b19b/download/residencias-otorgadas---3-trimestre---ano-2017.csv",
+          "name": "Residencias otorgadas - 3° trimestre - año 2017",
+          "format": "CSV",
+          "updatedAt": "2018-02-06T22:57:31.529Z",
+          "description": "Detalle Residencias otorgadas - 3° trimestre - año 2017"
+        },
+        {
+          "id": "72f9bd8e-7fea-4e08-93b2-ace4f1bf0cde",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/72f9bd8e-7fea-4e08-93b2-ace4f1bf0cde/download/ingresos-y-egresos-de-personas-al-pais---3-trimestre---ano-2017..csv",
+          "name": "Ingresos y Egresos de personas al pais - 3° trimestre - año 2017.",
+          "format": "CSV",
+          "updatedAt": "2018-01-16T23:39:38.683Z",
+          "description": "Movimientos Migratorios - 3° trimestre - año 2017"
+        },
+        {
+          "id": "916b441c-56c4-46be-af0a-976e460e7201",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/916b441c-56c4-46be-af0a-976e460e7201/download/movimientos-migratorios-2-trimestre-2017.csv",
+          "name": "Ingresos y Egresos de personas al pais - 2° trimestre - año 2017.",
+          "format": "CSV",
+          "updatedAt": "2019-01-03T23:04:18.836Z",
+          "description": "Movimientos Migratorios - 2° trimestre - año 2017"
+        },
+        {
+          "id": "d4c9874a-27d2-43e0-bc79-93fd35d0c49a",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/d4c9874a-27d2-43e0-bc79-93fd35d0c49a/download/recidencias-2-trimestre.csv",
+          "name": "Residencias otorgadas - 2° trimestre - año 2017",
+          "format": "CSV",
+          "updatedAt": "2017-09-22T22:42:52.108Z",
+          "description": "Detalle Residencias otorgadas - 2° trimestre - año 2017"
+        },
+        {
+          "id": "769633d7-5f7e-42dc-b7c5-596e4ecaf16f",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/769633d7-5f7e-42dc-b7c5-596e4ecaf16f/download/movimientos-migratorios--1-trimestre.csv",
+          "name": "Ingresos y Egresos de personas al pais - 1° trimestre - año 2017.",
+          "format": "CSV",
+          "updatedAt": "2017-09-22T19:18:42.607Z",
+          "description": "Movimientos Migratorios - 1° trimestre - año 2017"
+        },
+        {
+          "id": "ebfe1345-c90d-4567-8190-879c18183763",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/ebfe1345-c90d-4567-8190-879c18183763/download/recidencias-1-trimestre.csv",
+          "name": "Residencias otorgadas - 1° trimestre - año 2017",
+          "format": "CSV",
+          "updatedAt": "2017-09-22T19:21:20.868Z",
+          "description": "Detalle Residencias otorgadas - 1° trimestre - año 2017"
+        },
+        {
+          "id": "a6509549-da34-442b-bc9f-75289a085c51",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/dd032084-b7eb-4317-9151-05fc850c1654/resource/a6509549-da34-442b-bc9f-75289a085c51/download/ingresos-y-egresos-de-personas-al-pais---3-trimestre---ano-2017..csv",
+          "name": "Ingresos y Egresos de personas al pais - ",
+          "format": "CSV",
+          "updatedAt": "2018-01-16T23:42:36.135Z",
+          "description": "Movimientos Migratorios - 3° trimestre - año 2017"
+        }
+      ],
+      "createdAt": "2017-09-20T15:49:40.599Z",
+      "updatedAt": "2021-05-05T22:20:59.795Z",
+      "contact": {
+        "name": "Dirección Nacional de Migraciones",
+        "email": "jbudrovich@migraciones.gov.ar"
+      }
+    },
+    {
+      "id": "23f24c02-7a31-4998-a774-ec8bf82d9b5f",
+      "name": "plan-estrategico-territoria",
+      "title": "Plan Estratégico Territorial",
+      "keywords": [
+        "plan",
+        "plan estrategico territorial"
+      ],
+      "landingPage": "http://www.mininterior.gob.ar/planificacion/plan-estrategico.php",
+      "resources": [
+        {
+          "id": "4d0d2237-aa70-4210-bf3d-6bb54f4a52ed",
+          "downloadUrl": "http://www.mininterior.gob.ar/planificacion/plan-estrategico.php",
+          "name": "Plan Estratégico Territorial",
+          "format": "link",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Enlace al Plan Estratégico Territorial"
+        }
+      ],
+      "createdAt": "2017-12-07T21:20:00.309Z",
+      "updatedAt": "2018-01-18T17:08:15.461Z",
+      "contact": {
+        "name": "Subsecretaría de Planificación Territorial de la Inversión Pública",
+        "email": "privadasspt@mininterior.gob.ar"
+      }
+    },
+    {
+      "id": "28c12f14-e847-4826-9bc2-d110d72d0674",
+      "name": "registro-unico-audiencias-gestion-intereses",
+      "title": "Registro Único de Audiencias de Gestión de Intereses",
+      "keywords": [
+        "agendas",
+        "audiencias",
+        "funcionarios",
+        "registro",
+        "reuniones"
+      ],
+      "landingPage": "https://audiencias.mininterior.gob.ar",
+      "resources": [
+        {
+          "id": "8123f9e2-ab15-4563-906a-8352f476ca21",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/28c12f14-e847-4826-9bc2-d110d72d0674/resource/8123f9e2-ab15-4563-906a-8352f476ca21/download/audiencias-de-2015-a-2016.csv",
+          "name": "Audiencias del 2015 al 2016",
+          "format": "CSV",
+          "updatedAt": "2018-01-08T16:59:57.388Z",
+          "description": "Detalle de las audiencias entre los años 2015 y 2016 del Registro Único de Audiencias"
+        },
+        {
+          "id": "e3063404-c6e6-421f-b342-a3c4ee79e637",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/28c12f14-e847-4826-9bc2-d110d72d0674/resource/e3063404-c6e6-421f-b342-a3c4ee79e637/download/audiencias-de-2015-a-2016.csv",
+          "name": "Audiencias del 2015 al 2016",
+          "format": "CSV",
+          "updatedAt": "2018-01-08T17:03:19.934Z",
+          "description": "Detalle de las audiencias entre los años 2015 y 2016 del Registro Único de Audiencias"
+        },
+        {
+          "id": "cc780b4a-3e83-40fb-a020-8421e240254a",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/28c12f14-e847-4826-9bc2-d110d72d0674/resource/cc780b4a-3e83-40fb-a020-8421e240254a/download/audiencias-de-enero-a-abril-2017.csv",
+          "name": "Audiencias cuatrimestrales del RUA entre enero y abril de 2017",
+          "format": "CSV",
+          "updatedAt": "2018-01-08T17:23:38.990Z",
+          "description": "Detalle de las audiencias del Registro Único de Audiencias del cuatrimestre entre enero y abril de 2017."
+        },
+        {
+          "id": "0514fdde-b431-4a57-b082-4a74f95e0e8f",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/28c12f14-e847-4826-9bc2-d110d72d0674/resource/0514fdde-b431-4a57-b082-4a74f95e0e8f/download/audiencias-de-enero-a-abril-2017.csv",
+          "name": "Audiencias cuatrimestrales del RUA entre enero y abril de 2017",
+          "format": "CSV",
+          "updatedAt": "2018-01-08T17:30:19.105Z",
+          "description": "Detalle de las audiencias del Registro Único de Audiencias del cuatrimestre entre enero y abril de 2017."
+        },
+        {
+          "id": "75a5006e-9642-49a6-bdfc-f9583fa01ac6",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/28c12f14-e847-4826-9bc2-d110d72d0674/resource/75a5006e-9642-49a6-bdfc-f9583fa01ac6/download/audiencias-de-mayo-a-agosto-2017.csv",
+          "name": "Audiencias cuatrimestrales del RUA entre mayo y agosto de 2017",
+          "format": "CSV",
+          "updatedAt": "2018-01-09T20:40:07.490Z",
+          "description": "Detalle de las audiencias del Registro Único de Audiencias del cuatrimestre entre mayo y agosto de 2017."
+        },
+        {
+          "id": "2ce5277a-3ddc-4d38-91be-7bdb8647d58e",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/28c12f14-e847-4826-9bc2-d110d72d0674/resource/2ce5277a-3ddc-4d38-91be-7bdb8647d58e/download/audiencias-de-septiembre-a-diciembre-2017.csv",
+          "name": "Audiencias cuatrimestrales del RUA entre septiembre y diciembre de 2017",
+          "format": "CSV",
+          "updatedAt": "2018-01-09T20:44:12.929Z",
+          "description": "Detalle de las audiencias del Registro Único de Audiencias del cuatrimestre entre mayo y agosto de 2017."
+        },
+        {
+          "id": "4d99ed20-b036-439e-b68b-c8284f1faa4f",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/28c12f14-e847-4826-9bc2-d110d72d0674/resource/4d99ed20-b036-439e-b68b-c8284f1faa4f/download/audiencias-de-septiembre-a-diciembre-2017.csv",
+          "name": "Audiencias cuatrimestrales del RUA entre septiembre y diciembre de 2017",
+          "format": "CSV",
+          "updatedAt": "2018-01-09T20:48:51.999Z",
+          "description": "Detalle de las audiencias del Registro Único de Audiencias del cuatrimestre entre mayo y agosto de 2017."
+        }
+      ],
+      "createdAt": "2017-09-27T18:59:41.505Z",
+      "updatedAt": "2018-12-27T23:10:55.175Z",
+      "contact": {
+        "name": "Subsecretaría de Reforma Institucional y Fortalecimiento de la Democracia",
+        "email": "ssreformainstitucional@mininterior.gob.ar"
+      }
+    },
+    {
+      "id": "b79d08e4-3aa8-4c20-a449-6cb049de6d90",
+      "name": "resultados-definitivos-elecciones-generales-2017",
+      "title": "Resultados Definitivos Elecciones Generales 2017",
+      "keywords": [
+        "elecciones generales",
+        "resultados electorales"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "83a3fcf3-9f7b-48ad-ba22-db3e672acca1",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/b79d08e4-3aa8-4c20-a449-6cb049de6d90/resource/83a3fcf3-9f7b-48ad-ba22-db3e672acca1/download/generales-2017definitivosndistrito.csv",
+          "name": "Resultados Definitivos - Elecciones Generales 2017 - Senadores Nacionales",
+          "format": "CSV",
+          "updatedAt": "2017-12-12T23:42:58.347Z",
+          "description": "Resultados Definitivos - Elecciones PASO 2017 - Senadores Nacionales - Desagregados por Distrito Electoral."
+        },
+        {
+          "id": "664c6c96-5868-461d-bf88-c9a1d4fb00bf",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/b79d08e4-3aa8-4c20-a449-6cb049de6d90/resource/664c6c96-5868-461d-bf88-c9a1d4fb00bf/download/generales-2017definitivodndistrito.csv",
+          "name": "Resultados Definitivos - Elecciones Generales 2017 - Diputados Nacionales",
+          "format": "CSV",
+          "updatedAt": "2017-12-13T01:00:40.193Z",
+          "description": "Resultados Definitivos - Elecciones Generales 2017 - Diputados Nacionales - Desagregados por Distrito Electoral."
+        }
+      ],
+      "createdAt": "2017-12-12T23:41:25.944Z",
+      "updatedAt": "2017-12-13T14:54:16.370Z",
+      "contact": {
+        "name": "Dirección Nacional Electoral",
+        "email": ""
+      }
+    },
+    {
+      "id": "3d510b38-4744-44e7-a1f2-2c5a0a2696dd",
+      "name": "resultados-definitivos-elecciones-paso-2017",
+      "title": "Resultados Definitivos Elecciones PASO 2017",
+      "keywords": [
+        "elecciones",
+        "elecciones paso",
+        "resultados definitivos"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "ef7321f6-64c6-4d95-bac8-3d8576df550f",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/3d510b38-4744-44e7-a1f2-2c5a0a2696dd/resource/ef7321f6-64c6-4d95-bac8-3d8576df550f/download/paso-2017definitivosndistrito.csv",
+          "name": "Resultados Definitivos - Elecciones PASO 2017 - Senadores Nacionales",
+          "format": "CSV",
+          "updatedAt": "2017-12-12T23:09:28.580Z",
+          "description": "Resultados Definitivos - Elecciones PASO 2017 - Senadores Nacionales - Desagregados por Distrito Electoral."
+        },
+        {
+          "id": "c13ca10c-9f61-40bd-a953-83bf6252e057",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/3d510b38-4744-44e7-a1f2-2c5a0a2696dd/resource/c13ca10c-9f61-40bd-a953-83bf6252e057/download/definitivopaso2017dntotaldistrito.csv",
+          "name": "Resultados Definitivos - Elecciones PASO 2017 - Diputados Nacionales",
+          "format": "CSV",
+          "updatedAt": "2017-12-12T07:49:28.604Z",
+          "description": "Resultados Definitivos - Elecciones PASO 2017 - Diputados Nacionales - Desagregados por Distrito Electoral."
+        }
+      ],
+      "createdAt": "2017-12-12T07:41:34.883Z",
+      "updatedAt": "2017-12-13T14:58:38.482Z",
+      "contact": {
+        "name": "Dirección Nacional Electoral",
+        "email": ""
+      }
+    },
+    {
+      "id": "514da746-b33a-4f32-ba27-4ed18d4bda17",
+      "name": "sistema-de-informacion-geografica",
+      "title": "Sistema de información Geográfica",
+      "keywords": [
+        "información geográfica",
+        "mapas"
+      ],
+      "landingPage": "http://sig.planificacion.gob.ar",
+      "resources": [
+        {
+          "id": "d6e5e480-359d-43f1-ab8e-49047ddbea91",
+          "downloadUrl": "http://sig.planificacion.gob.ar",
+          "name": "Sistema de Información Geográfica",
+          "format": "",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Acceso al Sistema de Información Geográfica"
+        }
+      ],
+      "createdAt": "2017-12-07T20:43:38.559Z",
+      "updatedAt": "2017-12-12T21:37:14.201Z",
+      "contact": {
+        "name": "Subsecretaría de Planificación Territorial de la Inversión Pública",
+        "email": "privadasspt@mininterior.gob.ar"
+      }
+    },
+    {
+      "id": "940cde74-532a-4636-b45c-19ab809f43bc",
+      "name": "solicitudes-de-acceso-a-la-informacion-publica",
+      "title": "Solicitudes de Acceso a la Información Pública",
+      "keywords": [
+        "acceso",
+        "información pública",
+        "pedidos",
+        "solicitudes"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "ad9e609e-4029-42ef-bd80-e960a9637f5b",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/940cde74-532a-4636-b45c-19ab809f43bc/resource/ad9e609e-4029-42ef-bd80-e960a9637f5b/download/matriz-2016-ano-completo-datasets.subir.csv",
+          "name": "Solicitudes de Acceso a la Información Pública de 2016",
+          "format": "CSV",
+          "updatedAt": "2017-11-01T18:56:06.548Z",
+          "description": "Detalle de las solicitudes de acceso a la información pública recibidas por el Poder Ejecutivo Nacional durante el año 2016"
+        }
+      ],
+      "createdAt": "2017-11-01T18:54:50.255Z",
+      "updatedAt": "2017-11-02T18:54:33.294Z",
+      "contact": {
+        "name": "Dirección de Fortalecimiento Institucional y Participación Ciudadana",
+        "email": "dirfortalecimientoinstitucional@mininterior.gob.ar"
+      }
+    },
+    {
+      "id": "55c8b8f7-1591-4870-b24d-0b6bb54abef5",
+      "name": "solicitudes-de-acceso-a-la-informacion-publica-ano-2017",
+      "title": "Solicitudes de Acceso a la Información Pública Año 2017",
+      "keywords": [
+        "acceso",
+        "decreto 1172",
+        "información pública",
+        "solicitudes",
+        "transparencia"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "6f1d6965-9531-4b8d-aa5f-3752e577b55f",
+          "downloadUrl": "https://datos.mininterior.gob.ar/dataset/55c8b8f7-1591-4870-b24d-0b6bb54abef5/resource/6f1d6965-9531-4b8d-aa5f-3752e577b55f/download/matriz-2017-dataset-para-subir-.cvs.csv",
+          "name": "Solicitudes de acceso a la información pública año 2017",
+          "format": "CSV",
+          "updatedAt": "2018-03-23T20:51:22.030Z",
+          "description": "Detalle de Solicitudes de acceso a la información pública recibidas por el Poder Ejecutivo Nacional durante el año 2017"
+        }
+      ],
+      "createdAt": "2018-03-23T20:48:01.334Z",
+      "updatedAt": "2018-03-23T20:53:29.809Z",
+      "contact": {
+        "name": "Dirección de Fortalecimiento Institucional y Participación Ciudadana Subsecretaria de Reforma Institucional y Fortalecimiento de la Democracia Secretaría de Asuntos Políticos e Institucionales",
+        "email": ""
+      }
+    }
+  ],
+  "organizations": [],
+  "updatedAt": "2023-12-09T08:50:38.521Z"
+}

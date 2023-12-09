@@ -1,0 +1,1162 @@
+{
+  "id": "eASevLe5Fd",
+  "datasets": [
+    {
+      "id": "6fda9ef9-7dab-4a1a-879d-a963f05c7fde",
+      "name": "agencias-ugls",
+      "title": "Listado de Unidades de Gestión Local (UGL) y Agencias",
+      "keywords": [],
+      "landingPage": "http://prod-datos.pami.ar/dataset/agencias-ugls",
+      "resources": [
+        {
+          "id": "f6e33659-84c9-4e97-a271-f9023c8c891c",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/6fda9ef9-7dab-4a1a-879d-a963f05c7fde/resource/f6e33659-84c9-4e97-a271-f9023c8c891c/download/listado-de-agencias-.xlsx",
+          "name": "Listado de Unidades de Gestión Local (UGL) y Agencias de PAMI",
+          "format": "XLSX",
+          "updatedAt": "2022-08-03T20:15:23.787Z",
+          "description": "Listado de Unidades de Gestión Local (UGL) y Agencias de PAMI",
+          "landingUrl": ""
+        },
+        {
+          "id": "b7988145-ea49-4f3e-a2d2-997a3590bcf0",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/621be8b0-11a0-4eab-8bbb-66ebf915de10/resource/420735e5-8849-4dd5-97cb-6e3103e6459d/download/listado-de-agencias-csv.csv",
+          "name": "Listado de Unidades de Gestión Local (UGL) y Agencias de PAMI",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado de Unidades de Gestión Local (UGL) y Agencias de PAMI ",
+          "landingUrl": ""
+        },
+        {
+          "id": "9d05ed34-cd9d-47a6-83f6-d8e1abb2b0d0",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/6fda9ef9-7dab-4a1a-879d-a963f05c7fde/resource/9d05ed34-cd9d-47a6-83f6-d8e1abb2b0d0/download/ugl-agencias-y-cap-11-04-2022.xlsx",
+          "name": "Listado de UGLs, CAP, Agencias y Bocas de Atención 26/04/2022",
+          "format": "XLSX",
+          "updatedAt": "2022-08-03T20:30:21.936Z",
+          "description": "Listado de UGLs, CAP, Agencias y Bocas de Atención \r\n26/04/2022",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-08-03T20:14:31.015Z",
+      "updatedAt": "2022-08-03T20:30:22.501Z",
+      "contact": {
+        "name": "INSSJP",
+        "email": ""
+      }
+    },
+    {
+      "id": "ef69efec-b9c3-4a06-a245-49ed592ea0dc",
+      "name": "campana-vacunacion",
+      "title": "Campaña de vacunación antigripal",
+      "keywords": [],
+      "landingPage": "http://prod-datos.pami.ar/dataset/campana-vacunacion",
+      "resources": [
+        {
+          "id": "97293413-6da3-4c7a-ab62-46d33077db95",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/ef69efec-b9c3-4a06-a245-49ed592ea0dc/resource/97293413-6da3-4c7a-ab62-46d33077db95/download/vacunas-antigripales-aplicadas-por-ugl.xlsx",
+          "name": "Cantidad de vacunas antigripales aplicadas a afiliados y agentes en 2019 por Unidad de Gestión Local (UGL)",
+          "format": "XLSX",
+          "updatedAt": "2022-08-03T21:23:42.692Z",
+          "description": "Cantidad de vacunas antigripales aplicadas a afiliados y agentes en 2019 por Unidad de Gestión Local (UGL)",
+          "landingUrl": ""
+        },
+        {
+          "id": "38516bab-ab62-4b47-852f-76ef57340223",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/ef69efec-b9c3-4a06-a245-49ed592ea0dc/resource/38516bab-ab62-4b47-852f-76ef57340223/download/vacunas-antigripales-aplicadas-por-ugl.csv",
+          "name": "Cantidad de vacunas antigripales aplicadas a afiliados y agentes en 2019 por Unidad de Gestión Local (UGL)",
+          "format": "CSV",
+          "updatedAt": "2022-08-03T21:24:27.626Z",
+          "description": "Cantidad de vacunas antigripales aplicadas a afiliados y agentes en 2019 por Unidad de Gestión Local (UGL)",
+          "landingUrl": ""
+        },
+        {
+          "id": "0b5d0fe3-fa0d-4ab7-b669-c9b75bf08faf",
+          "downloadUrl": "",
+          "name": "Cantidad de vacunas antigripales aplicadas a afiliados y agentes del Instituto por año",
+          "format": "",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Cantidad de vacunas antigripales aplicadas a afiliados y agentes del Instituto por año",
+          "landingUrl": ""
+        },
+        {
+          "id": "b4e7d4b4-5272-4663-a7d1-90c9e802151e",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/ef69efec-b9c3-4a06-a245-49ed592ea0dc/resource/b4e7d4b4-5272-4663-a7d1-90c9e802151e/download/vacunas-antigripales-aplicadas-por-anio.csv",
+          "name": "Cantidad de vacunas antigripales aplicadas a afiliados y agentes del Instituto por año",
+          "format": "CSV",
+          "updatedAt": "2022-08-03T21:28:17.396Z",
+          "description": "Cantidad de vacunas antigripales aplicadas a afiliados y agentes del Instituto por año",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-08-03T21:22:49.435Z",
+      "updatedAt": "2022-08-03T21:28:18.287Z",
+      "contact": {
+        "name": "INSSJP",
+        "email": ""
+      }
+    },
+    {
+      "id": "2d3f8855-903e-4771-9af5-f62b80552310",
+      "name": "centros-de-dia",
+      "title": "Centros de día",
+      "keywords": [],
+      "landingPage": "http://prod-datos.pami.ar/dataset/centros-de-dia",
+      "resources": [
+        {
+          "id": "8ce2c229-2f59-4ab0-a719-07bbfad5b178",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/2d3f8855-903e-4771-9af5-f62b80552310/resource/8ce2c229-2f59-4ab0-a719-07bbfad5b178/download/listado-de-centros-de-dia-1.xlsx",
+          "name": "Centros de día",
+          "format": "XLSX",
+          "updatedAt": "2022-08-03T21:09:55.315Z",
+          "description": "Listado de establecimientos donde se presta servicios de centro de día a los afiliados de PAMI",
+          "landingUrl": ""
+        },
+        {
+          "id": "5a93e7c5-48d7-441a-9c4f-50607bc1f8a5",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/2d3f8855-903e-4771-9af5-f62b80552310/resource/5a93e7c5-48d7-441a-9c4f-50607bc1f8a5/download/listado-de-centros-de-dia-1.csv",
+          "name": "Centros de día",
+          "format": "CSV",
+          "updatedAt": "2022-08-03T21:10:34.433Z",
+          "description": "Listado de establecimientos donde se presta servicios de centro de día a los afiliados de PAMI",
+          "landingUrl": ""
+        },
+        {
+          "id": "71d6f5b9-05a0-46ae-9312-44d23ede63a9",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/2d3f8855-903e-4771-9af5-f62b80552310/resource/71d6f5b9-05a0-46ae-9312-44d23ede63a9/download/listado-centros-de-dia-al-1-de-mayo-de-2022.xlsx",
+          "name": "Centros de día ",
+          "format": "XLSX",
+          "updatedAt": "2022-08-03T21:11:09.405Z",
+          "description": "Listado de establecimientos donde se presta servicios de centro de día a los afiliados de PAMI al 1ro. de mayo de 2022.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-08-03T21:09:07.707Z",
+      "updatedAt": "2022-08-03T21:11:10.319Z",
+      "contact": {
+        "name": "INSSJP",
+        "email": ""
+      }
+    },
+    {
+      "id": "daddeba3-0b33-4fe0-b660-9df8d188b021",
+      "name": "centros-de-jubilados",
+      "title": "Centros de jubilados",
+      "keywords": [],
+      "landingPage": "http://prod-datos.pami.ar/dataset/centros-de-jubilados",
+      "resources": [
+        {
+          "id": "14ae0999-eba8-4b24-ad20-e10c3b41d2c4",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/daddeba3-0b33-4fe0-b660-9df8d188b021/resource/14ae0999-eba8-4b24-ad20-e10c3b41d2c4/download/listado-de-centros-de-jubilados-1.xlsx",
+          "name": "Centros de jubilados",
+          "format": "XLSX",
+          "updatedAt": "2022-08-03T21:07:11.683Z",
+          "description": "Listado de centros de jubilados registrados por el Instituto, segmentados por UGL.",
+          "landingUrl": ""
+        },
+        {
+          "id": "b68c4360-a10f-43c4-8805-a290be92108e",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/daddeba3-0b33-4fe0-b660-9df8d188b021/resource/b68c4360-a10f-43c4-8805-a290be92108e/download/listado-de-centros-de-jubilados-1.csv",
+          "name": "Centros de jubilados",
+          "format": "CSV",
+          "updatedAt": "2022-08-03T21:07:51.127Z",
+          "description": "Listado de centros de jubilados registrados por el Instituto, segmentados por UGL.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-08-03T21:06:28.983Z",
+      "updatedAt": "2022-08-03T21:07:51.725Z",
+      "contact": {
+        "name": "INSSJP",
+        "email": ""
+      }
+    },
+    {
+      "id": "7e63e63b-e3b9-4386-8782-38b22f4bf95b",
+      "name": "compras-y-contrataciones-de-nivel-central-2017",
+      "title": "Compras y contrataciones de Nivel Central- 2017",
+      "keywords": [],
+      "landingPage": "http://prod-datos.pami.ar/dataset/compras-y-contrataciones-de-nivel-central-2017",
+      "resources": [
+        {
+          "id": "cb142c7b-a57d-48da-8903-074311968a95",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/7e63e63b-e3b9-4386-8782-38b22f4bf95b/resource/cb142c7b-a57d-48da-8903-074311968a95/download/llamados-2017-diciembre-gob-abierto.xlsx",
+          "name": "Compras y contrataciones (diciembre 2017)",
+          "format": "XLSX",
+          "updatedAt": "2022-08-03T19:21:05.963Z",
+          "description": "Listado de compras y contrataciones de diciembre 2017 ",
+          "landingUrl": ""
+        },
+        {
+          "id": "d4942768-ad97-4795-bee6-7d480eb7163a",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/7e63e63b-e3b9-4386-8782-38b22f4bf95b/resource/d4942768-ad97-4795-bee6-7d480eb7163a/download/llamados-2017-noviembre-gob-abierto.xlsx",
+          "name": "Compras y contrataciones (noviembre 2017)",
+          "format": "XLSX",
+          "updatedAt": "2022-08-03T19:22:01.080Z",
+          "description": "Listado de compras y contrataciones de noviembre 2017",
+          "landingUrl": ""
+        },
+        {
+          "id": "79e57c31-dee7-469a-8666-f935f5b6bba8",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/7e63e63b-e3b9-4386-8782-38b22f4bf95b/resource/79e57c31-dee7-469a-8666-f935f5b6bba8/download/llamados-2017-octubre-gob-abierto-1.xlsx",
+          "name": "Compras y contrataciones (octubre 2017)",
+          "format": "XLSX",
+          "updatedAt": "2022-08-03T19:22:51.537Z",
+          "description": "Listado de compras y contrataciones de octubre 2017 ",
+          "landingUrl": ""
+        },
+        {
+          "id": "191da454-ca30-4ea0-9996-68e57b9a5178",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/7e63e63b-e3b9-4386-8782-38b22f4bf95b/resource/191da454-ca30-4ea0-9996-68e57b9a5178/download/llamados-2017-septiembre-gob-abierto.xlsx",
+          "name": "Compras y contrataciones (septiembre (2017)",
+          "format": "XLSX",
+          "updatedAt": "2022-08-03T19:24:27.583Z",
+          "description": "Listado de compras y contrataciones de septiembre 2017 ",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-08-03T17:52:46.471Z",
+      "updatedAt": "2022-08-03T19:24:28.686Z",
+      "contact": {
+        "name": "INSSJP",
+        "email": ""
+      }
+    },
+    {
+      "id": "59d14840-01fd-473a-b9fb-d9df98eae424",
+      "name": "compras-y-contrataciones-de-nivel-central-2018",
+      "title": "Compras y contrataciones de Nivel Central- 2018",
+      "keywords": [],
+      "landingPage": "http://prod-datos.pami.ar/dataset/compras-y-contrataciones-de-nivel-central-2018",
+      "resources": [
+        {
+          "id": "8549d8e2-d51b-45ab-9d7a-fe238a895057",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/59d14840-01fd-473a-b9fb-d9df98eae424/resource/8549d8e2-d51b-45ab-9d7a-fe238a895057/download/llamados-2018-enero-gob-abierto.xlsx",
+          "name": "Compras y contrataciones (enero 2018)",
+          "format": "XLSX",
+          "updatedAt": "2022-08-03T20:02:12.748Z",
+          "description": "Listado de compras y contrataciones de enero 2018",
+          "landingUrl": ""
+        },
+        {
+          "id": "26bc88ac-2f34-44d2-9d60-555946d740c9",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/59d14840-01fd-473a-b9fb-d9df98eae424/resource/26bc88ac-2f34-44d2-9d60-555946d740c9/download/llamados-2018-febrero-gob-abierto.xlsx",
+          "name": "Compras y contrataciones (febrero 2018)",
+          "format": "XLSX",
+          "updatedAt": "2022-08-03T20:03:52.642Z",
+          "description": "Listado de compras y contrataciones de febrero 2018 ",
+          "landingUrl": ""
+        },
+        {
+          "id": "ab4cf069-661b-438f-8aff-f9ef5b1c65df",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/59d14840-01fd-473a-b9fb-d9df98eae424/resource/ab4cf069-661b-438f-8aff-f9ef5b1c65df/download/llamados-2018-marzo-gob-abierto.xlsx",
+          "name": "Compras y contrataciones (marzo 2018)",
+          "format": "XLSX",
+          "updatedAt": "2022-08-03T20:04:39.284Z",
+          "description": "Listado de compras y contrataciones de marzo 2018",
+          "landingUrl": ""
+        },
+        {
+          "id": "5055173d-fc07-42d9-97b4-5d07cee6fdb2",
+          "downloadUrl": "",
+          "name": "Compras y contrataciones (abril y mayo 2018)",
+          "format": "",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado de compras y contrataciones de abril y mayo 2018",
+          "landingUrl": ""
+        },
+        {
+          "id": "95018cbb-0118-49db-917a-abd97d8ca818",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/59d14840-01fd-473a-b9fb-d9df98eae424/resource/95018cbb-0118-49db-917a-abd97d8ca818/download/llamados-2018-julio-gob-abierto.xlsx",
+          "name": "Compras y contrataciones (junio y julio 2018)",
+          "format": "XLSX",
+          "updatedAt": "2022-08-03T20:07:39.171Z",
+          "description": "Listado de compras y contrataciones de junio y julio 2018 ",
+          "landingUrl": ""
+        },
+        {
+          "id": "ca30b182-e57b-4820-ae53-1768aafe0af9",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/59d14840-01fd-473a-b9fb-d9df98eae424/resource/ca30b182-e57b-4820-ae53-1768aafe0af9/download/llamados-2018-agosto-septiembre-gob-abierto.xlsx",
+          "name": "Compras y contrataciones (agosto y septiembre 2018)",
+          "format": "XLSX",
+          "updatedAt": "2022-08-03T20:08:17.224Z",
+          "description": "Listado de compras y contrataciones de agosto y septiembre 2018 ",
+          "landingUrl": ""
+        },
+        {
+          "id": "01310fd6-fe99-4969-bd98-3c5286792b05",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/59d14840-01fd-473a-b9fb-d9df98eae424/resource/01310fd6-fe99-4969-bd98-3c5286792b05/download/llamados-2018-noviembre-gob-abierto-1.xlsx",
+          "name": "Compras y contrataciones (octubre y noviembre 2018)",
+          "format": "XLSX",
+          "updatedAt": "2022-08-03T20:08:56.328Z",
+          "description": "Listado de compras y contrataciones de octubre y noviembre 2018 ",
+          "landingUrl": ""
+        },
+        {
+          "id": "f5d8e258-7821-48e2-aab9-8a7a9430ecc0",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/59d14840-01fd-473a-b9fb-d9df98eae424/resource/f5d8e258-7821-48e2-aab9-8a7a9430ecc0/download/llamados-2018-diciembre-gob-abierto.xlsx",
+          "name": "Compras y contrataciones (diciembre 2018)",
+          "format": "XLSX",
+          "updatedAt": "2022-08-03T20:09:41.027Z",
+          "description": "Listado de compras y contrataciones de diciembre 2018",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-08-03T20:01:02.058Z",
+      "updatedAt": "2022-08-03T20:09:42.440Z",
+      "contact": {
+        "name": "INSSJP",
+        "email": ""
+      }
+    },
+    {
+      "id": "4696820f-ad31-40b7-9d49-fa96050c138e",
+      "name": "compras-y-contrataciones-de-nivel-central-2019",
+      "title": "Compras y contrataciones de Nivel Central- 2019",
+      "keywords": [],
+      "landingPage": "http://prod-datos.pami.ar/dataset/compras-y-contrataciones-de-nivel-central-2019",
+      "resources": [
+        {
+          "id": "08f32d40-d05b-4bc1-b12d-dfeef57469d8",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/4696820f-ad31-40b7-9d49-fa96050c138e/resource/08f32d40-d05b-4bc1-b12d-dfeef57469d8/download/llamados-2019-enero-abril-gob-abierto.xlsx",
+          "name": "Compras y contrataciones (enero a abril 2019)",
+          "format": "XLSX",
+          "updatedAt": "2022-07-07T21:30:05.325Z",
+          "description": "Listado de compras y contrataciones de enero a abril 2019",
+          "landingUrl": ""
+        },
+        {
+          "id": "3dffb70b-1642-46b7-a1e3-608317fcf9fe",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/4696820f-ad31-40b7-9d49-fa96050c138e/resource/3dffb70b-1642-46b7-a1e3-608317fcf9fe/download/compras-y-contrataciones-de-nivel-central-2020-1.csv",
+          "name": "Compras y contrataciones de Nivel Central 2020 en formato",
+          "format": "CSV",
+          "updatedAt": "2022-07-07T21:31:06.568Z",
+          "description": "Compras y contrataciones de Nivel Central 2020 en formato",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-07-07T21:29:17.245Z",
+      "updatedAt": "2022-07-07T21:31:07.044Z",
+      "contact": {
+        "name": "INSSJP",
+        "email": ""
+      }
+    },
+    {
+      "id": "a39bb1a9-c061-47fe-bd24-a3173ebf7652",
+      "name": "compras-y-contrataciones-de-nivel-central-2020",
+      "title": "Compras y contrataciones de Nivel Central 2020",
+      "keywords": [],
+      "landingPage": "http://prod-datos.pami.ar/dataset/compras-y-contrataciones-de-nivel-central-2020",
+      "resources": [
+        {
+          "id": "8d1842b7-807c-4c43-a183-14c56873a776",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/a39bb1a9-c061-47fe-bd24-a3173ebf7652/resource/8d1842b7-807c-4c43-a183-14c56873a776/download/compras-y-contrataciones-de-nivel-central-2020.csv",
+          "name": "Compras y contrataciones de Nivel Central 2020 CSV",
+          "format": "CSV",
+          "updatedAt": "2022-07-07T21:26:21.988Z",
+          "description": "Compras y contrataciones de Nivel Central 2020 CSV",
+          "landingUrl": ""
+        },
+        {
+          "id": "24a7bdda-a7d5-403b-b712-5db0f89427fc",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/a39bb1a9-c061-47fe-bd24-a3173ebf7652/resource/24a7bdda-a7d5-403b-b712-5db0f89427fc/download/compras-y-contrataciones-de-nivel-central-2020.xlsx",
+          "name": "Compras y contrataciones de Nivel Central 2020 XLS",
+          "format": "XLSX",
+          "updatedAt": "2022-07-07T21:27:25.771Z",
+          "description": "Compras y contrataciones de Nivel Central 2020 XLS",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-07-07T21:25:26.239Z",
+      "updatedAt": "2022-07-07T21:27:26.325Z",
+      "contact": {
+        "name": "INSSJP",
+        "email": ""
+      }
+    },
+    {
+      "id": "58543eed-9efe-4e0b-a86c-84887404d062",
+      "name": "compras-y-contrataciones-de-nivel-central-2021",
+      "title": "Compras y contrataciones de Nivel Central 2021",
+      "keywords": [],
+      "landingPage": "http://prod-datos.pami.ar/dataset/compras-y-contrataciones-de-nivel-central-2021",
+      "resources": [
+        {
+          "id": "a1068377-6920-41fe-8b61-06fd895f0e53",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/58543eed-9efe-4e0b-a86c-84887404d062/resource/a1068377-6920-41fe-8b61-06fd895f0e53/download/compras-y-contrataciones-de-nivel-central-2021.csv",
+          "name": "Compras y contrataciones de Nivel Central 2021 CSV",
+          "format": "CSV",
+          "updatedAt": "2022-07-07T21:16:57.503Z",
+          "description": "Compras y contrataciones de Nivel Central 2021 CSV",
+          "landingUrl": ""
+        },
+        {
+          "id": "71eb008e-77a3-4c2e-81cf-097249640c61",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/58543eed-9efe-4e0b-a86c-84887404d062/resource/71eb008e-77a3-4c2e-81cf-097249640c61/download/compras-y-contrataciones-de-nivel-central-2021.xlsx",
+          "name": "Compras y contrataciones de Nivel Central 2021 XLS",
+          "format": "XLSX",
+          "updatedAt": "2022-07-07T21:17:59.168Z",
+          "description": "Compras y contrataciones de Nivel Central 2021 XLS",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-07-07T21:15:39.641Z",
+      "updatedAt": "2022-07-07T21:17:59.677Z",
+      "contact": {
+        "name": "INSSJP",
+        "email": ""
+      }
+    },
+    {
+      "id": "f312a9f9-01d4-4ecc-851a-1e7a363312ce",
+      "name": "compras-y-contrataciones-de-nivel-central-abril-2022",
+      "title": "Compras y contrataciones de Nivel Central ABRIL 2022",
+      "keywords": [],
+      "landingPage": "http://prod-datos.pami.ar/dataset/compras-y-contrataciones-de-nivel-central-abril-2022",
+      "resources": [
+        {
+          "id": "4c9257d6-39ba-417b-837c-6ef106983790",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/f312a9f9-01d4-4ecc-851a-1e7a363312ce/resource/4c9257d6-39ba-417b-837c-6ef106983790/download/compras-y-contrataciones-de-nivel-central-abril-2022.csv",
+          "name": "Compras y contrataciones de Nivel Central ABRIL 2022 CSV",
+          "format": "CSV",
+          "updatedAt": "2022-07-07T21:12:09.634Z",
+          "description": "Compras y contrataciones de Nivel Central ABRIL 2022 CSV",
+          "landingUrl": ""
+        },
+        {
+          "id": "6f847e81-31bf-4490-8865-cc1875481573",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/f312a9f9-01d4-4ecc-851a-1e7a363312ce/resource/6f847e81-31bf-4490-8865-cc1875481573/download/compras-y-contrataciones-de-nivel-central-abril-2022.xlsx",
+          "name": "Compras y contrataciones de Nivel Central ABRIL 2022 XLS",
+          "format": "XLSX",
+          "updatedAt": "2022-07-07T21:13:17.436Z",
+          "description": "Compras y contrataciones de Nivel Central ABRIL 2022 XLS",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-07-07T21:11:25.100Z",
+      "updatedAt": "2022-07-07T21:13:17.955Z",
+      "contact": {
+        "name": "INSSJP",
+        "email": ""
+      }
+    },
+    {
+      "id": "50cd8374-4467-4421-bf97-4237b1c43bb6",
+      "name": "consejos-paticipativos",
+      "title": "Consejos participativos",
+      "keywords": [],
+      "landingPage": "http://prod-datos.pami.ar/dataset/consejos-paticipativos",
+      "resources": [
+        {
+          "id": "1c2d4f15-d58b-442f-9883-50c79ca9d16f",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/50cd8374-4467-4421-bf97-4237b1c43bb6/resource/1c2d4f15-d58b-442f-9883-50c79ca9d16f/download/acta-n-002-cpr-16.pdf",
+          "name": "Acta Consejo Participativo Regional - Provincia de Buenos Aires- Junio 2016",
+          "format": "PDF",
+          "updatedAt": "2022-07-07T20:56:44.381Z",
+          "description": "Consejo participativo realizado el 22 de junio de 2016",
+          "landingUrl": ""
+        },
+        {
+          "id": "0113de18-f181-4563-88d8-821c7fee9fdf",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/50cd8374-4467-4421-bf97-4237b1c43bb6/resource/0113de18-f181-4563-88d8-821c7fee9fdf/download/acta-n-004-cpr-16.pdf",
+          "name": "Acta Consejo Participativo Regional - NOA- Agosto 2016",
+          "format": "PDF",
+          "updatedAt": "2022-07-07T20:57:55.914Z",
+          "description": "Consejo participativo realizado el 6 de agosto de 2016",
+          "landingUrl": ""
+        },
+        {
+          "id": "56127707-59f6-42fa-bb5f-32b7865ce3e7",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/50cd8374-4467-4421-bf97-4237b1c43bb6/resource/56127707-59f6-42fa-bb5f-32b7865ce3e7/download/acta-n-005-cpr-16.pdf",
+          "name": "Acta Consejo Participativo Regional - NEA- Agosto 2016",
+          "format": "PDF",
+          "updatedAt": "2022-07-07T20:59:14.934Z",
+          "description": "Consejo participativo realizado el 9 de agosto de 2016",
+          "landingUrl": ""
+        },
+        {
+          "id": "08d0040f-f655-47c0-8f2a-6434c3fdcbd9",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/50cd8374-4467-4421-bf97-4237b1c43bb6/resource/08d0040f-f655-47c0-8f2a-6434c3fdcbd9/download/acta-n-006-cpr-16.pdf",
+          "name": "Acta Consejo Participativo Regional - Córdoba y Santa Fe- Julio 2016",
+          "format": "PDF",
+          "updatedAt": "2022-07-07T21:00:39.789Z",
+          "description": "Consejo participativo realizado el 21 de julio de 2016.",
+          "landingUrl": ""
+        },
+        {
+          "id": "8c7bb887-8b9c-45ad-9319-147078a9dc5c",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/50cd8374-4467-4421-bf97-4237b1c43bb6/resource/8c7bb887-8b9c-45ad-9319-147078a9dc5c/download/acta-n-007-cpr-16.pdf",
+          "name": "Acta Consejo Participativo Regional - Patagonia- Octubre 2016",
+          "format": "PDF",
+          "updatedAt": "2022-07-07T21:01:52.325Z",
+          "description": "Consejo participativo realizado el 13 de octubre de 2016",
+          "landingUrl": ""
+        },
+        {
+          "id": "6b1b3553-8a22-4305-bac4-766a908d7dcc",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/50cd8374-4467-4421-bf97-4237b1c43bb6/resource/6b1b3553-8a22-4305-bac4-766a908d7dcc/download/resolucion-1006-08.pdf",
+          "name": "Creación de los Consejos Participativos. Resolución 1006/08",
+          "format": "PDF",
+          "updatedAt": "2022-07-07T21:02:59.875Z",
+          "description": "Creación de los Consejos Participativos",
+          "landingUrl": ""
+        },
+        {
+          "id": "77326d4a-770c-4a3b-996c-206356932cb5",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/50cd8374-4467-4421-bf97-4237b1c43bb6/resource/77326d4a-770c-4a3b-996c-206356932cb5/download/resolucion-1108-13.pdf",
+          "name": "Modificación de la frecuencia de la realización de los Consejos Locales y el Consejo Nacional. Resolución 1108/13",
+          "format": "PDF",
+          "updatedAt": "2022-07-07T21:04:09.363Z",
+          "description": "Modificación de la frecuencia de la realización de los Consejos Locales y el Consejo Nacional",
+          "landingUrl": ""
+        },
+        {
+          "id": "84f6afe0-1a54-42f6-9d24-b0a97cda6146",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/50cd8374-4467-4421-bf97-4237b1c43bb6/resource/84f6afe0-1a54-42f6-9d24-b0a97cda6146/download/resolucion-1097-13.pdf",
+          "name": "Creación del Consejo Participativo Regional. Resolución 1097/13",
+          "format": "PDF",
+          "updatedAt": "2022-07-07T21:05:27.074Z",
+          "description": "Creación del Consejo Participativo Regional",
+          "landingUrl": ""
+        },
+        {
+          "id": "8f98c1a0-2b0f-4901-8819-af49e8dbeb61",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/50cd8374-4467-4421-bf97-4237b1c43bb6/resource/8f98c1a0-2b0f-4901-8819-af49e8dbeb61/download/resolucion-0908-10.pdf",
+          "name": "Creación del Consejo Participativo Nacional. Resolución 908/10",
+          "format": "PDF",
+          "updatedAt": "2022-07-07T21:06:55.799Z",
+          "description": "Creación del Consejo Participativo Nacional",
+          "landingUrl": ""
+        },
+        {
+          "id": "a94d94f5-8e2a-494c-8119-226f3f68387a",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/50cd8374-4467-4421-bf97-4237b1c43bb6/resource/a94d94f5-8e2a-494c-8119-226f3f68387a/download/disposicion-9063-15.pdf",
+          "name": "Reglamentación de la adecuada elección y cumplimiento de funciones de los consejeros participativos nacionales. Disposición 9063/15",
+          "format": "PDF",
+          "updatedAt": "2022-07-07T21:08:03.694Z",
+          "description": "Reglamentación de la adecuada elección y cumplimiento de funciones de los consejeros participativos nacionales",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-07-07T20:53:17.146Z",
+      "updatedAt": "2022-08-03T17:39:41.420Z",
+      "contact": {
+        "name": "INSSJP",
+        "email": ""
+      }
+    },
+    {
+      "id": "c56d6465-b486-4be1-af56-0819f769b2af",
+      "name": "convenio-con-laboratorios",
+      "title": "Convenio con laboratorios",
+      "keywords": [],
+      "landingPage": "http://prod-datos.pami.ar/dataset/convenio-con-laboratorios",
+      "resources": [
+        {
+          "id": "2c9d3f6c-64f9-4e37-b62d-b720956f1482",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/c56d6465-b486-4be1-af56-0819f769b2af/resource/2c9d3f6c-64f9-4e37-b62d-b720956f1482/download/conv-0004-2017-low.pdf",
+          "name": "Convenio firmado con laboratorios",
+          "format": "PDF",
+          "updatedAt": "2022-07-07T18:08:58.733Z",
+          "description": "Información sobre los convenios de medicamentos firmados con laboratorios.\r\n",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-07-07T18:06:52.335Z",
+      "updatedAt": "2022-07-07T18:08:58.991Z",
+      "contact": {
+        "name": "INSSJP",
+        "email": ""
+      }
+    },
+    {
+      "id": "78ab3d28-083a-4664-8c34-7a22254f2123",
+      "name": "farmacias",
+      "title": "Farmacias",
+      "keywords": [],
+      "landingPage": "http://prod-datos.pami.ar/dataset/farmacias",
+      "resources": [
+        {
+          "id": "59cb94c1-f968-4340-94ff-8d88409c5758",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/78ab3d28-083a-4664-8c34-7a22254f2123/resource/59cb94c1-f968-4340-94ff-8d88409c5758/download/pami-farmacias.xlsx",
+          "name": "Listado de farmacias",
+          "format": "XLSX",
+          "updatedAt": "2022-07-07T18:03:39.055Z",
+          "description": "Datos sobre las farmacias que dispensan medicamentos de PAMI.",
+          "landingUrl": ""
+        },
+        {
+          "id": "d5eda98b-71f5-4e31-9d4c-4dea51833b38",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/78ab3d28-083a-4664-8c34-7a22254f2123/resource/d5eda98b-71f5-4e31-9d4c-4dea51833b38/download/listado-de-farmacias-pami-1.csv",
+          "name": "Listado de farmacias",
+          "format": "CSV",
+          "updatedAt": "2022-07-07T18:04:23.439Z",
+          "description": "Datos sobre las farmacias que dispensan medicamentos de PAMI.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-07-07T18:01:55.159Z",
+      "updatedAt": "2022-07-07T18:04:23.923Z",
+      "contact": {
+        "name": "INSSJP",
+        "email": ""
+      }
+    },
+    {
+      "id": "7bdd8269-1dc4-43d2-9461-08fb409889e2",
+      "name": "licitaciones-y-adjudicaciones",
+      "title": "Licitaciones y adjudicaciones",
+      "keywords": [],
+      "landingPage": "http://prod-datos.pami.ar/dataset/licitaciones-y-adjudicaciones",
+      "resources": [
+        {
+          "id": "71ffa263-0b4d-4035-a760-857bae8331bc",
+          "downloadUrl": "https://prestadores.pami.org.ar/result.php?c=7-1&vm=2",
+          "name": "Buscador de licitaciones y adjudicaciones de Nivel Central",
+          "format": "",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Buscador de licitaciones y adjudicaciones de Nivel Central",
+          "landingUrl": ""
+        },
+        {
+          "id": "bf830dff-13e1-4409-ad87-be8e17afdd0b",
+          "downloadUrl": "",
+          "name": "Buscador de licitaciones y adjudicaciones de UGLs",
+          "format": "",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Buscador de licitaciones y adjudicaciones de UGLs ",
+          "landingUrl": ""
+        },
+        {
+          "id": "a31a82bb-0547-4aa8-b2ab-fd0151638d73",
+          "downloadUrl": "",
+          "name": "Marco regulatorio de compras",
+          "format": "",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Link a información actualizada del marco regulatorio de compras",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-07-07T21:32:13.910Z",
+      "updatedAt": "2022-08-03T17:49:41.758Z",
+      "contact": {
+        "name": "INSSJP",
+        "email": ""
+      }
+    },
+    {
+      "id": "62eb68ca-3451-453e-9bf0-2a8be84cbe7e",
+      "name": "listado-de-prestadores",
+      "title": "Listado de prestadores",
+      "keywords": [],
+      "landingPage": "http://prod-datos.pami.ar/dataset/listado-de-prestadores",
+      "resources": [
+        {
+          "id": "126ce391-b23f-4cf8-9308-6fb0122e3cb4",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/62eb68ca-3451-453e-9bf0-2a8be84cbe7e/resource/126ce391-b23f-4cf8-9308-6fb0122e3cb4/download/cantidad-de-prestadores-por-ugl-y-modulo.xlsx",
+          "name": "Prestadores médicos por UGL y servicio",
+          "format": "XLSX",
+          "updatedAt": "2022-08-03T20:55:20.201Z",
+          "description": "Instituciones y profesionales médicos que tienen convenio con PAMI para brindar servicios de salud a los afiliados",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-08-03T20:54:40.762Z",
+      "updatedAt": "2022-08-03T20:55:20.561Z",
+      "contact": {
+        "name": "INSSJP",
+        "email": ""
+      }
+    },
+    {
+      "id": "71fc4db2-11f8-4f28-a836-eb799174ae61",
+      "name": "medicamentos-mas-consumidos",
+      "title": "Listado de los medicamentos más consumidos",
+      "keywords": [],
+      "landingPage": "http://prod-datos.pami.ar/dataset/medicamentos-mas-consumidos",
+      "resources": [
+        {
+          "id": "b6409a7e-b6b6-4d90-a6fd-98579c4e3f2c",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/71fc4db2-11f8-4f28-a836-eb799174ae61/resource/b6409a7e-b6b6-4d90-a6fd-98579c4e3f2c/download/rank-medicamento-consumido-.xlsx",
+          "name": "Listado de los medicamentos más consumidos",
+          "format": "XLSX",
+          "updatedAt": "2022-08-03T20:50:50.101Z",
+          "description": "Ranking de los medicamentos más consumidos",
+          "landingUrl": ""
+        },
+        {
+          "id": "d0aa734f-8eaa-4df7-ba1c-8a3c1b553b07",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/71fc4db2-11f8-4f28-a836-eb799174ae61/resource/d0aa734f-8eaa-4df7-ba1c-8a3c1b553b07/download/rank-medicamento-consumido-.csv",
+          "name": "Listado de los medicamentos más consumidos",
+          "format": "CSV",
+          "updatedAt": "2022-08-03T20:51:38.480Z",
+          "description": "Ranking de los medicamentos más consumidos",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-08-03T20:49:51.224Z",
+      "updatedAt": "2022-08-03T20:51:38.960Z",
+      "contact": {
+        "name": "INSSJP",
+        "email": ""
+      }
+    },
+    {
+      "id": "b40f7569-3a23-46bf-8a45-dd7cff41e725",
+      "name": "medicamentos-para-afiliados",
+      "title": "Listado de precios de medicamentos para afiliados",
+      "keywords": [],
+      "landingPage": "http://datos.pami.ar/dataset/medicamentos-para-afiliados",
+      "resources": [
+        {
+          "id": "92ad6862-af8e-4047-b2cb-4bfef705feb3",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/b40f7569-3a23-46bf-8a45-dd7cff41e725/resource/92ad6862-af8e-4047-b2cb-4bfef705feb3/download/afiliados20231204_022206.xlsx",
+          "name": "Listado de precios de medicamentos para Afiliados",
+          "format": "XLSX",
+          "updatedAt": "2023-12-04T21:59:25.974Z",
+          "description": "Listado de medicamentos que cubre PAMI, con el detalle de droga, marca, presentación, laboratorio, precio, cobertura y copago (costo a cargo del afiliado). Fecha de vigencia : 04/12/2023",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-08-03T20:47:12.821Z",
+      "updatedAt": "2023-12-04T21:59:26.050Z",
+      "contact": {
+        "name": "INSSJP",
+        "email": ""
+      }
+    },
+    {
+      "id": "b7a2600f-94e0-48ba-8042-0cd4b556423b",
+      "name": "medicamentos-para-entidades",
+      "title": "Listado de precios de medicamentos para entidades",
+      "keywords": [],
+      "landingPage": "http://datos.pami.org.ar/dataset/medicamentos-para-entidades",
+      "resources": [
+        {
+          "id": "e72a9026-a971-46c1-b828-2638b2b2be37",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/b7a2600f-94e0-48ba-8042-0cd4b556423b/resource/e72a9026-a971-46c1-b828-2638b2b2be37/download/gavade_20231204_022237.xlsx",
+          "name": "Listado de precios de Medicamentos para Entidades",
+          "format": "XLSX",
+          "updatedAt": "2023-12-04T22:00:09.617Z",
+          "description": "Listado de precios de medicamentos para los laboratorios, farmacias, droguerías y otras entidades. Fecha de vigencia: 04/12/2023",
+          "landingUrl": ""
+        },
+        {
+          "id": "59b035cf-09b3-4058-b06b-8e49b99fa698",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/b7a2600f-94e0-48ba-8042-0cd4b556423b/resource/59b035cf-09b3-4058-b06b-8e49b99fa698/download/gavade_20231204_022237.csv",
+          "name": "Listado de precios de Medicamentos para Entidades",
+          "format": "CSV",
+          "updatedAt": "2023-12-04T22:00:49.496Z",
+          "description": "Listado de precios de medicamentos para los laboratorios, farmacias, droguerías y otras entidades. Fecha de vigencia: 04/12/2023",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-06-23T17:58:58.979Z",
+      "updatedAt": "2023-12-04T22:00:49.513Z",
+      "contact": {
+        "name": "INSSJP",
+        "email": ""
+      }
+    },
+    {
+      "id": "84ab8938-c5ab-4c36-82ae-c14d10ec4e83",
+      "name": "nivel-de-uso-de-prestaciones",
+      "title": "Nivel de uso de prestaciones",
+      "keywords": [],
+      "landingPage": "http://prod-datos.pami.ar/dataset/nivel-de-uso-de-prestaciones",
+      "resources": [
+        {
+          "id": "27131650-0c36-46ff-af4a-ab8b31200f82",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/84ab8938-c5ab-4c36-82ae-c14d10ec4e83/resource/27131650-0c36-46ff-af4a-ab8b31200f82/download/cantidad-beneficiario-activo-con-rtf-autorizado.xlsx",
+          "name": "Registro de afiliados con tratamiento farmacológico- Subsidio Social (cobertura al 100% en medicamentos ambulatorios)",
+          "format": "XLSX",
+          "updatedAt": "2022-07-07T20:40:06.704Z",
+          "description": "Afiliados que cuentan con Registro de Tratamiento Farmacológico - Subsidio Social.",
+          "landingUrl": ""
+        },
+        {
+          "id": "4d43ca52-f82d-489e-bb89-92589adcf30f",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/84ab8938-c5ab-4c36-82ae-c14d10ec4e83/resource/4d43ca52-f82d-489e-bb89-92589adcf30f/download/registro-de-afiliados-que-reciben-dialisis.xlsx",
+          "name": "Registro de afiliados que reciben diálisis",
+          "format": "XLSX",
+          "updatedAt": "2022-07-07T20:41:05.640Z",
+          "description": "Cantidad de afiliados que reciben diálisis",
+          "landingUrl": ""
+        },
+        {
+          "id": "51eb9663-1a99-45b4-b9f8-e5b8f2431d33",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/84ab8938-c5ab-4c36-82ae-c14d10ec4e83/resource/51eb9663-1a99-45b4-b9f8-e5b8f2431d33/download/internaciones-en-instituciones-geriatricas.xlsx",
+          "name": "Registro de afiliados internados en instituciones geriátricas",
+          "format": "XLSX",
+          "updatedAt": "2022-07-07T20:42:00.071Z",
+          "description": "Cantidad de afiliados internados en instituciones geriátricas",
+          "landingUrl": ""
+        },
+        {
+          "id": "6dc0b6e4-575a-4ff4-9005-1018de5d3c51",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/84ab8938-c5ab-4c36-82ae-c14d10ec4e83/resource/6dc0b6e4-575a-4ff4-9005-1018de5d3c51/download/cantidad-de-afiliados-tratamiento-de-medicina-fisica-y-rehabilitacion-.xlsx",
+          "name": "Registro de afiliados que utilizan la medicina física y rehabilitación",
+          "format": "XLSX",
+          "updatedAt": "2022-07-07T20:42:56.156Z",
+          "description": "Cantidad de afiliados que utilizan la medicina física y de rehabilitación",
+          "landingUrl": ""
+        },
+        {
+          "id": "54088322-7577-40c9-bf22-63f1d96c1202",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/84ab8938-c5ab-4c36-82ae-c14d10ec4e83/resource/54088322-7577-40c9-bf22-63f1d96c1202/download/cantidad-beneficiario-activo-con-rtf-autorizado.csv",
+          "name": "Registro de afiliados con tratamiento farmacológico- Subsidio Social (cobertura al 100% en medicamentos ambulatorios)",
+          "format": "XLSX",
+          "updatedAt": "2022-07-07T20:43:53.907Z",
+          "description": "Afiliados que cuentan con Registro de Tratamiento Farmacológico - Subsidio Social.",
+          "landingUrl": ""
+        },
+        {
+          "id": "67d74448-7569-469a-bf9e-754164f2ede8",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/84ab8938-c5ab-4c36-82ae-c14d10ec4e83/resource/67d74448-7569-469a-bf9e-754164f2ede8/download/dialisis-afiliados-ultima-liquidacion.csv",
+          "name": "Registro de afiliados que reciben diálisis",
+          "format": "CSV",
+          "updatedAt": "2022-07-07T20:45:12.313Z",
+          "description": "Cantidad de afiliados que reciben diálisis",
+          "landingUrl": ""
+        },
+        {
+          "id": "bcca7637-a1e5-4d1e-add6-d92d5e98e213",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/84ab8938-c5ab-4c36-82ae-c14d10ec4e83/resource/bcca7637-a1e5-4d1e-add6-d92d5e98e213/download/internaciones-en-instituciones-geriatricas.csv",
+          "name": "Registro de afiliados internados en instituciones geriátricas",
+          "format": "CSV",
+          "updatedAt": "2022-07-07T20:46:05.829Z",
+          "description": "Cantidad de afiliados internados en instituciones geriátricas",
+          "landingUrl": ""
+        },
+        {
+          "id": "0e4c603a-d69f-42e1-980b-7cccee54c113",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/84ab8938-c5ab-4c36-82ae-c14d10ec4e83/resource/0e4c603a-d69f-42e1-980b-7cccee54c113/download/cantidad-de-afiliados-tratamiento-de-medicina-fisica-y-rehabilitacion-.csv",
+          "name": "Registro de afiliados que utilizan la medicina física y rehabilitación",
+          "format": "CSV",
+          "updatedAt": "2022-07-07T20:47:09.011Z",
+          "description": "Cantidad de afiliados que utilizan la medicina física y de rehabilitación",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-07-07T20:38:55.122Z",
+      "updatedAt": "2022-07-07T20:47:11.251Z",
+      "contact": {
+        "name": "INSSJP",
+        "email": ""
+      }
+    },
+    {
+      "id": "9937b24d-abad-45fb-8158-c1c5684d2635",
+      "name": "nomenclador",
+      "title": "Nomenclador de prácticas médicas- valor por cápitas y  módulos",
+      "keywords": [],
+      "landingPage": "http://prod-datos.pami.ar/dataset/nomenclador",
+      "resources": [
+        {
+          "id": "bcf595aa-0993-4be2-aa1f-c2c0ad22ccb3",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/9937b24d-abad-45fb-8158-c1c5684d2635/resource/bcf595aa-0993-4be2-aa1f-c2c0ad22ccb3/download/resol-2019-432-inssjp-de-inssjp.pdf",
+          "name": "Valores cápitas ",
+          "format": "PDF",
+          "updatedAt": "2022-08-03T20:58:12.710Z",
+          "description": "Información sobre valores cápitas ",
+          "landingUrl": ""
+        },
+        {
+          "id": "5d32d7a8-3d6a-4ed4-9701-6d4fd024c657",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/9937b24d-abad-45fb-8158-c1c5684d2635/resource/5d32d7a8-3d6a-4ed4-9701-6d4fd024c657/download/nomenclador-comun.csv",
+          "name": "Nomenclador Común",
+          "format": "CSV",
+          "updatedAt": "2022-08-03T20:59:03.820Z",
+          "description": "Listado de prácticas y valores",
+          "landingUrl": ""
+        },
+        {
+          "id": "7ff4c7fc-a984-4cd0-930a-d41d152a6eaf",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/9937b24d-abad-45fb-8158-c1c5684d2635/resource/7ff4c7fc-a984-4cd0-930a-d41d152a6eaf/download/nomenclador-comun.xls",
+          "name": "Nomenclador Común",
+          "format": "XLS",
+          "updatedAt": "2022-08-03T20:59:43.787Z",
+          "description": "Listado de prácticas y valores",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-08-03T20:57:02.082Z",
+      "updatedAt": "2022-08-03T20:59:44.287Z",
+      "contact": {
+        "name": "INSSJP",
+        "email": ""
+      }
+    },
+    {
+      "id": "74a824f9-d837-459b-abcf-d7b350843350",
+      "name": "padron-de-afiliados",
+      "title": "Padrón de afiliados",
+      "keywords": [],
+      "landingPage": "http://prod-datos.pami.ar/dataset/padron-de-afiliados",
+      "resources": [
+        {
+          "id": "f785ded5-04b3-4153-9e74-b32ac9f7fb64",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/74a824f9-d837-459b-abcf-d7b350843350/resource/f785ded5-04b3-4153-9e74-b32ac9f7fb64/download/registro-de-afiliaciones-mensuales-marzo-2022.xlsx",
+          "name": "Registro de afiliaciones mensuales (Marzo 2022)",
+          "format": "XLSX",
+          "updatedAt": "2022-07-07T18:25:10.877Z",
+          "description": "Cantidad de altas de afiliados diferenciado por UGL",
+          "landingUrl": ""
+        },
+        {
+          "id": "6a73a0c9-d1f5-4129-a800-d6a2cb32beaf",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/74a824f9-d837-459b-abcf-d7b350843350/resource/6a73a0c9-d1f5-4129-a800-d6a2cb32beaf/download/cantidad-de-beneficios-activos-por-ugl_-rango-edad-y-sexo-.xlsx",
+          "name": "Afiliados activos (marzo 2022)",
+          "format": "XLSX",
+          "updatedAt": "2022-07-07T18:26:22.703Z",
+          "description": "Afiliados separados por rango etario y género",
+          "landingUrl": ""
+        },
+        {
+          "id": "9842956a-9665-43ce-9132-284e344598f2",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/74a824f9-d837-459b-abcf-d7b350843350/resource/9842956a-9665-43ce-9132-284e344598f2/download/registro-de-afiliaciones-marzo-2022.csv",
+          "name": "Registro de afiliaciones mensuales (Marzo 2022)",
+          "format": "CSV",
+          "updatedAt": "2022-07-07T18:27:27.392Z",
+          "description": "Cantidad de altas de afiliados diferenciado por UGL",
+          "landingUrl": ""
+        },
+        {
+          "id": "41bcdda9-68a1-4efb-9ac0-6f57a48dd070",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/74a824f9-d837-459b-abcf-d7b350843350/resource/41bcdda9-68a1-4efb-9ac0-6f57a48dd070/download/afiliados-activos-marzo-2022.xlsx",
+          "name": "Afiliados activos (marzo 2022) XLS",
+          "format": "XLSX",
+          "updatedAt": "2022-07-07T18:28:18.686Z",
+          "description": "Afiliados activos (marzo 2022) XLS",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-07-07T18:23:09.182Z",
+      "updatedAt": "2022-07-07T18:28:19.476Z",
+      "contact": {
+        "name": "INSSJP",
+        "email": ""
+      }
+    },
+    {
+      "id": "86a511ca-734a-4913-8574-a53d9db4ede0",
+      "name": "presupuesto",
+      "title": "Presupuesto institucional",
+      "keywords": [],
+      "landingPage": "http://prod-datos.pami.ar/dataset/presupuesto",
+      "resources": [
+        {
+          "id": "54cadda3-916a-4aa4-996f-71ec4f313f2f",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/86a511ca-734a-4913-8574-a53d9db4ede0/resource/54cadda3-916a-4aa4-996f-71ec4f313f2f/download/presupuesto-2.xls",
+          "name": "Presupuesto estimado 2016",
+          "format": "XLSX",
+          "updatedAt": "2022-08-03T20:33:03.417Z",
+          "description": "Calculo estimado anual de la distribución de gastos e ingresos de PAMI para el ejercicio 2016 incluyendo aperturas por categoría, centro gestor y objeto del gasto.",
+          "landingUrl": ""
+        },
+        {
+          "id": "64f4f80b-22f9-4d03-8f6e-8e052bf7e555",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/86a511ca-734a-4913-8574-a53d9db4ede0/resource/64f4f80b-22f9-4d03-8f6e-8e052bf7e555/download/reso-n-01-17-x-partida-2.xls",
+          "name": "Presupuesto estimado 2017",
+          "format": "XLSX",
+          "updatedAt": "2022-08-03T20:33:58.320Z",
+          "description": "Calculo estimado anual de la distribución de gastos e ingresos de PAMI para el ejercicio 2017 incluyendo aperturas por categoría, centro gestor y objeto del gasto.",
+          "landingUrl": ""
+        },
+        {
+          "id": "a459921e-7332-49ff-9829-c6dc9be7d33a",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/86a511ca-734a-4913-8574-a53d9db4ede0/resource/a459921e-7332-49ff-9829-c6dc9be7d33a/download/presupuesto-2018.xlsx",
+          "name": "Presupuesto estimado 2018 ",
+          "format": "XLSX",
+          "updatedAt": "2022-08-03T20:34:52.061Z",
+          "description": "Presupuesto Institucional Estimado 2018",
+          "landingUrl": ""
+        },
+        {
+          "id": "293cef98-630b-4889-a79e-ef87151acc11",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/86a511ca-734a-4913-8574-a53d9db4ede0/resource/293cef98-630b-4889-a79e-ef87151acc11/download/apertura-presupuesto-2019.xls",
+          "name": "Presupuesto estimado 2019",
+          "format": "XLS",
+          "updatedAt": "2022-08-03T20:35:37.318Z",
+          "description": "Presupuesto Institucional Estimado 2019 ",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-08-03T20:32:00.803Z",
+      "updatedAt": "2022-08-03T20:35:38.360Z",
+      "contact": {
+        "name": "INSSJP",
+        "email": ""
+      }
+    },
+    {
+      "id": "3a21b5a8-a35e-4958-a7dd-0c1a502ab735",
+      "name": "programa-prosar",
+      "title": "Programa PROSAR",
+      "keywords": [],
+      "landingPage": "http://prod-datos.pami.ar/dataset/programa-prosar",
+      "resources": [
+        {
+          "id": "dd7017f6-1eac-4549-880c-15bbd43d6b73",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/3a21b5a8-a35e-4958-a7dd-0c1a502ab735/resource/dd7017f6-1eac-4549-880c-15bbd43d6b73/download/listado-prestaciones-modalidad-por-anio.xlsx",
+          "name": "Subsidios individuales correspondiente al Programa PROSAR.",
+          "format": "XLSX",
+          "updatedAt": "2022-08-03T21:03:31.959Z",
+          "description": "Cantidad de subsidios individuales agrupados por tipo de subsidio.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-08-03T21:02:50.813Z",
+      "updatedAt": "2022-08-03T21:03:32.294Z",
+      "contact": {
+        "name": "INSSJP",
+        "email": ""
+      }
+    },
+    {
+      "id": "e7a05259-51a8-4f8f-8800-5aa02a96b64d",
+      "name": "puntos-de-vacunacion",
+      "title": "Puntos de vacunación",
+      "keywords": [],
+      "landingPage": "http://prod-datos.pami.ar/dataset/puntos-de-vacunacion",
+      "resources": [
+        {
+          "id": "b76a1247-357d-4b10-85b5-cdc34dc2d436",
+          "downloadUrl": "",
+          "name": "Puntos de vacunación de PAMI",
+          "format": "",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Puntos de vacunación de PAMI",
+          "landingUrl": ""
+        },
+        {
+          "id": "2ce15ce1-4d69-41c8-84b9-27a068ba4017",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/e7a05259-51a8-4f8f-8800-5aa02a96b64d/resource/2ce15ce1-4d69-41c8-84b9-27a068ba4017/download/listado-puntos-vacunacion.csv",
+          "name": "Puntos de vacunación de PAMI",
+          "format": "CSV",
+          "updatedAt": "2022-08-03T21:21:14.760Z",
+          "description": "Datos sobre los puntos de vacunación de PAMI.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-08-03T21:19:24.974Z",
+      "updatedAt": "2022-08-03T21:21:15.136Z",
+      "contact": {
+        "name": "INSSJP",
+        "email": ""
+      }
+    },
+    {
+      "id": "aae1eff2-54ff-442a-b69d-b56fc4b61eb0",
+      "name": "receta-electronica",
+      "title": "Receta electrónica",
+      "keywords": [],
+      "landingPage": "http://prod-datos.pami.ar/dataset/receta-electronica",
+      "resources": [
+        {
+          "id": "1c2f0d91-e3cf-45ab-bbb3-024b04835618",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/aae1eff2-54ff-442a-b69d-b56fc4b61eb0/resource/1c2f0d91-e3cf-45ab-bbb3-024b04835618/download/receta-electronica-2015.xlsx",
+          "name": "Recetas electrónicas emitidas en 2015",
+          "format": "XLSX",
+          "updatedAt": "2022-07-07T18:16:33.780Z",
+          "description": "Cantidad de recetas electrónicas emitidas en 2015, por UGL",
+          "landingUrl": ""
+        },
+        {
+          "id": "fb62b14f-515f-49aa-abf0-8023b80b20b4",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/aae1eff2-54ff-442a-b69d-b56fc4b61eb0/resource/fb62b14f-515f-49aa-abf0-8023b80b20b4/download/recetas-electronicas-y-manuales-por-ano-2016-2.xlsx",
+          "name": "Recetas electrónicas emitidas en 2016",
+          "format": "XLSX",
+          "updatedAt": "2022-07-07T18:17:33.863Z",
+          "description": "Cantidad de recetas electrónicas emitidas en 2016, por UGL",
+          "landingUrl": ""
+        },
+        {
+          "id": "73442f71-5d79-4d32-88e0-9f3f3ea1acf2",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/aae1eff2-54ff-442a-b69d-b56fc4b61eb0/resource/73442f71-5d79-4d32-88e0-9f3f3ea1acf2/download/recetas-electronicas-y-manuales-por-ano.xlsx",
+          "name": "Recetas electrónicas emitidas en 2017",
+          "format": "XLSX",
+          "updatedAt": "2022-07-07T18:18:32.113Z",
+          "description": "Cantidad de recetas electrónicas emitidas en 2017, por UGL",
+          "landingUrl": ""
+        },
+        {
+          "id": "c816266c-9628-4102-bf3e-c502483a3ac7",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/aae1eff2-54ff-442a-b69d-b56fc4b61eb0/resource/c816266c-9628-4102-bf3e-c502483a3ac7/download/recetas-electronicas-y-manuales-por-ano2018.xlsx",
+          "name": "Recetas electrónicas emitidas en 2018",
+          "format": "XLSX",
+          "updatedAt": "2022-07-07T18:19:34.086Z",
+          "description": "Cantidad de recetas electrónicas emitidas en el año 2018, por UGL.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-07-07T18:14:40.870Z",
+      "updatedAt": "2022-07-07T18:19:35.119Z",
+      "contact": {
+        "name": "INSSJP",
+        "email": ""
+      }
+    },
+    {
+      "id": "80dfb7f3-7cc6-4ff0-b897-0f461c3f1503",
+      "name": "residencias-larga-estadia",
+      "title": "Residencias de larga estadía",
+      "keywords": [],
+      "landingPage": "http://datos.pami.org.ar/dataset/residencias-larga-estadia",
+      "resources": [
+        {
+          "id": "ed272b44-0acd-489e-baf3-36442a80cb9a",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/80dfb7f3-7cc6-4ff0-b897-0f461c3f1503/resource/ed272b44-0acd-489e-baf3-36442a80cb9a/download/normativa-general-de-geriatria.pdf",
+          "name": "Normativa general de geriatría",
+          "format": "PDF",
+          "updatedAt": "2022-08-03T21:13:44.947Z",
+          "description": "Normativa general de geriatría",
+          "landingUrl": ""
+        },
+        {
+          "id": "dc830057-cb6a-48f8-8050-eaef47d1b1e3",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/80dfb7f3-7cc6-4ff0-b897-0f461c3f1503/resource/dc830057-cb6a-48f8-8050-eaef47d1b1e3/download/aranceles-vigentes.pdf",
+          "name": "Aranceles vigentes a partir del 1-7-17",
+          "format": "PDF",
+          "updatedAt": "2022-08-03T21:14:57.109Z",
+          "description": "Aranceles vigentes a partir del 1-7-17.",
+          "landingUrl": ""
+        },
+        {
+          "id": "486c1b90-f0ea-46d8-99d9-2c904194d8e0",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/80dfb7f3-7cc6-4ff0-b897-0f461c3f1503/resource/486c1b90-f0ea-46d8-99d9-2c904194d8e0/download/listado-de-prestadores-de-geriatria-2.xlsx",
+          "name": "Residencias de larga estadía",
+          "format": "XLSX",
+          "updatedAt": "2022-08-03T21:15:34.064Z",
+          "description": "Datos sobre los prestadores que brindan servicios de residencia geriátrica.",
+          "landingUrl": ""
+        },
+        {
+          "id": "f6231748-a196-4406-8486-ceeedccd32dd",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/80dfb7f3-7cc6-4ff0-b897-0f461c3f1503/resource/f6231748-a196-4406-8486-ceeedccd32dd/download/listado-de-prestadores-de-geriatria-2.csv",
+          "name": "Residencias geriátricas",
+          "format": "CSV",
+          "updatedAt": "2022-08-03T21:16:06.699Z",
+          "description": "Datos sobre los prestadores que brindan servicios de residencia geriátrica.",
+          "landingUrl": ""
+        },
+        {
+          "id": "57475c56-4413-4cec-b749-482ad6269f16",
+          "downloadUrl": "http://datos.pami.org.ar/dataset/80dfb7f3-7cc6-4ff0-b897-0f461c3f1503/resource/57475c56-4413-4cec-b749-482ad6269f16/download/listado-residencias-terc.-de-larga-estadia-al-1-de-mayo-de-2022.xlsx",
+          "name": "Residencias de larga estadía 01/05/2022",
+          "format": "XLSX",
+          "updatedAt": "2022-08-03T21:16:48.024Z",
+          "description": "Datos sobre los prestadores que brindan servicios de residencia de larga estadía al 1ero de mayo de 2022.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-08-03T21:12:28.972Z",
+      "updatedAt": "2022-09-19T22:10:35.584Z",
+      "contact": {
+        "name": "INSSJP",
+        "email": ""
+      }
+    }
+  ],
+  "organizations": [],
+  "updatedAt": "2023-12-09T08:59:31.863Z"
+}

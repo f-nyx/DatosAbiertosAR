@@ -1,0 +1,123 @@
+{
+  "id": "Baf6HJIIAV",
+  "datasets": [
+    {
+      "id": "b4d85de6-21f0-4597-998f-5dd69c82c54f",
+      "name": "reclamos-resueltos-distribuidoras-gas-natural",
+      "title": "Reclamos resueltos por las Distribuidoras de gas natural",
+      "keywords": [
+        "gas",
+        "gas natural",
+        "reclamos"
+      ],
+      "landingPage": "https://transparencia.enargas.gov.ar/dataset/reclamos-resueltos-distribuidoras-gas-natural",
+      "resources": [
+        {
+          "id": "5107413d-bd05-4b1a-9e68-b125b576a0cf",
+          "downloadUrl": "https://transparencia.enargas.gov.ar/dataset/b4d85de6-21f0-4597-998f-5dd69c82c54f/resource/5107413d-bd05-4b1a-9e68-b125b576a0cf/download/reclamos_prestadoras_2022.csv",
+          "name": "Reclamos de Distribuidoras resueltos en 2022",
+          "format": "CSV",
+          "updatedAt": "2022-07-29T20:48:57.087Z",
+          "description": "Cantidad de Reclamos resueltos en el año 2022 por Licenciataria del servicio de distribución de gas natural, Grupo, Vía de ingreso, Clasificación, Provincia y Mes/Año."
+        },
+        {
+          "id": "0531f67a-5635-43fc-ab22-30d427c183a7",
+          "downloadUrl": "https://transparencia.enargas.gov.ar/dataset/b4d85de6-21f0-4597-998f-5dd69c82c54f/resource/0531f67a-5635-43fc-ab22-30d427c183a7/download/reclamos_prestadoras_2021.csv",
+          "name": "Reclamos de Distribuidoras resueltos en 2021",
+          "format": "CSV",
+          "updatedAt": "2022-02-24T20:59:28.246Z",
+          "description": "Cantidad de Reclamos resueltos en el año 2021 por Licenciataria del servicio de distribución de gas natural, Grupo, Vía de ingreso, Clasificación, Provincia y Mes/Año."
+        },
+        {
+          "id": "7e1ff68b-6906-4e78-964c-22d705e51c69",
+          "downloadUrl": "https://transparencia.enargas.gov.ar/dataset/b4d85de6-21f0-4597-998f-5dd69c82c54f/resource/7e1ff68b-6906-4e78-964c-22d705e51c69/download/reclamos_prestadoras_2020.csv",
+          "name": "Reclamos de Distribuidoras resueltos en 2020",
+          "format": "CSV",
+          "updatedAt": "2021-05-10T20:25:48.535Z",
+          "description": "Cantidad de Reclamos resueltos en el año 2020 por Licenciataria del servicio de distribución de gas natural, Grupo, Vía de ingreso, Clasificación, Provincia y Mes/Año."
+        },
+        {
+          "id": "1faa9ba2-26f1-47c3-a3f0-a92b80775c4f",
+          "downloadUrl": "https://transparencia.enargas.gov.ar/dataset/b4d85de6-21f0-4597-998f-5dd69c82c54f/resource/1faa9ba2-26f1-47c3-a3f0-a92b80775c4f/download/reclamos_prestadoras_2019.csv",
+          "name": "Reclamos de Distribuidoras resueltos en 2019",
+          "format": "CSV",
+          "updatedAt": "2020-08-28T01:36:14.904Z",
+          "description": "Cantidad de Reclamos resueltos en el año 2019 por Licenciataria del servicio de distribución de gas natural, Grupo, Vía de ingreso, Clasificación, Provincia y Mes/Año."
+        },
+        {
+          "id": "b9f0e8d1-1994-473d-b128-6f82888734f2",
+          "downloadUrl": "https://transparencia.enargas.gov.ar/dataset/b4d85de6-21f0-4597-998f-5dd69c82c54f/resource/b9f0e8d1-1994-473d-b128-6f82888734f2/download/reclamos_prestadoras_2018.csv",
+          "name": "Reclamos de Distribuidoras resueltos en 2018",
+          "format": "CSV",
+          "updatedAt": "2020-08-28T01:35:54.423Z",
+          "description": "Cantidad de Reclamos resueltos en el año 2018  por Licenciataria del servicio de distribución de gas natural, Grupo, Vía de ingreso, Clasificación, Provincia y Mes/Año."
+        }
+      ],
+      "createdAt": "2019-11-13T21:10:11.971Z",
+      "updatedAt": "2022-07-29T20:49:37.363Z",
+      "contact": {
+        "name": "Gerencia de Protección del Usuario (GPU)",
+        "email": "msvesprini@enargas.gov.ar"
+      }
+    },
+    {
+      "id": "2d9707fd-d57f-41f1-8065-c4c6ab53a630",
+      "name": "reclamos-resueltos-enargas",
+      "title": "Reclamos resueltos por el ENARGAS",
+      "keywords": [
+        "reclamos enargas enrg gas"
+      ],
+      "landingPage": "https://transparencia.enargas.gov.ar/dataset/reclamos-resueltos-enargas",
+      "resources": [
+        {
+          "id": "9a87762b-f81e-43ef-964c-e90f46d22e58",
+          "downloadUrl": "https://transparencia.enargas.gov.ar/dataset/2d9707fd-d57f-41f1-8065-c4c6ab53a630/resource/9a87762b-f81e-43ef-964c-e90f46d22e58/download/reclamos_enargas_2022.csv",
+          "name": "Reclamos ENARGAS resueltos en 2022",
+          "format": "CSV",
+          "updatedAt": "2022-07-08T23:11:24.988Z",
+          "description": "Cantidad de Reclamos ENRG “RESUELTOS” durante el año 2022 por Delegación Regional/Sede Central, Prestadora, Tipo, Origen, Provincia y Mes/Año."
+        },
+        {
+          "id": "79073c57-5723-498e-b3f2-a07d90bce533",
+          "downloadUrl": "https://transparencia.enargas.gov.ar/dataset/2d9707fd-d57f-41f1-8065-c4c6ab53a630/resource/79073c57-5723-498e-b3f2-a07d90bce533/download/reclamos_enargas_2021.csv",
+          "name": "Reclamos ENARGAS resueltos en 2021",
+          "format": "CSV",
+          "updatedAt": "2022-01-05T16:23:47.090Z",
+          "description": "Cantidad de Reclamos ENRG “RESUELTOS” durante el año 2021 por Delegación Regional/Sede Central, Prestadora, Tipo, Origen, Provincia y Mes/Año."
+        },
+        {
+          "id": "3cc8b728-63ca-4af0-afeb-de492b399b86",
+          "downloadUrl": "https://transparencia.enargas.gov.ar/dataset/2d9707fd-d57f-41f1-8065-c4c6ab53a630/resource/3cc8b728-63ca-4af0-afeb-de492b399b86/download/reclamos_enargas_2020.csv",
+          "name": "Reclamos ENARGAS resueltos en 2020",
+          "format": "CSV",
+          "updatedAt": "2021-02-04T17:09:48.126Z",
+          "description": "Cantidad de Reclamos ENRG “RESUELTOS” durante el año 2020 por Delegación Regional/Sede Central, Prestadora, Tipo, Origen, Provincia y Mes/Año."
+        },
+        {
+          "id": "60e80817-bbca-44fc-8df4-06a0f441cd6e",
+          "downloadUrl": "https://transparencia.enargas.gov.ar/dataset/2d9707fd-d57f-41f1-8065-c4c6ab53a630/resource/60e80817-bbca-44fc-8df4-06a0f441cd6e/download/reclamos_enargas_2019.csv",
+          "name": "Reclamos ENARGAS resueltos en 2019",
+          "format": "CSV",
+          "updatedAt": "2020-11-04T19:38:44.984Z",
+          "description": "Cantidad de Reclamos ENRG “RESUELTOS” durante el año 2019 por Delegación Regional/Sede Central, Prestadora, Tipo, Origen, Provincia y Mes/Año. "
+        },
+        {
+          "id": "8da31d71-57f2-4e77-bd07-604489b18e6d",
+          "downloadUrl": "https://transparencia.enargas.gov.ar/dataset/2d9707fd-d57f-41f1-8065-c4c6ab53a630/resource/8da31d71-57f2-4e77-bd07-604489b18e6d/download/reclamos_enargas_2018.csv",
+          "name": "Reclamos ENARGAS resueltos en 2018",
+          "format": "CSV",
+          "updatedAt": "2020-11-04T19:39:12.633Z",
+          "description": "Cantidad de Reclamos ENRG “RESUELTOS” durante el año 2018 por Delegación Regional/Sede Central, Prestadora, Tipo, Origen y Mes/Año."
+        }
+      ],
+      "createdAt": "2019-11-13T17:05:38.290Z",
+      "updatedAt": "2022-07-08T23:13:13.878Z",
+      "contact": {
+        "name": "Gerencia de Protección del Usuario (GPU)",
+        "email": "cjmasin@enargas.gov.ar"
+      }
+    }
+  ],
+  "organizations": [],
+  "updatedAt": "2023-12-09T08:45:41.077Z"
+}

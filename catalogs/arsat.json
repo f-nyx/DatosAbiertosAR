@@ -1,0 +1,530 @@
+{
+  "id": "yjmcFqFKPz",
+  "datasets": [
+    {
+      "id": "33eba195-dd8d-4136-a5e9-124235f734ed",
+      "name": "balances",
+      "title": "Balances",
+      "keywords": [
+        "balances"
+      ],
+      "landingPage": "https://datos.arsat.com.ar/dataset/balances",
+      "resources": [
+        {
+          "id": "68fb72c5-47fd-441a-a423-72601f4566ca",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/33eba195-dd8d-4136-a5e9-124235f734ed/resource/68fb72c5-47fd-441a-a423-72601f4566ca/download/balance-2018-legalizado.cleaned.pdf",
+          "name": "Balance 2018",
+          "format": "PDF",
+          "updatedAt": "2023-10-24T17:01:02.185Z",
+          "description": "Documentación correspondiente al Balance del año 2018.",
+          "landingUrl": ""
+        },
+        {
+          "id": "20e34c5f-5e5e-4b39-810a-707b76f76c59",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/33eba195-dd8d-4136-a5e9-124235f734ed/resource/20e34c5f-5e5e-4b39-810a-707b76f76c59/download/balance-arsat-2017-legalizado.cleaned.pdf",
+          "name": "Balance 2017",
+          "format": "PDF",
+          "updatedAt": "2023-10-24T16:54:43.119Z",
+          "description": "Documentación correspondiente al Balance del año 2017.",
+          "landingUrl": ""
+        },
+        {
+          "id": "d803c1df-4190-46e7-bbb5-aad482e60d4d",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/33eba195-dd8d-4136-a5e9-124235f734ed/resource/d803c1df-4190-46e7-bbb5-aad482e60d4d/download/balance-2016-legalizado.cleaned.pdf",
+          "name": "Balance 2016",
+          "format": "PDF",
+          "updatedAt": "2023-10-24T16:59:58.825Z",
+          "description": "Documentación correspondiente al Balance del año 2016",
+          "landingUrl": ""
+        },
+        {
+          "id": "37b618f1-abc0-4f31-819e-60f0b0493678",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/33eba195-dd8d-4136-a5e9-124235f734ed/resource/37b618f1-abc0-4f31-819e-60f0b0493678/download/balance-2015-completo-legalizado.pdf",
+          "name": "Balance 2015",
+          "format": "PDF",
+          "updatedAt": "2023-10-24T16:58:01.813Z",
+          "description": "Documentación correspondiente al Balance del año 2015",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-10-24T16:52:23.772Z",
+      "updatedAt": "2023-10-26T18:32:53.511Z",
+      "contact": {
+        "name": "ARSAT",
+        "email": ""
+      }
+    },
+    {
+      "id": "7b39da75-957b-4a70-8ae4-c801b69e2a75",
+      "name": "cinear-play",
+      "title": "Cine.Ar Play",
+      "keywords": [
+        "36 festival de cine mar del plata",
+        "a la carta",
+        "arsat",
+        "cine",
+        "cine argentino",
+        "cine nacional",
+        "cine.ar estrenos",
+        "cine.ar play",
+        "cortos",
+        "documentales",
+        "donde quieras cuando quieras",
+        "incaa",
+        "jueves estreno",
+        "ott",
+        "odeón",
+        "on demand",
+        "plataformas",
+        "series",
+        "series web"
+      ],
+      "landingPage": "https://datos.arsat.com.ar/dataset/cinear-play",
+      "resources": [
+        {
+          "id": "4e44f9ec-e280-4cc3-84f3-ea9935f0165a",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/7b39da75-957b-4a70-8ae4-c801b69e2a75/resource/4e44f9ec-e280-4cc3-84f3-ea9935f0165a/download/cinear-visualizaciones-totales-2023-09_v1.csv",
+          "name": "Visualizaciones Totales",
+          "format": "CSV",
+          "updatedAt": "2023-10-11T13:37:21.359Z",
+          "description": "Cantidad de visualizaciones totales en todo un período, independientemente de los usuarios que las realizan.",
+          "landingUrl": ""
+        },
+        {
+          "id": "b5fa629c-a435-4b93-82f5-b1c8589c9c4a",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/7b39da75-957b-4a70-8ae4-c801b69e2a75/resource/b5fa629c-a435-4b93-82f5-b1c8589c9c4a/download/cinear-usuarios-unicos-visualizaciones-2023-09_v1.csv",
+          "name": "Usuarios Únicos con Visualizaciones",
+          "format": "CSV",
+          "updatedAt": "2023-10-11T13:37:42.585Z",
+          "description": "Son quienes realizan dichas visualizaciones. Un usuario único puede realizar muchas visualizaciones de un mismo contenido o de diferentes contenidos, en un mismo período.",
+          "landingUrl": ""
+        },
+        {
+          "id": "af95daed-ad0f-4ce6-8642-18ea913be6f6",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/7b39da75-957b-4a70-8ae4-c801b69e2a75/resource/af95daed-ad0f-4ce6-8642-18ea913be6f6/download/cinear-nuevos-usuarios-2023-09_v1.csv",
+          "name": "Usuarios Nuevos",
+          "format": "CSV",
+          "updatedAt": "2023-10-11T13:38:02.409Z",
+          "description": "Usuarios que se van registrando exitosamente en la plataforma y pasan a ser parte de los usuarios activos de Cine.Ar Play, mes a mes.",
+          "landingUrl": ""
+        },
+        {
+          "id": "5c280bb8-f95c-41bb-8982-44ac2837837f",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/7b39da75-957b-4a70-8ae4-c801b69e2a75/resource/5c280bb8-f95c-41bb-8982-44ac2837837f/download/cinear-total-horas-vistas-2023-09_v1.csv",
+          "name": "Horas Vistas",
+          "format": "CSV",
+          "updatedAt": "2023-10-11T13:38:24.791Z",
+          "description": "Cantidad de tiempo, medido en horas, que se ve la plataforma en un periodo determinado.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-11-15T14:01:55.120Z",
+      "updatedAt": "2023-10-11T13:40:20.569Z",
+      "contact": {
+        "name": "ARSAT",
+        "email": ""
+      }
+    },
+    {
+      "id": "ab3bdf82-fb8e-49a4-baa1-0ebd20969c17",
+      "name": "cobertura-satelite-arsat-1",
+      "title": "Cobertura Satélite ARSAT-1",
+      "keywords": [
+        "arsat-1",
+        "cobertura",
+        "satélite"
+      ],
+      "landingPage": "http://datos.arsat.com.ar/dataset/cobertura-satelite-arsat-1",
+      "resources": [
+        {
+          "id": "23386e6f-48cb-4334-a206-347b65f41a57",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/ab3bdf82-fb8e-49a4-baa1-0ebd20969c17/resource/23386e6f-48cb-4334-a206-347b65f41a57/download/datos-cobertura-banda-ku-arsat1-v2.csv",
+          "name": "Datos del área de cobertura de la Banda KU del satélite ARSAT-1",
+          "format": "CSV",
+          "updatedAt": "2021-06-16T17:42:05.338Z",
+          "description": "Coordenadas satelitales del área de cobertura de la Banda KU del satélite ARSAT-1",
+          "landingUrl": ""
+        },
+        {
+          "id": "2961ec87-df3b-46c3-8efe-c6a6dfa2f36a",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/ab3bdf82-fb8e-49a4-baa1-0ebd20969c17/resource/2961ec87-df3b-46c3-8efe-c6a6dfa2f36a/download/area-de-cobertura-de-la-banda-ku-del-satelite-arsat-1_v2.kml",
+          "name": "Área de cobertura de la Banda KU del satélite ARSAT-1",
+          "format": "KML",
+          "updatedAt": "2021-01-29T17:13:25.500Z",
+          "description": "Mapa que ilustra la pisada de la Banda KU del satélite geoestacionario ARSAT-1 sobre el territorio de la República Argentina.\r\n\r\n",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-01-11T19:16:55.171Z",
+      "updatedAt": "2021-06-16T17:42:05.353Z",
+      "contact": {
+        "name": "ARSAT",
+        "email": ""
+      }
+    },
+    {
+      "id": "8b4c494c-c810-4292-9ed2-68b4aed3abcc",
+      "name": "cobertura-satelite-arsat-2",
+      "title": "Cobertura Satélite ARSAT-2",
+      "keywords": [
+        "arsat-2",
+        "cobertura",
+        "satélite"
+      ],
+      "landingPage": "http://datos.arsat.com.ar/dataset/cobertura-satelite-arsat-2",
+      "resources": [
+        {
+          "id": "0e0a0e8e-9259-49f6-94f7-4ce6bd2c7b07",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/8b4c494c-c810-4292-9ed2-68b4aed3abcc/resource/0e0a0e8e-9259-49f6-94f7-4ce6bd2c7b07/download/datos-cobertura-banda-ku-arsat2-sudamerica-v2.csv",
+          "name": "Datos del área de cobertura en Banda KU del satélite ARSAT-2 en América del Sur",
+          "format": "CSV",
+          "updatedAt": "2021-06-16T17:51:17.905Z",
+          "description": "Coordenadas satelitales que demarcan los límites del área de cobertura de la Banda KU del satélite ARSAT-2 en el hemisferio sur del continente americano",
+          "landingUrl": ""
+        },
+        {
+          "id": "4958d9ee-5c79-4c51-950b-f57266521d03",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/8b4c494c-c810-4292-9ed2-68b4aed3abcc/resource/4958d9ee-5c79-4c51-950b-f57266521d03/download/datos-cobertura-banda-ku-arsat2-america-v2.csv",
+          "name": "Datos del área de cobertura de la Banda C del satélite ARSAT-2 en América",
+          "format": "CSV",
+          "updatedAt": "2021-06-16T17:51:41.363Z",
+          "description": "Coordenadas satelitales que demarcan los límites del área de cobertura de la Banda C del satélite ARSAT-2 en el continente americano.\r\n\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "e4048e00-634a-4433-98c2-95dde831684a",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/8b4c494c-c810-4292-9ed2-68b4aed3abcc/resource/e4048e00-634a-4433-98c2-95dde831684a/download/datos-cobertura-banda-ku-arsat2-norteamerica-v2.csv",
+          "name": "Datos del área de cobertura de la Banda KU del satélite ARSAT-2 en Norteamérica",
+          "format": "CSV",
+          "updatedAt": "2021-06-16T17:50:53.438Z",
+          "description": "Coordenadas satelitales que demarcan los límites del área de cobertura de la Banda KU del satélite ARSAT-2 en el hemisferio norte del continente americano",
+          "landingUrl": ""
+        },
+        {
+          "id": "05c58b4a-02ef-44cb-9677-68d6e77d32ca",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/8b4c494c-c810-4292-9ed2-68b4aed3abcc/resource/05c58b4a-02ef-44cb-9677-68d6e77d32ca/download/area-de-cobertura-de-la-banda-c-del-satelite-arsat-2-en-america.kml",
+          "name": "Área de cobertura de la Banda C del satélite ARSAT-2 en América",
+          "format": "KMZ",
+          "updatedAt": "2021-01-11T20:35:59.785Z",
+          "description": "Mapa que ilustra la pisada de la banda C del satélite geoestacionario ARSAT-2 sobre el continente americano.\r\n\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "b79de8c5-8088-4414-8648-668b22a0be94",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/8b4c494c-c810-4292-9ed2-68b4aed3abcc/resource/b79de8c5-8088-4414-8648-668b22a0be94/download/area-de-cobertura-de-la-banda-ku-del-satelite-arsat-2-en-norte-america.kml",
+          "name": "Área de cobertura de la Banda KU del satélite ARSAT-2 en Norte América",
+          "format": "KMZ",
+          "updatedAt": "2021-01-11T20:38:06.549Z",
+          "description": "Mapa que ilustra la pisada de la banda KU del satélite geoestacionario ARSAT-2 sobre el hemisferio norte del continente americano.\r\n\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "5c188b7d-677a-4e97-b190-c8b18fe2289b",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/8b4c494c-c810-4292-9ed2-68b4aed3abcc/resource/5c188b7d-677a-4e97-b190-c8b18fe2289b/download/area-de-cobertura-de-la-banda-ku-del-satelite-arsat-2-en-america-del-sur.kml",
+          "name": "Área de cobertura de la Banda KU del satélite ARSAT-2 en América del Sur",
+          "format": "KMZ",
+          "updatedAt": "2021-01-11T20:39:10.386Z",
+          "description": "Mapa que ilustra la pisada de la banda KU del satélite geoestacionario ARSAT-2 sobre el hemisferio sur del continente americano.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-01-11T19:42:38.812Z",
+      "updatedAt": "2021-06-16T17:51:41.382Z",
+      "contact": {
+        "name": "ARSAT",
+        "email": ""
+      }
+    },
+    {
+      "id": "e83435ac-33c1-4dcc-94b0-36f2c99d4360",
+      "name": "ejecuciones-presupuestarias",
+      "title": "Ejecuciones presupuestarias",
+      "keywords": [
+        "ejecución",
+        "presupuesto"
+      ],
+      "landingPage": "http://datos.arsat.com.ar/dataset/ejecuciones-presupuestarias",
+      "resources": [
+        {
+          "id": "ec78f073-3b33-43a0-9eca-4d9169082491",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/e83435ac-33c1-4dcc-94b0-36f2c99d4360/resource/ec78f073-3b33-43a0-9eca-4d9169082491/download/ejecuciones-presupuestarias-2016-v3.csv",
+          "name": "Ejecuciones presupuestarias 2016",
+          "format": "CSV",
+          "updatedAt": "2021-06-16T16:29:31.694Z",
+          "description": "Cuenta ahorro - Inversión - Financiamiento (En Pesos)",
+          "landingUrl": ""
+        },
+        {
+          "id": "924b0353-67ed-497d-b400-b4d35ba34696",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/e83435ac-33c1-4dcc-94b0-36f2c99d4360/resource/924b0353-67ed-497d-b400-b4d35ba34696/download/ejecuciones-presupuestarias-2017-v2.csv",
+          "name": "Ejecuciones presupuestarias 2017",
+          "format": "CSV",
+          "updatedAt": "2021-06-16T16:35:13.593Z",
+          "description": "Cuenta ahorro - Inversión - Financiamiento (En Pesos)",
+          "landingUrl": ""
+        },
+        {
+          "id": "3bf86cd2-1429-4d2e-a91d-460cc5b6b8fb",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/e83435ac-33c1-4dcc-94b0-36f2c99d4360/resource/3bf86cd2-1429-4d2e-a91d-460cc5b6b8fb/download/ejecuciones-presupuestarias-2018-v3.csv",
+          "name": "Ejecuciones presupuestarias 2018",
+          "format": "CSV",
+          "updatedAt": "2021-06-16T16:39:13.886Z",
+          "description": "Cuenta ahorro - Inversión - Financiamiento (En Pesos)",
+          "landingUrl": ""
+        },
+        {
+          "id": "47a20d5e-9ef5-4fd0-a8fa-1389510b53e7",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/e83435ac-33c1-4dcc-94b0-36f2c99d4360/resource/47a20d5e-9ef5-4fd0-a8fa-1389510b53e7/download/ejecuciones-presupuestarias-2019-v4.csv",
+          "name": "Ejecuciones presupuestarias 2019",
+          "format": "CSV",
+          "updatedAt": "2021-06-16T16:56:32.178Z",
+          "description": "Cuenta ahorro - Inversión - Financiamiento (En Pesos)",
+          "landingUrl": ""
+        },
+        {
+          "id": "ae914747-8a27-40e6-8d38-c131cc95e16a",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/e83435ac-33c1-4dcc-94b0-36f2c99d4360/resource/ae914747-8a27-40e6-8d38-c131cc95e16a/download/ejecuciones-presupuestarias-2020-12-v3.csv",
+          "name": "Ejecuciones presupuestarias 2020",
+          "format": "CSV",
+          "updatedAt": "2021-06-16T16:59:48.436Z",
+          "description": "Cuenta ahorro - Inversión - Financiamiento (En Pesos)",
+          "landingUrl": ""
+        },
+        {
+          "id": "04b37ef9-83fb-4dce-b776-a2ca7f1d9b6f",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/e83435ac-33c1-4dcc-94b0-36f2c99d4360/resource/04b37ef9-83fb-4dce-b776-a2ca7f1d9b6f/download/ejecuciones-presupuestarias-2021_12_2.csv",
+          "name": "Ejecuciones presupuestarias 2021",
+          "format": "CSV",
+          "updatedAt": "2022-02-14T14:32:41.503Z",
+          "description": "Cuenta ahorro - Inversión - Financiamiento (En Pesos)",
+          "landingUrl": ""
+        },
+        {
+          "id": "6de867cd-def4-440f-9700-ad63a650f2f5",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/e83435ac-33c1-4dcc-94b0-36f2c99d4360/resource/6de867cd-def4-440f-9700-ad63a650f2f5/download/ejecuciones-presupuestarias-2022_12_2.csv",
+          "name": "Ejecuciones presupuestarias 2022",
+          "format": "CSV",
+          "updatedAt": "2023-03-08T23:36:23.221Z",
+          "description": "Cuenta ahorro - Inversión - Financiamiento (En Pesos)",
+          "landingUrl": ""
+        },
+        {
+          "id": "11ee4311-893b-4a0d-bf7e-cf5af4e99f32",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/e83435ac-33c1-4dcc-94b0-36f2c99d4360/resource/11ee4311-893b-4a0d-bf7e-cf5af4e99f32/download/ejecuciones-presupuestarias-2023_10_2.csv",
+          "name": "Ejecuciones presupuestarias 2023",
+          "format": "CSV",
+          "updatedAt": "2023-11-27T19:38:04.467Z",
+          "description": "Cuenta ahorro - Inversión - Financiamiento (En Pesos)",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-01-11T19:03:26.446Z",
+      "updatedAt": "2023-11-27T19:38:52.259Z",
+      "contact": {
+        "name": "ARSAT",
+        "email": ""
+      }
+    },
+    {
+      "id": "ab89104c-1a04-4c9d-b31e-66a92e4b6d16",
+      "name": "finanzas",
+      "title": "Finanzas",
+      "keywords": [
+        "compras",
+        "finanzas",
+        "proveedores"
+      ],
+      "landingPage": "http://datos.arsat.com.ar/dataset/finanzas",
+      "resources": [
+        {
+          "id": "0c82a3fe-c8da-40cb-b6c2-b4254937b9ee",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/ab89104c-1a04-4c9d-b31e-66a92e4b6d16/resource/0c82a3fe-c8da-40cb-b6c2-b4254937b9ee/download/transferencias-recibidas-2020-v5.csv",
+          "name": "Transferencias Recibidas",
+          "format": "CSV",
+          "updatedAt": "2021-06-16T16:19:34.860Z",
+          "description": "Transferencias recibidas en concepto de Fondo de Servicio Universal.",
+          "landingUrl": ""
+        },
+        {
+          "id": "b85c840e-00a8-44ac-a282-56fc1d5ff9fa",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/ab89104c-1a04-4c9d-b31e-66a92e4b6d16/resource/b85c840e-00a8-44ac-a282-56fc1d5ff9fa/download/ordenes_de_compra-2022_marzo_2023.csv",
+          "name": "Procesos de compras y contrataciones adjudicados",
+          "format": "CSV",
+          "updatedAt": "2023-03-08T17:56:42.791Z",
+          "description": "El listado muestra las contrataciones públicas, licitaciones, concursos, obras públicas y adquisiciones de bienes y servicios.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-01-11T18:19:19.846Z",
+      "updatedAt": "2023-03-08T17:57:04.216Z",
+      "contact": {
+        "name": "ARSAT",
+        "email": ""
+      }
+    },
+    {
+      "id": "ba25465e-a9dd-4d6b-a8cb-444873c1718c",
+      "name": "personal",
+      "title": "Personal",
+      "keywords": [
+        "personal"
+      ],
+      "landingPage": "http://datos.arsat.com.ar/dataset/personal",
+      "resources": [
+        {
+          "id": "84bb91fe-f10e-4e1b-91f5-755675630ffd",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/ba25465e-a9dd-4d6b-a8cb-444873c1718c/resource/84bb91fe-f10e-4e1b-91f5-755675630ffd/download/listado-de-personal-2023-10.csv",
+          "name": "Listado de personal",
+          "format": "CSV",
+          "updatedAt": "2023-11-15T20:08:52.298Z",
+          "description": "Listado de todos los empleados que trabajan en nuestra empresa.\r\n\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "256137b2-cd6a-462c-9228-cde5dc7a0f38",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/ba25465e-a9dd-4d6b-a8cb-444873c1718c/resource/256137b2-cd6a-462c-9228-cde5dc7a0f38/download/personal-por-provincia-2023-10.csv",
+          "name": "Personal por provincia",
+          "format": "CSV",
+          "updatedAt": "2023-11-15T20:09:20.861Z",
+          "description": "Nuestros empleados, distribuidos por provincia.\r\n\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "da091fb4-1aff-4f81-9dbf-91029b3641d1",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/ba25465e-a9dd-4d6b-a8cb-444873c1718c/resource/da091fb4-1aff-4f81-9dbf-91029b3641d1/download/personal-por-zona-laboral-2023-10.csv",
+          "name": "Personal por zona laboral",
+          "format": "CSV",
+          "updatedAt": "2023-11-15T20:09:45.036Z",
+          "description": "Nuestros empleados, distribuidos según desempeñen sus tareas en la Estación Terrena de Benavidez o en el interior del país.",
+          "landingUrl": ""
+        },
+        {
+          "id": "b44a074f-500d-4ec1-adde-f8bf1e2f2bb7",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/ba25465e-a9dd-4d6b-a8cb-444873c1718c/resource/b44a074f-500d-4ec1-adde-f8bf1e2f2bb7/download/personal-por-genero-2023-10.csv",
+          "name": "Personal por género",
+          "format": "CSV",
+          "updatedAt": "2023-11-15T20:10:14.282Z",
+          "description": "Nuestros empleados, distinguidos por género.",
+          "landingUrl": ""
+        },
+        {
+          "id": "447d8a98-28f8-4a0a-80e4-38e3047544f4",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/ba25465e-a9dd-4d6b-a8cb-444873c1718c/resource/447d8a98-28f8-4a0a-80e4-38e3047544f4/download/personal-por-promedio-edad-2023-10.csv",
+          "name": "Promedios de edad y antigüedad del personal",
+          "format": "CSV",
+          "updatedAt": "2023-11-15T20:10:42.508Z",
+          "description": "Promedios de edad y antigüedad de nuestros empleados.\r\n\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "bcf2f4b5-6914-4f86-9084-a252f28086a4",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/ba25465e-a9dd-4d6b-a8cb-444873c1718c/resource/bcf2f4b5-6914-4f86-9084-a252f28086a4/download/personal-por-genero-por-gerencia-2023-10.csv",
+          "name": "Personal por gerencia distinguido por género",
+          "format": "CSV",
+          "updatedAt": "2023-11-15T20:11:05.650Z",
+          "description": "Nuestros empleados según gerencia, distinguidos por género.",
+          "landingUrl": ""
+        },
+        {
+          "id": "5cac5412-ac1c-476e-a031-e8aaf3ff46d2",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/ba25465e-a9dd-4d6b-a8cb-444873c1718c/resource/5cac5412-ac1c-476e-a031-e8aaf3ff46d2/download/personal-por-gerencia-2023-09.csv",
+          "name": "Personal por gerencia",
+          "format": "CSV",
+          "updatedAt": "2023-10-26T20:22:05.752Z",
+          "description": "Cantidad de empleados por gerencia.\r\n\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "e03b8713-ffda-45aa-aac7-d22af607e407",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/ba25465e-a9dd-4d6b-a8cb-444873c1718c/resource/e03b8713-ffda-45aa-aac7-d22af607e407/download/personal-por-tipo-contrato-2023-10.csv",
+          "name": "Personal según contrato laboral",
+          "format": "CSV",
+          "updatedAt": "2023-11-15T20:11:30.012Z",
+          "description": "La tabla expresa cuantos de nuestros empleados se encuentran contratados bajo convenio colectivo y cuantos se encuentran fuera de convenio.",
+          "landingUrl": ""
+        },
+        {
+          "id": "754a05a5-7e1e-44db-8c2a-c6bf117a0905",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/ba25465e-a9dd-4d6b-a8cb-444873c1718c/resource/754a05a5-7e1e-44db-8c2a-c6bf117a0905/download/escalas_salariales_202308_v1.csv",
+          "name": "Escalas salariales",
+          "format": "CSV",
+          "updatedAt": "2023-08-14T20:35:17.217Z",
+          "description": "Escalas salariales vigentes\r\n\r\n",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-01-11T20:00:50.621Z",
+      "updatedAt": "2023-11-15T20:11:30.045Z",
+      "contact": {
+        "name": "ARSAT",
+        "email": ""
+      }
+    },
+    {
+      "id": "8f0b4da0-a40d-4b2b-8fe0-dac06d64152a",
+      "name": "puntos-de-conexion-refefo",
+      "title": "Puntos de conexión REFEFO",
+      "keywords": [
+        "acceso",
+        "conexion"
+      ],
+      "landingPage": "http://datos.arsat.com.ar/dataset/puntos-de-conexion-refefo",
+      "resources": [
+        {
+          "id": "15713af0-f384-44c5-8397-c8050162312d",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/8f0b4da0-a40d-4b2b-8fe0-dac06d64152a/resource/15713af0-f384-44c5-8397-c8050162312d/download/puntos-conexion-red-federal-de-fibra-optica-2022-05-31_v2.csv",
+          "name": "Puntos de conexión a la Red Federal de Fibra Óptica",
+          "format": "CSV",
+          "updatedAt": "2022-06-28T23:25:37.049Z",
+          "description": "La tabla muestra los puntos de acceso la Red Federal de Fibra Óptica que se encuentran en servicio, junto a otros datos como la población de la localidad.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-01-11T18:57:44.627Z",
+      "updatedAt": "2022-06-28T23:25:37.062Z",
+      "contact": {
+        "name": "ARSAT",
+        "email": ""
+      }
+    },
+    {
+      "id": "e16bc3f2-8bdb-4cbf-969e-3122799f38ba",
+      "name": "servicio-refefo",
+      "title": "Servicio REFEFO",
+      "keywords": [
+        "clientes",
+        "internet",
+        "servicio"
+      ],
+      "landingPage": "http://datos.arsat.com.ar/dataset/servicio-refefo",
+      "resources": [
+        {
+          "id": "1185c150-f36d-4352-bcaf-ef4fea8ca51b",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/e16bc3f2-8bdb-4cbf-969e-3122799f38ba/resource/1185c150-f36d-4352-bcaf-ef4fea8ca51b/download/evolucion-mensual-clientes-en-servicio-2022-05-31_v1.csv",
+          "name": "Evolución de cantidad de clientes en servicio",
+          "format": "CSV",
+          "updatedAt": "2022-07-04T17:08:25.336Z",
+          "description": "Evolución mensual de la cantidad de clientes en servicio",
+          "landingUrl": ""
+        },
+        {
+          "id": "811b8f60-bea2-4c7e-945e-169644a389e3",
+          "downloadUrl": "https://datos.arsat.com.ar/dataset/e16bc3f2-8bdb-4cbf-969e-3122799f38ba/resource/811b8f60-bea2-4c7e-945e-169644a389e3/download/clientes-en-servicio-por-provincia-2022-05-31_v1.csv",
+          "name": "Clientes en servicio por provincia",
+          "format": "CSV",
+          "updatedAt": "2022-07-04T17:07:56.411Z",
+          "description": "Cantidad de clientes en servicio por provincia",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-01-11T18:43:31.405Z",
+      "updatedAt": "2022-07-04T18:14:03.809Z",
+      "contact": {
+        "name": "ARSAT",
+        "email": ""
+      }
+    }
+  ],
+  "organizations": [],
+  "updatedAt": "2023-12-09T09:01:49.310Z"
+}

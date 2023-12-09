@@ -1,0 +1,14 @@
+{
+  "projectName": "salv.ar",
+  "outputDir": "./out",
+  "providers": [
+    {
+      "name": "arsat",
+      "type": "ckan",
+      "options": {
+        "apiUrl": "https://datos.arsat.com.ar",
+        "jobs": 3
+      }
+    }
+  ]
+}
