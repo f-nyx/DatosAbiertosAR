@@ -3,11 +3,146 @@
   "outputDir": "./out",
   "providers": [
     {
+      "name": "enargas",
+      "type": "ckan",
+      "options": {
+        "apiUrl": "https://transparencia.enargas.gov.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "energia",
+      "type": "ckan",
+      "options": {
+        "apiUrl": "http://datos.energia.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "interior",
+      "type": "ckan",
+      "options": {
+        "apiUrl": "https://datos.mininterior.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "justicia",
+      "type": "ckan",
+      "options": {
+        "apiUrl": "http://datos.jus.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "mincyt",
+      "type": "ckan",
+      "options": {
+        "apiUrl": "https://datasets.datos.mincyt.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "salud",
+      "type": "ckan",
+      "options": {
+        "apiUrl": "http://datos.salud.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "transporte",
+      "type": "ckan",
+      "options": {
+        "apiUrl": "https://datos.transporte.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "pami",
+      "type": "ckan",
+      "options": {
+        "apiUrl": "http://datos.pami.org.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "turismo",
+      "type": "ckan",
+      "options": {
+        "apiUrl": "https://datos.yvera.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "agroindustria",
+      "type": "ckan",
+      "options": {
+        "apiUrl": "https://datos.magyp.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "cultura",
+      "type": "ckan",
+      "options": {
+        "apiUrl": "https://datos.cultura.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "defensa",
+      "type": "ckan",
+      "options": {
+        "apiUrl": "http://datos.mindef.gov.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "desarrollo-social",
+      "type": "ckan",
+      "options": {
+        "apiUrl": "https://datosabiertos.desarrollosocial.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "acumar",
+      "type": "ckan",
+      "options": {
+        "apiUrl": "https://datos.acumar.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
       "name": "arsat",
       "type": "ckan",
       "options": {
         "apiUrl": "https://datos.arsat.com.ar",
         "jobs": 3
+      }
+    },
+    {
+      "name": "datosgobar",
+      "type": "ckan",
+      "options": {
+        "apiUrl": "https://datos.gob.ar",
+        "jobs": 3,
+        "retry": false
       }
     }
   ]
