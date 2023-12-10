@@ -92,8 +92,9 @@ Cosas que podés hacer:
 ## Cómo usarlo
 
 1. Clonar este repositorio
-2. Correr la aplicación: `npm start -- --config-file config.json`
-3. Esperar con mucha paciencia
+2. Preparar el ambiente: `npm install` 
+3. Correr la aplicación: `npm start -- --config-file config.json`
+4. Esperar con mucha paciencia
 
 De forma predeterminada, todo el contenido se descargará al directorio `out` dentro del directorio del proyecto.
 
