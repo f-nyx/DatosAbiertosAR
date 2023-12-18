@@ -1,0 +1,1856 @@
+{
+  "id": "D1FBMwpnft",
+  "datasets": [
+    {
+      "id": "1e251e30-9635-432a-8022-b1600e1a4374",
+      "name": "areas-de-cobertura",
+      "title": "Áreas de Cobertura (Salud)",
+      "keywords": [
+        "areas",
+        "cobertura",
+        "salud",
+        "san juan"
+      ],
+      "landingPage": "https://unide.sanjuan.gob.ar/geonetwork/srv/spa/catalog.search#/metadata/8640fa8af2a94ff84fb4d029e7e04a7c371d9b8f",
+      "resources": [
+        {
+          "id": "78e314cc-e12a-46e5-b5e1-859eb7911d9a",
+          "downloadUrl": "https://unide.sanjuan.gob.ar/geonetwork/srv/api/records/8640fa8af2a94ff84fb4d029e7e04a7c371d9b8f/formatters/xml",
+          "name": "Ministerio de Salud Publica Areas de Cobertura",
+          "format": "XML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Areas de Cobertura\r\n<iframe width=\"700\" height=\"400\" src=\"https://www.datosabiertos.sanjuan.gob.ar/dataset/areas-de-cobertura/resource/78e314cc-e12a-46e5-b5e1-859eb7911d9a/view/92bc9029-5e31-4782-aba1-6c192620c805\" frameBorder=\"0\"></iframe>"
+        }
+      ],
+      "createdAt": "2017-12-11T16:19:45.298Z",
+      "updatedAt": "2017-12-13T16:32:33.729Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "f71314c8-eec8-47b8-a46c-6740e7d1847f",
+      "name": "catastro_mayo_2021",
+      "title": "Catastro Minero Mayo 2021",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "d55087be-08fc-4a20-8640-15e74dd6d13d",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/f71314c8-eec8-47b8-a46c-6740e7d1847f/resource/d55087be-08fc-4a20-8640-15e74dd6d13d/download/catastro-minero-mayo.kmz",
+          "name": "Catastro Minero Mayo.kmz",
+          "format": "KMZ",
+          "updatedAt": "2021-05-19T16:17:38.277Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2021-05-19T16:15:50.425Z",
+      "updatedAt": "2021-05-19T16:17:38.571Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "3417d231-94bb-4374-8963-11d7004b8b1d",
+      "name": "catastro-minero-08-2022",
+      "title": "Catastro Minero Agosto 2022",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "e931758c-9216-4b83-82a0-b294b93a8dd0",
+          "downloadUrl": "https://datosabiertos.sanjuan.gob.ar/dataset/3417d231-94bb-4374-8963-11d7004b8b1d/resource/e931758c-9216-4b83-82a0-b294b93a8dd0/download/catastro-minero-digital-c.m.d.-3.kmz",
+          "name": "Catastro Minero Digital (C.M.D.) (3).kmz",
+          "format": "KMZ",
+          "updatedAt": "2022-08-22T16:20:23.537Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2022-08-22T16:20:02.511Z",
+      "updatedAt": "2022-08-22T16:21:47.949Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "ff6c21bd-0389-45df-a2ed-d48db925b684",
+      "name": "catastro-minero-2020",
+      "title": "Catastro Minero Digital Google Earth 2020",
+      "keywords": [
+        "2020",
+        "catastro",
+        "minero"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "7bcb70b5-b964-46a6-845e-92da4c62d1fc",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/ff6c21bd-0389-45df-a2ed-d48db925b684/resource/7bcb70b5-b964-46a6-845e-92da4c62d1fc/download/catastro-minero-ene-2020-kmz.kmz",
+          "name": "Catastro Minero Enero/2020",
+          "format": "KMZ",
+          "updatedAt": "2020-01-27T17:24:09.055Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2020-01-27T17:23:10.918Z",
+      "updatedAt": "2020-09-18T16:59:54.910Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "caf0c652-73ea-4898-a60c-fb0d6cc8a16c",
+      "name": "catastro-minero-abril-2021",
+      "title": "Catastro Minero Abril 2021",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "735fcc62-4427-416a-9ee0-72795502a44b",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/caf0c652-73ea-4898-a60c-fb0d6cc8a16c/resource/735fcc62-4427-416a-9ee0-72795502a44b/download/catastro-minero-abril-2021.kmz",
+          "name": "Catastro Minero abril 2021.kmz",
+          "format": ".kmz",
+          "updatedAt": "2021-05-03T15:39:15.514Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2021-05-03T15:37:52.987Z",
+      "updatedAt": "2021-05-03T15:39:15.938Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "419f8569-bdc3-415b-9946-a8f0e76fccdf",
+      "name": "catastro-minero-abril-2022",
+      "title": "Catastro Minero Abril 2022",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "dad1fbe2-a924-4c64-a8d9-c93326ef414d",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/419f8569-bdc3-415b-9946-a8f0e76fccdf/resource/dad1fbe2-a924-4c64-a8d9-c93326ef414d/download/catastro-minero-digital-c.m.d..kmz",
+          "name": "Catastro Minero Digital (C.M.D.).kmz",
+          "format": "KMZ",
+          "updatedAt": "2022-04-27T14:24:36.736Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2022-04-27T14:24:19.229Z",
+      "updatedAt": "2022-04-27T14:24:37.006Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "302e934f-624e-4573-b31c-bf55bf797531",
+      "name": "catastro-minero-abril-2023",
+      "title": "Catastro Minero Abril 2023",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "529b8fb9-5c81-45ac-a902-62637053dbf4",
+          "downloadUrl": "https://datosabiertos.sanjuan.gob.ar/dataset/302e934f-624e-4573-b31c-bf55bf797531/resource/529b8fb9-5c81-45ac-a902-62637053dbf4/download/catastro-minero-digital-c.m.d.-28-abr-2023.kmz",
+          "name": "Catastro Minero Digital (C.M.D.) 28 ABR 2023.kmz",
+          "format": "KMZ",
+          "updatedAt": "2023-05-04T18:13:12.507Z",
+          "description": ""
+        },
+        {
+          "id": "cda2b0f7-790f-4161-8f19-33465fed75c4",
+          "downloadUrl": "https://datosabiertos.sanjuan.gob.ar/dataset/302e934f-624e-4573-b31c-bf55bf797531/resource/cda2b0f7-790f-4161-8f19-33465fed75c4/download/ag-catastro-minero-28-abr-2023.dwg",
+          "name": "AG - CATASTRO MINERO 28 ABR 2023.dwg",
+          "format": "",
+          "updatedAt": "2023-05-04T18:13:20.841Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2023-05-04T18:12:54.542Z",
+      "updatedAt": "2023-05-05T17:03:42.650Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "67349758-cfb1-4b2f-a5f7-004bd3d517a9",
+      "name": "catastro-minero-agosto-2020",
+      "title": "Catastro Minero Agosto 2020",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "12e4b846-94af-4acf-8451-3e079b5812c8",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/67349758-cfb1-4b2f-a5f7-004bd3d517a9/resource/12e4b846-94af-4acf-8451-3e079b5812c8/download/catastro-minero-ago.kmz",
+          "name": "Catastro Minero Agosto 2020",
+          "format": "KMZ",
+          "updatedAt": "2020-08-19T16:26:34.501Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2020-08-19T16:24:58.647Z",
+      "updatedAt": "2020-08-19T16:26:35.889Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "43836a8c-59a7-48a9-8f62-1703670e917c",
+      "name": "catastro_minero_agosto_2021",
+      "title": "Catastro Minero Agosto 2021",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "cee4b5aa-cbaf-4517-b245-e89150e39133",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/43836a8c-59a7-48a9-8f62-1703670e917c/resource/cee4b5aa-cbaf-4517-b245-e89150e39133/download/catastro-minero-digital-c.m.d.-agosto-2021.kmz",
+          "name": "Catastro Minero Agosto 2021",
+          "format": "KMZ",
+          "updatedAt": "2021-08-19T18:28:10.149Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2021-08-19T18:26:32.720Z",
+      "updatedAt": "2021-08-19T18:28:10.524Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "182873fa-47b0-4d26-aa45-3ddc4f899c4e",
+      "name": "catastro-minero-agosto-2023",
+      "title": "Catastro Minero Agosto 2023",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "5c1587dc-acb3-4776-b264-9ab2a0639333",
+          "downloadUrl": "https://datosabiertos.sanjuan.gob.ar/dataset/182873fa-47b0-4d26-aa45-3ddc4f899c4e/resource/5c1587dc-acb3-4776-b264-9ab2a0639333/download/catastro-minero-digital-c.m.d.-8-ago-2023.kmz",
+          "name": "Catastro Minero Digital (C.M.D.) 8 AGO 2023.kmz",
+          "format": "KMZ",
+          "updatedAt": "2023-08-09T18:42:54.000Z",
+          "description": ""
+        },
+        {
+          "id": "f0fbf87d-d2d0-4c8a-8200-dc7e3aaf6cb9",
+          "downloadUrl": "https://datosabiertos.sanjuan.gob.ar/dataset/182873fa-47b0-4d26-aa45-3ddc4f899c4e/resource/f0fbf87d-d2d0-4c8a-8200-dc7e3aaf6cb9/download/ag-catastro-minero-08-ago-2023.dwg",
+          "name": "AG - CATASTRO MINERO 08 AGO 2023.dwg",
+          "format": "",
+          "updatedAt": "2023-08-09T18:43:04.156Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2023-08-09T18:42:40.371Z",
+      "updatedAt": "2023-08-09T18:44:49.521Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "53e1be6f-3ddd-47b3-bbeb-60850832f5ec",
+      "name": "catastro-minero-diciembre-2020",
+      "title": "Catastro Minero Diciembre 2020",
+      "keywords": [
+        "catastro",
+        "minería"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "8b9bb9b2-7a15-492a-a10f-ad62d62e4391",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/53e1be6f-3ddd-47b3-bbeb-60850832f5ec/resource/8b9bb9b2-7a15-492a-a10f-ad62d62e4391/download/catastro-minero-diciembre-2020.kmz",
+          "name": "catastro-minero-diciembre-2020",
+          "format": "KMZ",
+          "updatedAt": "2020-12-18T16:24:22.844Z",
+          "description": "catastro-minero-diciembre-2020"
+        }
+      ],
+      "createdAt": "2020-12-18T16:23:07.278Z",
+      "updatedAt": "2020-12-18T16:24:23.274Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "46bb5dc7-fe30-4e8e-9504-d84280f40156",
+      "name": "catastro-minero-diciembre-2021",
+      "title": "Catastro Minero Diciembre 2021",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "429d0164-a26a-486a-9375-6cbd813685ee",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/46bb5dc7-fe30-4e8e-9504-d84280f40156/resource/429d0164-a26a-486a-9375-6cbd813685ee/download/catastro-minero-digital-diciembre.kmz",
+          "name": "Catastro Minero Digital Diciembre.kmz",
+          "format": "KMZ",
+          "updatedAt": "2021-12-13T14:35:33.852Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2021-12-13T14:35:13.421Z",
+      "updatedAt": "2021-12-13T14:36:00.409Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "3c0d8fe6-ddf1-41fa-866d-e913f46aafa2",
+      "name": "catastro-minero-diciembre-2023",
+      "title": "Catastro Minero Diciembre 2023",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "468c4fe6-4b44-4966-ab0b-1e17cec59d4a",
+          "downloadUrl": "https://datosabiertos.sanjuan.gob.ar/dataset/3c0d8fe6-ddf1-41fa-866d-e913f46aafa2/resource/468c4fe6-4b44-4966-ab0b-1e17cec59d4a/download/catastro-minero-digital-c.m.d.-07-dic-2023.kmz",
+          "name": "Catastro Minero Digital (C.M.D.) 07 DIC 2023.kmz",
+          "format": "KMZ",
+          "updatedAt": "2023-12-07T18:07:57.232Z",
+          "description": ""
+        },
+        {
+          "id": "9320481e-e904-4b60-b96b-33f98b5b2aea",
+          "downloadUrl": "https://datosabiertos.sanjuan.gob.ar/dataset/3c0d8fe6-ddf1-41fa-866d-e913f46aafa2/resource/9320481e-e904-4b60-b96b-33f98b5b2aea/download/ag-catastro-minero-07-dic-2023.dwg",
+          "name": "AG - CATASTRO MINERO 07 DIC 2023.dwg",
+          "format": "",
+          "updatedAt": "2023-12-07T18:08:38.799Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2023-12-07T18:07:32.189Z",
+      "updatedAt": "2023-12-07T18:08:39.133Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "8f0c25ac-2674-41eb-85a2-00c2f173ed53",
+      "name": "catastro-minero-digital-google-earth",
+      "title": "Catastro Minero Digital KMZ Google Earth (Mineria)",
+      "keywords": [
+        "catastro",
+        "mapa",
+        "mapa san juan",
+        "mineria",
+        "minero",
+        "san juan"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "c730f249-cda8-4f65-86fb-1755317154f1",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/8f0c25ac-2674-41eb-85a2-00c2f173ed53/resource/c730f249-cda8-4f65-86fb-1755317154f1/download/catastro-minero-110520.kmz",
+          "name": "Catastro Minero - Mayo 2020",
+          "format": "KMZ",
+          "updatedAt": "2020-05-27T17:23:07.588Z",
+          "description": "Catastro Minero actualizado a Mayo 2020"
+        },
+        {
+          "id": "1a43258c-bb8a-49d9-bf1e-193486768e08",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/8f0c25ac-2674-41eb-85a2-00c2f173ed53/resource/1a43258c-bb8a-49d9-bf1e-193486768e08/download/catastro-minero-130220.kmz",
+          "name": "Catastro Minero de Febrero/2020",
+          "format": ".kmz",
+          "updatedAt": "2020-02-27T17:23:36.291Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2017-12-12T15:33:07.532Z",
+      "updatedAt": "2020-05-27T17:27:06.458Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "776f086b-aaa9-4b35-83f3-d53f6d82866e",
+      "name": "catastro-minero-enero-2021",
+      "title": "Catastro Minero Enero 2021",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "70df9032-6b7e-4441-9423-aecf8cb845d0",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/776f086b-aaa9-4b35-83f3-d53f6d82866e/resource/70df9032-6b7e-4441-9423-aecf8cb845d0/download/catastro-minero-enero-2021.kmz",
+          "name": "Catastro Minero - Enero 2021",
+          "format": "KMZ",
+          "updatedAt": "2021-01-18T13:53:00.277Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2021-01-18T13:52:25.850Z",
+      "updatedAt": "2021-02-22T14:35:04.203Z",
+      "contact": {
+        "name": "Gustavo Jury",
+        "email": ""
+      }
+    },
+    {
+      "id": "5d085555-9995-48a9-8faa-57a77790f616",
+      "name": "catastro-minero-enero-2023",
+      "title": "Catastro Minero Enero 2023",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "2f8bf374-4520-4cd7-997d-4d5deec57dae",
+          "downloadUrl": "https://datosabiertos.sanjuan.gob.ar/dataset/5d085555-9995-48a9-8faa-57a77790f616/resource/2f8bf374-4520-4cd7-997d-4d5deec57dae/download/ag-catastro-minero-06-ene-2023.dwg",
+          "name": "AG - CATASTRO MINERO 06 ENE 2023.dwg",
+          "format": "KMZ",
+          "updatedAt": "2023-01-09T15:32:05.667Z",
+          "description": "Catastro Minero Enero 2023"
+        }
+      ],
+      "createdAt": "2023-01-09T15:31:30.470Z",
+      "updatedAt": "2023-01-09T15:32:05.977Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "63dfc57d-d1a8-49b8-8bc4-3f927788ab58",
+      "name": "catastro-minero-febrero-2023",
+      "title": "Catastro Minero Febrero 2023",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "f3b0fd2a-cdb5-45d7-8c53-3a97b5f43800",
+          "downloadUrl": "https://datosabiertos.sanjuan.gob.ar/dataset/63dfc57d-d1a8-49b8-8bc4-3f927788ab58/resource/f3b0fd2a-cdb5-45d7-8c53-3a97b5f43800/download/catastro-minero-digital-c.m.d.-5.kmz",
+          "name": "Catastro Minero Digital (C.M.D.) (5).kmz",
+          "format": "KMZ",
+          "updatedAt": "2023-02-22T13:34:13.821Z",
+          "description": ""
+        },
+        {
+          "id": "05ab75f2-286e-444f-8f7d-cc9c8a987ad3",
+          "downloadUrl": "https://datosabiertos.sanjuan.gob.ar/dataset/63dfc57d-d1a8-49b8-8bc4-3f927788ab58/resource/05ab75f2-286e-444f-8f7d-cc9c8a987ad3/download/ag-catastro-minero-16-feb-2023.dwg",
+          "name": "AG - CATASTRO MINERO 16 FEB 2023.dwg",
+          "format": "",
+          "updatedAt": "2023-02-22T13:34:32.090Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2023-02-22T13:33:21.570Z",
+      "updatedAt": "2023-02-22T13:34:59.639Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "d6fa9230-8652-436a-8c2f-3372929843f9",
+      "name": "catastro-minero-julio-2020",
+      "title": "Catastro Minero Julio 2020",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "ef0806a2-1439-4e0a-a75d-f38ec54b5e9a",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/d6fa9230-8652-436a-8c2f-3372929843f9/resource/ef0806a2-1439-4e0a-a75d-f38ec54b5e9a/download/catastro-minero-julio-2020.kmz",
+          "name": "Catastro Minero-Julio 2020.kmz",
+          "format": "KMZ",
+          "updatedAt": "2020-07-22T16:07:44.203Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2020-07-22T16:06:21.188Z",
+      "updatedAt": "2020-07-22T16:07:45.471Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "2ef040ff-8b59-40a7-b4eb-8aa8c8fc1984",
+      "name": "catastro-minero-julio-2021",
+      "title": "Catastro Minero Julio 2021",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "86219df9-fa33-4651-ada1-97f2bf479a88",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/2ef040ff-8b59-40a7-b4eb-8aa8c8fc1984/resource/86219df9-fa33-4651-ada1-97f2bf479a88/download/catastro-minero-julio.kmz",
+          "name": "Catastro Minero - Julio 2021",
+          "format": ".kmz",
+          "updatedAt": "2021-07-14T15:54:02.263Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2021-07-14T15:52:24.125Z",
+      "updatedAt": "2021-07-14T15:54:02.839Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "05ee49b0-5a8d-497b-b265-08d79e0b6ec5",
+      "name": "catastro-minero-julio-2022",
+      "title": "Catastro Minero Julio 2022",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "7b56c75a-6a41-419f-b5b8-e094377815dc",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/05ee49b0-5a8d-497b-b265-08d79e0b6ec5/resource/7b56c75a-6a41-419f-b5b8-e094377815dc/download/catastro-minero-digital-c.m.d.-2.kmz",
+          "name": "Catastro Minero Digital (C.M.D.) (2).kmz",
+          "format": "KMZ",
+          "updatedAt": "2022-07-18T18:31:07.983Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2022-07-18T18:30:36.994Z",
+      "updatedAt": "2022-07-18T18:31:08.611Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "92d4507a-7f5a-4693-857b-538c5336a3bb",
+      "name": "catastro-minero-julio-2023",
+      "title": "Catastro Minero Julio 2023",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "46acec17-c216-4835-8fcc-1a29c87937e5",
+          "downloadUrl": "https://datosabiertos.sanjuan.gob.ar/dataset/92d4507a-7f5a-4693-857b-538c5336a3bb/resource/46acec17-c216-4835-8fcc-1a29c87937e5/download/catastro-minero-digital-c.m.d.-julio-2023.kmz",
+          "name": "Catastro Minero Digital (C.M.D.) Julio 2023.kmz",
+          "format": "KMZ",
+          "updatedAt": "2023-08-09T18:41:35.254Z",
+          "description": ""
+        },
+        {
+          "id": "9ca6d540-efcc-45ee-8c25-b170742bf35f",
+          "downloadUrl": "https://datosabiertos.sanjuan.gob.ar/dataset/92d4507a-7f5a-4693-857b-538c5336a3bb/resource/9ca6d540-efcc-45ee-8c25-b170742bf35f/download/ag-catastro-minero-31-jul-2023.dwg",
+          "name": "AG - CATASTRO MINERO 31 JUL 2023.dwg",
+          "format": "",
+          "updatedAt": "2023-08-09T18:41:52.268Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2023-08-09T18:40:56.247Z",
+      "updatedAt": "2023-08-09T18:41:52.539Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "9f3e88b1-3cf2-4fad-b6e8-a3de302434d6",
+      "name": "catastro-minero-junio-2020",
+      "title": "Catastro Minero Junio 2020",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "f7411354-23e7-43ab-9576-c58e5134c2c2",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/9f3e88b1-3cf2-4fad-b6e8-a3de302434d6/resource/f7411354-23e7-43ab-9576-c58e5134c2c2/download/catastro-minero-18-jun.kmz",
+          "name": "Catastro Minero 18 de junio de 2020",
+          "format": "KMZ",
+          "updatedAt": "2020-06-23T16:31:46.730Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2020-06-23T16:30:23.441Z",
+      "updatedAt": "2020-06-23T16:31:47.312Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "0a34a519-5654-49ae-974f-e335518a5fe1",
+      "name": "catastro_minero_junio_2021",
+      "title": "Catastro Minero Junio 2021",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "81e01e88-6a3a-4bca-8ecb-ad72d6a14dd2",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/0a34a519-5654-49ae-974f-e335518a5fe1/resource/81e01e88-6a3a-4bca-8ecb-ad72d6a14dd2/download/catastro_minero_junio_2021.kmz",
+          "name": "Catastro_Minero_junio_2021.kmz",
+          "format": ".kmz",
+          "updatedAt": "2021-06-23T19:11:41.538Z",
+          "description": "Catastro Minero al mes de junio de 2021"
+        }
+      ],
+      "createdAt": "2021-06-23T19:10:19.214Z",
+      "updatedAt": "2021-06-23T19:16:55.383Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "832440a8-9e89-47ed-b309-712e4007205c",
+      "name": "catastro-minero-junio-2022",
+      "title": "Catastro Minero Junio 2022",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "40673de3-792d-435d-b3e3-f3ce13fe22df",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/832440a8-9e89-47ed-b309-712e4007205c/resource/40673de3-792d-435d-b3e3-f3ce13fe22df/download/catastro-minero-digital-c.m.d.-1.kmz",
+          "name": "Catastro Minero Digital (C.M.D.) (1).kmz",
+          "format": "KMZ",
+          "updatedAt": "2022-06-24T14:42:46.024Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2022-06-24T14:42:01.763Z",
+      "updatedAt": "2022-06-24T14:43:24.777Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "ab459ffb-cede-4d7c-a643-9651655662e9",
+      "name": "catastro-minero-junio-2023",
+      "title": "Catastro Minero Junio 2023",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "09eeb92b-4568-46af-8333-9ae3c60fa653",
+          "downloadUrl": "https://datosabiertos.sanjuan.gob.ar/dataset/ab459ffb-cede-4d7c-a643-9651655662e9/resource/09eeb92b-4568-46af-8333-9ae3c60fa653/download/catastro-minero-digital-c.m.d.-30-jun-23.kmz",
+          "name": "Catastro Minero Digital (C.M.D.) 30 JUN 23.kmz",
+          "format": "KMZ",
+          "updatedAt": "2023-07-03T14:52:34.706Z",
+          "description": ""
+        },
+        {
+          "id": "9382bbec-914b-41ad-9682-152114d85f28",
+          "downloadUrl": "https://datosabiertos.sanjuan.gob.ar/dataset/ab459ffb-cede-4d7c-a643-9651655662e9/resource/9382bbec-914b-41ad-9682-152114d85f28/download/ag-catastro-minero-30-jun-2023.dwg",
+          "name": "AG - CATASTRO MINERO 30 JUN 2023.dwg",
+          "format": "",
+          "updatedAt": "2023-07-03T14:53:30.668Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2023-07-03T14:52:16.838Z",
+      "updatedAt": "2023-07-03T14:53:30.917Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "ed764f3d-beee-462c-832e-0010e5f06c36",
+      "name": "catastro-minero-marzo-2021",
+      "title": "Catastro Minero Marzo 2021",
+      "keywords": [
+        "2021",
+        "catastro",
+        "marzo",
+        "minero"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "aa013205-44d5-47fb-997e-08cffea80213",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/ed764f3d-beee-462c-832e-0010e5f06c36/resource/aa013205-44d5-47fb-997e-08cffea80213/download/ag-catastro-minero-mar-2021.dwg",
+          "name": "AG-CATASTRO MINERO  MAR 2021.dwg",
+          "format": "KMZ",
+          "updatedAt": "2021-03-25T17:16:59.015Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2021-03-23T18:59:08.261Z",
+      "updatedAt": "2021-03-25T17:16:59.332Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "03d30bca-87ae-4d89-a790-6a4a2d1dda87",
+      "name": "catastro-minero-marzo-2022",
+      "title": "Catastro Minero Marzo 2022",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "45ed70d8-0406-430d-b504-f0f9eb7e7992",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/03d30bca-87ae-4d89-a790-6a4a2d1dda87/resource/45ed70d8-0406-430d-b504-f0f9eb7e7992/download/catastro-minero-digital-marzo.kmz",
+          "name": "Catastro Minero Digital MARZO.kmz",
+          "format": ".kmz",
+          "updatedAt": "2022-03-07T15:34:41.654Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2022-03-07T15:34:17.012Z",
+      "updatedAt": "2022-03-07T15:34:41.992Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "b22303f9-53c2-40a4-ac05-945f3174a2d6",
+      "name": "catastro-minero-marzo-2023",
+      "title": "Catastro Minero Marzo 2023",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "63b88704-4956-4ed3-b40a-a0cb0f3d8907",
+          "downloadUrl": "https://datosabiertos.sanjuan.gob.ar/dataset/b22303f9-53c2-40a4-ac05-945f3174a2d6/resource/63b88704-4956-4ed3-b40a-a0cb0f3d8907/download/catastro-minero-digital-c.m.d.-31-03-23.kmz",
+          "name": "Catastro Minero Digital (C.M.D.) 31-03-23.kmz",
+          "format": "KMZ",
+          "updatedAt": "2023-04-04T18:12:25.724Z",
+          "description": ""
+        },
+        {
+          "id": "79d3dabd-bb00-4fe7-9674-58b72ad645f3",
+          "downloadUrl": "https://datosabiertos.sanjuan.gob.ar/dataset/b22303f9-53c2-40a4-ac05-945f3174a2d6/resource/79d3dabd-bb00-4fe7-9674-58b72ad645f3/download/ag-catastro-minero-31-mar-2023.dwg",
+          "name": "AG - CATASTRO MINERO 31 MAR 2023.dwg",
+          "format": "",
+          "updatedAt": "2023-04-04T18:13:59.656Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2023-04-04T18:11:23.287Z",
+      "updatedAt": "2023-04-04T18:13:59.982Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "c81fcce8-3c95-41b6-bf91-08ec3f1e7981",
+      "name": "catastro-minero-mayo-2022",
+      "title": "Catastro Minero Mayo 2022",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "ae81cd64-9d5c-4cdc-9630-7ef8fb7dcb15",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/c81fcce8-3c95-41b6-bf91-08ec3f1e7981/resource/ae81cd64-9d5c-4cdc-9630-7ef8fb7dcb15/download/catastro-minero-digital-c.m.d..kmz",
+          "name": "Catastro Minero Mayo 2022",
+          "format": "KMZ",
+          "updatedAt": "2022-05-24T15:06:00.775Z",
+          "description": "Catastro Minero Mayo 2022"
+        }
+      ],
+      "createdAt": "2022-05-24T15:05:28.020Z",
+      "updatedAt": "2022-05-24T15:06:02.902Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "8c4be310-7013-4a06-9da9-8b98fff90567",
+      "name": "catastro-minero-mayo-2023",
+      "title": "Catastro Minero Mayo 2023",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "039b22b5-96a7-480d-8086-35f4b7740259",
+          "downloadUrl": "https://datosabiertos.sanjuan.gob.ar/dataset/8c4be310-7013-4a06-9da9-8b98fff90567/resource/039b22b5-96a7-480d-8086-35f4b7740259/download/catastro-minero-digital-c.m.d.-31-may-2023.kmz",
+          "name": "Catastro Minero Digital (C.M.D.) 31 MAY 2023.kmz",
+          "format": "KMZ",
+          "updatedAt": "2023-06-01T17:20:47.092Z",
+          "description": ""
+        },
+        {
+          "id": "f534613b-1fe1-4c0e-a153-29ca5a42ed25",
+          "downloadUrl": "https://datosabiertos.sanjuan.gob.ar/dataset/8c4be310-7013-4a06-9da9-8b98fff90567/resource/f534613b-1fe1-4c0e-a153-29ca5a42ed25/download/ag-catastro-minero-31-may-2023.dwg",
+          "name": "AG - CATASTRO MINERO 31 MAY 2023.dwg",
+          "format": "",
+          "updatedAt": "2023-06-01T17:20:54.272Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2023-06-01T17:20:31.039Z",
+      "updatedAt": "2023-06-01T17:20:54.488Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "2c8c7287-f077-4d54-b986-2d8199318f21",
+      "name": "catastro-minero-noviembre-2020",
+      "title": "Catastro Minero Noviembre 2020",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "c62e3048-f7f2-4a50-82c6-cf7fb101fa20",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/2c8c7287-f077-4d54-b986-2d8199318f21/resource/c62e3048-f7f2-4a50-82c6-cf7fb101fa20/download/catastro-minero-nov.kmz",
+          "name": "Catastro Minero - Noviembre 2020",
+          "format": "KMZ",
+          "updatedAt": "2020-11-10T15:06:33.041Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2020-11-10T15:04:51.082Z",
+      "updatedAt": "2020-11-10T15:06:33.340Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "271dc72b-6335-424d-b386-830e3fcab75e",
+      "name": "catastro-minero-noviembre-2023",
+      "title": "Catastro Minero Noviembre 2023",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "fdadcb93-bf73-4fd9-945f-4e135582e2fd",
+          "downloadUrl": "https://datosabiertos.sanjuan.gob.ar/dataset/271dc72b-6335-424d-b386-830e3fcab75e/resource/fdadcb93-bf73-4fd9-945f-4e135582e2fd/download/ag-catastro-minero-01-nov-2023.dwg",
+          "name": "AG - CATASTRO MINERO 01 NOV 2023.dwg",
+          "format": "",
+          "updatedAt": "2023-11-03T14:46:33.014Z",
+          "description": ""
+        },
+        {
+          "id": "e5289a3f-811a-4d16-9e33-9f75aa95a8da",
+          "downloadUrl": "https://datosabiertos.sanjuan.gob.ar/dataset/271dc72b-6335-424d-b386-830e3fcab75e/resource/e5289a3f-811a-4d16-9e33-9f75aa95a8da/download/catastro-minero-digital-c.m.d.-01-nov-2023.kmz",
+          "name": "Catastro Minero Digital (C.M.D.) 01 NOV 2023.kmz",
+          "format": "KMZ",
+          "updatedAt": "2023-11-03T14:46:45.675Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2023-11-03T14:45:56.805Z",
+      "updatedAt": "2023-11-03T14:46:45.978Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "255688e7-f016-4466-9e11-8b0374e37c0a",
+      "name": "catastro-minero-octubre-2020",
+      "title": "Catastro Minero Octubre 2020",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "e201cd2b-b0f5-436c-95b9-2295a727b786",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/255688e7-f016-4466-9e11-8b0374e37c0a/resource/e201cd2b-b0f5-436c-95b9-2295a727b786/download/catastro-minero-octubre-2020.kmz",
+          "name": "Catastro Minero Octubre 2020.kmz",
+          "format": ".kmz",
+          "updatedAt": "2020-10-16T17:17:37.709Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2020-10-16T17:16:28.213Z",
+      "updatedAt": "2020-10-16T17:17:38.032Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "1d08d07c-6de7-4332-a45b-3dcae63e8898",
+      "name": "catastro-minero-octubre-2021",
+      "title": "Catastro Minero Octubre 2021",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "42bacba4-3d8f-4b84-a2c5-a5c63af26bab",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/1d08d07c-6de7-4332-a45b-3dcae63e8898/resource/42bacba4-3d8f-4b84-a2c5-a5c63af26bab/download/catastro-minero-digital-octubre-21.kmz",
+          "name": "Catastro Minero Digital OCTUBRE 21.kmz",
+          "format": "KMZ",
+          "updatedAt": "2021-10-13T14:12:26.505Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2021-10-13T14:11:52.785Z",
+      "updatedAt": "2021-10-13T14:12:26.902Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "4cddde94-f614-4711-973c-b8ed105363be",
+      "name": "catastro-minero-octubre-2023",
+      "title": "Catastro Minero Octubre 2023",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "494bb553-d3bd-49b6-a5af-f75838da1443",
+          "downloadUrl": "https://datosabiertos.sanjuan.gob.ar/dataset/4cddde94-f614-4711-973c-b8ed105363be/resource/494bb553-d3bd-49b6-a5af-f75838da1443/download/catastro-minero-digital-09-oct-2023c.m.d..kmz",
+          "name": "Catastro Minero Digital 09 OCT 2023(C.M.D.).kmz",
+          "format": "KMZ",
+          "updatedAt": "2023-10-10T15:21:10.597Z",
+          "description": ""
+        },
+        {
+          "id": "11cec1bf-01ec-4f27-9f82-5784414e318d",
+          "downloadUrl": "https://datosabiertos.sanjuan.gob.ar/dataset/4cddde94-f614-4711-973c-b8ed105363be/resource/11cec1bf-01ec-4f27-9f82-5784414e318d/download/ag-catastro-minero-09-oct-2023.dwg",
+          "name": "AG - CATASTRO MINERO 09 OCT 2023.dwg",
+          "format": "",
+          "updatedAt": "2023-10-10T15:21:20.790Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2023-10-10T15:20:50.954Z",
+      "updatedAt": "2023-10-10T15:21:20.968Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "76651001-08ae-405b-9e11-e56439266cd5",
+      "name": "catastro-minero-setiembre-2020",
+      "title": "Catastro Minero Setiembre 2020",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "87d9b9f4-976d-4eb6-b8bd-09acf7bf03e1",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/76651001-08ae-405b-9e11-e56439266cd5/resource/87d9b9f4-976d-4eb6-b8bd-09acf7bf03e1/download/catastro-minero-sep.kmz",
+          "name": "Catastro Minero SEP.kmz",
+          "format": "KMZ",
+          "updatedAt": "2020-09-25T16:00:16.572Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2020-09-25T15:59:01.168Z",
+      "updatedAt": "2020-09-25T16:00:17.922Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "9d8c526e-0da8-4ff9-a6e3-b54062a51391",
+      "name": "catastro-minero-setiembre-2021",
+      "title": "Catastro Minero Setiembre 2021",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "45e601de-f42a-41d7-bb00-3b78aecabdea",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/9d8c526e-0da8-4ff9-a6e3-b54062a51391/resource/45e601de-f42a-41d7-bb00-3b78aecabdea/download/catastro-minero-digital-septiembre.kmz",
+          "name": "Catastro Minero Digital-Septiembre.kmz",
+          "format": ".kmz",
+          "updatedAt": "2021-09-17T13:32:10.152Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2021-09-17T13:31:33.841Z",
+      "updatedAt": "2021-09-17T13:32:10.469Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "c5c37edd-5b2d-4266-9d71-1938d561f76d",
+      "name": "catastro-minero-setiembre-2022",
+      "title": "Catastro Minero Setiembre 2022",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "d73162c4-86cc-484b-abea-7ef12cbb219a",
+          "downloadUrl": "https://datosabiertos.sanjuan.gob.ar/dataset/c5c37edd-5b2d-4266-9d71-1938d561f76d/resource/d73162c4-86cc-484b-abea-7ef12cbb219a/download/catastro-minero-digital-c.m.d.-4.kmz",
+          "name": "Catastro Minero Setiembre 2022",
+          "format": "KMZ",
+          "updatedAt": "2022-09-22T14:38:48.751Z",
+          "description": "Catastro Minero Setiembre 2022"
+        }
+      ],
+      "createdAt": "2022-09-22T14:38:21.937Z",
+      "updatedAt": "2022-09-22T14:38:49.090Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "f6f812f4-6ad9-4285-9438-90de75763f00",
+      "name": "catastro-minero-setiembre-2023",
+      "title": "Catastro Minero Setiembre 2023",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "a920eb29-7d77-4211-9ddd-612456d31df0",
+          "downloadUrl": "https://datosabiertos.sanjuan.gob.ar/dataset/f6f812f4-6ad9-4285-9438-90de75763f00/resource/a920eb29-7d77-4211-9ddd-612456d31df0/download/catastro-minero-digital-c.m.d.-sep-2023.kmz",
+          "name": "Catastro Minero Digital (C.M.D.) SEP 2023.kmz",
+          "format": "KMZ",
+          "updatedAt": "2023-09-07T14:51:25.383Z",
+          "description": ""
+        },
+        {
+          "id": "85a1d686-34e2-4bbc-81ef-465d043843de",
+          "downloadUrl": "https://datosabiertos.sanjuan.gob.ar/dataset/f6f812f4-6ad9-4285-9438-90de75763f00/resource/85a1d686-34e2-4bbc-81ef-465d043843de/download/ag-catastro-minero-06-sep-2023.dwg",
+          "name": "AG - Catastro Minero 06 SEP 2023.dwg",
+          "format": "",
+          "updatedAt": "2023-09-07T17:03:08.371Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2023-09-07T14:51:04.453Z",
+      "updatedAt": "2023-09-07T17:03:08.782Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "bed80835-d2cd-4f37-aeec-163f49dfdf41",
+      "name": "centros-de-salud",
+      "title": "Centros de Salud Provincia de San Juan",
+      "keywords": [
+        "centros",
+        "mapas",
+        "salud"
+      ],
+      "landingPage": "https://unide.sanjuan.gob.ar/geoserver/unide_salud/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=unide_salud:Centros_de_Salud&maxFeatures=50&outputFormat=application%2Fjson",
+      "resources": [
+        {
+          "id": "a5179b99-a5b3-440d-8375-45c17f301460",
+          "downloadUrl": "https://unide.sanjuan.gob.ar/geoserver/unide_salud/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=unide_salud:Centros_de_Salud&maxFeatures=50&outputFormat=application%2Fjson",
+          "name": "Mapa centros salud",
+          "format": "JSON",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "asds"
+        }
+      ],
+      "createdAt": "2017-11-09T15:33:52.373Z",
+      "updatedAt": "2017-12-13T16:33:38.537Z",
+      "contact": {
+        "name": "Nito",
+        "email": "nito@sdfs.com"
+      }
+    },
+    {
+      "id": "29db65ee-a503-4ec5-a97c-6d5dd0571d97",
+      "name": "centros-salud-san-juan",
+      "title": "Centros de Salud",
+      "keywords": [
+        "centros de salud",
+        "mapa san juan",
+        "prestadores",
+        "salud"
+      ],
+      "landingPage": "http://10.64.65.200/AresApi/api/CentroDeSalud",
+      "resources": [
+        {
+          "id": "7978683e-ad40-43cc-b66f-d5a3f9b82d31",
+          "downloadUrl": "http://10.64.65.200/AresApi/api/CentroDeSalud",
+          "name": "CentroDeSalud",
+          "format": "",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "0761187b-e546-491f-9a3a-bb26d280829b",
+          "downloadUrl": "http://10.64.65.200/AresApi/api/CentroDeSalud",
+          "name": "Centro De Salud San Juan",
+          "format": "JSON",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Geolocalizacíon de los centros de Salud de la Provincia de San Juan"
+        }
+      ],
+      "createdAt": "2018-03-16T17:33:27.032Z",
+      "updatedAt": "2018-03-16T17:35:18.720Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "0a220644-6c76-4a35-b82a-3a016f3a5e6e",
+      "name": "condiciones-de-vida-vol-5-n-13",
+      "title": "Condiciones de vida Vol. 5, n°13",
+      "keywords": [
+        "economía",
+        "encuesta",
+        "hogares",
+        "pobreza"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "23499f35-7949-480a-8bde-5bf2711184e7",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/0a220644-6c76-4a35-b82a-3a016f3a5e6e/resource/23499f35-7949-480a-8bde-5bf2711184e7/download/eph_pobreza_09_21324dd61468.pdf",
+          "name": "eph_pobreza_09_21324DD61468.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-04-27T21:54:57.448Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2022-04-27T21:54:26.188Z",
+      "updatedAt": "2022-04-27T21:55:11.666Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "3e3e04a2-7054-428b-9a8b-a29871eda40c",
+      "name": "condiciones-de-vida-vol-6-n-4",
+      "title": "Condiciones de vida Vol. 6, n°4",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "ec687eac-8a83-4f61-8372-d10d36446e09",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/3e3e04a2-7054-428b-9a8b-a29871eda40c/resource/ec687eac-8a83-4f61-8372-d10d36446e09/download/eph_pobreza_03_22f5e124a94b.pdf",
+          "name": "eph_pobreza_03_22F5E124A94B.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-04-27T21:57:08.530Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2022-04-27T21:56:40.253Z",
+      "updatedAt": "2022-04-27T21:57:08.878Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "84bcf5e8-eeff-4a39-b05c-d803073a9ca4",
+      "name": "deuda-publica-2006",
+      "title": "Deuda Pública (Hacienda y Finanzas)",
+      "keywords": [
+        "deuda pública",
+        "economía",
+        "hacienda",
+        "responsabilidad fiscal"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "f155fd39-c53a-45c2-86ec-e6e50f8a96f7",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/84bcf5e8-eeff-4a39-b05c-d803073a9ca4/resource/f155fd39-c53a-45c2-86ec-e6e50f8a96f7/download/2017_3er_trimestre.xlsx",
+          "name": "Año 2017 - 3er trimestre",
+          "format": "XLS",
+          "updatedAt": "2017-12-11T17:57:13.375Z",
+          "description": ""
+        },
+        {
+          "id": "7d21a149-03ba-40b1-b783-b92bbbbce2d0",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/84bcf5e8-eeff-4a39-b05c-d803073a9ca4/resource/7d21a149-03ba-40b1-b783-b92bbbbce2d0/download/2017_2do_trimestre.xlsx",
+          "name": "Año 2017 - 2do Trimestre",
+          "format": "XLS",
+          "updatedAt": "2017-12-11T17:55:23.356Z",
+          "description": ""
+        },
+        {
+          "id": "1f60a7fe-38cc-4c3d-bf41-1a35f1b7b33d",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/84bcf5e8-eeff-4a39-b05c-d803073a9ca4/resource/1f60a7fe-38cc-4c3d-bf41-1a35f1b7b33d/download/2017_1er_trimestre.xlsx",
+          "name": "Año 2017 - 1er Trimestre",
+          "format": "XLS",
+          "updatedAt": "2017-12-11T17:54:34.202Z",
+          "description": ""
+        },
+        {
+          "id": "45740e1e-ee39-4cb8-b793-72734ed1a080",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/84bcf5e8-eeff-4a39-b05c-d803073a9ca4/resource/45740e1e-ee39-4cb8-b793-72734ed1a080/download/2016_4to_trimestre.xlsx",
+          "name": "Año 2016 - 4to Trimestre",
+          "format": "XLS",
+          "updatedAt": "2017-12-11T18:17:04.803Z",
+          "description": ""
+        },
+        {
+          "id": "c806accd-fdcc-41a7-bbc7-f0dbb1b87c50",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/84bcf5e8-eeff-4a39-b05c-d803073a9ca4/resource/c806accd-fdcc-41a7-bbc7-f0dbb1b87c50/download/2016_3er_trimestre.xlsx",
+          "name": "Año 2016 - 3er Trimestre",
+          "format": "XLS",
+          "updatedAt": "2017-12-11T18:16:26.391Z",
+          "description": ""
+        },
+        {
+          "id": "f594424f-2a15-44db-9539-1e7d470b7ada",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/84bcf5e8-eeff-4a39-b05c-d803073a9ca4/resource/f594424f-2a15-44db-9539-1e7d470b7ada/download/2016_2do_trimestre.xlsx",
+          "name": "Año 2016 - 2do Trimestre",
+          "format": "XLS",
+          "updatedAt": "2017-12-11T18:15:52.212Z",
+          "description": ""
+        },
+        {
+          "id": "66042f4b-4182-4304-ace3-2c22e2582eb8",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/84bcf5e8-eeff-4a39-b05c-d803073a9ca4/resource/66042f4b-4182-4304-ace3-2c22e2582eb8/download/2016_1er_trimestre.xlsx",
+          "name": "Año 2016 - 1er Trimestre",
+          "format": "XLS",
+          "updatedAt": "2017-12-11T18:15:07.750Z",
+          "description": ""
+        },
+        {
+          "id": "b610b051-48a8-4d99-b73a-7e70ac76c1bf",
+          "downloadUrl": "https://hacienda.sanjuan.gob.ar/respfiscal/archivos_2007_4/Anexo_II_servcios_deuda.xls",
+          "name": "Año 2007 - 4to Trimestre ",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "98f2ba68-2c08-40c0-8fb7-dcebd2d3654f",
+          "downloadUrl": "https://hacienda.sanjuan.gob.ar/respfiscal/archivos_2007_3/Anexo%20_II%20_Servicios_%20Deuda_30_09_07.xls",
+          "name": "Año 2007 - 3er Trimestre ",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "4157b6e1-d93a-4203-9ae5-3a3212dd8559",
+          "downloadUrl": "https://hacienda.sanjuan.gob.ar/respfiscal/archivos_2007_2/Anexo_%20II_Deuda.xls",
+          "name": "Año 2007 - 2do Trimestre ",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "bcba6f66-9b31-47ff-b05b-c2bc6b9897b5",
+          "downloadUrl": "https://hacienda.sanjuan.gob.ar/respfiscal/archivos_2007_1/ANEXO_II_Stock.xls",
+          "name": "Año 2007 - 1er Trimestre ",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "4ad4f8d5-f783-4876-9f71-7a93408114d7",
+          "downloadUrl": "https://hacienda.sanjuan.gob.ar/respfiscal/archivos_2006_4/Stock_Deuda_%20IV%20_Trimestre_2006.xls",
+          "name": "Año 2006 - 4to Trimestre ",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "df228c1a-7011-4ce5-9efc-0c7e3cce408e",
+          "downloadUrl": "https://hacienda.sanjuan.gob.ar/respfiscal/archivos_2006_3/Stock_Deuda_III_Trimestre_2006.xls",
+          "name": "Año 2006 - 3er Trimestre ",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "3f517a1d-1881-46dd-9d79-5ac4085c4f37",
+          "downloadUrl": "https://hacienda.sanjuan.gob.ar/respfiscal/archivos_2006_2/Stock%20_Deuda_II_Trimestre_2006.xls",
+          "name": "Año 2006 - 2do Trimestre ",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "3027567c-a4a6-437e-b2f3-60ce04022cfc",
+          "downloadUrl": "https://hacienda.sanjuan.gob.ar/respfiscal/archivos/Stock_Deuda_I_Trim_2006.xls",
+          "name": "Año 2006 - 1er Trimestre ",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2017-11-10T16:10:42.053Z",
+      "updatedAt": "2017-12-12T15:29:47.242Z",
+      "contact": {
+        "name": "Gustavo Jury",
+        "email": "gustavojury@sanjuan.gov.ar"
+      }
+    },
+    {
+      "id": "4892baa7-54df-44c7-a408-4a792059d446",
+      "name": "dossier-obser-vial-transito-2019",
+      "title": "Dossier Obser. Vial Transito 2019",
+      "keywords": [
+        "gobierno"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "314b2c33-459b-4861-a5b3-f02365685099",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/4892baa7-54df-44c7-a408-4a792059d446/resource/314b2c33-459b-4861-a5b3-f02365685099/download/dossier-obser-vial-transito-2019-web.pdf",
+          "name": "Dossier Obser Vial Transito 2019 Web.pdf",
+          "format": "PDF",
+          "updatedAt": "2020-10-22T16:29:59.848Z",
+          "description": "Dossier Obser Vial Transito 2019 Web"
+        }
+      ],
+      "createdAt": "2020-10-22T16:28:19.343Z",
+      "updatedAt": "2020-10-22T16:53:35.475Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "54c62d70-50d5-42e5-b334-5696c5d53ebc",
+      "name": "establecimientos-y-servicios-turisticos",
+      "title": "Establecimientos y Servicios Turísticos (turismo)",
+      "keywords": [
+        "agencias",
+        "alojamiento",
+        "bodegas",
+        "gastronomía",
+        "viajes",
+        "mapa",
+        "san juan",
+        "turismo"
+      ],
+      "landingPage": "https://minhacienda.sanjuan.gob.ar/geo/",
+      "resources": [
+        {
+          "id": "8f03254d-106e-450a-a403-e5906b6fb9ed",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/54c62d70-50d5-42e5-b334-5696c5d53ebc/resource/8f03254d-106e-450a-a403-e5906b6fb9ed/download/establecimientos_turismo2017.xls",
+          "name": "establecimientos_turismo.csv",
+          "format": "XLS",
+          "updatedAt": "2017-11-10T17:36:01.801Z",
+          "description": "Datos Turísticos Provincia de San Juan"
+        }
+      ],
+      "createdAt": "2017-11-10T17:19:31.392Z",
+      "updatedAt": "2017-12-12T15:30:34.397Z",
+      "contact": {
+        "name": "Angel Romero",
+        "email": "nito@sdfs.com"
+      }
+    },
+    {
+      "id": "8a490cd2-fa90-4382-b443-9f3c502d8acd",
+      "name": "estadisticas-policia-de-san-juan",
+      "title": "Estadísticas MENSUALES CISEM 911 Policía de San Juan (Min. Gobierno)",
+      "keywords": [
+        "delincuencia",
+        "estadisticas",
+        "policia",
+        "san juan"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "be2b31ad-bdb8-46a3-be9b-87d6f1970472",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/8a490cd2-fa90-4382-b443-9f3c502d8acd/resource/be2b31ad-bdb8-46a3-be9b-87d6f1970472/download/estadisticasoctubre2017-2.xls",
+          "name": "Estadísticas Octubre 2017",
+          "format": "XLS",
+          "updatedAt": "2017-11-23T17:40:45.594Z",
+          "description": "Estadísticas de llamadas telefónicas recibidas en la Línea de Emergencias 911 durante el mes de Octubre del 2017"
+        }
+      ],
+      "createdAt": "2017-11-23T16:52:39.425Z",
+      "updatedAt": "2017-12-12T16:14:17.780Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "e01e84df-3471-4509-9b76-36fa6f86e6d1",
+      "name": "fondo-federal-solidario",
+      "title": "Fondo Federal Solidario (Hacienda y Finanzas)",
+      "keywords": [
+        "fondo provincial de infraestructura",
+        "fondo solidario",
+        "soja"
+      ],
+      "landingPage": "http://hacienda.sanjuan.gov.ar",
+      "resources": [
+        {
+          "id": "b89c9bbc-b982-4c96-85ee-d9be49a52059",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/e01e84df-3471-4509-9b76-36fa6f86e6d1/resource/b89c9bbc-b982-4c96-85ee-d9be49a52059/download/soja_y_municipios.xls",
+          "name": "Año 2010",
+          "format": "XLS",
+          "updatedAt": "2017-11-14T15:47:25.620Z",
+          "description": ""
+        },
+        {
+          "id": "d48f1bfa-b5d2-428b-947c-a1460facff28",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/e01e84df-3471-4509-9b76-36fa6f86e6d1/resource/d48f1bfa-b5d2-428b-947c-a1460facff28/download/soja_y_municipios_noviembre2011.xls",
+          "name": "Año 2011",
+          "format": "XLS",
+          "updatedAt": "2017-11-14T15:48:17.177Z",
+          "description": ""
+        },
+        {
+          "id": "5db826ca-46f3-4561-89d6-e7b2f2fa2214",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/e01e84df-3471-4509-9b76-36fa6f86e6d1/resource/5db826ca-46f3-4561-89d6-e7b2f2fa2214/download/soja_y_municipios_diciembre2012.pdf",
+          "name": "Año 2012",
+          "format": "PDF",
+          "updatedAt": "2017-11-14T15:59:06.334Z",
+          "description": ""
+        },
+        {
+          "id": "6674c584-5e43-452d-8556-876b2b017b32",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/e01e84df-3471-4509-9b76-36fa6f86e6d1/resource/6674c584-5e43-452d-8556-876b2b017b32/download/soja_y_municipios_diciembre2013.pdf",
+          "name": "Año 2013",
+          "format": "PDF",
+          "updatedAt": "2017-11-14T15:59:39.211Z",
+          "description": ""
+        },
+        {
+          "id": "6069f6bc-3ec1-4d88-bd16-73c7437d53e2",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/e01e84df-3471-4509-9b76-36fa6f86e6d1/resource/6069f6bc-3ec1-4d88-bd16-73c7437d53e2/download/soja_y_municipios_diciembre2014.pdf",
+          "name": "Año 2014",
+          "format": "PDF",
+          "updatedAt": "2017-11-14T16:00:25.514Z",
+          "description": ""
+        },
+        {
+          "id": "a8194cd4-050f-4177-96c6-35aa8de948eb",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/e01e84df-3471-4509-9b76-36fa6f86e6d1/resource/a8194cd4-050f-4177-96c6-35aa8de948eb/download/soja_y_municipios_diciembre2015.pdf",
+          "name": "Año 2015",
+          "format": "PDF",
+          "updatedAt": "2017-11-14T16:00:40.631Z",
+          "description": ""
+        },
+        {
+          "id": "6fb23753-a7f4-4350-8e9c-c510d445c93e",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/e01e84df-3471-4509-9b76-36fa6f86e6d1/resource/6fb23753-a7f4-4350-8e9c-c510d445c93e/download/soja_y_municipios_diciembre2016.pdf",
+          "name": "Año 2016",
+          "format": "PDF",
+          "updatedAt": "2017-11-14T16:01:00.903Z",
+          "description": ""
+        },
+        {
+          "id": "0488466f-e98b-4a93-9464-cc27cc685dd6",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/e01e84df-3471-4509-9b76-36fa6f86e6d1/resource/0488466f-e98b-4a93-9464-cc27cc685dd6/download/sojaymunicipios_diciembre2017.csv",
+          "name": "Año 2017 CSV",
+          "format": "CSV",
+          "updatedAt": "2018-02-05T16:19:01.579Z",
+          "description": "Año 2017 Completo"
+        },
+        {
+          "id": "5c8cdec6-422e-448c-b4ea-abfc75ec0565",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/e01e84df-3471-4509-9b76-36fa6f86e6d1/resource/5c8cdec6-422e-448c-b4ea-abfc75ec0565/download/sojaymunicipios_mayo2018.csv",
+          "name": "Año 2018",
+          "format": "CSV",
+          "updatedAt": "2018-06-05T16:57:46.512Z",
+          "description": "Parciales mensuales actualizados"
+        }
+      ],
+      "createdAt": "2017-11-14T15:37:59.365Z",
+      "updatedAt": "2018-06-05T16:57:46.581Z",
+      "contact": {
+        "name": "Gustavo Jury",
+        "email": "gustavojury@sanjuan.gov.ar"
+      }
+    },
+    {
+      "id": "bf776086-b94c-4cf2-a7fc-ae08dac11942",
+      "name": "licitaciones-contrataciones-y-compras",
+      "title": "Licitaciones, Contrataciones y compras",
+      "keywords": [
+        "comrpas directas",
+        "contrataciones",
+        "licitaciones"
+      ],
+      "landingPage": "https://gestionturismo.sanjuan.gob.ar/api/turismo/applicitacionesgobierno.php?opcion=10",
+      "resources": [
+        {
+          "id": "247d8550-c177-4644-acd9-b0e534383c95",
+          "downloadUrl": "https://gestionturismo.sanjuan.gob.ar/api/turismo/applicitacionesgobierno.php?opcion=10",
+          "name": "Listado de Contrataciones",
+          "format": "JSON",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2018-11-09T16:28:35.893Z",
+      "updatedAt": "2018-11-09T16:29:01.921Z",
+      "contact": {
+        "name": "Gobierno Electronico",
+        "email": ""
+      }
+    },
+    {
+      "id": "7c4fb7c1-14ed-4796-81c8-9df70826de3f",
+      "name": "mercado-de-trabajo-eph",
+      "title": "Mercado de Trabajo  - EPH",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "c363a662-fe30-4b9b-8243-6acd91152294",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/7c4fb7c1-14ed-4796-81c8-9df70826de3f/resource/c363a662-fe30-4b9b-8243-6acd91152294/download/mercado_trabajo_eph_1trim21f7c133ba46.pdf",
+          "name": "mercado_trabajo_eph_1trim21F7C133BA46.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-04-27T22:26:19.003Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2022-04-27T22:25:34.988Z",
+      "updatedAt": "2022-04-27T22:26:19.196Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "20111bd7-6788-4c20-af28-b86b26fcf092",
+      "name": "mercado-de-trabajo-eph-2-2021",
+      "title": "Mercado de Trabajo - EPH",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "09996286-1a1d-4490-970f-1c1dfd61251e",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/20111bd7-6788-4c20-af28-b86b26fcf092/resource/09996286-1a1d-4490-970f-1c1dfd61251e/download/mercado_trabajo_eph_2trim216d4d22ff6b.pdf",
+          "name": "mercado_trabajo_eph_2trim216D4D22FF6B.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-04-27T22:28:46.883Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2022-04-27T22:28:18.238Z",
+      "updatedAt": "2022-04-27T22:28:47.106Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "8fb14db0-9541-4728-8426-65cf76efa310",
+      "name": "mercado-de-trabajo-eph-3-2021",
+      "title": "Mercado de Trabajo - EPH",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "6cd90ec1-c185-4400-8b23-cedb7508d963",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/8fb14db0-9541-4728-8426-65cf76efa310/resource/6cd90ec1-c185-4400-8b23-cedb7508d963/download/mercado_trabajo_eph_3trim21de3a5603ad.pdf",
+          "name": "mercado_trabajo_eph_3trim21DE3A5603AD.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-04-27T22:30:16.062Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2022-04-27T22:29:49.845Z",
+      "updatedAt": "2022-04-27T22:30:16.336Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "ed48ae51-4701-4626-b72c-62478398897a",
+      "name": "mercado-de-trabajo-eph-4-2021",
+      "title": "Mercado de Trabajo - EPH",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "be784935-7416-4a9b-9894-e4523f0a332c",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/ed48ae51-4701-4626-b72c-62478398897a/resource/be784935-7416-4a9b-9894-e4523f0a332c/download/mercado_trabajo_eph_4trim211a57838dec.pdf",
+          "name": "mercado_trabajo_eph_4trim211A57838DEC.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-04-27T22:31:39.626Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2022-04-27T22:31:08.737Z",
+      "updatedAt": "2022-04-27T22:31:39.887Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "86045a70-3aba-48a0-9186-2e1a935cf907",
+      "name": "observatorio-de-transito-y-seguridad-vial",
+      "title": "Estadísticas Observatorio de Tránsito y Seguridad Vial",
+      "keywords": [
+        "estadisticas",
+        "seguridad",
+        "transito",
+        "transporte",
+        "vial"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "d18d42c2-8e22-40a4-8b21-1358b1f11afa",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/86045a70-3aba-48a0-9186-2e1a935cf907/resource/d18d42c2-8e22-40a4-8b21-1358b1f11afa/download/informeobservatorio-2017-mayo28.pdf",
+          "name": "Informe revision MAYO.pdf",
+          "format": "PDF",
+          "updatedAt": "2018-05-28T18:52:50.091Z",
+          "description": "Revisión mes de Mayo de 2017"
+        },
+        {
+          "id": "aa9082e1-796d-45dd-a52a-8c7ae7d3bb3e",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/86045a70-3aba-48a0-9186-2e1a935cf907/resource/aa9082e1-796d-45dd-a52a-8c7ae7d3bb3e/download/victimas_fatales_primer_cuatrimestre.pdf",
+          "name": "victimas_fatales_primer_cuatrimestre.pdf",
+          "format": "PDF",
+          "updatedAt": "2018-05-28T22:11:24.021Z",
+          "description": "Informe Primer Cuatrimestre 2018 - Observatorio de Seguridad y Movilidad Vial - San Juan"
+        },
+        {
+          "id": "970062e3-a497-407e-aa08-312f3213bb85",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/86045a70-3aba-48a0-9186-2e1a935cf907/resource/970062e3-a497-407e-aa08-312f3213bb85/download/victimas_factales_segundo_cuatrimestre2018.pdf",
+          "name": "victimas_factales_segundo_cuatrimestre2018.pdf",
+          "format": "PDF",
+          "updatedAt": "2018-10-09T17:53:00.395Z",
+          "description": "Segundo Cuatrimestre 2018"
+        },
+        {
+          "id": "c4ea1bfc-c9e2-4ce2-9df4-7f94b0318f7e",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/86045a70-3aba-48a0-9186-2e1a935cf907/resource/c4ea1bfc-c9e2-4ce2-9df4-7f94b0318f7e/download/informe-seguridad-vial-2018-nuevo.pdf",
+          "name": "Siniestros viales del año 2018",
+          "format": "PDF",
+          "updatedAt": "2019-04-03T16:44:21.489Z",
+          "description": "Los datos, que a continuación se detallan, comprenden los siniestros en el periodo de enero a diciembre de 2018."
+        },
+        {
+          "id": "d5f7cb3f-bc04-4f09-a27c-9cef0fe90c38",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/86045a70-3aba-48a0-9186-2e1a935cf907/resource/d5f7cb3f-bc04-4f09-a27c-9cef0fe90c38/download/informe-transito-primer-cuatrimestre-2019-1.pdf",
+          "name": "Informe transito primer cuatrimestre 2019 (1).pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-25T17:07:45.449Z",
+          "description": ""
+        },
+        {
+          "id": "c303b6ce-3ef7-4de3-9116-165beb5d1f39",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/86045a70-3aba-48a0-9186-2e1a935cf907/resource/c303b6ce-3ef7-4de3-9116-165beb5d1f39/download/informe-acumulado-2018-a4-comprimido.pdf",
+          "name": "Informe Acumulado 2018.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-09-23T18:10:42.786Z",
+          "description": "Cuadernillo de informe final anual 2018"
+        },
+        {
+          "id": "91e09fa0-902d-48b4-937e-d210b6b018f9",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/86045a70-3aba-48a0-9186-2e1a935cf907/resource/91e09fa0-902d-48b4-937e-d210b6b018f9/download/segundo-cuatrimestre-2019.pdf",
+          "name": "Informe acumulado segundo cuatrimestre 2019",
+          "format": "PDF",
+          "updatedAt": "2019-11-05T16:51:52.729Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2018-05-24T17:55:04.781Z",
+      "updatedAt": "2019-11-05T16:51:53.020Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "1105e91d-c466-48bc-b6e5-943ca9e3a24d",
+      "name": "osse-sistema-cloacal",
+      "title": "OSSE - Sistema Cloacal (infraestructura)",
+      "keywords": [
+        "cloacal",
+        "osse",
+        "sistema"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "f9317a00-512c-4398-83b6-6e8b7f901be7",
+          "downloadUrl": "https://unide.sanjuan.gob.ar/geonetwork/srv/api/records/b8f3ee0ed1dc92679129f4b35471d492fe502c63/formatters/xml",
+          "name": "Mapa Sistema Cloacal OSSE",
+          "format": "XML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Mapa que contiene la zona servida con recolección de liquidos domiciliarios que estén o no a cargo de Obras sanitarias Sociedad del Estado de la Provincia de San Juan.\r\nSino puede acceder el formato XML. Acceda al siguiente mapa https://unide.sanjuan.gob.ar/geonetwork/srv/spa/catalog.search#/map"
+        }
+      ],
+      "createdAt": "2017-12-11T16:28:18.179Z",
+      "updatedAt": "2017-12-12T15:29:24.731Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "a49e9a5b-3faa-4984-be6e-b07a0e3d78f5",
+      "name": "osse-sistema-de-agua",
+      "title": "OSSE - Sistema de Agua (infraestructura)",
+      "keywords": [
+        "agua",
+        "agua potable",
+        "infraestructura",
+        "osse",
+        "san juan"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "0e96bd75-f5c3-4fe0-9cca-04654bed2d28",
+          "downloadUrl": "https://unide.sanjuan.gob.ar/geonetwork/srv/api/records/c1d65c244a493de04394ddeadb4ec1b96bc37e75/formatters/xml",
+          "name": "Mapa Sistema de Agua OSSE",
+          "format": "XML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Este mapa contiene la zona servida con agua potable que estén o no a cargo de Obras Sanitarias Sociedad del estado de la Provincia de San Juan.\r\nSi no puede acceder al formato XML puede ver el mapa en la siguiente dirección\r\nhttps://unide.sanjuan.gob.ar/geonetwork/srv/spa/catalog.search#/map"
+        }
+      ],
+      "createdAt": "2017-12-11T16:53:20.696Z",
+      "updatedAt": "2017-12-12T15:29:59.161Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "f1e1b04d-c313-4578-81ba-3dda1462287f",
+      "name": "protocolo",
+      "title": "Organigrama",
+      "keywords": [
+        "autoridades",
+        "organigrama",
+        "protocolo"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "1c66db40-0033-466d-bc36-83f415be649d",
+          "downloadUrl": "https://datosabiertos.sanjuan.gob.ar/dataset/f1e1b04d-c313-4578-81ba-3dda1462287f/resource/1c66db40-0033-466d-bc36-83f415be649d/download/protocolo.pdf",
+          "name": "LISTADO DE AUTORIDADES DE LA PROVINCIA DE SAN JUAN",
+          "format": "PDF",
+          "updatedAt": "2018-11-09T15:54:44.916Z",
+          "description": "La Información de esta nómina de autoridades fue recopilada por la Dirección de Ceremonial y Protocolo de la\r\nProvincia de San Juan. Los datos vertidos en la misma fueron suministrados por los distintos organismos y\r\nministerios que figuran en ella. Se agradecerá cualquier comunicación referente a error, omisión o\r\nModificación a fin de ser considerados en la próxima edición.\r\n“El Ordenamiento del presente listado ha sido realizado sin tener en cuenta el orden de precedencia,\r\npuesto que se considera como una simple guía de consulta”.\r\nTelefono: Conmutador (0264) 429-6000 Int. 6014/15/16/17 \r\nEmail: ceremonial@sanjuan.gov.ar"
+        }
+      ],
+      "createdAt": "2018-11-09T15:48:15.267Z",
+      "updatedAt": "2018-11-09T15:55:05.932Z",
+      "contact": {
+        "name": "DIRECCIÓN DE CEREMONIAL Y PROTOCOLO GOBERNACION DE SAN JUAN",
+        "email": ""
+      }
+    },
+    {
+      "id": "ad0637e7-7df5-4214-a5bc-fcdba92aa4a3",
+      "name": "proyecto-provincial-de-separacion-en-origen-y-recoleccion-diferenciada",
+      "title": "Proyecto Provincial de separación en origen y recolección diferenciada (ambiente)",
+      "keywords": [
+        "ambiente",
+        "contenedores",
+        "reciclado",
+        "recoleccion",
+        "residuos"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "df1a83bb-45f4-4a6a-9785-e039d2301e85",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/ad0637e7-7df5-4214-a5bc-fcdba92aa4a3/resource/df1a83bb-45f4-4a6a-9785-e039d2301e85/download/ambiente-contenedores-colocados.xls",
+          "name": "Contenedores Colocados",
+          "format": "XLS",
+          "updatedAt": "2017-12-11T15:56:58.933Z",
+          "description": ""
+        },
+        {
+          "id": "f2cf14a7-b992-437e-a922-c1bf171fd794",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/ad0637e7-7df5-4214-a5bc-fcdba92aa4a3/resource/f2cf14a7-b992-437e-a922-c1bf171fd794/download/ambiente-contenedores-proceso-colocacion.xls",
+          "name": "Contenedores en proceso de colocación",
+          "format": "XLS",
+          "updatedAt": "2017-12-11T15:59:01.431Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2017-12-11T15:36:32.149Z",
+      "updatedAt": "2017-12-12T15:30:15.522Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "ba057bf8-1d5e-4814-94b6-cc3f1e6f4177",
+      "name": "rentas",
+      "title": "Recaudación Impositiva Provincial",
+      "keywords": [
+        "economía",
+        "impositiva",
+        "impuestos",
+        "rentas"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "327f91da-2df0-4f75-a42b-1afa93a7bd63",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/ba057bf8-1d5e-4814-94b6-cc3f1e6f4177/resource/327f91da-2df0-4f75-a42b-1afa93a7bd63/download/rec_01_2018.xls",
+          "name": "Recaudación Enero 2018",
+          "format": "XLS",
+          "updatedAt": "2018-02-14T18:31:14.374Z",
+          "description": "Archivo con todas las tablas, evoluciones y análisis de la recaudación impositiva por parte de la DGR San Juan"
+        },
+        {
+          "id": "18d910e6-a9dc-403a-992a-6f67a9a1a8a3",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/ba057bf8-1d5e-4814-94b6-cc3f1e6f4177/resource/18d910e6-a9dc-403a-992a-6f67a9a1a8a3/download/rec_02_2018.xls",
+          "name": "Recaudación Febrero 2018",
+          "format": "XLS",
+          "updatedAt": "2018-03-16T15:14:52.334Z",
+          "description": "Archivo con todas las tablas, evoluciones y análisis de la recaudación impositiva por parte de la DGR San Juan"
+        },
+        {
+          "id": "4f58959f-f610-4389-a47c-5a6ec61eedeb",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/ba057bf8-1d5e-4814-94b6-cc3f1e6f4177/resource/4f58959f-f610-4389-a47c-5a6ec61eedeb/download/rec_03_2018.xls",
+          "name": "Recaudación Marzo 2018",
+          "format": "XLS",
+          "updatedAt": "2018-06-07T16:24:08.507Z",
+          "description": ""
+        },
+        {
+          "id": "a3d60ae2-1b64-41d1-b6b0-013f393ba040",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/ba057bf8-1d5e-4814-94b6-cc3f1e6f4177/resource/a3d60ae2-1b64-41d1-b6b0-013f393ba040/download/rec_04_2018.xls",
+          "name": "Recaudación Abril 2018",
+          "format": "XLS",
+          "updatedAt": "2018-06-07T16:25:47.117Z",
+          "description": ""
+        },
+        {
+          "id": "f6741ea6-f762-4de5-a8e7-e559f9adfb0e",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/ba057bf8-1d5e-4814-94b6-cc3f1e6f4177/resource/f6741ea6-f762-4de5-a8e7-e559f9adfb0e/download/rec_05_2018.xls",
+          "name": "Recaudación Mayo 2018",
+          "format": "XLS",
+          "updatedAt": "2018-06-07T16:26:21.407Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2018-02-14T18:30:36.083Z",
+      "updatedAt": "2018-06-07T16:26:21.420Z",
+      "contact": {
+        "name": "Livio Perosa",
+        "email": "lperosa@sanjuan.gov.ar"
+      }
+    },
+    {
+      "id": "57243f1b-8685-4a04-b346-c62af26cfea0",
+      "name": "sig-geologico-minero-archivo-kmz-para-google-maps",
+      "title": "SIG Geológico Minero - archivo KMZ para Google Maps",
+      "keywords": [
+        "minería",
+        "minería sig san juan"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "2de15cb5-c133-464f-b77a-ae57efb901dd",
+          "downloadUrl": "https://www.datosabiertos.sanjuan.gob.ar/dataset/57243f1b-8685-4a04-b346-c62af26cfea0/resource/2de15cb5-c133-464f-b77a-ae57efb901dd/download/sig_geologico_minero_agosto2018.kmz",
+          "name": "SIG Geológco Minero_Agosto2018.kmz",
+          "format": "KMZ",
+          "updatedAt": "2018-08-14T19:07:11.928Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2018-05-17T14:33:31.259Z",
+      "updatedAt": "2018-08-14T19:07:11.992Z",
+      "contact": {
+        "name": "Ministerio de Minería",
+        "email": ""
+      }
+    }
+  ],
+  "organizations": [],
+  "updatedAt": "2023-12-16T11:39:18.988Z"
+}

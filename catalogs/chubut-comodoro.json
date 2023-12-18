@@ -1,0 +1,3477 @@
+{
+  "id": "8mlZ5hzJtb",
+  "datasets": [
+    {
+      "id": "28d7125b-376a-4928-b48c-205e73cf5caf",
+      "name": "accidentes-de-transito",
+      "title": "Accidentes de Tránsito",
+      "keywords": [
+        "accidentes",
+        "tránsito"
+      ],
+      "landingPage": "Agencia Provincial de Seguridad Vial",
+      "resources": [
+        {
+          "id": "48c42e27-07bc-4f43-8771-708091a58286",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/tipo-accidente-transito-serie.xlsx",
+          "name": "Accidentes de Tránsito",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con los tipos de accidentes de tránsito en la ciudad de Comodoro Rivadavia. Serie 2018-2022."
+        },
+        {
+          "id": "937e2cb4-cfef-4c64-b529-bdd80a007376",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/tipo-accidente-transito-serie.csv",
+          "name": "Accidentes de Tránsito",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con los tipos de accidentes de tránsito en la ciudad de Comodoro Rivadavia. Serie 2018-2022."
+        }
+      ],
+      "createdAt": "2021-06-02T17:17:49.145Z",
+      "updatedAt": "2023-03-29T18:36:19.907Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "759cbc24-5d6e-4eed-88b2-7a2c5829b186",
+      "name": "aip",
+      "title": "Pedidos de Acceso a la Información Pública",
+      "keywords": [
+        "acceso a la información pública",
+        "aip"
+      ],
+      "landingPage": "Agencia de Acceso a la Información Pública de la Municipalidad de Comodoro Rivadavia. ",
+      "resources": [
+        {
+          "id": "f12a7e8c-e3b8-4637-9f25-b01c11007c91",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/aip_2021.xlsx",
+          "name": "Pedidos de AIP 2021",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Datasets con los pedidos de información realizados a la Agencia de AIP de la Municipalidad de Comodoro Rivadavia. Año 2021."
+        },
+        {
+          "id": "ef7db6e3-41ea-40c4-bacb-929322b22330",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/aip_2021.csv",
+          "name": "Pedidos de AIP 2021",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Datasets con los pedidos de información realizados a la Agencia de AIP de la Municipalidad de Comodoro Rivadavia. Año 2021."
+        },
+        {
+          "id": "42c07399-c5a5-4d32-abe0-69b6d90c0298",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/aip_2022.xlsx",
+          "name": "Pedidos de AIP 2022",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Datasets con los pedidos de información realizados a la Agencia de AIP de la Municipalidad de Comodoro Rivadavia. Año 2022 (actualizado al 1/7/2022)."
+        },
+        {
+          "id": "41cb5abb-cbea-40ff-bb73-04dde4622282",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/aip_2022.csv",
+          "name": "Pedidos de AIP 2022",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Datasets con los pedidos de información realizados a la Agencia de AIP de la Municipalidad de Comodoro Rivadavia. Año 2022 (actualizado al 1/7/2022)."
+        },
+        {
+          "id": "7417d5bf-4920-490a-98b7-e27c6e92a9b5",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/aip-2023.xlsx",
+          "name": "Pedidos de AIP 2023",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Datasets con los pedidos de información realizados a la Agencia de AIP de la Municipalidad de Comodoro Rivadavia. Año 2023."
+        },
+        {
+          "id": "1385e627-0aa5-4464-a4eb-1455e5ee0e73",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/aip-2023.csv",
+          "name": "Pedidos de AIP 2023",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Datasets con los pedidos de información realizados a la Agencia de AIP de la Municipalidad de Comodoro Rivadavia. Año 2023."
+        }
+      ],
+      "createdAt": "2022-07-20T17:04:53.419Z",
+      "updatedAt": "2023-07-01T00:13:42.752Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "a8f78a65-3fc0-4adc-bfa7-3acd3ba1fd1b",
+      "name": "areas-genero",
+      "title": "Áreas específicas de género",
+      "keywords": [
+        "genero"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial",
+      "resources": [
+        {
+          "id": "48aee3a8-2025-403c-a636-1954c3be7fdb",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/genero-infraestructura.xlsx",
+          "name": "Áreas específicas de género",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con las áreas específicas de género, ya sean de jurisdicción municipal o provincial."
+        },
+        {
+          "id": "f0056895-3992-429c-9554-4d6c46f8edd0",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/genero-infraestructura.csv",
+          "name": "Áreas específicas de género",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con las áreas específicas de género, ya sean de jurisdicción municipal o provincial."
+        }
+      ],
+      "createdAt": "2022-07-12T19:28:21.180Z",
+      "updatedAt": "2022-07-12T20:21:03.976Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "14b575a2-9505-4e8c-a1f7-ecb6840cd502",
+      "name": "areas-genero-kml",
+      "title": "Áreas específicas de género",
+      "keywords": [
+        "genero"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial",
+      "resources": [
+        {
+          "id": "611817e4-18fb-4d44-97bc-5162521b4a71",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/genero-infraestructura.kml",
+          "name": "Áreas específicas de género",
+          "format": "KML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada con las áreas específicas de género, ya sean de jurisdicción municipal o provincial."
+        }
+      ],
+      "createdAt": "2022-07-12T19:29:21.344Z",
+      "updatedAt": "2022-07-12T20:22:22.935Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "78d6bd4f-77db-4de5-8152-feefbe416608",
+      "name": "bancos",
+      "title": "Bancos",
+      "keywords": [
+        "bancos",
+        "mapa",
+        "sucursales bancarias"
+      ],
+      "landingPage": "Banco Central de la República Argentina (BCRA)",
+      "resources": [
+        {
+          "id": "37e56928-d07a-4b92-ab8e-dea5caadcaa5",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/bancos.kml",
+          "name": "Bancos (kml)",
+          "format": "KML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada con las sucursales bancarias con las que cuenta Comodoro Rivadavia."
+        },
+        {
+          "id": "6bba4781-57b6-4cd8-819e-d0d4feae50cc",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/bancos.zip",
+          "name": "Bancos (shp)",
+          "format": "ZIP",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada con las sucursales bancarias con las que cuenta Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2021-06-08T14:36:12.766Z",
+      "updatedAt": "2021-06-23T16:11:11.861Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "179bb92e-34c2-4e17-b808-44e25736d095",
+      "name": "bancos-listado",
+      "title": "Bancos",
+      "keywords": [
+        "bancos",
+        "sucursales bancarias"
+      ],
+      "landingPage": "Banco Central de la República Argentina (BCRA)",
+      "resources": [
+        {
+          "id": "2c8d3f74-2d38-44dc-865d-569792a37dd8",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/bancos.xlsx",
+          "name": "Bancos",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con las sucursales bancarias con las que cuenta Comodoro Rivadavia."
+        },
+        {
+          "id": "2dad0c43-f3b2-4dde-a2a4-e9637e7feded",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/bancos.csv",
+          "name": "Bancos",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con las sucursales bancarias con las que cuenta Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2021-06-08T14:32:59.784Z",
+      "updatedAt": "2021-06-16T14:57:29.862Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "06a759d0-895b-4d07-ba61-57c98178e56f",
+      "name": "barrios-de-comodoro-rivadavia",
+      "title": "Barrios de Comodoro Rivadavia",
+      "keywords": [
+        "barrios",
+        "mapa"
+      ],
+      "landingPage": "Relevamiento de la Dirección General de Modernización e Investigación Territorial con asistencia de la Dirección General de Catastro",
+      "resources": [
+        {
+          "id": "40a56dca-6004-4b7e-9e5c-9edc55bf51a9",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/barrios.kmz",
+          "name": "Barrios de Comodoro Rivadavia",
+          "format": "KMZ",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada con los límites de los barrios de Comodoro Rivadavia. La misma fue realizada por la Dirección de Investigación Territorial a partir de la legislación vigente. En caso de que el barrio no posea ordenanza de creación, para su demarcación se utilizó la información suministrada por la Dirección General de Catastro."
+        }
+      ],
+      "createdAt": "2021-06-23T22:16:45.092Z",
+      "updatedAt": "2023-07-06T21:45:25.043Z",
+      "contact": {
+        "name": "Dirección General de Modernización e Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "31d774ee-c46c-461d-a332-48ffc36b0ab3",
+      "name": "barrios-de-comodoro-rivadavia-listado",
+      "title": "Barrios de Comodoro Rivadavia",
+      "keywords": [
+        "barrios"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial y de la Dirección General de Catastro",
+      "resources": [
+        {
+          "id": "13cd9235-cb33-49a6-bb70-ad1e6afb0345",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/barrios-cr.xlsx",
+          "name": "Barrios de Comodoro Rivadavia",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con los nombres oficiales de los barrios de Comodoro Rivadavia. El mismo fue realizado por la Dirección de Investigación Territorial a partir de la información suministrada por la Dirección General de Catastro."
+        },
+        {
+          "id": "4c51dd4b-5c1f-4aee-aa4f-ca57ceb46edf",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/barrios-cr.csv",
+          "name": "Barrios de Comodoro Rivadavia",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con los nombres oficiales de los barrios de Comodoro Rivadavia. El mismo fue realizado por la Dirección de Investigación Territorial a partir de la información suministrada por la Dirección General de Catastro."
+        }
+      ],
+      "createdAt": "2021-07-02T17:39:11.592Z",
+      "updatedAt": "2023-07-06T21:45:02.774Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "b92a8968-4e55-408e-8ee6-8720c486a451",
+      "name": "bomberos-voluntarios-kml",
+      "title": "Bomberos Voluntarios",
+      "keywords": [
+        "bomberos",
+        "mapa"
+      ],
+      "landingPage": "Relevamiento DIT",
+      "resources": [
+        {
+          "id": "a1fd5d01-e890-4fa2-b79e-5ae64e45f041",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/bomberos.kml",
+          "name": "Bomberos Voluntarios (kml)",
+          "format": "KML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada de los cuarteles y destacamentos de bomberos voluntarios en Comodoro Rivadavia."
+        },
+        {
+          "id": "2bc9355e-d795-4a41-b2e6-ed23a01735f2",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/bomberos.zip",
+          "name": "Bomberos Voluntarios (shp)",
+          "format": "ZIP",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada de los cuarteles y destacamentos de bomberos voluntarios en Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2021-06-04T15:41:22.938Z",
+      "updatedAt": "2021-06-23T16:10:11.704Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "f35c38af-7d22-4d4d-ad79-75593aade487",
+      "name": "bomberos-voluntarios-listado",
+      "title": "Bomberos Voluntarios",
+      "keywords": [
+        "bomberos"
+      ],
+      "landingPage": "Relevamiento DIT",
+      "resources": [
+        {
+          "id": "619c7bbe-ce14-4a8e-be91-6eeaebf83326",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/bomberos.xlsx",
+          "name": "Bomberos Voluntarios",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado de los cuarteles y destacamentos de bomberos voluntarios en Comodoro Rivadavia."
+        },
+        {
+          "id": "f23ab634-d595-4fc6-a91d-8ea1e4bd0220",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/bomberos.csv",
+          "name": "Bomberos Voluntarios",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado de los cuarteles y destacamentos de los cuarteles y destacamentos de bomberos voluntarios en Comodoro Rivadavia"
+        }
+      ],
+      "createdAt": "2021-06-04T15:37:54.232Z",
+      "updatedAt": "2021-06-22T15:31:36.217Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "8b4ea375-93e9-4b15-bfb8-c4ffddd2660b",
+      "name": "centrales-de-generacion-electrica",
+      "title": "Centrales de generación eléctrica",
+      "keywords": [
+        "energía eléctrica"
+      ],
+      "landingPage": "Secretaría de Energía de la Nación",
+      "resources": [
+        {
+          "id": "bb44e78b-be0d-40ea-8af0-44dfacbc53e2",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/centrales-generacion-electrica.xlsx",
+          "name": "Centrales de generación eléctrica",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado de Centrales de generación eléctrica con asiento dentro de los ejidos de Comodoro Rivadavia y Rada Tilly o en sus cercanías."
+        },
+        {
+          "id": "6d56e0d2-1b5f-4844-bec5-f655272a2dd3",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/centrales-generacion-electrica.csv",
+          "name": "Centrales de generación eléctrica",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado de Centrales de generación eléctrica con asiento dentro de los ejidos de Comodoro Rivadavia y Rada Tilly o en sus cercanías."
+        }
+      ],
+      "createdAt": "2021-06-23T15:56:56.605Z",
+      "updatedAt": "2021-06-23T15:58:28.564Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "b692384a-b607-4403-ad00-bfca1c31e28c",
+      "name": "centrales-de-generacion-electrica-kml",
+      "title": "Centrales de generación eléctrica",
+      "keywords": [
+        "energía eléctrica"
+      ],
+      "landingPage": "Secretaría de Energía de la Nación",
+      "resources": [
+        {
+          "id": "ff80d66f-59c9-4b87-81c0-c385a00c9464",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/centrales-generacion-electrica.kml",
+          "name": "Centrales de generación eléctrica",
+          "format": "KML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada con las Centrales de generación eléctrica con asiento dentro de los ejidos de Comodoro Rivadavia y Rada Tilly o en sus cercanías."
+        }
+      ],
+      "createdAt": "2021-06-23T15:59:33.043Z",
+      "updatedAt": "2021-06-23T16:00:03.562Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "d44c6ab9-85d1-4a8f-827d-4d72f5027618",
+      "name": "centros-de-promocion-barrial-csv",
+      "title": "Centros de Promoción Barrial",
+      "keywords": [
+        "cpb",
+        "centros de promoción barrial"
+      ],
+      "landingPage": "Secretaría de Desarrollo Humano y Familia",
+      "resources": [
+        {
+          "id": "a09d1451-ac1c-4e2f-b0df-45cc96f7b146",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/centros-promocion-barrial.xlsx",
+          "name": "Centros de Promoción Barrial",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado de los Centros de Promoción Barrial (CPB). Este programa es impulsado por la Secretaría de Desarrollo Humano y Familia, está dirigido a toda la comunidad priorizando el acceso a aquellas familias en situación de vulnerabilidad."
+        },
+        {
+          "id": "47e32a57-661b-4ee6-989a-dbe3f9f42060",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/centros-promocion-barrial.csv",
+          "name": "Centros de Promoción Barrial",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado de los Centros de Promoción Barrial (CPB). Este programa es impulsado por la Secretaría de Desarrollo Humano y Familia, está dirigido a toda la comunidad priorizando el acceso a aquellas familias en situación de vulnerabilidad."
+        }
+      ],
+      "createdAt": "2021-05-28T15:35:05.959Z",
+      "updatedAt": "2023-06-30T19:26:33.561Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "1e9da8a7-7d00-4472-b1ab-ca4906fad5fd",
+      "name": "centros-de-promocion-barrial-kml",
+      "title": "Centros de Promoción Barrial",
+      "keywords": [
+        "cpb",
+        "centros de promoción barrial",
+        "mapa"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial",
+      "resources": [
+        {
+          "id": "0f84a285-09e9-4e85-ae5d-ff69370c63c8",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/centros-promocion-barrial.kml",
+          "name": "Centros de Promoción Barrial (kml)",
+          "format": "KML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada de los Centros de Promoción Barrial (CPB). Este programa es impulsado por la Secretaría de Desarrollo Humano y Familia, está dirigido a toda la comunidad priorizando el acceso a aquellas familias en situación de vulnerabilidad."
+        },
+        {
+          "id": "fc992543-4d82-46b9-9961-7787c52320e2",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/centros-promocion-barrial.zip",
+          "name": "Centros de Promoción Barrial (shp)",
+          "format": "ZIP",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada de los Centros de Promoción Barrial (CPB). Este programa es impulsado por la Secretaría de Desarrollo Humano y Familia, está dirigido a toda la comunidad priorizando el acceso a aquellas familias en situación de vulnerabilidad."
+        }
+      ],
+      "createdAt": "2021-05-28T15:38:22.540Z",
+      "updatedAt": "2023-06-30T19:26:14.277Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "2b22fce5-b4e4-4dfc-9747-8f0a32ef0a6f",
+      "name": "centros-de-salud-publicos-csv",
+      "title": "Centros de Salud Públicos",
+      "keywords": [
+        "caps",
+        "hospital",
+        "salud"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial",
+      "resources": [
+        {
+          "id": "5977de6d-eef4-42cc-aef7-bf107ccdf474",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/centros-salud-publicos.xlsx",
+          "name": "Centros de Salud Públicos",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con los centros de salud dependientes del sector público. Este relevamiento incluye los Centros de Atención Primaria de la Salud (CAPS) Municipales y Provinciales como así también los hospitales públicos."
+        },
+        {
+          "id": "2ee8705e-4f53-440b-9fa8-6c8776180251",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/centros-salud-publicos.csv",
+          "name": "Centros de Salud Públicos",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con los centros de salud dependientes del sector público. Este relevamiento incluye los Centros de Atención Primaria de la Salud (CAPS) Municipales y Provinciales como así también los hospitales públicos."
+        }
+      ],
+      "createdAt": "2021-05-28T15:45:32.737Z",
+      "updatedAt": "2021-06-16T14:55:18.204Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "50e3db10-ba7c-4d46-83e4-878e9e64f712",
+      "name": "centros-de-salud-publicos-kml",
+      "title": "Centros de Salud Públicos",
+      "keywords": [
+        "caps",
+        "hospital",
+        "salud",
+        "mapa"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial",
+      "resources": [
+        {
+          "id": "51edd84a-b370-4251-a27e-83fb80f9383d",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/centros-salud-publicos.kml",
+          "name": "Centros de Salud Públicos (kml)",
+          "format": "KML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada de los centros de salud dependientes del sector público. Este relevamiento incluye los Centros de Atención Primaria de la Salud (CAPS) Municipales y Provinciales como así también los hospitales públicos."
+        },
+        {
+          "id": "fd0e182b-2c32-4cf8-a5fa-69c8745568da",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/centros_de_salud.zip",
+          "name": "Centros de Salud Públicos (shp)",
+          "format": "ZIP",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada de los centros de salud dependientes del sector público. Este relevamiento incluye los Centros de Atención Primaria de la Salud (CAPS) Municipales y Provinciales como así también los hospitales públicos."
+        }
+      ],
+      "createdAt": "2021-05-28T15:49:08.674Z",
+      "updatedAt": "2021-06-23T16:21:48.147Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "40140aef-1d5c-4ad1-a5a2-bf67a5d53ab3",
+      "name": "cobertura-agua-saneamiento",
+      "title": "Cobertura de red de agua potable y saneamiento",
+      "keywords": [
+        "agua potable",
+        "cloacas",
+        "saneamiento"
+      ],
+      "landingPage": "Sociedad Cooperativa Popular Limitada",
+      "resources": [
+        {
+          "id": "ba3d60d3-2ff9-4b58-a394-ad4a45ed2ad6",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/cobertura.xlsx",
+          "name": "Cobertura de red de agua potable y saneamiento",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Cobertura de los servicios de red de agua potable y saneamiento / cloacas en la ciudad de Comodoro Rivadavia (cantidad de usuarios registrados)."
+        },
+        {
+          "id": "579c67eb-e0e2-44c7-83e5-4c92dd130dfb",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/cobertura.csv",
+          "name": "Cobertura de red de agua potable y saneamiento",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Cobertura de los servicios de red de agua potable y saneamiento / cloacas en la ciudad de Comodoro Rivadavia (cantidad de usuarios registrados)."
+        }
+      ],
+      "createdAt": "2022-03-08T18:09:15.044Z",
+      "updatedAt": "2022-03-09T15:22:20.442Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "52ae6dca-986a-4620-8b77-1355f2f2267a",
+      "name": "comercios-habilitados",
+      "title": "Comercios habilitados por rubro",
+      "keywords": [
+        "comercios habilitados"
+      ],
+      "landingPage": "Dirección General Habilitaciones Comerciales",
+      "resources": [
+        {
+          "id": "fdd241de-0361-4d96-ac92-b48fdc519ca0",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/comercios-habilitados.xlsx",
+          "name": "Comercios Habilitados",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado de comercio habilitados por rubro"
+        },
+        {
+          "id": "fdf33191-0969-4ca9-83c9-db07defcc51d",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/comercios-habilitados.csv",
+          "name": "Comercios Habilitados",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado de comercios habilitados por rubro"
+        }
+      ],
+      "createdAt": "2023-06-30T19:33:55.806Z",
+      "updatedAt": "2023-06-30T19:39:06.476Z",
+      "contact": {
+        "name": "Dirección General de Modernización e Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "85201ef3-2e9d-4a06-b707-a3ad0086f0ca",
+      "name": "consulados-y-viceconsulados",
+      "title": "Consulados y Viceconsulados",
+      "keywords": [
+        "relaciones internacionales"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial",
+      "resources": [
+        {
+          "id": "b916975c-30c4-4282-8947-de4801367509",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/consulados.xlsx",
+          "name": "Consulados y Viceconsulados",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado de sedes de consulados y viceconsulados en Comodoro Rivadavia."
+        },
+        {
+          "id": "bd9b31ef-69f7-4788-966b-72239573f372",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/consulados.csv",
+          "name": "Consulados y Viceconsulados",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado de sedes de consulados y viceconsulados en Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2021-06-28T16:54:33.306Z",
+      "updatedAt": "2021-06-28T16:55:39.249Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "6afcdc56-5f4c-4bd5-a5b6-093dd92305b4",
+      "name": "consulados-y-viceconsulados-kml",
+      "title": "Consulados y Viceconsulados",
+      "keywords": [
+        "mapa",
+        "relaciones internacionales"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial",
+      "resources": [
+        {
+          "id": "6ec7c556-3e65-465e-91f1-14ee45046ed6",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/consulados.kmz",
+          "name": "Consulados y Viceconsulados",
+          "format": "KMZ",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada con las sedes de consulados y viceconsulados en Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2021-06-28T16:56:38.985Z",
+      "updatedAt": "2021-06-29T17:33:56.678Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "b105a3e9-a20c-479a-a875-3b95266e32a9",
+      "name": "consumo-agua-potable",
+      "title": "Consumo de agua potable en Comodoro Rivadavia",
+      "keywords": [
+        "agua potable"
+      ],
+      "landingPage": "Sociedad Cooperativa Popular Limitada",
+      "resources": [
+        {
+          "id": "6b3c4528-f6ea-41b7-bbc6-aff5aa280534",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/consumo-agua.xlsx",
+          "name": "Consumo de agua potable en Comodoro Rivadavia",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Tabla con la cantidad de agua potable en m3 consumida en Comodoro Rivadavia, discriminada por mes."
+        },
+        {
+          "id": "337dbd1a-53ee-46ad-9944-f3ead626674e",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/consumo-agua-csv",
+          "name": "Consumo de agua potable en Comodoro Rivadavia",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Tabla con la cantidad de agua potable en m3 consumida en Comodoro Rivadavia, discriminada por mes."
+        }
+      ],
+      "createdAt": "2022-03-09T14:47:41.771Z",
+      "updatedAt": "2022-03-09T15:35:57.995Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "0e76e11e-65bc-4d50-9178-1fc86fa1a494",
+      "name": "corralon-municipal",
+      "title": "Ingresos al Corralón Municipal (Secuestro Automotor)",
+      "keywords": [
+        "corralon",
+        "secuestro automotor"
+      ],
+      "landingPage": "Secretaría de Control Urbano y Operativo",
+      "resources": [
+        {
+          "id": "4c07949d-7a83-4e78-adce-64f7c4303749",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/ingresos-corralon-2022.xlsx",
+          "name": "Ingresos Corralón Municipal 2022",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Dataset con información referente a los ingresos al Corralón Municipal en concepto de secuestro automotor."
+        },
+        {
+          "id": "8aa322d0-6e59-4718-b68d-4dddeb8f1efb",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/ingresos-corralon-2022.csv",
+          "name": "Ingresos Corralón Municipal 2022",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Dataset con información referente a los ingresos al Corralón Municipal en concepto de secuestro automotor."
+        }
+      ],
+      "createdAt": "2023-03-21T19:41:31.634Z",
+      "updatedAt": "2023-03-21T20:01:44.844Z",
+      "contact": {
+        "name": "Secretaría de Control Urbano y Operativo",
+        "email": ""
+      }
+    },
+    {
+      "id": "7c4b82a2-3777-4e93-bc92-3f631fa01583",
+      "name": "distancias-comodoro-rivadavia",
+      "title": "Distancias a Comodoro Rivadavia",
+      "keywords": [
+        "distancia",
+        "turismo"
+      ],
+      "landingPage": "Dirección de Investigación Territorial",
+      "resources": [
+        {
+          "id": "8cdc6a9e-f580-43a6-915d-1aa5ebd40d17",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/distancias.xlsx",
+          "name": "Distancias a Comodoro Rivadavia",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Tabla de distancias desde las diferentes capitales provinciales a Comodoro Rivadavia (expresado en km)."
+        },
+        {
+          "id": "3f858e5f-a995-4d8d-9e18-fe1551229cb4",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/distancias.csv",
+          "name": "Distancias a Comodoro Rivadavia",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Tabla de distancias desde las diferentes capitales provinciales a Comodoro Rivadavia (expresado en km)."
+        }
+      ],
+      "createdAt": "2022-03-09T14:40:13.735Z",
+      "updatedAt": "2022-03-09T15:27:20.428Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "bc00761e-7b7c-43d8-bcf0-2b80f3fdff1a",
+      "name": "ejecucion-presupuestaria-2023",
+      "title": "Ejecución Presupuestaria 2023",
+      "keywords": [
+        "ejecucion presupuestaria"
+      ],
+      "landingPage": "Secretaría de Economía, Finanzas y Control de Gestión",
+      "resources": [
+        {
+          "id": "dabde743-ec1f-4b28-b1ea-aef066019829",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/ejecucion_presupuestaria_2023.xlsx",
+          "name": "Ejecución Presupuestaria 2023",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Ejecución presupuestaria con detalle de cada Secretaría correspondiente al año 2023."
+        },
+        {
+          "id": "876a5003-2cc0-4903-b5ed-ce5561b62d59",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/ejecucion_presupuestaria_2023.csv",
+          "name": "Ejecución Presupuestaria 2023",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Ejecución presupuestaria con detalle de cada Secretaría correspondiente al año 2023."
+        }
+      ],
+      "createdAt": "2023-06-22T21:27:57.610Z",
+      "updatedAt": "2023-06-23T19:52:46.711Z",
+      "contact": {
+        "name": "Dirección General de Modernización e Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "30aa828a-cc83-4234-b0a7-4d07374666fa",
+      "name": "elecciones-generales-1995",
+      "title": "Elecciones Generales 1995",
+      "keywords": [
+        "elecciones"
+      ],
+      "landingPage": "Tribunal Electoral Provincia del Chubut",
+      "resources": [
+        {
+          "id": "ccfd8ae3-6d37-4a6d-81b0-8e7fb376024f",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/elecciones-1995.xlsx",
+          "name": "Elecciones Generales 1995",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Resultados definitivos de las elecciones generales 1995 en la categorías Intendente, Concejales y Tribunal de Cuentas en Comodoro Rivadavia."
+        },
+        {
+          "id": "6fb874e4-adf3-42a6-a226-fc2fc78db080",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/elecciones-1995.csv",
+          "name": "Elecciones Generales 1995",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Resultados definitivos de las elecciones generales 1995 en la categorías Intendente, Concejales y Tribunal de Cuentas en Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2021-06-08T17:09:17.572Z",
+      "updatedAt": "2021-06-16T14:58:18.287Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "ecc46de0-f010-4fbd-b4d7-4161a520e315",
+      "name": "elecciones-generales-1999",
+      "title": "Elecciones Generales 1999",
+      "keywords": [
+        "elecciones"
+      ],
+      "landingPage": "Tribunal Electoral Provincia del Chubut",
+      "resources": [
+        {
+          "id": "30814976-feac-4b50-af01-0d3a774b4a7a",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/elecciones-1999.xlsx",
+          "name": "Elecciones Generales 1999",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Resultados definitivos de las elecciones generales 1999 en la categorías Intendente, Concejales y Tribunal de Cuentas en Comodoro Rivadavia."
+        },
+        {
+          "id": "b73d96ed-ef78-4d90-af4d-b283e1539a4f",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/elecciones-1999.csv",
+          "name": "Elecciones Generales 1999",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Resultados definitivos de las elecciones generales 1999 en la categorías Intendente, Concejales y Tribunal de Cuentas en Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2021-06-08T17:13:33.941Z",
+      "updatedAt": "2021-06-16T14:58:49.922Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "55b0cc8b-4ff7-4512-a8fc-8bc7a6b1ed2b",
+      "name": "elecciones-generales-2003",
+      "title": "Elecciones Generales 2003",
+      "keywords": [
+        "elecciones"
+      ],
+      "landingPage": "Tribunal Electoral Provincia del Chubut",
+      "resources": [
+        {
+          "id": "d2530577-9ccd-4f04-92c8-27fe54469f26",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/elecciones-2003.xlsx",
+          "name": "Elecciones Generales 2003",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Resultados definitivos de las elecciones generales 2003 en la categorías Intendente, Concejales y Tribunal de Cuentas en Comodoro Rivadavia."
+        },
+        {
+          "id": "cec6bdc6-9b48-4246-b3dd-4685a9660fa3",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/elecciones-2003.csv",
+          "name": "Elecciones Generales 2003",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Resultados definitivos de las elecciones generales 2003 en la categorías Intendente, Concejales y Tribunal de Cuentas en Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2021-06-08T17:17:18.111Z",
+      "updatedAt": "2021-06-16T14:59:21.286Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "337349cd-44f3-4c81-8d5f-c0760e2611fa",
+      "name": "elecciones-generales-2007",
+      "title": "Elecciones Generales 2007",
+      "keywords": [
+        "concejales",
+        "elecciones",
+        "intendente",
+        "tribunal de cuentas"
+      ],
+      "landingPage": "Tribunal Electoral Provincia del Chubut",
+      "resources": [
+        {
+          "id": "84b8c6bc-6c25-4e8c-8d76-c671da4b7cd2",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/elecciones-2007.xlsx",
+          "name": "Elecciones Generales 2007",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Resultados definitivos de las elecciones generales 2007 en la categorías Intendente, Concejales y Tribunal de Cuentas en Comodoro Rivadavia."
+        },
+        {
+          "id": "dd7439ad-cadc-47b2-b411-2329994cd9b5",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/elecciones-2007.csv",
+          "name": "Elecciones Generales 2007",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Resultados definitivos de las elecciones generales 2007 en la categorías Intendente, Concejales y Tribunal de Cuentas en Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2021-06-09T19:11:45.598Z",
+      "updatedAt": "2021-06-16T15:10:52.804Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "ccc94b81-1f09-4862-83f3-b0e94460ace8",
+      "name": "elecciones-generales-2011",
+      "title": "Elecciones Generales 2011",
+      "keywords": [
+        "elecciones"
+      ],
+      "landingPage": "Tribunal Electoral Provincia del Chubut",
+      "resources": [
+        {
+          "id": "8ffd4552-9b8d-49c3-8ab9-163882521511",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/elecciones-2011.xlsx",
+          "name": "Elecciones Generales 2011",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Resultados definitivos de las elecciones generales 2011 en la categorías Intendente, Concejales y Tribunal de Cuentas en Comodoro Rivadavia."
+        },
+        {
+          "id": "1db9076d-aa25-4472-96f6-e87438367972",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/elecciones-2011.csv",
+          "name": "Elecciones Generales 2011",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Resultados definitivos de las elecciones generales 2011 en la categorías Intendente, Concejales y Tribunal de Cuentas en Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2021-06-09T19:14:15.004Z",
+      "updatedAt": "2021-06-16T15:10:25.745Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "4ee60871-f9a5-43f5-81dc-605b94440416",
+      "name": "elecciones-generales-2015",
+      "title": "Elecciones Generales 2015",
+      "keywords": [
+        "elecciones"
+      ],
+      "landingPage": "Tribunal Electoral Provincia del Chubut",
+      "resources": [
+        {
+          "id": "ed2fdc63-485d-4152-8ba6-2a9212c0caf8",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/elecciones-2015.xlsx",
+          "name": "Elecciones Generales 2015",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Resultados definitivos de las elecciones generales 2015 en la categorías Intendente, Concejales y Tribunal de Cuentas en Comodoro Rivadavia."
+        },
+        {
+          "id": "57d86188-7eea-418c-adff-17f8b7299468",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/elecciones-2015.csv",
+          "name": "Elecciones Generales 2015",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Resultados definitivos de las elecciones generales 2015 en la categorías Intendente, Concejales y Tribunal de Cuentas en Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2021-06-09T19:17:02.639Z",
+      "updatedAt": "2021-06-16T15:09:56.150Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "5edfb999-5568-430f-95aa-a70b4434a5fe",
+      "name": "elecciones-generales-2019",
+      "title": "Elecciones Generales 2019",
+      "keywords": [
+        "elecciones"
+      ],
+      "landingPage": "Tribunal Electoral Provincia del Chubut",
+      "resources": [
+        {
+          "id": "e7200abe-3beb-4e5f-8b42-b97376ead115",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/elecciones-2019.xlsx",
+          "name": "Elecciones Generales 2019",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Resultados definitivos de las elecciones generales 2019 en la categorías Intendente, Concejales y Tribunal de Cuentas en Comodoro Rivadavia."
+        },
+        {
+          "id": "a9454bd3-184d-4e36-8f33-6855923e0043",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/elecciones-2019.csv",
+          "name": "Elecciones Generales 2019",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Resultados definitivos de las elecciones generales 2019 en la categorías Intendente, Concejales y Tribunal de Cuentas en Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2021-06-04T15:23:14.020Z",
+      "updatedAt": "2021-06-25T18:14:56.246Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "8c898189-c4a6-4afb-84ff-2ef60a5a7220",
+      "name": "espacios-verdes-kml",
+      "title": "Espacios Verdes",
+      "keywords": [
+        "espacios verdes",
+        "mapa",
+        "parques",
+        "plazas"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial y de la Dirección General de Catastro",
+      "resources": [
+        {
+          "id": "6e0721fd-8040-443c-a62e-8283d18cf81b",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/espacios-verdes.kml",
+          "name": "Espacios Verdes (kml)",
+          "format": "KML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada del relevamiento preliminar de espacios verdes en la ciudad de Comodoro Rivadavia. El mismo fue realizado en conjunto entre la Dirección de Investigación Territorial (DIT) y la Dirección General de Catastro. Conforme a las estimaciones de la DIT, se encuentran relevados más del 95% de los espacios verdes."
+        },
+        {
+          "id": "357a2634-908d-4465-ad70-452ecbeb5f64",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/espacios_verdes.zip",
+          "name": "Espacios Verdes (shp)",
+          "format": "ZIP",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada del relevamiento preliminar de espacios verdes en la ciudad de Comodoro Rivadavia. El mismo fue realizado en conjunto entre la Dirección de Investigación Territorial (DIT) y la Dirección General de Catastro. Conforme a las estimaciones de la DIT, se encuentran relevados más del 95% de los espacios verdes."
+        }
+      ],
+      "createdAt": "2021-05-31T18:59:29.962Z",
+      "updatedAt": "2023-06-27T14:27:55.849Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "03201de4-631b-4533-b54c-031ed13193a5",
+      "name": "espacios-verdes-xlsx",
+      "title": "Espacios Verdes",
+      "keywords": [
+        "espacios verdes",
+        "parques",
+        "plazas"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial y de la Dirección General de Catastro",
+      "resources": [
+        {
+          "id": "73b81536-e1b6-43d7-a8bb-d36784172f1a",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/espacios-verdes.xlsx",
+          "name": "Espacios Verdes",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado que incluye el relevamiento preliminar de espacios verdes en la ciudad de Comodoro Rivadavia. El mismo fue realizado en conjunto entre la Dirección de Investigación Territorial (DIT) y la Dirección General de Catastro. Conforme a las estimaciones de la DIT, se encuentran relevados más del 95% de los espacios verdes.\r\n"
+        },
+        {
+          "id": "02b05edf-912a-45b6-bb36-c3ac01ab2a13",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/espacios-verdes.csv",
+          "name": "Espacios Verdes",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado que incluye el relevamiento preliminar de espacios verdes en la ciudad de Comodoro Rivadavia. El mismo fue realizado en conjunto entre la Dirección de Investigación Territorial (DIT) y la Dirección General de Catastro. Conforme a las estimaciones de la DIT, se encuentran relevados más del 95% de los espacios verdes."
+        }
+      ],
+      "createdAt": "2021-05-31T18:56:57.536Z",
+      "updatedAt": "2023-06-27T14:28:34.332Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "9247af9a-775c-4612-8ad6-acb00a0c8d0e",
+      "name": "establecimientos-educativos-2021",
+      "title": "Establecimientos Educativos 2021",
+      "keywords": [
+        "colegios",
+        "educación",
+        "escuelas"
+      ],
+      "landingPage": "Dirección de Estadística y Evaluación Educativa del Ministerio de Educación del Chubut",
+      "resources": [
+        {
+          "id": "a2eaccd3-f2ea-414f-9987-6cc721db994f",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/establecimientos-educativos.xlsx",
+          "name": "Establecimientos Educativos 2021",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Padrón de Establecimientos Educativos de Comodoro Rivadavia (actualizado a 2021)."
+        },
+        {
+          "id": "590794ec-9ead-4ca4-a0ca-745a58e764c8",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/establecimientos-educativos.csv",
+          "name": "Establecimientos Educativos 2021",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Padrón de Establecimientos Educativos de Comodoro Rivadavia (actualizado a 2021)."
+        }
+      ],
+      "createdAt": "2021-06-04T15:52:45.048Z",
+      "updatedAt": "2021-06-29T16:31:03.070Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "aa3f27cb-3d2b-46b8-a9e1-46c538d271f9",
+      "name": "estacionamiento-discapacidad",
+      "title": "Espacios reservados para vehículos de personas con movilidad reducida",
+      "keywords": [
+        "estacionamiento",
+        "personas con discapacidad",
+        "personas con movilidad reducida"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial",
+      "resources": [
+        {
+          "id": "e0ca4ca6-b7ef-4b5b-b476-5ec744b73505",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/estacionamiento-mov-red.xlsx",
+          "name": "Espacios reservados para vehículos de personas con movilidad reducida",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Relevamiento de los espacios reservados para estacionamiento de vehículos de personas con movilidad reducida en Comodoro Rivadavia. El mismo fue realizado por la Dirección de Investigación Territorial."
+        },
+        {
+          "id": "0d6680b5-0b50-4e9c-b0e9-6fceb3f3ab8b",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/estacionamiento-mov-red.csv",
+          "name": "Espacios reservados para vehículos de personas con movilidad reducida",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Relevamiento de los espacios reservados para estacionamiento de vehículos de personas con movilidad reducida en Comodoro Rivadavia. El mismo fue realizado por la Dirección de Investigación Territorial.\r\n"
+        }
+      ],
+      "createdAt": "2022-07-20T17:18:39.158Z",
+      "updatedAt": "2022-07-20T17:39:45.150Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "e6c9cc07-1518-4e44-8033-a2931ced586f",
+      "name": "estacionamiento-discapacidad-mapa",
+      "title": "Espacios reservados para vehículos de personas con movilidad reducida",
+      "keywords": [
+        "estacionamiento",
+        "mapa",
+        "personas con discapacidad",
+        "personas con movilidad reducida"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial",
+      "resources": [
+        {
+          "id": "ea58da02-e784-48e1-afd8-93f70dc1618a",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/estacionamiento-mov-red.kml",
+          "name": "Espacios reservados para vehículos de personas con movilidad reducida",
+          "format": "KML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada con el relevamiento de los espacios reservados para estacionamiento de vehículos de personas con movilidad reducida en Comodoro Rivadavia. El mismo fue realizado por la Dirección de Investigación Territorial."
+        }
+      ],
+      "createdAt": "2022-07-20T17:43:21.334Z",
+      "updatedAt": "2022-07-20T18:03:39.444Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "b2b3b1ca-db58-493f-bf7c-55bbb195652d",
+      "name": "estimacion2021",
+      "title": "Estimación Población y Viviendas 2021",
+      "keywords": [
+        "poblacion",
+        "viviendas"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial",
+      "resources": [
+        {
+          "id": "722cc97f-79c4-46f7-aa36-811a2af728e9",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/estimacion2021.xlsx",
+          "name": "Estimación Población y Vivienda 2021",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Estimación de Población y Viviendas de los diferentes barrios de Comodoro Rivadavia. El mismo fue realizado en base a al conteo de viviendas a partir de imágenes satelitales actualizadas a noviembre de 2021."
+        },
+        {
+          "id": "0f24da4f-add5-4877-91eb-e4ebf5e1656d",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/estimacion2021.csv",
+          "name": "Estimación Población y Vivienda 2021",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Estimación de Población y Viviendas de los diferentes barrios de Comodoro Rivadavia. El mismo fue realizado en base a al conteo de viviendas a partir de imágenes satelitales actualizadas a noviembre de 2021."
+        }
+      ],
+      "createdAt": "2022-09-20T15:49:51.303Z",
+      "updatedAt": "2022-09-21T14:39:21.013Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "4440d84a-9f81-4b64-b4be-55ceff839901",
+      "name": "evolucion-demografica-de-comodoro-rivadavia",
+      "title": "Evolución demográfica de Comodoro Rivadavia",
+      "keywords": [
+        "censo",
+        "población"
+      ],
+      "landingPage": "Instituto Nacional de Estadísticas y Censos (INDEC)",
+      "resources": [
+        {
+          "id": "3057b72e-4ffa-4347-ac05-32074ebce65c",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/poblacion-censo.xlsx",
+          "name": "Evolucion Demográfica de Comodoro Rivadavia",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Evolución demográfica de Comodoro Rivadavia en base a los Censos Nacionales de Población, Hogares y Viviendas de 1947, 1960, 1970, 1980, 1991, 2001 y 2010."
+        },
+        {
+          "id": "d005d6d6-5934-49ae-9291-2a205b97decd",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/poblacion-censo.csv",
+          "name": "Evolucion Demográfica de Comodoro Rivadavia",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Evolución demográfica de Comodoro Rivadavia en base a los Censos Nacionales de Población, Hogares y Viviendas de 1947, 1960, 1970, 1980, 1991, 2001 y 2010."
+        }
+      ],
+      "createdAt": "2021-06-03T16:37:25.985Z",
+      "updatedAt": "2021-06-16T14:44:53.960Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "53f9610f-de41-42cd-a002-1e890ecdf3cd",
+      "name": "fuerzas-armadas-seguridad",
+      "title": "Fuerzas Armadas y de Seguridad",
+      "keywords": [
+        "fuerzas armadas",
+        "fuerzas de seguridad"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial",
+      "resources": [
+        {
+          "id": "ea1b5b7e-c261-420e-82ae-08dae86414a4",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/fuerzas-armadas-seguridad.xlsx",
+          "name": "Fuerzas de Seguridad y Fuerzas Armadas",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con las Fuerzas de Seguridad y Fuerzas Armadas que cuenta Comodoro Rivadavia"
+        },
+        {
+          "id": "bc03865b-e4f7-44d3-800a-ac09b71eafca",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/fuerzas-armadas-seguridad.csv",
+          "name": "Fuerzas de Seguridad y Fuerzas Armadas",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con las Fuerzas de Seguridad y Fuerzas Armadas que cuenta Comodoro Rivadavia"
+        }
+      ],
+      "createdAt": "2022-07-12T15:43:23.103Z",
+      "updatedAt": "2022-07-12T15:46:17.033Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "d4675ad0-bc53-4ccc-9e8d-9293f73ee69e",
+      "name": "fuerzas-armadas-seguridad-kmz",
+      "title": "Fuerzas Armadas y de Seguridad",
+      "keywords": [
+        "fuerzas armadas",
+        "fuerzas de seguridad"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial",
+      "resources": [
+        {
+          "id": "4941fc0e-8ba5-4486-8390-263942f2533b",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/fuerzas-armadas-seguridad.kmz",
+          "name": "Fuerzas Armadas y Fuerzas de Seguridad",
+          "format": "KMZ",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada con las dependencias de las Fuerzas Armadas y Fuerzas de Seguridad con las que cuenta Comodoro Rivadavia\r\n"
+        }
+      ],
+      "createdAt": "2022-07-12T15:48:50.634Z",
+      "updatedAt": "2022-07-12T15:50:13.824Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "250ff847-3150-48d8-b812-6894fec578ef",
+      "name": "funcionarios",
+      "title": "Funcionarios Públicos 2022",
+      "keywords": [
+        "funcionarios públicos"
+      ],
+      "landingPage": "Dirección General de Recursos Humanos",
+      "resources": [
+        {
+          "id": "9d368d74-cb94-4435-846d-5d6f4756067b",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/funcionarios-01-07-22.xlsx",
+          "name": "Funcionarios Públicos 2022",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con el personal de planta política del poder ejecutivo, poder legislativo y tribunal de cuentas en Comodoro Rivadavia."
+        },
+        {
+          "id": "65f3346f-b4c5-4c65-b256-4b52fd7d4756",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/funcionarios-01-07-22.csv",
+          "name": "Funcionarios Públicos 2022",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con el personal de planta política del poder ejecutivo, poder legislativo y tribunal de cuentas en Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2022-07-12T15:11:09.396Z",
+      "updatedAt": "2023-06-30T20:11:45.343Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "be03ecea-8a48-4232-aebd-11490f78e9df",
+      "name": "funcionarios-2023",
+      "title": "Funcionarios Públicos 2023",
+      "keywords": [
+        "funcionarios publicos"
+      ],
+      "landingPage": "Dirección General de Recursos Humanos",
+      "resources": [
+        {
+          "id": "b831dfb0-3c5b-4771-b70c-6bbce1ef81ac",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/funcionarios-2023.xlsx",
+          "name": "Funcionarios Públicos 2023",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con el personal de planta política del poder ejecutivo, poder legislativo y tribunal de cuentas en Comodoro Rivadavia."
+        },
+        {
+          "id": "cea29f33-ebcb-4776-b9bc-cb1a533d4aba",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/funcionarios-2023.csv",
+          "name": "Funcionarios Públicos 2023",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con el personal de planta política del poder ejecutivo, poder legislativo y tribunal de cuentas en Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2023-06-30T19:06:27.655Z",
+      "updatedAt": "2023-06-30T19:10:15.124Z",
+      "contact": {
+        "name": "Dirección General de Modernización e Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "9bc4c03a-4f9f-4b72-b85f-85b4012d0f7d",
+      "name": "gasto-publico-2023",
+      "title": "Gasto Público 2023",
+      "keywords": [
+        "gasto público"
+      ],
+      "landingPage": "Secretaría de Economía, Finanzas y Control de Gestión",
+      "resources": [
+        {
+          "id": "717c343d-fffc-4173-bd70-4d258e4725c9",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/gasto_2023.xlsx",
+          "name": "Gasto Público 2023 detallado por Secretaría",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Dataset con el detalle de gastos de cada Secretaría correspondiente al año 2023. Actualizado al 01/06/2023\r\n\r\n"
+        },
+        {
+          "id": "4d57737f-eff9-4be4-893a-051ecef8adb3",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/gasto_2023.csv",
+          "name": "Gasto Público 2023 detallado por Secretaría",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Dataset con el detalle de gastos de cada Secretaría correspondiente al año 2023. Actualizado al 01/06/2023\r\n"
+        },
+        {
+          "id": "9646a4d7-745f-4c67-a780-8a196f25e68b",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/gasto_total_2023.xlsx",
+          "name": "Gasto Público 2023 total",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Dataset con los gastos totales de cada partida correspondiente al año 2023. Actualizado al 01/06/2023\r\n"
+        },
+        {
+          "id": "df850a73-077e-4dd3-9b91-b39c6e6be743",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/gasto_total_2023.csv",
+          "name": "Gasto Público 2023 total",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Dataset con los gastos totales de cada partida correspondiente al año 2023. Actualizado al 01/06/2023\r\n"
+        }
+      ],
+      "createdAt": "2023-07-19T20:56:45.601Z",
+      "updatedAt": "2023-07-19T21:17:09.248Z",
+      "contact": {
+        "name": "Dirección General de Modernización e Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "62add503-23d7-4084-967d-9674147b36bb",
+      "name": "gimnasios-municipales",
+      "title": "Gimnasios Municipales",
+      "keywords": [
+        "deportes",
+        "infraestuctura deportiva"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial",
+      "resources": [
+        {
+          "id": "9d7499e3-c455-4026-a5ef-4ef04f771228",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/gimnasios-municipales.xlsx",
+          "name": "Gimnasios Municipales",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con los gimnasios municipales que posee Comodoro Rivadavia."
+        },
+        {
+          "id": "ba0aecd8-f942-4328-88f8-8e12c5e4bd4c",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/gimnasios-municipales.csv",
+          "name": "Gimnasios Municipales",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con los gimnasios municipales que posee Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2021-06-25T17:16:53.373Z",
+      "updatedAt": "2021-06-25T17:17:45.665Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "cb8ce9f6-b4c2-4828-9501-628f45e9fb76",
+      "name": "gimnasios-municipales-kml",
+      "title": "Gimnasios Municipales",
+      "keywords": [
+        "deportes",
+        "infraestuctura deportiva"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial",
+      "resources": [
+        {
+          "id": "e24790ad-8cce-4e58-be9f-4c52955e7032",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/gimnasios-municipales.kmz",
+          "name": "Gimnasios Municipales",
+          "format": "KMZ",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada con los gimnasios municipales que posee Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2021-06-25T17:19:02.605Z",
+      "updatedAt": "2021-06-25T17:19:40.903Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "de307038-af90-449f-948f-b93d15ac2bd7",
+      "name": "guia-telefonica-genero",
+      "title": "Guia Telefónica de áreas específicas de género",
+      "keywords": [
+        "genero"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial",
+      "resources": [
+        {
+          "id": "7f60a32c-05a4-4e3e-a381-019a38b98785",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/genero-contactos.xlsx",
+          "name": "Guia Telefónica de áreas específicas de género",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Guia Telefónica de áreas específicas de género"
+        },
+        {
+          "id": "06fac108-1ceb-4f26-8499-dc899aed835e",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/genero-contactos.csv",
+          "name": "Guia Telefónica de áreas específicas de género",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Guia Telefónica de áreas específicas de género"
+        }
+      ],
+      "createdAt": "2022-07-12T19:32:46.724Z",
+      "updatedAt": "2022-07-12T20:23:56.795Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "20b77479-eb15-420f-a378-f899d79a750c",
+      "name": "hoteleria",
+      "title": "Hotelería",
+      "keywords": [
+        "hoteles"
+      ],
+      "landingPage": "Comodoro Turismo",
+      "resources": [
+        {
+          "id": "3016747e-6589-46e3-912d-87ed0c5f9587",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/hoteleria.xlsx",
+          "name": "Hotelería",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con los diferentes tipos de oferta hotelera que posee Comodoro Rivadavia. La información fue suministrada por Comodoro Turismo y procesada por la Dirección de Investigación Territorial."
+        },
+        {
+          "id": "d640a25d-8fb0-4108-99fa-90445bede796",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/hoteleria.csv",
+          "name": "Hotelería",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con los diferentes tipos de oferta hotelera que posee Comodoro Rivadavia. La información fue suministrada por Comodoro Turismo y procesada por la Dirección de Investigación Territorial."
+        }
+      ],
+      "createdAt": "2021-06-09T19:24:19.629Z",
+      "updatedAt": "2021-06-16T15:09:29.421Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "119c0f31-0715-41d1-a9bd-7a206fdc62e7",
+      "name": "hoteleria-kml",
+      "title": "Hotelería",
+      "keywords": [
+        "hoteles",
+        "mapa"
+      ],
+      "landingPage": "Comodoro Turismo",
+      "resources": [
+        {
+          "id": "03662b89-bd7d-4d0e-b6a0-bd9839eebf6d",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/hoteleria.kml",
+          "name": "Hotelería (kml)",
+          "format": "KML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciado con los diferentes tipos de oferta hotelera que posee Comodoro Rivadavia. La información fue suministrada por Comodoro Turismo y procesada por la Dirección de Investigación Territorial."
+        },
+        {
+          "id": "7095461b-4eb2-4721-bd79-14c9eadc1364",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/hoteleria.zip",
+          "name": "Hotelería (shp)",
+          "format": "ZIP",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciado con los diferentes tipos de oferta hotelera que posee Comodoro Rivadavia. La información fue suministrada por Comodoro Turismo y procesada por la Dirección de Investigación Territorial."
+        }
+      ],
+      "createdAt": "2021-06-09T19:27:38.479Z",
+      "updatedAt": "2021-06-23T16:06:16.530Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "62d831cb-853b-41e7-be86-1b5eb3c8b38c",
+      "name": "infraestructura-deportiva-al-aire-libre",
+      "title": "Infraestructura Deportiva al Aire Libre",
+      "keywords": [
+        "deportes",
+        "infraestuctura deportiva"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial",
+      "resources": [
+        {
+          "id": "ab32d34f-4cca-432e-b2cb-bdff728b7deb",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/infraestructura-deportiva-al.xlsx",
+          "name": "infraestructura deportiva al aire libre",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con la infraestuctura deportiva destinada a deportes al aire libre que posee Comodoro Rivadavia. El mismo incluye los siguientes deportes: atletismo, fútbol (oficial), golf, hockey, rugby y tenis. Este relevamiento fue realizado por la Dirección de Investigación Territorial."
+        },
+        {
+          "id": "5c18099d-e199-4812-bafa-24f688b7c506",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/infraestructura-deportiva-al.csv",
+          "name": "infraestructura deportiva al aire libre",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con la infraestuctura deportiva destinada a deportes al aire libre que posee Comodoro Rivadavia. El mismo incluye los siguientes deportes: atletismo, fútbol (oficial), golf, hockey, rugby y tenis. Este relevamiento fue realizado por la Dirección de Investigación Territorial."
+        }
+      ],
+      "createdAt": "2021-06-25T02:20:09.614Z",
+      "updatedAt": "2021-06-25T02:21:10.393Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "0b4077e6-babd-41d4-8870-a2a540850d08",
+      "name": "infraestructura-deportiva-al-aire-libre-kml",
+      "title": "Infraestructura Deportiva al Aire Libre",
+      "keywords": [
+        "deportes",
+        "infraestuctura deportiva"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial",
+      "resources": [
+        {
+          "id": "a8b33b48-f031-4a1a-b513-770161d09f7c",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/infraestructura-deportiva-al.kmz",
+          "name": "infraestructura deportiva al aire libre",
+          "format": "KMZ",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada con la infraestuctura deportiva destinada a deportes al aire libre que posee Comodoro Rivadavia. El mismo incluye los siguientes deportes: atletismo, fútbol (oficial), golf, hockey, rugby y tenis. Este relevamiento fue realizado por la Dirección de Investigación Territorial."
+        }
+      ],
+      "createdAt": "2021-06-25T02:23:34.351Z",
+      "updatedAt": "2021-06-25T02:24:12.072Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "7e78ecea-ab64-49a5-854e-2d915591c413",
+      "name": "institutos-terciarios-y-universidades-estatales",
+      "title": "Institutos Terciarios y Universidades Estatales",
+      "keywords": [
+        "educación",
+        "terciarios",
+        "universidades"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial",
+      "resources": [
+        {
+          "id": "1626d1e1-366f-4579-ae3e-c3521dd78720",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/educacion-univ-terciaria.xlsx",
+          "name": "Institutos Terciarios y Universidades Estatales",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con los establecimientos terciarios y universitarios públicos de Comodoro Rivadavia."
+        },
+        {
+          "id": "472a25cc-8c24-4a7c-9c50-f1e36d80f09e",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/educacion-univ-terciaria.csv",
+          "name": "Institutos Terciarios y Universidades Estatales",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con los establecimientos terciarios y universitarios públicos de Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2021-06-29T16:31:35.611Z",
+      "updatedAt": "2021-06-29T16:32:19.023Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "42cdcce0-a1d3-4201-a397-0ce70fdab836",
+      "name": "institutos-terciarios-y-universidades-estatales-kml",
+      "title": "Institutos Terciarios y Universidades Estatales",
+      "keywords": [
+        "educación",
+        "mapa",
+        "terciarios",
+        "universidades"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial",
+      "resources": [
+        {
+          "id": "c412c1bd-4972-40a5-aba1-e328dae17c08",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/educacion-univ-terciaria.kmz",
+          "name": " Institutos Terciarios y Universidades Estatales",
+          "format": "KMZ",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada con los establecimientos terciarios y universitarios públicos de Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2021-06-29T16:33:20.281Z",
+      "updatedAt": "2021-07-13T17:29:36.046Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "b7c21e93-8272-4432-ba54-c1735df87f90",
+      "name": "institutos-terciarios-y-universidades-privados",
+      "title": "Institutos Terciarios y Universidades Privados",
+      "keywords": [
+        "educación",
+        "terciarios",
+        "universidades"
+      ],
+      "landingPage": "Dirección de Estadística y Evaluación Educativa del Ministerio de Educación del Chubut",
+      "resources": [
+        {
+          "id": "5d1bcb22-b61e-4011-9b5f-2a0a52c3ed44",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/educacion-univ-terciaria-priv.xlsx",
+          "name": "Institutos Terciarios y Universidades Privados",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con los establecimientos terciarios y universitarios privados de Comodoro Rivadavia."
+        },
+        {
+          "id": "faf7670b-2f70-4252-8f7e-fd69dcbdf422",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/educacion-univ-terciaria-priv.csv",
+          "name": "Institutos Terciarios y Universidades Privados",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con los establecimientos terciarios y universitarios privados de Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2021-07-13T17:31:18.430Z",
+      "updatedAt": "2021-07-13T17:32:11.095Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "0f5b05e0-b302-4074-bdd3-e89cac1e1c20",
+      "name": "institutos-terciarios-y-universidades-privados-mapa",
+      "title": "Institutos Terciarios y Universidades Privados",
+      "keywords": [
+        "educación",
+        "mapa",
+        "terciarios",
+        "universidades"
+      ],
+      "landingPage": "Dirección de Estadística y Evaluación Educativa del Ministerio de Educación del Chubut",
+      "resources": [
+        {
+          "id": "1508d5df-ebe6-4da0-8174-c16ca3f75aad",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/educacion-univ-terciaria-priv.kml",
+          "name": "Institutos Terciarios y Universidades Privados",
+          "format": "KML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada con los establecimientos terciarios y universitarios privados de Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2021-07-13T17:34:04.936Z",
+      "updatedAt": "2021-07-13T17:34:34.744Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "96f070e6-5e73-42d6-83e4-8136cd987ea1",
+      "name": "licencias-de-conducir",
+      "title": "Licencias de Conducir",
+      "keywords": [
+        "licencias de conducir",
+        "tránsito"
+      ],
+      "landingPage": "Dirección General de Licencias de Conducir",
+      "resources": [
+        {
+          "id": "49fba08b-5c3b-4530-a8bb-9b594795f401",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/licencias-conducir-categoria.xlsx",
+          "name": "Licencias de Conducir",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Cantidad de licencias de conducir por categorías por año."
+        },
+        {
+          "id": "7f605d0c-59b8-41b7-9e53-75c61d9459f9",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/licencias-conducir-categoria.csv",
+          "name": "Licencias de Conducir",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Cantidad de licencias de conducir por categorías por año."
+        }
+      ],
+      "createdAt": "2021-06-05T00:41:27.989Z",
+      "updatedAt": "2021-06-17T03:30:42.936Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "91f030f5-4922-49d6-9f26-f6e0cc5ffdea",
+      "name": "limites-administrativos-departamento-y-ejido",
+      "title": "Límites administrativos (Departamento y Ejido)",
+      "keywords": [
+        "mapa"
+      ],
+      "landingPage": "Instituto Geográfico Nacional (IGN) y Dirección General de Catastro.",
+      "resources": [
+        {
+          "id": "76319552-a6f9-4fe4-b0f5-1db61b658222",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/limites-administrativos.kml",
+          "name": "Límites administrativos (Departamento y Ejido) ",
+          "format": "KML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada con los límites del departamento Escalante y los ejidos de Comodoro Rivadavia y Rada Tilly."
+        }
+      ],
+      "createdAt": "2021-06-23T16:02:11.872Z",
+      "updatedAt": "2021-06-29T15:35:29.998Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "c136da2f-9da5-488a-a794-4b3b04a2c5fd",
+      "name": "lineas-colectivos",
+      "title": "Líneas de transporte público",
+      "keywords": [
+        "colectivos",
+        "transporte público"
+      ],
+      "landingPage": "Dirección General de Transporte",
+      "resources": [
+        {
+          "id": "2e1b1899-398d-4e75-9f0f-e8107a104f86",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/lineas-transporte-publico.xlsx",
+          "name": "Líneas de colectivos",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con las líneas de colectivos de Comodoro Rivadavia."
+        },
+        {
+          "id": "cd03d8f1-63bc-4287-b245-844ed980fcd9",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/lineas-transporte-publico.csv",
+          "name": "Líneas de colectivos",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con las líneas de colectivos de Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2021-06-03T16:30:23.102Z",
+      "updatedAt": "2021-06-16T14:44:23.974Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "710d9647-c0b1-4ccc-b974-5c2c9b885f09",
+      "name": "medios-periodisticos",
+      "title": "Medios periodísticos",
+      "keywords": [
+        "diarios",
+        "medios",
+        "radio",
+        "televisión"
+      ],
+      "landingPage": "Dirección de Investigación Territorial",
+      "resources": [
+        {
+          "id": "19db2517-3d25-4ffe-8811-e93d2d2e2ebd",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/medios.xlsx",
+          "name": "Medios periodísticos",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado de los medios periodísticos de Comodoro Rivadavia."
+        },
+        {
+          "id": "fe809afd-addd-4d4c-8911-b74618fcc9d6",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/medios.csv",
+          "name": "Medios periodísticos",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado de los medios periodísticos de Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2021-06-03T16:42:11.074Z",
+      "updatedAt": "2021-06-16T14:50:00.083Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "94af221c-e757-4791-bc42-140700fb848d",
+      "name": "museos-kml",
+      "title": "Museos",
+      "keywords": [
+        "mapa",
+        "museos"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial",
+      "resources": [
+        {
+          "id": "ee4acea1-086a-4429-852e-aeacd42169ff",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/museos.kml",
+          "name": "Museos (kml)",
+          "format": "KML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada de los museos de Comodoro Rivadavia."
+        },
+        {
+          "id": "32d90707-f5a3-4967-b357-8291da494811",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/museos.zip",
+          "name": "Museos (shp)",
+          "format": "ZIP",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada de los museos de Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2021-06-04T16:12:07.615Z",
+      "updatedAt": "2021-06-23T16:08:45.252Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "1edc98c0-8c89-4581-8ae3-158a5ca1064b",
+      "name": "museos-listado",
+      "title": "Museos",
+      "keywords": [
+        "museos"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial",
+      "resources": [
+        {
+          "id": "b6bd3510-c737-4100-89e8-9e4ca1f815d0",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/museos.xlsx",
+          "name": "Museos",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado de los museos de Comodoro Rivadavia."
+        },
+        {
+          "id": "a85c7479-8502-4780-88fb-f801d5a7159a",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/museos.csv",
+          "name": "Museos",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado de los museos de Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2021-06-04T16:09:59.291Z",
+      "updatedAt": "2021-06-16T14:54:42.931Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "4f552832-735e-4d59-a06a-90bd98413072",
+      "name": "op-2021",
+      "title": "Obra Pública 2021",
+      "keywords": [
+        "obra pública"
+      ],
+      "landingPage": "Secretaría de Infraestructura y Obra Pública",
+      "resources": [
+        {
+          "id": "10e05201-a32f-44b8-ab91-a6e9f2fb24b7",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/op_2021.xlsx",
+          "name": "Obra Pública 2021",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Dataset con información referente a la obra pública realizada en Comodoro Rivadavia en 2021 (nombre de la obra, tipo de licitación, número, lugar, fecha de apertura, empresa y monto del contrato)."
+        },
+        {
+          "id": "a682d97f-8415-476c-986c-27128978a4e2",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/op_2021.csv",
+          "name": "Obra Pública 2021",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Dataset con información referente a la obra pública realizada en Comodoro Rivadavia en 2021 (nombre de la obra, tipo de licitación, número, lugar, fecha de apertura, empresa y monto del contrato)."
+        }
+      ],
+      "createdAt": "2022-08-01T15:58:00.443Z",
+      "updatedAt": "2022-08-02T01:26:21.785Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "48e476e1-fc0b-4e3e-a3f6-77553dce4749",
+      "name": "op-2022",
+      "title": "Obra Pública 2022",
+      "keywords": [
+        "obra pública"
+      ],
+      "landingPage": "Secretaría de Infraestructura y Obra Pública",
+      "resources": [
+        {
+          "id": "741b22ab-6ee6-498a-8219-a171ed8f5d83",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/op_2022.xlsx",
+          "name": "Obra Pública 2022",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Dataset con información referente a la obra pública realizada en Comodoro Rivadavia en 2022 (nombre de la obra, tipo de licitación, número, lugar, fecha de apertura, empresa y monto del contrato)."
+        },
+        {
+          "id": "dea0f028-d346-4b9e-b4a3-b248ebeaf1b1",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/op_2022.csv",
+          "name": "Obra Pública 2022",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Dataset con información referente a la obra pública realizada en Comodoro Rivadavia en 2022 (nombre de la obra, tipo de licitación, número, lugar, fecha de apertura, empresa y monto del contrato)."
+        }
+      ],
+      "createdAt": "2022-08-01T15:59:22.234Z",
+      "updatedAt": "2022-08-02T01:26:10.245Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "ad85df4c-dff1-4ee5-a5f5-6ab9910bf17b",
+      "name": "op-2023",
+      "title": "Obra Pública 2023",
+      "keywords": [
+        "obra pública"
+      ],
+      "landingPage": "Secretaría de Infraestructura y Obra Pública",
+      "resources": [
+        {
+          "id": "3a305268-9bb4-4121-8851-f6cdbd8db545",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/op_2023.xlsx",
+          "name": "Obra Pública 2023",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Dataset con información referente a la obra pública realizada en Comodoro Rivadavia en 2023 (nombre de la obra, tipo de licitación, número, lugar, fecha de apertura, empresa y monto del contrato)."
+        },
+        {
+          "id": "5cf0913a-5571-4687-a5a6-d357ff0467c7",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/op_2023.csv",
+          "name": "Obra Pública 2023",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Dataset con información referente a la obra pública realizada en Comodoro Rivadavia en 2023 (nombre de la obra, tipo de licitación, número, lugar, fecha de apertura, empresa y monto del contrato)."
+        }
+      ],
+      "createdAt": "2023-06-26T20:18:01.284Z",
+      "updatedAt": "2023-06-26T20:32:40.230Z",
+      "contact": {
+        "name": "Dirección General de Modernización e Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "34a75662-4250-4d4f-b858-88787432353a",
+      "name": "paradas-de-transporte-publico-2019-kml",
+      "title": "Paradas de Transporte Público 2019",
+      "keywords": [
+        "colectivos",
+        "mapa",
+        "paradas",
+        "transporte público"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial y de la Dirección General de Transporte",
+      "resources": [
+        {
+          "id": "3a9fa7d3-2f83-43f4-8dd3-d8753d4bfeab",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/paradas-transporte-publico-2019.kml",
+          "name": "Paradas de Transporte Público 2019 (kml)",
+          "format": "KML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada con el relevamiento bienal de las paradas oficiales de transporte público en Comodoro Rivadavia. Dicho relevamiento es realizado en años impares en conjunto entre la Dirección de Investigación Territorial y la Dirección General de Transporte."
+        },
+        {
+          "id": "93d8e995-fb58-4cb6-a48e-2adabeebe9f0",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/paradas-transporte-publico-2019.zip",
+          "name": "Paradas de Transporte Público 2019 (shp)",
+          "format": "ZIP",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada con el relevamiento bienal de las paradas oficiales de transporte público en Comodoro Rivadavia. Dicho relevamiento es realizado en años impares en conjunto entre la Dirección de Investigación Territorial y la Dirección General de Transporte."
+        }
+      ],
+      "createdAt": "2021-05-28T15:13:25.643Z",
+      "updatedAt": "2021-06-23T16:17:36.430Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "e59ed0f8-160e-4d36-94d5-9b9642285325",
+      "name": "paradas-transporte-publico",
+      "title": "Paradas de Transporte Público 2019",
+      "keywords": [
+        "colectivos",
+        "paradas",
+        "transporte público"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial y de la Dirección General de Transporte",
+      "resources": [
+        {
+          "id": "d8f53bf4-eca4-4f9b-8fa6-64ed918590e6",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/paradas-transporte-publico-2019.xlsx",
+          "name": "Paradas de Transporte Público 2019",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Relevamiento bienal de las paradas oficiales de transporte público en Comodoro Rivadavia. El mismo es realizado en años impares en conjunto entre la Dirección de Investigación Territorial y la Dirección General de Transporte."
+        },
+        {
+          "id": "692fef5d-3c25-4185-88d2-721895d54942",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/paradas-transporte-publico-2019.csv",
+          "name": "Paradas de Transporte Público 2019",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Relevamiento bienal de las paradas oficiales de transporte público en Comodoro Rivadavia. El mismo es realizado en años impares en conjunto entre la Dirección de Investigación Territorial y la Dirección General de Transporte."
+        }
+      ],
+      "createdAt": "2021-05-21T15:46:52.356Z",
+      "updatedAt": "2021-06-16T14:49:24.826Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "e7de158d-de6c-4381-857a-ea802e4b5b52",
+      "name": "paradas-transporte-publico-2021",
+      "title": "Paradas de Transporte Público 2021",
+      "keywords": [
+        "colectivos",
+        "paradas",
+        "transporte público"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial y de la Dirección General de Transporte",
+      "resources": [
+        {
+          "id": "1df616dc-004a-46ec-a591-dee2aea45200",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/paradas-transporte-publico-2021.xlsx",
+          "name": "Paradas de Transporte Público 2021",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Relevamiento bienal de las paradas oficiales de transporte público en Comodoro Rivadavia. El mismo es realizado en años impartes en conjunto entre la Dirección de Investigación Territorial y la Dirección General de Transporte."
+        },
+        {
+          "id": "7fe28a97-7adc-4916-a55f-79d614a69d7a",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/paradas-transporte-publico-2021.csv",
+          "name": "Paradas de Transporte Público 2021",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Relevamiento bienal de las paradas oficiales de transporte público en Comodoro Rivadavia. El mismo es realizado en años impartes en conjunto entre la Dirección de Investigación Territorial y la Dirección General de Transporte."
+        }
+      ],
+      "createdAt": "2022-07-13T17:39:03.422Z",
+      "updatedAt": "2022-07-13T17:55:18.769Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "0d7fbd98-8616-4413-a878-9762a08edf14",
+      "name": "paradas-transporte-publico-2021-kml",
+      "title": "Paradas de Transporte Público 2021",
+      "keywords": [
+        "colectivos",
+        "paradas",
+        "transporte público"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial y de la Dirección General de Transporte",
+      "resources": [
+        {
+          "id": "62a02cb4-4466-4d29-a63c-7046a92c2713",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/paradas-transporte-publico-2021.kml",
+          "name": "Paradas de Transporte Público 2021",
+          "format": "KML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Relevamiento bienal de las paradas oficiales de transporte público en Comodoro Rivadavia. El mismo es realizado en años impartes en conjunto entre la Dirección de Investigación Territorial y la Dirección General de Transporte."
+        }
+      ],
+      "createdAt": "2022-07-13T17:40:18.074Z",
+      "updatedAt": "2022-07-13T17:54:22.190Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "4ad63984-8bed-4db7-ab7e-6ed07e0cfd6c",
+      "name": "paradas-transporte-publico-2023",
+      "title": "Paradas de Transporte Público 2023",
+      "keywords": [
+        "colectivos",
+        "paradas",
+        "transporte público"
+      ],
+      "landingPage": "Relevamiento propio",
+      "resources": [
+        {
+          "id": "323b3c4a-e285-4e16-83f5-2a306d0ce757",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/paradas-transporte-publico-2023.xlsx",
+          "name": "Paradas de Transporte Público 2023",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Relevamiento bienal de las paradas oficiales de transporte público en Comodoro Rivadavia. El mismo es realizado en años impartes en conjunto entre la Dirección de Investigación Territorial y la Dirección General de Transporte."
+        },
+        {
+          "id": "a01f09e7-5d2b-4fe2-91cc-ea2f1696d187",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/paradas-transporte-publico-2023.csv",
+          "name": "Paradas de Transporte Público 2023",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Relevamiento bienal de las paradas oficiales de transporte público en Comodoro Rivadavia. El mismo es realizado en años impartes en conjunto entre la Dirección de Investigación Territorial y la Dirección General de Transporte."
+        }
+      ],
+      "createdAt": "2023-06-30T15:34:22.457Z",
+      "updatedAt": "2023-06-30T19:18:55.159Z",
+      "contact": {
+        "name": "Dirección General de Modernización e Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "f614f112-1d42-4e0c-8849-18ca23c60717",
+      "name": "paradas-transporte-publico-2023-kml",
+      "title": "Paradas de Transporte Público 2023",
+      "keywords": [
+        "colectivos",
+        "paradas",
+        "transporte público"
+      ],
+      "landingPage": "Relevamiento propio",
+      "resources": [
+        {
+          "id": "4292645c-b14b-4abb-b11c-c3bb229238ec",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/paradas-transporte-publico-2023.kml",
+          "name": "Paradas de Transporte Público 2023",
+          "format": "KML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada con el relevamiento bienal de las paradas oficiales de transporte público en Comodoro Rivadavia. Dicho relevamiento es realizado en años impares en conjunto entre la Dirección General de Modernización e Investigación Territorial y la Dirección General de Transporte.\r\n\r\n"
+        }
+      ],
+      "createdAt": "2023-06-30T19:15:19.625Z",
+      "updatedAt": "2023-06-30T19:34:40.936Z",
+      "contact": {
+        "name": "Dirección General de Modernización e Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "e5dfdf4a-9dfc-438d-87ec-373902044a0f",
+      "name": "parque-automotor-de-transporte-urbano",
+      "title": "Parque automotor de Transporte Urbano",
+      "keywords": [
+        "transporte"
+      ],
+      "landingPage": "Dirección General de Transporte",
+      "resources": [
+        {
+          "id": "3b825ddf-9b12-456a-87dc-5d1baa111daf",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/unidades-transporte.xlsx",
+          "name": "Parque Automotor de Transporte Urbano",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Cantidad de Taxis, Remises, Taxiflet y otras unidades habilitadas en Comodoro Rivadavia."
+        },
+        {
+          "id": "7818bf02-e464-4f8b-97cf-7e9a24e8c12c",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/unidades-transporte.csv",
+          "name": "Parque Automotor de Transporte Urbano",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Cantidad de Taxis, Remises, Taxiflet y otras unidades habilitadas en Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2021-06-23T17:43:04.716Z",
+      "updatedAt": "2021-06-23T17:45:13.877Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "7d85883e-a159-47d5-9652-24781e55d6b9",
+      "name": "patentamiento-automotor-2020",
+      "title": "Patentamiento Automotor 2020",
+      "keywords": [
+        "patentamiento automotor"
+      ],
+      "landingPage": "Dirección de Impuesto Automotor",
+      "resources": [
+        {
+          "id": "ccc8250c-c623-4405-97c1-8307218916ad",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/patentamiento-automotor-2020.xlsx",
+          "name": "Patentamiento Automotor 2020",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Cantidad de patentamientos realizados durante el año fiscal 2020."
+        },
+        {
+          "id": "fad4f918-64ce-4a78-90fd-501cad95a5bf",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/patentamiento-automotor-2020.csv",
+          "name": "Patentamiento Automotor 2020",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Cantidad de patentamientos realizados durante el año fiscal 2020."
+        }
+      ],
+      "createdAt": "2021-06-02T17:09:39.738Z",
+      "updatedAt": "2021-06-16T14:46:09.637Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "365c1a4a-9ac6-4630-a8cc-62e768533232",
+      "name": "patrimonio-escultorico",
+      "title": "Patrimonio Escultórico",
+      "keywords": [
+        "monumentos"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Patrimonio Cultural y Natural y la Dirección General de Gestión Interinstitucional y Patrimonial.",
+      "resources": [
+        {
+          "id": "ccedc5fa-c443-4eea-8a5d-c8b1b684d7b5",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/patrimonio-escultorico.xlsx",
+          "name": "Patrimonio Escultorico",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Relevamiento realizado por la Dirección de Patrimonio Cultural y Natural y la Dirección General de Gestión Interinstitucional y Patrimonial. El mismo incluye bustos, esculturas, obras de arte, monolitos y cenotafios."
+        },
+        {
+          "id": "cf0bb46c-1fb7-49bd-bba2-1bda9dafeb1f",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/patrimonio-escultorico.csv",
+          "name": "Patrimonio Escultorico",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Relevamiento realizado por la Dirección de Patrimonio Cultural y Natural y la Dirección General de Gestión Interinstitucional y Patrimonial. El mismo incluye bustos, esculturas, obras de arte, monolitos y cenotafios."
+        }
+      ],
+      "createdAt": "2021-06-09T19:46:55.556Z",
+      "updatedAt": "2021-06-16T15:08:43.483Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "3dc72c82-53a9-454f-b23d-27a204f5e630",
+      "name": "pauta-publicitaria",
+      "title": "Pauta Publicitaria 2022",
+      "keywords": [
+        "economia",
+        "pauta publicitaria"
+      ],
+      "landingPage": "Boletín Oficial de Comodoro Rivadavia",
+      "resources": [
+        {
+          "id": "c7e8b313-8fac-4ec1-b460-de7b65ffa1b2",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/pauta-publicitaria-2022.xlsx",
+          "name": "Pauta Publicitaria 2022",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con montos destinados a pauta publicitaria 2022 según tipo de medio."
+        },
+        {
+          "id": "f4d3f3c1-b465-41f1-ae26-fd6f4e10206a",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/pauta-publicitaria-2022.csv",
+          "name": "Pauta Publicitaria 2022",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con montos destinados a pauta publicitaria 2022 según tipo de medio."
+        }
+      ],
+      "createdAt": "2022-07-12T15:08:23.053Z",
+      "updatedAt": "2022-07-12T15:24:55.572Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "be66806f-edd0-4af8-9114-9d25466c75f1",
+      "name": "pauta-publicitaria-2023",
+      "title": "Pauta Publicitaria 2023",
+      "keywords": [
+        "economía",
+        "pauta publicitaria"
+      ],
+      "landingPage": "Boletín Oficial de Comodoro Rivadavia",
+      "resources": [
+        {
+          "id": "d15a8c39-945f-4975-b894-9359fea7d85d",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/pauta-publicitaria-2023.xlsx",
+          "name": "Pauta Publicitaria 2023",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con montos destinados a pauta publicitaria 2023 según tipo de medio."
+        },
+        {
+          "id": "bb6a0207-2432-4e27-a5c5-dfe612101ee8",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/pauta-publicitaria-2023.csv",
+          "name": "Pauta Publicitaria 2023",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con montos destinados a pauta publicitaria 2023 según tipo de medio."
+        }
+      ],
+      "createdAt": "2023-06-30T19:43:18.211Z",
+      "updatedAt": "2023-06-30T19:45:45.312Z",
+      "contact": {
+        "name": "Dirección General de Modernización e Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "33a7c8bc-1afe-470e-a0c7-f62b5c5cc37b",
+      "name": "playones-deportivos-csv",
+      "title": "Playones Deportivos",
+      "keywords": [
+        "deportes",
+        "playones deportivos"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial en colaboración con otras áreas municipales.",
+      "resources": [
+        {
+          "id": "38e0511e-0b31-4398-98f4-ce85c8f89cf3",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/playones-deportivos.xlsx",
+          "name": "Playones Deportivos",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con los playones deportivos ubicados en espacios públicos. Este relevamiento fue realizado en conjunto entre la Dirección de Investigación Territorial, la Dirección General de Catastro, la Dirección General de Deportes y el Área de Obras y Mantenimiento del Ente Autárquico \"Comodoro Deportes\"."
+        },
+        {
+          "id": "82137896-be1e-42fb-9c5b-d19ee0549f47",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/playones-deportivos.csv",
+          "name": "Playones Deportivos",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con los playones deportivos ubicados en espacios públicos. Este relevamiento fue realizado en conjunto entre la Dirección de Investigación Territorial, la Dirección General de Deportes y el Área de Obras y Mantenimiento del Ente Autárquico \"Comodoro Deportes\"."
+        }
+      ],
+      "createdAt": "2021-05-28T15:56:25.816Z",
+      "updatedAt": "2022-01-04T19:02:16.506Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "d64b5a5e-485b-4f9d-bc57-9e6906ba84d0",
+      "name": "playones-deportivos-kml",
+      "title": "Playones Deportivos",
+      "keywords": [
+        "deportes",
+        "playones deportivos",
+        "mapa"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial y otras áreas municipales.",
+      "resources": [
+        {
+          "id": "a6364c2c-ec9f-4c6c-a41a-f4e286bc0218",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/playones-deportivos.kml",
+          "name": "Playones Deportivos (kml)",
+          "format": "KML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada con los playones deportivos ubicados en espacios públicos. Este relevamiento fue realizado en conjunto entre la Dirección de Investigación Territorial, la Dirección General de Deportes y el Área de Obras y Mantenimiento del Ente Autárquico \"Comodoro Deportes\"."
+        },
+        {
+          "id": "3ea9dbff-5286-40c4-b7a0-36122444f67e",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/playones-deportivos.zip",
+          "name": "Playones Deportivos (shp)",
+          "format": "ZIP",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada con los playones deportivos ubicados en espacios públicos. Este relevamiento fue realizado en conjunto entre la Dirección de Investigación Territorial, la Dirección General de Deportes y el Área de Obras y Mantenimiento del Ente Autárquico \"Comodoro Deportes\"."
+        }
+      ],
+      "createdAt": "2021-05-28T15:58:44.229Z",
+      "updatedAt": "2021-06-23T16:20:20.354Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "9d74f577-52b1-48f2-8b78-194b9a103b11",
+      "name": "presupuesto-municipal-2019",
+      "title": "Presupuesto Municipal 2019",
+      "keywords": [
+        "presupuesto"
+      ],
+      "landingPage": "Concejo Deliberante de Comodoro Rivadavia",
+      "resources": [
+        {
+          "id": "9af67c53-7c73-4917-8bbb-16d38b4a7811",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/2019.pdf",
+          "name": "Presupuesto Municipal 2019",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Ordenanza 14.107/18 con el cálculo de Recursos del Presupuesto Municipal para el año 2019."
+        },
+        {
+          "id": "091dc1e7-0a6f-4d06-9e1f-fb6d1a81a327",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/2019-1.pdf",
+          "name": "Ordenanza 14.107-1/19",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "a2e7bbed-f4a3-424d-8032-215a4b46a009",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/2019-2.pdf",
+          "name": "Ordenanza 14.107-2/19",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "04e5d7fd-f15e-43c8-b95f-bfe7a32457c2",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/2019-2.pdf",
+          "name": "Ordenanza 14.107-2/19",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "f5f1aee0-51b4-420d-9d4d-38140767101e",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/2019-3.pdf",
+          "name": "Ordenanza 14.107-3/19",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "8545eabe-a970-4e4c-9c6d-181012ae0553",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/2019-4.pdf",
+          "name": "Ordenanza 14.107-4/19",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "401e60e2-66a3-4923-91ba-626732d3ac88",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/2019-5.pdf",
+          "name": "Ordenanza 14.107-5/19",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "f5c45f79-531c-44b1-b9fc-cad84c43c2b7",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/2019-6.pdf",
+          "name": "Ordenanza 14.107-6/19",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2021-06-23T16:41:31.807Z",
+      "updatedAt": "2021-06-23T17:06:34.180Z",
+      "contact": {
+        "name": "Concejo Deliberante de Comodoro Rivadavia",
+        "email": "prensa@concejocomodoro.gob.ar"
+      }
+    },
+    {
+      "id": "413d3760-784e-4b50-b151-12a891a11a16",
+      "name": "presupuesto-municipal-2020",
+      "title": "Presupuesto Municipal 2020",
+      "keywords": [
+        "presupuesto"
+      ],
+      "landingPage": "Concejo Deliberante de Comodoro Rivadavia",
+      "resources": [
+        {
+          "id": "0034153e-692f-4a7d-a6cc-d9af010d87a8",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/2020.pdf",
+          "name": "Presupuesto Municipal 2020",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Ordenanza 15.010/19 con el cálculo de Recursos del Presupuesto Municipal para el año 2020."
+        },
+        {
+          "id": "be2feda6-bdca-4eeb-b5c7-ac2244438b9d",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/2020-1.pdf",
+          "name": "Ordenanza 15.010-1/20",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "b6e329cf-e220-48e8-b525-7ad613f6b801",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/2020-2.pdf",
+          "name": "Ordenanza 15.010-2/20",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "a3f1336f-25ad-4e21-9b87-4f6387bc7b53",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/2020-3.pdf",
+          "name": "Ordenanza 15.010-3/20",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "5fef191f-3028-46e8-8ad2-77cc993c7fd0",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/2020-3.pdf",
+          "name": "Ordenanza 15.010-3/20",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "5d751dfa-a867-4cf2-8a2c-ad1feed95d64",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/2020-4.pdf",
+          "name": "Ordenanza 15.010-4/20",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "ccb6dc5b-cb7b-4388-a1dd-628a8fb61b57",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/2020-5.pdf",
+          "name": "Ordenanza 15.010-5/20",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "32327448-9575-4e4a-b784-1f6a74b1a92d",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/2020-6.pdf",
+          "name": "Ordenanza 15.010-6/20",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "02c57471-f601-4343-ae64-77856ee7fb79",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/2020-7.pdf",
+          "name": "Ordenanza 15.010-7/20",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "b4cded16-f880-4053-ace8-31044fdb9454",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/2020-8.pdf",
+          "name": "Ordenanza 15.010-8/20",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "cedd4ed7-b81f-4b9d-8531-a90a6a7a0169",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/2020-9.pdf",
+          "name": "Ordenanza 15.010-9/20",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2021-06-23T17:08:58.635Z",
+      "updatedAt": "2021-06-23T17:13:20.054Z",
+      "contact": {
+        "name": "Concejo Deliberante de Comodoro Rivadavia",
+        "email": "prensa@concejocomodoro.gob.ar"
+      }
+    },
+    {
+      "id": "0cada4bd-dbb8-447e-bd8b-ef67062c83c1",
+      "name": "presupuesto-municipal-2021",
+      "title": "Presupuesto Municipal 2021",
+      "keywords": [
+        "presupuesto"
+      ],
+      "landingPage": "Concejo Deliberante de Comodoro Rivadavia",
+      "resources": [
+        {
+          "id": "85f7c72a-b81c-48c9-87ae-232e201ca951",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/2021.pdf",
+          "name": "Presupuesto Municipal 2021",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Ordenanza 15.415/20 con el cálculo de Recursos del Presupuesto Municipal para el año 2021."
+        }
+      ],
+      "createdAt": "2021-06-23T17:16:31.006Z",
+      "updatedAt": "2021-06-23T17:17:54.532Z",
+      "contact": {
+        "name": "Concejo Deliberante de Comodoro Rivadavia",
+        "email": "prensa@concejocomodoro.gob.ar"
+      }
+    },
+    {
+      "id": "527de10b-ea03-4acb-8f6d-c50e07f5ec36",
+      "name": "presupuesto-municipal-2022",
+      "title": "Presupuesto Municipal 2022",
+      "keywords": [],
+      "landingPage": "Concejo Deliberante de Comodoro Rivadavia",
+      "resources": [
+        {
+          "id": "e6ab7115-0a75-4433-8501-ba303826a376",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/presupuesto-2022.pdf",
+          "name": "Presupuesto Municipal 2022",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Ordenanza 16.007/21 con el cálculo de Recursos del Presupuesto Municipal para el año 2021."
+        }
+      ],
+      "createdAt": "2022-03-09T15:39:30.458Z",
+      "updatedAt": "2022-03-09T15:40:53.480Z",
+      "contact": {
+        "name": "Concejo Deliberante de Comodoro Rivadavia",
+        "email": ""
+      }
+    },
+    {
+      "id": "a380b7d5-b0fb-4573-821a-6cd5c2b5e96a",
+      "name": "presupuesto-municipal-2023",
+      "title": "Presupuesto Municipal 2023",
+      "keywords": [
+        "presupuesto"
+      ],
+      "landingPage": "Concejo Deliberante de Comodoro Rivadavia",
+      "resources": [
+        {
+          "id": "cb520167-dfd5-44fd-9d9e-c09407abdc51",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/presupuesto-2023.pdf",
+          "name": "Presupuesto Municipal 2023",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Ordenanza 16.440/22 con el cálculo de Recursos del Presupuesto Municipal para el año 2023."
+        },
+        {
+          "id": "93911514-7f36-46da-96c1-3b0b9a9a2a7e",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/presupuesto-2023.xlsx",
+          "name": "Presupuesto 2023",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Presupuesto de gastos para el periodo fiscal 2023 sancionado mediante Ordenanza N* 16.440/22."
+        },
+        {
+          "id": "ea5f128d-223b-4402-9bee-123a02242b96",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/presupuesto-2023.csv",
+          "name": "Presupuesto 2023",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Presupuesto de gastos para el periodo fiscal 2023 sancionado mediante Ordenanza N* 16.440/22."
+        }
+      ],
+      "createdAt": "2023-03-21T14:57:49.071Z",
+      "updatedAt": "2023-07-01T00:13:27.803Z",
+      "contact": {
+        "name": "Concejo Deliberante de Comodoro Rivadavia",
+        "email": ""
+      }
+    },
+    {
+      "id": "712d8fd0-62b9-45f6-b37a-a91672378e49",
+      "name": "proveedores",
+      "title": "Listado de Proovedores",
+      "keywords": [
+        "economía",
+        "proveedores"
+      ],
+      "landingPage": "Subsecretaría de Gestión Patrimonial y de Turismo",
+      "resources": [
+        {
+          "id": "0deb2bf9-3633-47ed-bf66-c807ff4ef743",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/proveedores.xlsx",
+          "name": "Proveedores de la Municipalidad de Comodoro Rivadavia",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado de los proveedores actualizado al 01/06/2023"
+        },
+        {
+          "id": "da61c1f2-a607-4a43-95f8-a603f016bee6",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/proveedores.csv",
+          "name": "Proveedores de la Municipalidad de Comodoro Rivadavia",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado de los proveedores actualizado al 01/06/2023"
+        }
+      ],
+      "createdAt": "2023-06-15T21:10:06.595Z",
+      "updatedAt": "2023-06-15T21:21:43.546Z",
+      "contact": {
+        "name": "Subsecretaría de Gestión Patrimonial y de Turismo",
+        "email": ""
+      }
+    },
+    {
+      "id": "b7c7140e-93cb-4308-ab89-8b697add2e2e",
+      "name": "puntos-de-venta-del-sistema-de-estacionamiento-medido",
+      "title": "Puntos de Venta del Sistema de Estacionamiento Medido",
+      "keywords": [
+        "transito",
+        "sem"
+      ],
+      "landingPage": "Sistema de Estacionamiento Medido",
+      "resources": [
+        {
+          "id": "e5b79a12-d474-4278-a560-3935a56b1fdb",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/punto-venta-sem.xlsx",
+          "name": "Puntos de Venta del Sistema de Estacionamiento Medido",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con los puntos de venta del Sistema de Estacionamiento Medido en Comodoro Rivadavia."
+        },
+        {
+          "id": "910a399f-d3f1-43cc-91eb-0f1518816555",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/punto-venta-sem.csv",
+          "name": "Puntos de Venta del Sistema de Estacionamiento Medido",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado con los puntos de venta del Sistema de Estacionamiento Medido en Comodoro Rivadavia"
+        }
+      ],
+      "createdAt": "2021-06-11T18:13:21.808Z",
+      "updatedAt": "2021-06-16T15:01:38.899Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "8663998f-52b8-4fd7-914b-162e80b37452",
+      "name": "puntos-de-venta-del-sistema-de-estacionamiento-medido-kml",
+      "title": "Puntos de Venta del Sistema de Estacionamiento Medido",
+      "keywords": [
+        "mapa",
+        "sem"
+      ],
+      "landingPage": "Sistema de Estacionamiento Medido",
+      "resources": [
+        {
+          "id": "9c24bd26-3848-47a9-959e-66f0ef6b7630",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/punto-venta-sem.kml",
+          "name": "Sistema de Estacionamiento Medido (kml)",
+          "format": "KML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada con los puntos de venta del Sistema de Estacionamiento Medido en Comodoro Rivadavia"
+        },
+        {
+          "id": "3dec8781-2b64-4c57-981c-a8096586d5df",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/punto_venta_sem.zip",
+          "name": "Sistema de Estacionamiento Medido (shp)",
+          "format": "ZIP",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada con los puntos de venta del Sistema de Estacionamiento Medido en Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2021-06-11T18:18:21.963Z",
+      "updatedAt": "2021-06-23T16:12:30.057Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "6eda2bc6-8976-4eff-867f-660612e42051",
+      "name": "residuos",
+      "title": "Residuos. Serie 2018-2022",
+      "keywords": [
+        "residuos"
+      ],
+      "landingPage": "Unidad de Gestión Municipal",
+      "resources": [
+        {
+          "id": "441a20f2-d6da-44a3-9d43-819bfd39d8ad",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/residuos.xlsx",
+          "name": "Residuos",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Dataset con información referente al manejo de residuos en Comodoro Rivadavia."
+        },
+        {
+          "id": "8f92422c-b61a-4721-9e25-09131bf55e45",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/residuos.csv",
+          "name": "Residuos",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Dataset con información referente al manejo de residuos en Comodoro Rivadavia"
+        }
+      ],
+      "createdAt": "2022-07-14T20:01:34.161Z",
+      "updatedAt": "2023-06-27T15:03:04.057Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "58e3b3cb-62c2-4638-b634-cfa270229a5c",
+      "name": "residuos-2020",
+      "title": "Residuos 2020",
+      "keywords": [
+        "residuos"
+      ],
+      "landingPage": "Unidad de Gestión Municipal",
+      "resources": [
+        {
+          "id": "98f36cff-cf47-4209-8dad-b6137bea00f5",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/residuos-2020.xlsx",
+          "name": "Residuos 2020",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Dataset con información referente al manejo de residuos en Comodoro Rivadavia. Detalle mensual del año 2020. Nota: PTRSU sigla de Planta de Tratamiento de Residuos Sólidos y Urbanos. Valores expresados en toneladas"
+        },
+        {
+          "id": "0dd4ca26-d9cd-47d3-9765-b3a9e27120e7",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/residuos-2020.csv",
+          "name": "Residuos 2020",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Dataset con información referente al manejo de residuos en Comodoro Rivadavia. Detalle mensual del año 2020. Nota: PTRSU sigla de Planta de Tratamiento de Residuos Sólidos y Urbanos. Valores expresados en toneladas"
+        }
+      ],
+      "createdAt": "2023-06-27T15:06:41.860Z",
+      "updatedAt": "2023-06-27T15:13:39.581Z",
+      "contact": {
+        "name": "Dirección General de Modernización e Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "aad8c3c5-76c2-46c7-abcb-5601508e68e5",
+      "name": "residuos-2021",
+      "title": "Residuos 2021",
+      "keywords": [
+        "residuos"
+      ],
+      "landingPage": "Unidad de Gestión Municipal",
+      "resources": [
+        {
+          "id": "84aa8af5-87fc-4f05-a1f9-a4bb30298f2f",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/residuos-2021.xlsx",
+          "name": "Residuos 2021",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Dataset con información referente al manejo de residuos en Comodoro Rivadavia. Detalle mensual del año 2021. Nota: PTRSU sigla de Planta de Tratamiento de Residuos Sólidos y Urbanos. Valores expresados en toneladas"
+        },
+        {
+          "id": "13a39a23-5c6e-44f0-b28e-361b856e9f35",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/residuos-2021.csv",
+          "name": "Residuos 2021",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Dataset con información referente al manejo de residuos en Comodoro Rivadavia. Detalle mensual del año 2021. Nota: PTRSU sigla de Planta de Tratamiento de Residuos Sólidos y Urbanos. Valores expresados en toneladas"
+        }
+      ],
+      "createdAt": "2023-06-27T15:05:54.934Z",
+      "updatedAt": "2023-06-27T15:24:24.879Z",
+      "contact": {
+        "name": "Dirección General de Modernización e Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "fdf8917f-04c4-493b-b32d-d7aaf7394f87",
+      "name": "residuos-2022",
+      "title": "Residuos 2022",
+      "keywords": [
+        "residuos"
+      ],
+      "landingPage": "Unidad de Gestión Municipal",
+      "resources": [
+        {
+          "id": "b1c5441e-e18e-4a91-8102-dc4b7de8a2e9",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/residuos-2022.xlsx",
+          "name": "Residuos 2022",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Dataset con información referente al manejo de residuos en Comodoro Rivadavia. Detalle mensual del año 2022. Nota: PTRSU sigla de Planta de Tratamiento de Residuos Sólidos y Urbanos. Valores expresados en toneladas"
+        },
+        {
+          "id": "a5c13284-4421-4031-ad8b-19d1ea4d7d8a",
+          "downloadUrl": "http://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/residuos-2022.csv",
+          "name": "Residuos 2022",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Dataset con información referente al manejo de residuos en Comodoro Rivadavia. Detalle mensual del año 2022. Nota: PTRSU sigla de Planta de Tratamiento de Residuos Sólidos y Urbanos. Valores expresados en toneladas"
+        }
+      ],
+      "createdAt": "2023-06-27T15:05:08.997Z",
+      "updatedAt": "2023-06-27T15:29:22.581Z",
+      "contact": {
+        "name": "Dirección General de Modernización e Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "a7f1fa1a-178e-4fbc-b2c9-a752358e9459",
+      "name": "sedes-sociales-asociaciones-vecinales-xlsx",
+      "title": "Sedes sociales de las Asociaciones Vecinales",
+      "keywords": [
+        "vecinales"
+      ],
+      "landingPage": "Dirección de Asociaciones Vecinales y de la Dirección General de Catastro.",
+      "resources": [
+        {
+          "id": "0b481493-17ea-4691-88cb-53e31ac4e2f9",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/asociaciones-vecinales.xlsx",
+          "name": "Sedes sociales de las Asociaciones Vecinales",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado de las Asociaciones Vecinales que poseen sede social. Este relevamiento fue realizado por la Dirección de Investigación Territorial a partir de la colaboración de la Dirección de Asociaciones Vecinales y de la Dirección General de Catastro."
+        },
+        {
+          "id": "846d79ba-3dfb-4050-bca6-c0d24fad8756",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/asociaciones-vecinales.csv",
+          "name": "Sedes sociales de las Asociaciones Vecinales",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado de las Asociaciones Vecinales que poseen sede social. Este relevamiento fue realizado por la Dirección de Investigación Territorial a partir de la colaboración de la Dirección de Asociaciones Vecinales y de la Dirección General de Catastro."
+        }
+      ],
+      "createdAt": "2021-06-01T22:08:54.239Z",
+      "updatedAt": "2021-06-16T15:02:33.387Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "9ed73175-389a-4652-bf58-82dd7abd365b",
+      "name": "sedes-sociales-de-las-asociaciones-vecinales-kml",
+      "title": "Sedes sociales de las Asociaciones Vecinales",
+      "keywords": [
+        "mapa",
+        "vecinales"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial en colaboración con otras áreas municipales.",
+      "resources": [
+        {
+          "id": "a544a8ac-78e4-45d6-a2b7-1fa514d61041",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/asociaciones-vecinales.kml",
+          "name": "Sedes sociales de las Asociaciones Vecinales (kml)",
+          "format": "KML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada con las Asociaciones Vecinales que poseen sede social. Este relevamiento fue realizado por la Dirección de Investigación Territorial a partir de la colaboración de la Dirección de Asociaciones Vecinales y de la Dirección General de Catastro."
+        },
+        {
+          "id": "31e2eb92-2b1d-4e27-bf12-0ab4f2da2b5b",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/asociaciones-vecinales.zip",
+          "name": "Sedes sociales de las Asociaciones Vecinales (shp)",
+          "format": "ZIP",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada con las Asociaciones Vecinales que poseen sede social. Este relevamiento fue realizado por la Dirección de Investigación Territorial a partir de la colaboración de la Dirección de Asociaciones Vecinales y de la Dirección General de Catastro."
+        }
+      ],
+      "createdAt": "2021-06-01T22:15:58.799Z",
+      "updatedAt": "2021-06-23T16:14:17.954Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "2d90ab39-36db-4ae0-97c3-fccb58c37cc0",
+      "name": "siniestros-de-transito-2020",
+      "title": "Siniestros de Tránsito 2020",
+      "keywords": [
+        "accidentes de transito"
+      ],
+      "landingPage": "Subsecretaría de Seguridad Vial (APSV)",
+      "resources": [
+        {
+          "id": "e589e712-5c05-4d64-a08b-27cfb7de4418",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/accidentes-transito-2020.pdf",
+          "name": "Informe Siniestros de Tránsito 2020",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "bef63aff-e89b-4afa-afc7-cf7e34b6fae3",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/puntos-concentracion-2020.pdf",
+          "name": "Puntos de Concentración 2020",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2021-07-02T17:23:04.484Z",
+      "updatedAt": "2023-03-16T17:11:51.210Z",
+      "contact": {
+        "name": "Subsecretaría de Seguridad Vial",
+        "email": ""
+      }
+    },
+    {
+      "id": "8d49bffa-a59a-4142-a7fd-d66d350aa809",
+      "name": "siniestros-de-transito-2021",
+      "title": "Siniestros de Tránsito 2021",
+      "keywords": [
+        "infracciones de tránsito",
+        "siniestros"
+      ],
+      "landingPage": "Subsecretaría de Seguridad Vial (APSV)",
+      "resources": [
+        {
+          "id": "7ac42f3f-c488-4290-9126-6bc2a53f764a",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/accidentes-transito-2021.pdf",
+          "name": "Informe Siniestros de Tránsito 2021",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Informe detallado con los accidentes de tránsito del año 2021 en Comodoro Rivadavia. El informe fue realizado por la APSV."
+        },
+        {
+          "id": "1ae05897-f1c3-464c-b11f-c5c41c9f0be1",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/puntos-concentracion-2021.pdf",
+          "name": "Puntos de Concentración 2021",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Informe detallado con los accidentes de tránsito del año 2021 en Comodoro Rivadavia. El informe fue realizado por la APSV."
+        }
+      ],
+      "createdAt": "2023-03-29T19:21:15.464Z",
+      "updatedAt": "2023-03-29T19:23:07.768Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "34561382-e915-4a4b-b6d1-bf1de5d2ced2",
+      "name": "siniestros-de-transito-2022",
+      "title": "Siniestros de Tránsito 2022",
+      "keywords": [
+        "siniestros",
+        "tránsito"
+      ],
+      "landingPage": "Subsecretaría de Seguridad Vial (APSV)",
+      "resources": [
+        {
+          "id": "8d60b581-5a38-4255-9f2e-08c8add6d89c",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/accidentes-transito-2022.pdf",
+          "name": "Informe Siniestros de Tránsito 2022",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Informe detallado con los accidentes de tránsito del año 2022 en Comodoro Rivadavia. El informe fue realizado por la APSV."
+        },
+        {
+          "id": "d3968a89-afa4-44de-8ffc-5fc91e12a4fc",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/puntos-concentracion-2022.pdf",
+          "name": "Puntos de Concentración 2022",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Informe detallado con los accidentes de tránsito del año 2022 en Comodoro Rivadavia. El informe fue realizado por la APSV."
+        }
+      ],
+      "createdAt": "2023-03-29T19:24:36.049Z",
+      "updatedAt": "2023-03-29T19:26:58.846Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "cdea9dc6-82ab-4057-950c-73cab0f2b27f",
+      "name": "sucursales-correo-argentino",
+      "title": "Sucursales Correo Argentino",
+      "keywords": [
+        "comunicación"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial",
+      "resources": [
+        {
+          "id": "b8530729-9b25-4e4b-ae03-68dcaba66411",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/correo-estatal.xlsx",
+          "name": "Sucursales Correo Argentino",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado de sucursales de la empresa estatal Correo Oficial de la República Argentina (\"Correo Argentino\" según su denominación comercial) en Comodoro Rivadavia."
+        },
+        {
+          "id": "35f601f4-8437-45c0-bc09-8fc6d2326dea",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/correo-estatal.csv",
+          "name": "Sucursales Correo Argentino",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado de sucursales de la empresa estatal Correo Oficial de la República Argentina (\"Correo Argentino\" según su denominación comercial) en Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2021-06-28T16:49:03.854Z",
+      "updatedAt": "2021-06-28T16:50:18.452Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "70ec3d1b-0313-4d51-b851-4d00ea775092",
+      "name": "sucursales-correo-argentino-kml",
+      "title": "Sucursales Correo Argentino",
+      "keywords": [
+        "comunicación",
+        "correo",
+        "mapa"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial",
+      "resources": [
+        {
+          "id": "1269c599-3543-4d53-990d-0a93bbbf3afa",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/correo-estatal.kmz",
+          "name": " Sucursales Correo Argentino",
+          "format": "KMZ",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Capa georreferenciada con las sucursales de la empresa estatal Correo Oficial de la República Argentina (\"Correo Argentino\" según su denominación comercial) en Comodoro Rivadavia."
+        }
+      ],
+      "createdAt": "2021-06-28T16:51:24.067Z",
+      "updatedAt": "2021-06-29T17:33:49.611Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "417a0767-2cb6-4e16-a9a5-5cb40a48b538",
+      "name": "superficie-ev-habitante",
+      "title": "Superficie de Espacio Verde por habitantes",
+      "keywords": [
+        "espacios verdes",
+        "habitantes",
+        "parques",
+        "plazas"
+      ],
+      "landingPage": "Relevamiento de la Dirección de Investigación Territorial",
+      "resources": [
+        {
+          "id": "9409dd93-f75f-4e8a-9f21-ed24dcdd5fc2",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/sup-ev-1000-hab.xlsx",
+          "name": "Superficie de Espacio Verde por habitantes",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Superficie de espacios verdes (ha) por habitante (mil) por barrio. El mismo se calcula teniendo en cuenta el relevamiento de espacios verdes y la estimación de población y vivienda 2021 que se encuentran disponibles para su consulta en este portal."
+        },
+        {
+          "id": "c0e974de-e274-4389-8cef-584612ce4533",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/sup-ev-1000-hab.csv",
+          "name": "Superficie de Espacio Verde por habitantes",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Superficie de espacios verdes (ha) por habitante (mil) por barrio. El mismo se calcula teniendo en cuenta el relevamiento de espacios verdes y la estimación de población y vivienda 2021 que se encuentran disponibles para su consulta en este portal."
+        }
+      ],
+      "createdAt": "2022-07-08T17:07:37.568Z",
+      "updatedAt": "2023-06-27T14:30:35.432Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "cbe43509-dbb1-4ae1-b02f-c4a5d1263852",
+      "name": "transito-vehicular-general-e-mosconi",
+      "title": "Tránsito vehicular (General E. Mosconi)",
+      "keywords": [
+        "tmda",
+        "tránsito vehicular"
+      ],
+      "landingPage": "Vialidad Nacional",
+      "resources": [
+        {
+          "id": "39bc12be-12f8-4468-adc2-21d695a2bc82",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/tmda.xlsx",
+          "name": "Tránsito vehicular (General E. Mosconi)",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Tránsito Medio Diario Anual (TMDA) en la Av. Libertador General San Martín en el barrio General Enrique Mosconi (Ruta 3 entre los km 1827,21 y 1830,85)."
+        },
+        {
+          "id": "7ea12db9-d2f9-44e0-bdb7-4ab40202d192",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/tmda.csv",
+          "name": "Tránsito vehicular (General E. Mosconi)",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Tránsito Medio Diario Anual (TMDA) en la Av. Libertador General San Martín en el barrio General Enrique Mosconi (Ruta 3 entre los km 1827,21 y 1830,85)."
+        }
+      ],
+      "createdAt": "2021-06-05T00:51:40.208Z",
+      "updatedAt": "2022-03-11T16:21:29.033Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "7d002808-8412-43b9-b973-83e775a645f5",
+      "name": "transito-vehicular-ruta-3-y-ruta-26",
+      "title": "Tránsito vehicular (Ruta 3 y Ruta 26)",
+      "keywords": [
+        "tmda",
+        "tránsito"
+      ],
+      "landingPage": "Vialidad Nacional",
+      "resources": [
+        {
+          "id": "7701415d-16b9-4283-874e-2e2a6fca8bf1",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/tmda-2.xlsx",
+          "name": "Tránsito vehicular (Ruta 3 y Ruta 26)",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Tránsito Medio Diario Anual (TMDA) en la intersección de Ruta Nacional 3 y Ruta Nacional 26."
+        },
+        {
+          "id": "8283d87a-956c-4112-a159-8ada7024a032",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/tmda-2.csv",
+          "name": "Tránsito vehicular (Ruta 3 y Ruta 26)",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Tránsito Medio Diario Anual (TMDA) en la intersección de Ruta Nacional 3 y Ruta Nacional 26."
+        }
+      ],
+      "createdAt": "2021-06-05T01:06:04.877Z",
+      "updatedAt": "2022-03-11T16:21:23.007Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "05ade00b-97ff-4e78-a0a7-d0a213ebb154",
+      "name": "transporte-aereo-movimientos",
+      "title": "Transporte Aéreo (movimientos)",
+      "keywords": [
+        "transporte aéreo"
+      ],
+      "landingPage": "Administración Nacional de Aviación Civil (ANAC)",
+      "resources": [
+        {
+          "id": "1ea5db02-6a1a-4ef1-b141-3a2f9574519c",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/movimientos-totales.xlsx",
+          "name": "Transporte Aéreo (movimientos)",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Cantidad de movimientos (despegues y aterrizajes) en el Aeropuerto Internacional General Mosconi."
+        },
+        {
+          "id": "88240b2c-8cea-4baf-a49d-db1046bbd3dd",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/movimientos-totales.csv",
+          "name": "Transporte Aéreo (movimientos)",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Cantidad de movimientos (despegues y aterrizajes) en el Aeropuerto Internacional General Mosconi."
+        }
+      ],
+      "createdAt": "2021-06-04T16:05:54.859Z",
+      "updatedAt": "2022-03-09T15:49:25.798Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    },
+    {
+      "id": "2c406113-8aef-45b9-9d72-9fb8b302a494",
+      "name": "transporte-aereo-pasajeros",
+      "title": "Transporte Aéreo (pasajeros)",
+      "keywords": [
+        "transporte aéreo"
+      ],
+      "landingPage": "Administración Nacional de Aviación Civil (ANAC)",
+      "resources": [
+        {
+          "id": "f89db968-0293-4808-b5c6-767707252c54",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/pasajeros-totales.xlsx",
+          "name": "Transporte Aéreo (pasajeros)",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Cantidad de pasajeros embarcados y desembarcados en el Aeropuerto Internacional General Mosconi."
+        },
+        {
+          "id": "381b9683-77ab-4434-9246-a0bb78c7ae32",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/pasajeros-totales.csv",
+          "name": "Transporte Aéreo (pasajeros)",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Cantidad de pasajeros embarcados y desembarcados en el Aeropuerto Internacional General Mosconi."
+        }
+      ],
+      "createdAt": "2021-06-04T16:02:23.666Z",
+      "updatedAt": "2022-03-09T15:49:32.632Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": ""
+      }
+    },
+    {
+      "id": "32de3691-3a4f-4d18-975e-d97bd3d86763",
+      "name": "usuarios-energia-electrica",
+      "title": "Energía Eléctrica - cantidad de usuarios por tipo",
+      "keywords": [
+        "energía eléctrica"
+      ],
+      "landingPage": "Sociedad Cooperativa Popular Limitada",
+      "resources": [
+        {
+          "id": "46a008fb-a70f-4df9-9ed1-35ada9307594",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/usuarios-energia.xlsx",
+          "name": "Usuarios registrados de energía eléctrica",
+          "format": "XLSX",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Tabla con la cantidad de usuarios registrados de energía eléctrica en Comodoro Rivadavia discriminado por categorías. Años 2019 y 2022."
+        },
+        {
+          "id": "93053219-20c7-4268-9727-7bd2e5a0fbb4",
+          "downloadUrl": "https://datos.vivamoscomodoro.gob.ar/base/datasets/scuyo/dit/usuarios-energia.csv",
+          "name": "Usuarios registrados de energía eléctrica",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Tabla con la cantidad de usuarios registrados de energía eléctrica en Comodoro Rivadavia discriminado por categorías. Años 2019 y 2022."
+        }
+      ],
+      "createdAt": "2022-03-09T14:53:45.816Z",
+      "updatedAt": "2023-03-31T19:05:58.979Z",
+      "contact": {
+        "name": "Dirección de Investigación Territorial",
+        "email": "investigacionterritorial@comodoro.gov.ar"
+      }
+    }
+  ],
+  "organizations": [],
+  "updatedAt": "2023-12-16T11:42:18.269Z"
+}

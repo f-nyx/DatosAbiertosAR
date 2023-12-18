@@ -1,0 +1,404 @@
+{
+  "id": "uhwKKPsnGa",
+  "datasets": [
+    {
+      "id": "f95d3d0c-64e6-48a5-9105-b966bf311502",
+      "name": "ejecucionpresupuesto",
+      "title": "Ejecución Presupuestaria",
+      "keywords": [
+        "ejecucion presupuestaria por objeto",
+        "ejecución presupuestaria por finalidad y funcion",
+        "presupuesto"
+      ],
+      "landingPage": "https://datosabiertos.chaco.gob.ar/dataset/ejecucionpresupuesto",
+      "resources": [
+        {
+          "id": "617a1fe5-48d2-400b-b61a-19073ea31b00",
+          "downloadUrl": "https://datosabiertos.chaco.gob.ar/dataset/f95d3d0c-64e6-48a5-9105-b966bf311502/resource/617a1fe5-48d2-400b-b61a-19073ea31b00/download/ejec-funcion-1.xls",
+          "name": "Ejecución del Presupuesto por Finalidad/Función Nivel Función Enero al Julio 2022",
+          "format": "XLS",
+          "updatedAt": "2022-08-29T19:01:32.255Z",
+          "description": "Clasificación de los gastos provinciales por Finalidad y Función nivel Función.",
+          "landingUrl": ""
+        },
+        {
+          "id": "5c1808da-f588-4423-a40b-0d479d8c9a16",
+          "downloadUrl": "https://datosabiertos.chaco.gob.ar/dataset/f95d3d0c-64e6-48a5-9105-b966bf311502/resource/5c1808da-f588-4423-a40b-0d479d8c9a16/download/ej-x-finalidad-1.xls",
+          "name": "Ejecución del presupuesto por finalidad/función Enero a Julio 2022",
+          "format": "XLS",
+          "updatedAt": "2022-08-29T19:05:13.311Z",
+          "description": "Clasificación de los gastos provinciales por Finalidad y Función nivel Finalidad\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "655635c1-4984-4e96-b6cf-f229b8da37f6",
+          "downloadUrl": "https://datosabiertos.chaco.gob.ar/dataset/f95d3d0c-64e6-48a5-9105-b966bf311502/resource/655635c1-4984-4e96-b6cf-f229b8da37f6/download/objeto-del-gasto.xls",
+          "name": " Ejecución por objeto del gasto de Enero a Julio de2022",
+          "format": "XLS",
+          "updatedAt": "2022-08-10T18:13:24.362Z",
+          "description": "Detalle de la ejecución presupuestaria de acuerdo al tipo de bien y servicio que adquiere el estado del 2022 de Enero a Julio\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "88f372ec-d355-46bb-b99a-719d7a0be75a",
+          "downloadUrl": "https://datosabiertos.chaco.gob.ar/dataset/f95d3d0c-64e6-48a5-9105-b966bf311502/resource/88f372ec-d355-46bb-b99a-719d7a0be75a/download/finalidad-yfuncion-2.csv",
+          "name": "Ejecución por Finalidad/Función Acumulado de Enero a Agosto de 2022",
+          "format": "CSV",
+          "updatedAt": "2022-10-12T21:24:01.808Z",
+          "description": "Clasificación de los gastos provinciales por Finalidad y Función nivel Función. ACUMULADO 01 AL 08 del 2022\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "6f6f675c-5097-4d98-a374-149e7266e143",
+          "downloadUrl": "https://datosabiertos.chaco.gob.ar/dataset/f95d3d0c-64e6-48a5-9105-b966bf311502/resource/6f6f675c-5097-4d98-a374-149e7266e143/download/ejec-obj-del-gto-08-da.csv",
+          "name": "Ejecución por objeto del gasto de Enero a Agosto 2022",
+          "format": "CSV",
+          "updatedAt": "2022-10-12T21:29:51.880Z",
+          "description": "Detalle de la ejecución presupuestaria de acuerdo al tipo de bien y servicio que adquiere el estado del periodo de enero y agosto del 2022\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "89fcef2d-7c5b-401a-bd6e-7c8db941b2a1",
+          "downloadUrl": "https://datosabiertos.chaco.gob.ar/dataset/f95d3d0c-64e6-48a5-9105-b966bf311502/resource/89fcef2d-7c5b-401a-bd6e-7c8db941b2a1/download/fyf-01-al-10.csv",
+          "name": "Ejecución del presupuesto por finalidad/función Acumulado Enero a Octubre 2022",
+          "format": "CSV",
+          "updatedAt": "2022-11-17T21:16:15.675Z",
+          "description": "Clasificación de los gastos provinciales por Finalidad y Función nivel Finalidad. ACUMULADO 01 AL 10.",
+          "landingUrl": ""
+        },
+        {
+          "id": "c45515ce-881d-4623-b10d-f422e395c3ca",
+          "downloadUrl": "https://datosabiertos.chaco.gob.ar/dataset/f95d3d0c-64e6-48a5-9105-b966bf311502/resource/c45515ce-881d-4623-b10d-f422e395c3ca/download/fyf-acum-01-al-12.csv",
+          "name": "Ejecución por Finalidad/Función Acumulado de Enero a Diciembre 2022",
+          "format": "CSV",
+          "updatedAt": "2023-01-12T20:45:29.660Z",
+          "description": "Clasificación de los gastos provinciales por Finalidad y Función nivel Función. ACUMULADO 01 AL 12",
+          "landingUrl": "https://gobiernoabierto.chaco.gob.ar/presupuestos/"
+        },
+        {
+          "id": "3ffb2f1f-656f-486d-8496-a36366e6cf25",
+          "downloadUrl": "https://datosabiertos.chaco.gob.ar/dataset/f95d3d0c-64e6-48a5-9105-b966bf311502/resource/3ffb2f1f-656f-486d-8496-a36366e6cf25/download/obj-del-gto-acum-1-al-12.csv",
+          "name": "Ejecución por objeto del gasto Acumulado de Enero a Diciembre del 2022",
+          "format": "CSV",
+          "updatedAt": "2023-01-12T21:05:06.974Z",
+          "description": "Detalle de la ejecución presupuestaria de acuerdo al tipo de bien y servicio que adquiere el estado del periodo de enero y Diciembre del 2022\r\n",
+          "landingUrl": "https://gobiernoabierto.chaco.gob.ar/presupuestos/"
+        }
+      ],
+      "createdAt": "2022-07-25T21:13:23.157Z",
+      "updatedAt": "2023-01-13T15:49:32.000Z",
+      "contact": {
+        "name": "Ministerio de Ministerio de Planificación Economía e Infraestructura. Subsecretaría de Política económica\r\n",
+        "email": "subpoliticaeconomica@chaco.gob.ar"
+      }
+    },
+    {
+      "id": "4491e1a7-629e-4cd1-96ee-0d88d126f365",
+      "name": "indice-de-costo-de-la-construccion-de-la-provincia-del-chaco-icc",
+      "title": "Índice de Costo de la Construcción de la Provincia del Chaco (ICC)",
+      "keywords": [
+        "actividades economicas",
+        "indices",
+        "actividades industriales",
+        "desempeño industrial"
+      ],
+      "landingPage": "https://datosabiertos.chaco.gob.ar/dataset/indice-de-costo-de-la-construccion-de-la-provincia-del-chaco-icc",
+      "resources": [
+        {
+          "id": "0e9f9f5b-41c9-4444-88dd-e8d0c8b1677b",
+          "downloadUrl": "https://datosabiertos.chaco.gob.ar/dataset/4491e1a7-629e-4cd1-96ee-0d88d126f365/resource/0e9f9f5b-41c9-4444-88dd-e8d0c8b1677b/download/icc_nivelgral_y_rubros_201801_a_202211.csv",
+          "name": "ICC Nivel General y Rubros 2018-01 al 2022-11",
+          "format": "CSV",
+          "updatedAt": "2023-02-17T01:26:55.600Z",
+          "description": "Serie histórica del Índice de Costo de la Construcción (ICC) de la Provincia del Chaco a noviembre 2022, nivel general.\r\n\r\n",
+          "landingUrl": "http://ipecd.chaco.gob.ar/economia/precios/indice-de-costo-de-la-construccion"
+        }
+      ],
+      "createdAt": "2023-02-17T01:14:19.820Z",
+      "updatedAt": "2023-02-17T01:26:56.426Z",
+      "contact": {
+        "name": "INSTITUTO DE INFORMACION ESTADISTICA Y TERRITORIAL",
+        "email": "estadisticas@chaco.gob.ar"
+      }
+    },
+    {
+      "id": "281bc2c5-c627-4d13-91a8-fa7b4c227373",
+      "name": "indice-de-desempeno-industrial-de-la-provincia-del-chaco-idi",
+      "title": "Indice de Desempeño Industrial de la Provincia del Chaco (IDI)",
+      "keywords": [
+        "actividades economicas",
+        "actividades industriales",
+        "desempeño industrial",
+        "indices",
+        "industria"
+      ],
+      "landingPage": "http://ipecd.chaco.gob.ar/",
+      "resources": [
+        {
+          "id": "0a4d309e-4543-4f97-9c47-423435a59667",
+          "downloadUrl": "https://datosabiertos.chaco.gob.ar/dataset/281bc2c5-c627-4d13-91a8-fa7b4c227373/resource/0a4d309e-4543-4f97-9c47-423435a59667/download/idi_nivel_gral_201601_a_202210.csv",
+          "name": "Índice de Desempeño Industrial(IDI) Nivel General de 2016-01 a 2022-10",
+          "format": "CSV",
+          "updatedAt": "2023-02-17T01:43:01.531Z",
+          "description": "Serie histórica del Índice de Desempeño Industrial (IDI) de la Provincia del Chaco a octubre 2022, nivel general.\r\n",
+          "landingUrl": "https://ipecd.chaco.gob.ar/economia/industria-manufacturera/indice-de-desempeno-industrial"
+        },
+        {
+          "id": "0722c1c1-5fe6-456b-9288-81d66e352f08",
+          "downloadUrl": "https://datosabiertos.chaco.gob.ar/dataset/281bc2c5-c627-4d13-91a8-fa7b4c227373/resource/0722c1c1-5fe6-456b-9288-81d66e352f08/download/idi_ramas_industriales_201601_a_202210.csv",
+          "name": "Índice de Desempeño Industrial (IDI) por ramas de actividad industrial de 2016-01 a 2022-10",
+          "format": "CSV",
+          "updatedAt": "2023-02-17T01:54:42.492Z",
+          "description": "Serie histórica del Índice de Desempeño Industrial (IDI) de la Provincia del Chaco desagregado a Octubre 2022, por ramas de actividad industrial.\r\n",
+          "landingUrl": "http://ipecd.chaco.gob.ar/economia/industria-manufacturera/indice-de-desempeno-industrial"
+        }
+      ],
+      "createdAt": "2022-11-17T16:11:46.584Z",
+      "updatedAt": "2023-02-17T01:55:14.663Z",
+      "contact": {
+        "name": " Instituto de información Estadística y Territorial\r\n",
+        "email": "estadisticas@chaco.gov.ar"
+      }
+    },
+    {
+      "id": "19debde6-1c90-4172-8130-5bf72e2387d0",
+      "name": "indice-mensual-de-actividad-economica-de-la-provincia-del-chaco-imach",
+      "title": "Índice mensual de Actividad Económica de la Provincia del Chaco (IMACH)",
+      "keywords": [
+        "actividades economicas",
+        "indices",
+        "industria"
+      ],
+      "landingPage": "https://ipecd.chaco.gob.ar/economia/cuentas-provinciales/indice-mensual-de-actividad-economica-chaco-imach",
+      "resources": [
+        {
+          "id": "52537f09-e732-46c2-9750-a33a618cfe9b",
+          "downloadUrl": "https://datosabiertos.chaco.gob.ar/dataset/19debde6-1c90-4172-8130-5bf72e2387d0/resource/52537f09-e732-46c2-9750-a33a618cfe9b/download/imach_nivel_gral_200401_a_202210.csv",
+          "name": "IMACH Nivel General del 2004-01a 2022-10",
+          "format": "CSV",
+          "updatedAt": "2023-02-17T02:14:25.622Z",
+          "description": "Serie histórica mensual del IMACH por tipo de serie a octubre 2022, nivel general.",
+          "landingUrl": "https://ipecd.chaco.gob.ar/economia/cuentas-provinciales/indice-mensual-de-actividad-economica-chaco-imach"
+        },
+        {
+          "id": "d0f488ab-3240-4afb-866b-060ea58cc06d",
+          "downloadUrl": "https://datosabiertos.chaco.gob.ar/dataset/19debde6-1c90-4172-8130-5bf72e2387d0/resource/d0f488ab-3240-4afb-866b-060ea58cc06d/download/imach_por_sectores_200401_a_202210.csv",
+          "name": "IMACH Por sector de actividad económica 2004-01a 2022-10",
+          "format": "CSV",
+          "updatedAt": "2023-02-17T02:21:18.811Z",
+          "description": "Serie histórica mensual del IMACH (IMACH) a octubre 2022, por sector de actividad económica.",
+          "landingUrl": "https://ipecd.chaco.gob.ar/economia/cuentas-provinciales/indice-mensual-de-actividad-economica-chaco-imach"
+        }
+      ],
+      "createdAt": "2023-02-17T02:05:22.869Z",
+      "updatedAt": "2023-02-17T02:22:14.778Z",
+      "contact": {
+        "name": "INSTITUTO DE INFORMACION ESTADISTICA Y TERRITORIAL ",
+        "email": "estadisticas@ecomchaco.com.ar"
+      }
+    },
+    {
+      "id": "62a52527-c051-4cb3-b6c6-12d524ac1b62",
+      "name": "mapa-del-estado",
+      "title": "Mapa del estado",
+      "keywords": [
+        "estado",
+        "funcionarios",
+        "orgánica"
+      ],
+      "landingPage": "https://www.mapadelestado.chaco.gob.ar",
+      "resources": [
+        {
+          "id": "e476fc9f-11e3-4aa3-8012-83761a7bfda9",
+          "downloadUrl": "https://datosabiertos.chaco.gob.ar/dataset/62a52527-c051-4cb3-b6c6-12d524ac1b62/resource/e476fc9f-11e3-4aa3-8012-83761a7bfda9/download/oficinas-para-datos-abiertos-octubre-2022-3.xlsx",
+          "name": "Mapa del Estado Octubre 2022",
+          "format": "XLSX",
+          "updatedAt": "2022-11-17T15:34:06.846Z",
+          "description": "Información sobre la organización del estado, sus oficinas y sus responsables",
+          "landingUrl": ""
+        },
+        {
+          "id": "a827b07e-10fe-402b-98ef-9a57f2c6c8e8",
+          "downloadUrl": "",
+          "name": "Mapa del Estado Febrero 2023",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Información sobre la organización del estado, sus oficinas y sus responsables",
+          "landingUrl": ""
+        },
+        {
+          "id": "9cb0e755-0eae-455a-84ec-bd06a8d773dc",
+          "downloadUrl": "https://datosabiertos.chaco.gob.ar/dataset/62a52527-c051-4cb3-b6c6-12d524ac1b62/resource/9cb0e755-0eae-455a-84ec-bd06a8d773dc/download/mapa-del-estado-marzo-2023.csv",
+          "name": "Mapa del Estado Marzo 2023",
+          "format": "CSV",
+          "updatedAt": "2023-03-29T14:49:29.421Z",
+          "description": "Información sobre la organización del estado, sus oficinas y sus responsables",
+          "landingUrl": ""
+        },
+        {
+          "id": "36929ee0-d136-45e9-971e-db66d2fa1fe0",
+          "downloadUrl": "https://datosabiertos.chaco.gob.ar/dataset/62a52527-c051-4cb3-b6c6-12d524ac1b62/resource/36929ee0-d136-45e9-971e-db66d2fa1fe0/download/mapa-del-estado-noviembre-2023.xlsx",
+          "name": "Mapa del Estado Noviembre 2023",
+          "format": "XLSX",
+          "updatedAt": "2023-12-01T17:51:39.797Z",
+          "description": "Información sobre la organización del estado, sus oficinas y sus responsables",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-11-14T18:11:36.417Z",
+      "updatedAt": "2023-12-01T17:51:39.826Z",
+      "contact": {
+        "name": "Secretaría General de Gobernación- Subsecretaría de Modernización del Estado- Dirección General de Innovación y Modernización Gubernamental- Dirección de Planificación Organizacional",
+        "email": "gob.mbrugnoli@chaco.gob.ar"
+      }
+    },
+    {
+      "id": "d048650f-9bdb-484d-9856-fc7b34f1afce",
+      "name": "planificacion-y-ejecucion-del-presupuesto-con-perspectiva-de-genero-ppg",
+      "title": "Planificación y Ejecución del Presupuesto con Perspectiva de Género(PPG)",
+      "keywords": [
+        "perspectiva de género",
+        "presupuesto"
+      ],
+      "landingPage": "https://datosabiertos.chaco.gob.ar/dataset/planificacion-y-ejecucion-del-presupuesto-con-perspectiva-de-genero-ppg",
+      "resources": [
+        {
+          "id": "ed6b2aa6-accf-4ef5-a893-3b82419d297f",
+          "downloadUrl": "https://datosabiertos.chaco.gob.ar/dataset/d048650f-9bdb-484d-9856-fc7b34f1afce/resource/ed6b2aa6-accf-4ef5-a893-3b82419d297f/download/ejecucion-financiera-ppg-1.xlsx",
+          "name": "Planificación y ejecución financiera del presupuesto con perspectiva de género 2022-01 al 2022-06",
+          "format": "XLS",
+          "updatedAt": "2022-07-29T20:57:39.749Z",
+          "description": " se puede observar tanto lo planificado como lo ejecutado del 2022-01 al 2022-06",
+          "landingUrl": ""
+        },
+        {
+          "id": "88a3960f-a3cb-43d8-9e52-76dd6313196d",
+          "downloadUrl": "https://datosabiertos.chaco.gob.ar/dataset/d048650f-9bdb-484d-9856-fc7b34f1afce/resource/88a3960f-a3cb-43d8-9e52-76dd6313196d/download/03_11_22.-informe-de-ejecucion.xlsx",
+          "name": " Planificación y ejecución financiera del presupuesto con perspectiva de género para el año 2022 al 11-22",
+          "format": "XLS",
+          "updatedAt": "2022-11-17T21:48:17.676Z",
+          "description": "Ejecución de los gastos planificados para el 2022 en la provincia para las 15 jurisdicciones que se encuentran etiquetadas en dicho periodo. Implican una inversión para reducir la brecha de género. ",
+          "landingUrl": ""
+        },
+        {
+          "id": "40ccff2d-55fc-4e55-bd07-b9179357638d",
+          "downloadUrl": "https://datosabiertos.chaco.gob.ar/dataset/d048650f-9bdb-484d-9856-fc7b34f1afce/resource/40ccff2d-55fc-4e55-bd07-b9179357638d/download/planificacion-y-ejecucion-financiera-del-presupuesto-con-perspectiva-de-genero-2023-01-al-2023-.xlsx",
+          "name": "Planificación y ejecución financiera del presupuesto con perspectiva de género para el año 2023",
+          "format": "XLS",
+          "updatedAt": "2023-11-30T18:19:59.524Z",
+          "description": "Ejecución de los gastos planificados para el 2023 en el Chaco para las 24 jurisdicciones que se encuentran etiquetadas en dicho periodo.El periodo que abarca es desde enero 2023- Agosto 2023\t",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-07-29T20:54:27.185Z",
+      "updatedAt": "2023-11-30T18:19:59.551Z",
+      "contact": {
+        "name": "Subsecretaría de Política Económica ",
+        "email": "Subpoliticaeconomica@chaco.gob.ar"
+      }
+    },
+    {
+      "id": "bdb8044f-35e6-40d6-9bec-d161ecac209e",
+      "name": "producto-bruto-geografico-de-la-provincia-del-chaco-pbg",
+      "title": "Producto Bruto Geográfico de la Provincia del Chaco (PBG)",
+      "keywords": [
+        "actividades economicas",
+        "pbg",
+        "producto"
+      ],
+      "landingPage": "http://ipecd.chaco.gob.ar/",
+      "resources": [
+        {
+          "id": "1101c67f-8745-4a3f-ae0f-ce0cdc0c6909",
+          "downloadUrl": "https://datosabiertos.chaco.gob.ar/dataset/bdb8044f-35e6-40d6-9bec-d161ecac209e/resource/1101c67f-8745-4a3f-ae0f-ce0cdc0c6909/download/pbg_agregado_itrim2004_a_iiitrim2022.csv",
+          "name": "Producto Bruto Geográfico(PBG) Agregado al 3° trimestre 2022",
+          "format": "CSV",
+          "updatedAt": "2023-01-03T20:34:21.700Z",
+          "description": "Serie histórica trimestral del PBG Agregado del Primer trimestre-2004 hasta: al 3° trimestre 2022",
+          "landingUrl": "http://ipecd.chaco.gob.ar/economia/cuentas-provinciales/producto-bruto-geografico-pbg"
+        },
+        {
+          "id": "15444ec2-e721-4062-be5f-b75d37db8178",
+          "downloadUrl": "https://datosabiertos.chaco.gob.ar/dataset/bdb8044f-35e6-40d6-9bec-d161ecac209e/resource/15444ec2-e721-4062-be5f-b75d37db8178/download/pbg_porsectores_itrim2004_a_iiitrim2022.csv",
+          "name": "Producto Bruto Geográfico(PBG) por sector de actividad económica al 3° trimestre del 2022",
+          "format": "CSV",
+          "updatedAt": "2023-01-03T20:39:03.844Z",
+          "description": "Serie histórica trimestral del PBG por sector de actividad económica Primer trimestre-2004 hasta: al 3° Trimestre del 2022\r\n",
+          "landingUrl": "http://ipecd.chaco.gob.ar/economia/cuentas-provinciales/producto-bruto-geografico-pbg"
+        }
+      ],
+      "createdAt": "2022-11-17T18:47:58.431Z",
+      "updatedAt": "2023-01-06T15:40:28.835Z",
+      "contact": {
+        "name": "Instituto de información Estadística y Territorial",
+        "email": "estadisticas@chaco.gob.ar"
+      }
+    },
+    {
+      "id": "f3df50d6-2ed1-4f4e-830b-a75705983547",
+      "name": "serie-historica-de-precios-geometricos-en-el-gran-resistencia",
+      "title": "Serie Histórica de Precios Geométricos en el Gran Resistencia",
+      "keywords": [
+        "canasta básica",
+        "inflación",
+        "precio"
+      ],
+      "landingPage": "http://ipecd.chaco.gob.ar/",
+      "resources": [
+        {
+          "id": "231d3a7e-ea58-4c39-90d1-9be91a26028b",
+          "downloadUrl": "https://datosabiertos.chaco.gob.ar/dataset/f3df50d6-2ed1-4f4e-830b-a75705983547/resource/231d3a7e-ea58-4c39-90d1-9be91a26028b/download/precios_geom_gr_sh_200912_a_202211.csv",
+          "name": "Serie Histórica de Precios Geométricos en el Gran Resistencia 2009/12 a 2022/11",
+          "format": "CSV",
+          "updatedAt": "2023-02-17T21:37:07.259Z",
+          "description": "El dataset contiene la serie mensual de precios medios geométricos por variedad de bienes y servicios que componen el IPC- Gran Resistencia a noviembre de 2022",
+          "landingUrl": "https://ipecd.chaco.gob.ar/economia/cuentas-provinciales/producto-bruto-geografico-pbg"
+        }
+      ],
+      "createdAt": "2022-07-25T20:57:16.408Z",
+      "updatedAt": "2023-02-17T21:37:07.285Z",
+      "contact": {
+        "name": " Instituto provincial de Estadística y Territorial",
+        "email": "estadisticas@chaco.gob.ar"
+      }
+    },
+    {
+      "id": "c3dfa963-41fb-45fd-9081-da09421f9c1a",
+      "name": "solicitud-de-acceso-a-la-informacion-publica",
+      "title": "Solicitud de Acceso a la Información Pública",
+      "keywords": [
+        "solicitud de información",
+        "transparencia"
+      ],
+      "landingPage": "https://datosabiertos.chaco.gob.ar/dataset/solicitud-de-acceso-a-la-informacion-publica",
+      "resources": [
+        {
+          "id": "07dd7c85-bd85-4ed7-9f14-4c1d1f653df1",
+          "downloadUrl": "https://datosabiertos.chaco.gob.ar/dataset/c3dfa963-41fb-45fd-9081-da09421f9c1a/resource/07dd7c85-bd85-4ed7-9f14-4c1d1f653df1/download/acceso-a-la-informacion-gobierno-abierto-dataset-2018-2021.xlsx",
+          "name": "Solicitud de acceso a la información periodo Julio 2018- Diciembre 2021",
+          "format": "XLSX",
+          "updatedAt": "2023-01-17T13:48:36.410Z",
+          "description": "Detalle de las solicitudes de acceso a la información",
+          "landingUrl": ""
+        },
+        {
+          "id": "355d03ac-133b-4837-a0bc-bccc45b08842",
+          "downloadUrl": "https://datosabiertos.chaco.gob.ar/dataset/c3dfa963-41fb-45fd-9081-da09421f9c1a/resource/355d03ac-133b-4837-a0bc-bccc45b08842/download/acceso-a-la-informacion-gobierno-abierto-dataset-2022.xlsx",
+          "name": "Solicitud de acceso a la información periodo 2022",
+          "format": "XLSX",
+          "updatedAt": "2023-01-17T13:54:21.711Z",
+          "description": "Detalle de las solicitudes de acceso a la información ",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-01-16T15:38:08.988Z",
+      "updatedAt": "2023-11-29T16:23:32.248Z",
+      "contact": {
+        "name": "Secretaría General de Gobernación.  Subsecretaría de Modernización. Dirección de Innovación y Modernización Gubernamental.",
+        "email": "modernizacion@chaco.gob.ar"
+      }
+    }
+  ],
+  "organizations": [],
+  "updatedAt": "2023-12-16T12:17:52.283Z"
+}

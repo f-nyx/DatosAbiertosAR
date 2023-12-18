@@ -1,0 +1,1490 @@
+{
+  "id": "iB4w60Kvml",
+  "datasets": [
+    {
+      "id": "01879acd-f735-4f13-a541-ab33fc76d082",
+      "name": "proveedores-del-estado-vigentes",
+      "title": "Proveedores del estado vigentes",
+      "keywords": [
+        "compras y contrataciones",
+        "proveedores del estado",
+        "proveedores vigentes"
+      ],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "51005b8b-ba63-4b50-b5a2-9c478a326028",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-07-26T12%3A48%3A14.497Z/proveedores-vigentes.xls",
+          "name": "Proveedores-vigentes.xls",
+          "format": "XLS",
+          "updatedAt": "2016-07-26T12:48:13.019Z",
+          "description": ""
+        },
+        {
+          "id": "4b3b16f9-4b3d-4a3a-bdc2-4005e9020b8b",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-07-26T12%3A51%3A44.528Z/proveedores-vigentes.csv",
+          "name": "Proveedores-vigentes.csv",
+          "format": "CSV",
+          "updatedAt": "2016-07-26T12:51:28.544Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2014-03-17T20:12:54.696Z",
+      "updatedAt": "2016-07-26T15:51:28.725Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "09a92849-c0c9-4f7a-aa57-f6c3b4a9f311",
+      "name": "elecciones-nqn-2015",
+      "title": "Elecciones 2015",
+      "keywords": [
+        "elecciones",
+        "escrutinio provisorio"
+      ],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "0e6fbff1-7bea-4d4e-b0ac-a70968e6d3af",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2015-04-28T14%3A39%3A04.311Z/cargos.xls",
+          "name": "cargos.xls",
+          "format": "XLS",
+          "updatedAt": "2015-04-28T14:39:48.471Z",
+          "description": "Contiene el nombre de todos los candidatos que se mostraban en los cuadros del Escrutinio (Gobernador y Vice y los 35 Diputados Provinciales Titulares de todos los partidos)\r\n\r\nCANID: Clave Identificación del Candidato/s\r\nCANNOMBRE: Nombre del Candidato/s\r\nCANIMAGEN: Imagen del Candidato/s  (Sin datos)\r\nCANIMAGEN_GXI: Imagen del Candidato/s (Sin datos)\r\n"
+        },
+        {
+          "id": "34035f4b-32b1-48da-b5ad-731756c53a2e",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2015-04-28T14%3A39%3A41.248Z/circuitos.xls",
+          "name": "circuitos.xls",
+          "format": "XLS",
+          "updatedAt": "2015-04-28T14:39:58.719Z",
+          "description": "Contiene todos los Circuitos Electorales de la Provincia de Neuquén.\r\n\r\nCIRID: Clave Identificación del Circuito\r\nCIRNOMBRE: Nombre del Circuito\r\nCIRMUNIHAB: (No usado)\r\nCIRLOCID: Clave Identificación de la  Localidad a que pertenece el Circuito\r\n"
+        },
+        {
+          "id": "7ca14f9c-4df1-4771-989d-38c3fa313530",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2015-04-28T14%3A40%3A37.767Z/distritosescolares.xls",
+          "name": "distritosescolares.xls",
+          "format": "XLS",
+          "updatedAt": "2015-04-28T14:40:48.236Z",
+          "description": "Contiene todos los Distritos Escolares de la Provincia de Neuquén,\r\n\r\nDISTRITOID: Clave Identificación del Distrito Escolar\r\nDISTRITONOMBRE: Nombre completo del Distrito Escolar\r\nDISTRITONOMABRE: Abreviatura de Identificación del Distrito Escolar\r\n"
+        },
+        {
+          "id": "d6fcb010-540a-43b0-ba41-d3aaa71fc880",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2015-04-28T14%3A40%3A47.090Z/distritosescolarescircuitos.xls",
+          "name": "distritosescolarescircuitos.xls",
+          "format": "XLS",
+          "updatedAt": "2015-04-28T14:40:59.327Z",
+          "description": "Contiene la correspondencia entre los Distritos Escolares y los Circuitos Electorales asociados a cada uno de ellos.\r\n\r\nDISTRITOID: Clave Identificación del Distrito Escolar\r\nCIRID: Clave Identificación del Circuito\r\n"
+        },
+        {
+          "id": "e0ac27e9-fcfb-4e95-8046-feef885bde95",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2015-04-28T14%3A41%3A09.168Z/escuela.xls",
+          "name": "escuela.xls",
+          "format": "XLS",
+          "updatedAt": "2015-04-28T14:41:18.798Z",
+          "description": "Contiene información de todas las Escuelas utilizadas para ubicar las Mesas del Escrutinio.\r\n\r\nESCID: Clave de la Escuela\r\nESCNOMBRE: Nombre  de la Escuela\r\nESCDIRECCION: Dirección  de la Escuela\r\nESCCIRAGRUPADO: (No usado)\r\n"
+        },
+        {
+          "id": "1af8176f-aa69-40a6-b4ab-37686be245be",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2015-04-28T14%3A42%3A32.537Z/lista.xls",
+          "name": "lista.xls",
+          "format": "XLS",
+          "updatedAt": "2015-04-28T14:42:46.815Z",
+          "description": "Contiene todas las Listas (Partidos y Alianzas) que intervinieron en los Telegramas del Escrutinio.\r\n\r\nLISID: Clave de la Lista\r\nLISNOMBRE: Nombre de la Lista\r\nLISORDEN: Orden de la Lista en Telegrama\r\nLISIMAGEN: Imagen Logo de la Lista en Boletas (No usada)\r\nLISIMAGEN_GXI: Imagen Logo de la Lista en Boletas (No usada)\r\nLISNROLISTA: Nombre de la Lista \r\nLISSIGLA: Sigla de la Lista\r\nCOLORID: Color de la Lista para los gráficos\r\nLISTIENECOLE: Indicación si la lista tiene colectoras de votos.\r\n"
+        },
+        {
+          "id": "fff77a1a-7834-492b-8fc4-2b20e035455a",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2015-04-28T14%3A42%3A45.208Z/listacargo.xls",
+          "name": "listacargo.xls",
+          "format": "XLS",
+          "updatedAt": "2015-04-28T14:42:56.638Z",
+          "description": "Conserva la información de las Listas – Cargos – Localidades asociadas, y sobre el tratamiento de Votos a Colectoras y Totales de Votos para cuadros resumen.\r\n\r\nLISID: Clave de la Lista\r\nCARID: Clave del Cargo\r\nLOCID: Clave de la  Localidad a que pertenece el Cargo\r\nLISCARSUMA: Clave de la Lista a que suman los votos al Cargo.\r\nLISCARORDEN: Orden del Cargo\r\nLISCARHABILITADO: Código de Cargo Habilitado (0: No – 1: Si) (Todos en 1)\r\nLISCARVOTOSBD: Total de Votos Sumados al Lista – Cargo – Localidad\r\n"
+        },
+        {
+          "id": "59d0db80-356b-412c-9c2c-87c230876b35",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2015-04-28T14%3A42%3A54.842Z/localidad.xls",
+          "name": "localidad.xls",
+          "format": "XLS",
+          "updatedAt": "2015-04-28T14:43:14.506Z",
+          "description": "Conserva todas las Localidades de la Provincia de Neuquén incluidas en el Escrutinio.\r\n\r\nLOCID: Clave de la  Localidad \r\nLOCNOMBRE: Nombre de la  Localidad\r\nLOCCANTAFILIADOS: (No usado)\r\nLOCTIPOMUNICIPIO: Tipo de Municipio de la  Localidad\r\nDPTOID: Clave del Departamento a que pertenece la Localidad\r\nEJIDOID: Código del Ejido a que pertenece la Localidad (No usado)\r\nLOCNOMBREABRE: Nombre abreviado de la Localidad\r\nLOCORDEN: Nro. de Orden de la Localidad para informes.\r\n"
+        },
+        {
+          "id": "92c9745a-92dd-4b32-b60b-86db1ada6449",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2015-04-28T14%3A43%3A09.798Z/localidadcargos.xls",
+          "name": "localidadcargos.xls",
+          "format": "XLS",
+          "updatedAt": "2015-04-28T14:43:21.819Z",
+          "description": "Conserva información de que Cargos se eligen en cada Localidad.\r\n\r\nLOCID: Clave de la  Localidad\r\nCARID: Clave del Cargo asociado a la Localidad\r\nLOCCARCANTIDADBANCAS (No usado)\r\n"
+        },
+        {
+          "id": "7c565a05-c30d-4310-8efb-9ae47d34a58a",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2015-04-28T14%3A43%3A21.116Z/mesas.xls",
+          "name": "mesas.xls",
+          "format": "XLS",
+          "updatedAt": "2015-04-28T14:43:30.932Z",
+          "description": "Contiene todas las Mesas que se incluyeron en el Escrutinio. (Total: 1479) (1421 de Nacionales/  58 de Extranjeras y 9 de Jóvenes–sin cargos Municipales-) \r\n\r\nMESAID: Clave de la Mesa (Nro. de Mesa) \r\nMESASEXO: Sexo de la Mesa (Todas X= Mixtas)\r\nLOCID: Clave de la  Localidad de la Mesa\r\nMESAESTADO: Estado de la Mesa (A=Activa)\r\nESCID: Clave de la Escuela de la Mesa \r\nMESAEMPADRONADOS: Total de Empadronados para la Mesa\r\nMESASOBRES: Total de Sobres Escrutados en la Mesa\r\nMESANUM: (No usado)\r\nMESACIRAGRUPADO: (No usado) \r\nCIRID: Código de Circuito Electoral de la Mesa\r\nMESAACTIVA: Código de Mesa Activa (1=Si / 0=No)\r\nMESAOBSERVACION: Observación de la Mesa\r\nMESAEXTRANJERO: Código de Mesa de Extranjeros (1=Si / 0=No) \r\nMESACANTVOTARON: Cantidad de Ciudadanos que Votaron. \r\nMESATELNUMERO: Nro. de Telegrama asociado a la Mesa.\r\nSOBRES: Cantidad de Sobres en la Urna para la Mesa \r\nMESAASOCIADA: Clave de la Mesa Asociada (Nro. de Mesa)\r\nMESAJOVENES: Código de Mesa de Jóvenes solamente (1=Si / 0=No)\r\n"
+        },
+        {
+          "id": "fb5f2a71-6cee-49c0-850d-37c08b87d466",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2015-04-28T14%3A43%3A31.290Z/telegramas.xls",
+          "name": "telegramas.xls",
+          "format": "XLS",
+          "updatedAt": "2015-04-28T14:43:43.051Z",
+          "description": "Contiene los Nros. de Telegramas que se asociaron a las Mesas al momento de recibirlos.\r\n\r\nTELNRO: Nro. de Telegrama\r\nTELNROMESA: Nro. de Mesa asociado al Telegrama\r\nTELFECHAHORARECEP: Fecha y hora de recepción del Telegrama\r\n"
+        },
+        {
+          "id": "92083124-9b90-4eef-861f-be2e2dd58ed9",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2015-04-28T15%3A31%3A35.023Z/escrutiniofinal-total-mesas-desdobladas.xls",
+          "name": "escrutiniofinal_TOTAL MESAS_DESDOBLADAS.xls",
+          "format": "XLS",
+          "updatedAt": "2015-04-28T15:31:53.011Z",
+          "description": "Contiene la información de TODAS LOS VOTOS cargados en todos los Telegramas del Escrutinio. (Desdobladas en DOS HOJAS en una única planilla en formato EXCEL 2003 –Hojas: 1-50500 y 50501-94665)\r\n\r\nMESAID: Clave de la Mesa (Nro. de Mesa)\r\nLISID: Clave del Partido Político (Nro. de Partido)\r\nCARID: Clave del Cargo Electivo\r\nESCCANTIDAD: Cantidad de Votos escrutados\r\nESCFECHAHORA: Fecha y Hora de cuando fue escrutada la Mesa\r\nESCUSUARIO: Usuario del Sistema que grabó la Mesa como escrutada,\r\nESCEXPORTADO: (No se usa)\r\n"
+        },
+        {
+          "id": "ab3ccb30-c723-4760-ac5e-c4f39e7044ff",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2015-04-28T16%3A39%3A20.937Z/departamento.xls",
+          "name": "Departamento.xls",
+          "format": "XLS",
+          "updatedAt": "2015-04-28T16:40:13.919Z",
+          "description": "Contiene todos los Departamentos de la Provincia del Neuquén\r\n\r\nDPTOID: Clave del Departamento\r\nDPTONOMBRE: Nombre del Departamento\r\nDPTOORDEN: Nro. de orden del Departamento para informes\r\n"
+        },
+        {
+          "id": "7cbaef16-62d3-4e75-bd15-6af66276a79b",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2015-04-29T13%3A00%3A58.965Z/datos-de-tablas-de-escrutinio.doc",
+          "name": "Datos de Tablas de Escrutinio.doc",
+          "format": "doc",
+          "updatedAt": "2015-04-29T13:02:32.236Z",
+          "description": "Descripción de la Información contenida en los archivos Excel"
+        },
+        {
+          "id": "82d7fe2f-df89-4298-87f7-29d6fe40fbbe",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2015-04-30T11%3A30%3A34.441Z/resultados-mesas.xls",
+          "name": "Resultados-Mesas.xls",
+          "format": "XLS",
+          "updatedAt": "2015-04-30T11:31:21.767Z",
+          "description": "Mesas escrutadas"
+        },
+        {
+          "id": "98d8ad8e-8f24-499d-8d9c-e168da7d0a0f",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2015-04-30T11%3A47%3A09.325Z/def-cargo.xls",
+          "name": "Def-Cargo.xls",
+          "format": "XLS",
+          "updatedAt": "2015-04-30T11:47:31.500Z",
+          "description": "Contiene los cargos que se eligen en el escrutinio\r\nCampos CarId: identificacion del cargo\r\n                CarNombre..........: Nombre del Cargo\r\n                CarNombreCorto: Primera abreviación del Nombre\r\n                CarOrden.............: Orden Interno del cargo\r\n                CarNombreCorto: Segunda abreviación del Nombre\r\n                CarProvincial.......: Identificador para saber si el \r\ncargo se aplica a toda la Provincia\r\n"
+        }
+      ],
+      "createdAt": "2015-04-28T17:38:24.033Z",
+      "updatedAt": "2015-04-30T14:47:36.374Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "0b3da518-75c9-4d6c-ae65-609161e6e018",
+      "name": "plan-de-seguridad",
+      "title": "Plan de Seguridad",
+      "keywords": [],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "b7527a4e-7b90-4cad-bd20-317e28b3fac0",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-20T17%3A48%3A54.203Z/cuadriculas-celulares-y-moviles.xls",
+          "name": "Cuadriculas Celulares y Moviles.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Planilla de la organizacion de las comisarias, cuadrantes, cuadriculas, jurisdicciones policiales y la asignacion de los moviles con sus respectivos telefonos celulares."
+        },
+        {
+          "id": "77030e27-0659-4057-8985-32b96d19f509",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T11%3A53%3A46.123Z/cuadrantes-o-barrios.pdf",
+          "name": "Cuadrantes o Barrios.pdf",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Descripcion de los cuadrantes o barrios(Division mayor que comprende uno o mas cuadriculas)"
+        },
+        {
+          "id": "b4a46348-1cac-48c2-9048-7097534d199d",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T11%3A55%3A04.098Z/jurisdicciones-de-comisarias.pdf",
+          "name": "Jurisdicciones de Comisarias.pdf",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Descripcion del alcance de cada Jurisdiccion Policial."
+        },
+        {
+          "id": "24e8a719-c58f-4967-a5d6-00e633f115eb",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T12%3A26%3A03.804Z/cuadriculas-celulares-y-moviles.csv",
+          "name": "cuadriculas-celulares-y-moviles.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "ef3ae653-d218-43b3-a2b3-b81928956ac7",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-26T15%3A31%3A28.718Z/policia.json",
+          "name": "POLICIA.json",
+          "format": "JSON",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Ubicacion de las comisarias y jurisdicciones policiales."
+        },
+        {
+          "id": "1a69e0a6-a6ba-4cac-95ce-651a3e517c03",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-26T15%3A32%3A39.279Z/barrio.json",
+          "name": "BARRIO.json",
+          "format": "JSON",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Ubicacion de los barrios de la ciudad de Neuquen."
+        },
+        {
+          "id": "1cb13786-746b-4ca3-ab7c-e4795b8dff62",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-26T19%3A46%3A02.891Z/distribucion-de-cuadriculas-de-la-policia.ppt",
+          "name": "Distribución de Cuadrículas de la policia.ppt",
+          "format": "ppt",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Este dato explicaría graficamente las superficies abarcadas por cada cuadricula."
+        },
+        {
+          "id": "eb8da925-c4b6-4130-a4d8-0931202d9ffe",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-07-29T16%3A38%3A02.708Z/barrio.xls",
+          "name": "barrio.xls",
+          "format": "XLS",
+          "updatedAt": "2014-07-29T16:29:34.415Z",
+          "description": "Tabla de los barrios con los formatos para la aplicacion boton de panico."
+        },
+        {
+          "id": "f47dfa10-06c5-4111-89bf-59e23647ceca",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2015-02-20T13%3A47%3A33.579Z/localidad.xls",
+          "name": "localidad.xls",
+          "format": "XLS",
+          "updatedAt": "2015-02-20T13:53:48.154Z",
+          "description": "Tabla de las localidades con los formatos para la aplicacion boton de panico."
+        },
+        {
+          "id": "d44414ee-7670-442b-864f-5d164e41ef45",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2015-03-03T15%3A46%3A02.596Z/patrullero.xls",
+          "name": "patrullero.xls",
+          "format": "XLS",
+          "updatedAt": "2015-03-03T15:51:54.017Z",
+          "description": "Tabla de los patrulleros con los formatos para la aplicacion boton de panico."
+        },
+        {
+          "id": "f0b85066-70c4-488f-8e51-ca859cc488d7",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2015-02-20T13%3A53%3A33.385Z/comisaria.xls",
+          "name": "comisaria.xls",
+          "format": "XLS",
+          "updatedAt": "2015-02-20T13:59:45.806Z",
+          "description": "Tabla de las comisarias con los formatos para la aplicacion boton de panico."
+        }
+      ],
+      "createdAt": "2014-03-20T20:53:15.802Z",
+      "updatedAt": "2015-03-03T18:51:56.612Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "0dc7eff9-2f1a-4460-aecf-aab919ab35a0",
+      "name": "programa-provincial-de-promocion-del-microcredito",
+      "title": "Programa Provincial de Promoción del Microcrédito ",
+      "keywords": [
+        "microcredito",
+        "microemprendimiento",
+        "prestamos",
+        "producción"
+      ],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "fabd3eab-3e8a-4604-ba13-5da5bd2a31f6",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-20T15%3A42%3A11.713Z/programa-prov-microcreditos-2009-2010.csv",
+          "name": "Programa Prov Microcréditos 2009-2010.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "1d19c031-5fda-472b-83b1-ea3c50cd5f3f",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-20T15%3A34%3A18.413Z/programa-prov-microcreditos-2011.csv",
+          "name": "Programa Prov Microcréditos 2011.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "c2ed8396-35df-4f1a-85c1-4b4003cf0241",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-20T15%3A34%3A31.381Z/programa-prov-microcreditos-2011.xls",
+          "name": "Programa Prov Microcréditos 2011.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "c952b468-54f0-4d13-8127-419348efe12a",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-20T16%3A26%3A27.870Z/programa-prov-microcreditos-2009-2010.xls",
+          "name": "Programa Prov Microcréditos 2009-2010.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "b28de250-d39e-4ba7-a002-d13f7bfba442",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-20T16%3A27%3A27.488Z/programa-prov-microcreditos-2012.csv",
+          "name": "Programa Prov Microcréditos 2012.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "5dc41534-bb6f-4302-b4f9-e27cc0f4d38a",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-20T16%3A27%3A42.763Z/programa-prov-microcreditos-2013.csv",
+          "name": "Programa Prov Microcréditos 2013.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "354222ea-1893-454f-887d-6def30323cdc",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-20T16%3A29%3A11.666Z/programa-prov-microcreditos-2012.xls",
+          "name": "Programa Prov Microcréditos 2012.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "5f489f51-1deb-44be-97ff-43d4bc00294e",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-20T16%3A29%3A27.599Z/programa-prov-microcreditos-2013.xls",
+          "name": "Programa Prov Microcréditos 2013.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2014-03-14T14:57:44.043Z",
+      "updatedAt": "2014-07-04T20:08:54.546Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "16bbd4b6-1dc5-414b-9593-e3047bc14eee",
+      "name": "habilitaciones-comerciales-de-villa-la-angostura",
+      "title": "Habilitaciones Comerciales de Villa la Angostura",
+      "keywords": [
+        "licencia",
+        "licencias comerciales",
+        "servicios"
+      ],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "09193686-c437-4412-9009-00eccfaefd19",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-19T16%3A20%3A50.935Z/habilitaciones-comerciales-copade-vla-2.csv",
+          "name": "HABILITACIONES COMERCIALES COPADE VLA 2.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado de Habilitaciones Comerciales del Municipio de Villa la Angostura ( Actualizadas a Nov de 2013) "
+        },
+        {
+          "id": "6bb9782f-553c-4da4-900e-f3f677c1d834",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-20T11%3A44%3A55.061Z/licencias-comerciales.pdf",
+          "name": "LICENCIAS COMERCIALES.pdf",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Explicación de los distintos tipos de habilitaciones comerciales."
+        },
+        {
+          "id": "ebc42ba3-61a1-467e-bafd-d194621db349",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-25T12%3A24%3A01.475Z/habilitaciones-comerciales-copade-vla-2.xls",
+          "name": "habilitaciones-comerciales-copade-vla-2.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado de Habilitaciones Comerciales del Municipio de Villa la Angostura ( Actualizadas a Nov de 2013) "
+        }
+      ],
+      "createdAt": "2014-03-18T16:24:10.502Z",
+      "updatedAt": "2014-07-04T19:18:24.257Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "16db4d67-8764-4ebf-adaa-f5a22101bc65",
+      "name": "estados-de-transitabilidad-de-rutas",
+      "title": "Estados de transitabilidad de Rutas",
+      "keywords": [
+        "estados de rutas",
+        "rutas",
+        "transitabilidad"
+      ],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "962d9ceb-b6e9-4be9-9bc8-d00a52f070bd",
+          "downloadUrl": "http://www.dpvneuquen.gov.ar/ParteDiario.csv",
+          "name": "ParteDiario.csv",
+          "format": "CSV",
+          "updatedAt": "2016-03-17T12:03:40.987Z",
+          "description": "Se obtiene on-line el último estado de transitabilidad de rutas en la provincia del Neuquén"
+        },
+        {
+          "id": "f3210b8d-3d4c-46bd-b295-bf25a76d914e",
+          "downloadUrl": "http://www.dpvneuquen.gov.ar/ParteDiario.xml",
+          "name": "ParteDiario.xml",
+          "format": "XML",
+          "updatedAt": "2016-03-17T12:04:53.714Z",
+          "description": ""
+        },
+        {
+          "id": "23b2e348-a5d5-4c09-b4ca-b3118ffb41f7",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-07-19T17%3A30%3A54.234Z/partediario.xls",
+          "name": "ParteDiario.xls",
+          "format": "XLS",
+          "updatedAt": "2016-07-19T17:31:22.247Z",
+          "description": "Parte diario de estado de transitabilidad de rutas, fecha 19/7/16, estático, no se actualiza del sitio de DPV"
+        }
+      ],
+      "createdAt": "2014-03-18T15:36:15.823Z",
+      "updatedAt": "2016-07-19T20:41:03.162Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "26c16e32-f922-4ff9-a53b-eac3a8902374",
+      "name": "datos-ficticios-extraidos-del-sistema-siuned",
+      "title": "Datos ficticios extraídos del Sistema SIUNED",
+      "keywords": [
+        "alumnos",
+        "colegios",
+        "escuelas",
+        "establecimiento"
+      ],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "83643016-2007-4e7e-9524-755772603bf0",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-17T14%3A29%3A12.943Z/cursado.csv",
+          "name": "Cursado.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "esta tabla se relaciona con la tabla persona mediante mediante el campo aluid que en la tabla persona se llama perid. y contiene el turno, curso y sección de cada alumno, como así también el ciclo lectivo que está cursando.\r\n"
+        },
+        {
+          "id": "9ef56d94-0292-456c-aa0c-c8e29fc45f21",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-20T11%3A19%3A12.015Z/departamento.csv",
+          "name": "departamento.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "a6e7e7be-847d-4336-a7b4-9a22fa4f7aeb",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-20T10%3A49%3A00.868Z/estadocivil.csv",
+          "name": "EstadoCivil.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "17f23e6a-0cf8-42c1-8e3e-e841b4331e0a",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-17T14%3A30%3A52.474Z/explicacion-de-las-tablas.xls",
+          "name": "Explicacion de las tablas.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "5c7ef727-ebca-4975-937b-9f51a1a040df",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-17T14%3A31%3A06.419Z/localidad.csv",
+          "name": "Localidad.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "0010dfc8-6ff0-4424-8d30-267f31281202",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-17T14%3A31%3A19.292Z/pais.csv",
+          "name": "Pais.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "d2565c27-159e-42d6-b3a7-aa952a258c1a",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-17T14%3A31%3A51.628Z/persona.csv",
+          "name": "Persona.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "daa03faf-12f8-4360-8d66-1d7263333460",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-17T14%3A32%3A07.618Z/tipodocumento.csv",
+          "name": "TipoDocumento.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "7888ef41-2e09-4835-a3e6-1364d3ec9b5f",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-17T14%3A32%3A21.610Z/turno.csv",
+          "name": "Turno.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "867ba0d6-ca19-49ac-a0cb-950128ff8ef8",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T15%3A15%3A40.594Z/escuelasgeo.xls",
+          "name": "EscuelasGEO.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "96752dbb-1bd2-48f8-9dc2-daebe6032e59",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T15%3A32%3A38.264Z/escuelasgeo.csv",
+          "name": "escuelasgeo.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Datos completos de las distintos establecimientos educativos de la Provincia del Neuquén, anexando longitud y latitud para poder ser georeferenciados."
+        }
+      ],
+      "createdAt": "2014-03-12T18:49:41.155Z",
+      "updatedAt": "2014-03-21T18:35:31.090Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "4ce3a350-700b-4948-a829-3b2729e2288e",
+      "name": "cci",
+      "title": "CCI",
+      "keywords": [
+        "capacitacion",
+        "centro comunitario",
+        "tecnologia"
+      ],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "77fa1705-be0f-404b-9fd0-eb47272120ec",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T17%3A31%3A17.743Z/localidades-con-ccil.xls",
+          "name": "Localidades con CCIl.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Ubicacion de los diferentes Centros Comunitarios Infotecnologicos."
+        },
+        {
+          "id": "6dd29340-05ed-4ecf-92c3-537141450350",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T17%3A40%3A03.754Z/localidades-con-ccil.csv",
+          "name": "localidades-con-ccil.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "644e7a96-7fe3-4275-bd91-fd3c2dd13479",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-07-21T15%3A40%3A37.908Z/listado-de-cci-instalados-2016.xls",
+          "name": "Listado de CCI instalados 2016.xls",
+          "format": "XLS",
+          "updatedAt": "2016-07-21T15:41:26.445Z",
+          "description": "Localidades con Centro Comunitario Infotecnológico instalado, y cantidad de PC's"
+        }
+      ],
+      "createdAt": "2014-03-21T20:36:00.839Z",
+      "updatedAt": "2016-07-21T18:41:26.536Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "548634a7-fe2b-44bc-8438-0a1c9aafdd82",
+      "name": "salud",
+      "title": "Salud",
+      "keywords": [
+        "centros de salud",
+        "hospitales",
+        "medico",
+        "salud"
+      ],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "fec980b7-293c-4108-b46b-01964066058a",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T17%3A03%3A53.927Z/diagramarel.jpg",
+          "name": "diagramarel.jpg",
+          "format": "jpg",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Diagrama de relacion entre las tablas profesionales, matriculas_de_especialidades, profesiones, especialidades."
+        },
+        {
+          "id": "a6355f5c-4b02-47d3-8b72-3fa1c5e7945c",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T17%3A06%3A08.241Z/ds-efector.csv",
+          "name": "DS_Efector.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Datos de Hospitales, Centros de Dalud, Salitas etc. Establecimiento de Salud en Neuquén."
+        },
+        {
+          "id": "a0e78c73-f59c-4753-a261-d9da9dba7334",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T17%3A06%3A50.301Z/ds-efector.xls",
+          "name": "DS_Efector.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Datos de Hospitales, Centros de Dalud, Salitas etc. Establecimiento de Salud en Neuquén."
+        },
+        {
+          "id": "348847e3-4f4c-4369-ac0c-d08cbfeda60f",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T17%3A08%3A07.336Z/ds-profesionales.csv",
+          "name": "ds-profesionales.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Datos personales de los Profesionales de la provincia"
+        },
+        {
+          "id": "5a69897e-9fca-4295-9a35-bc72fce576ac",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T17%3A09%3A05.650Z/ds-profesionales.xls",
+          "name": "ds-profesionales.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Datos personales de los Profesionales de la provincia"
+        },
+        {
+          "id": "aeb9c73f-c116-4617-adb1-243bb3cd050f",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T17%3A14%3A19.035Z/ds-profesiones.csv",
+          "name": "ds-profesiones.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Tabla de profesiones médicas del sistema de Salud"
+        },
+        {
+          "id": "59c5b30a-99bb-4030-839b-59c8d019af59",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T17%3A15%3A46.425Z/ds-profesiones.xls",
+          "name": "ds-profesiones.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Tabla de profesiones médicas del sistema de Salud"
+        },
+        {
+          "id": "f1af230a-d34a-473b-ac33-1160f92b5982",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T17%3A16%3A56.494Z/ds-matriculas-de-especialidades.csv",
+          "name": "ds-matriculas-de-especialidades.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Tabla Profesionales,título y matrícula"
+        },
+        {
+          "id": "52a33575-eab8-46c2-907a-e0dc2541adf1",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T17%3A19%3A06.337Z/ds-matriculas-de-especialidades.xls",
+          "name": "ds-matriculas-de-especialidades.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Tabla Profesionales,título y matrícula"
+        },
+        {
+          "id": "dd605a39-445a-47c7-8f82-bd45f00d536b",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T17%3A22%3A04.116Z/ds-especialidades.csv",
+          "name": "ds-especialidades.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Tabla con las especialidades médicas"
+        },
+        {
+          "id": "31ba46c3-5f35-4159-8ec1-a1328180f361",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T17%3A22%3A45.185Z/ds-especialidades.xls",
+          "name": "ds-especialidades.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Tabla con las especialidades medicas"
+        },
+        {
+          "id": "baf08d89-aa4f-4cd2-8d43-8c23279c197e",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T17%3A25%3A17.821Z/cie10.csv",
+          "name": "CIE10.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Código Internacional de Enfermedades."
+        },
+        {
+          "id": "b47c00e2-f59f-45cc-b5d8-943dbb768307",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T17%3A26%3A01.820Z/hospitales-centros-de-salud-geo.xls",
+          "name": "Hospitales, Centros de Salud, GEO.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Georeferenciación de los Hospitales y Centros de Salud."
+        },
+        {
+          "id": "d9d9bf1b-000e-4a8f-b3b3-43ffb1b4d211",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-25T12%3A50%3A13.511Z/hospitales-centros-de-salud-geo.csv",
+          "name": "hospitales-centros-de-salud-geo.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Georeferenciacion de los Hospitales y Centros de Salud"
+        },
+        {
+          "id": "fa93aa20-67ba-445e-ac22-30a721b2f398",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-27T13%3A35%3A17.017Z/departamento.csv",
+          "name": "departamento.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "a9816eb4-aaa9-4980-9dd3-3ce18bccd9b8",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-27T13%3A35%3A49.326Z/zonasanitaria.csv",
+          "name": "zonasanitaria.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "7bb1a70a-c633-473f-a2ba-39b7df75a9c8",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-27T13%3A36%3A12.544Z/localidades.csv",
+          "name": "localidades.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "39eba5ab-2647-4b68-bf66-0d02da21b67c",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-27T15%3A30%3A55.852Z/localidades-y-efectores-salud.csv",
+          "name": "localidades y efectores Salud.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2014-03-21T20:02:50.377Z",
+      "updatedAt": "2016-03-17T20:08:24.065Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "6dd962b8-ead4-4d93-aecc-eaca501d46d2",
+      "name": "socialthon-2016",
+      "title": "Socialthon 2016",
+      "keywords": [
+        "equipos de trabajo",
+        "hackathon",
+        "neuquén",
+        "proyectos",
+        "socialthon"
+      ],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "5118f97c-0070-4b75-b335-4b5afcd131e6",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-08-19T12%3A29%3A42.987Z/biblioteca-popular-15-de-junio.pdf",
+          "name": "BIBLIOTECA_POPULAR_15_DE_JUNIO.pdf",
+          "format": "PDF",
+          "updatedAt": "2016-08-19T12:28:57.742Z",
+          "description": "Proyecto para Mejorar la gestión interna de la Biblioteca y su relación con pares.\r\nGenerando modificación o cambios de conductas en la comunidad"
+        },
+        {
+          "id": "f358335e-60c4-4ad6-8571-8df72d712cbc",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-08-19T12%3A31%3A35.390Z/inquilinos-neuquen.pdf",
+          "name": "Inquilinos_Neuquén.pdf",
+          "format": "PDF",
+          "updatedAt": "2016-08-19T12:29:33.068Z",
+          "description": "Contar con un asesoramiento integral, que pretenda acceder a un alquiler que se adapte a las preferencias y posibilidades reales de los inquilinos"
+        },
+        {
+          "id": "e0933df9-0ac5-410c-93dc-b5f76e3902fa",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-08-19T12%3A32%3A10.977Z/navegar-seguro.pdf",
+          "name": "Navegar_seguro.pdf",
+          "format": "PDF",
+          "updatedAt": "2016-08-19T12:31:30.365Z",
+          "description": "Proyecto sobre protección en la navegación infantil en internet"
+        },
+        {
+          "id": "414c48f9-a330-4c22-bd1a-242ce0e7dbb9",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-08-19T12%3A34%3A09.182Z/navegar-seguro-informacion-complementaria.pdf",
+          "name": "Navegar_seguro_información_complementaria.pdf",
+          "format": "PDF",
+          "updatedAt": "2016-08-19T12:31:54.493Z",
+          "description": "información complementaria proyecto Navegar Seguro"
+        },
+        {
+          "id": "f4eca5ef-7438-4a72-bc50-cadab5f5cf02",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-08-19T12%3A34%3A31.734Z/nutricion-infantil-fundacion-conin.pdf",
+          "name": "Nutrición_infantil_FUNDACIÓN_CONIN.pdf",
+          "format": "PDF",
+          "updatedAt": "2016-08-19T12:32:58.141Z",
+          "description": "Proyecto para Lograr sostener la estructura de profesionales en atención al desarrollo integral de niñas y niños en situación de riesgo nutricional y social,"
+        },
+        {
+          "id": "14fb5646-ee3c-4e4d-9ee2-4dcd0ae7b8bb",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-08-19T12%3A35%3A35.594Z/otras-voces.pdf",
+          "name": "Otras_voces.pdf",
+          "format": "PDF",
+          "updatedAt": "2016-08-19T12:38:37.604Z",
+          "description": "Proyecto para brindar conocimiento y acceso para trabajadores y emprendedores, a información que mejore ingresos y economía familiar"
+        },
+        {
+          "id": "db04d0b7-b598-450b-b54a-0b75b07a193c",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-08-22T13%3A24%3A17.561Z/jucaid.pdf",
+          "name": "JUCAID.pdf",
+          "format": "PDF",
+          "updatedAt": "2016-08-22T13:22:40.437Z",
+          "description": "Proyecto que ayuda a concientizar sobre temas relativos a personas con discapacidad. "
+        },
+        {
+          "id": "fbfadb90-bae2-4364-9825-33309ac56a04",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-08-22T13%3A28%3A58.179Z/dislexia.pdf",
+          "name": "Dislexia.pdf",
+          "format": "PDF",
+          "updatedAt": "2016-08-22T13:28:08.343Z",
+          "description": "Asociación Civil Dislexia Neuquén presenta su proyecto para la difusión, conocimiento y capacitación de la Dislexia. "
+        },
+        {
+          "id": "75827424-8689-48c2-a34e-a3ef2d0c954e",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-08-22T22%3A45%3A17.208Z/fichas-1.jpg",
+          "name": "fichas 1.jpg",
+          "format": "jpg",
+          "updatedAt": "2016-08-22T23:16:01.416Z",
+          "description": "Fichas de organizaciones participantes"
+        },
+        {
+          "id": "59bf8e20-986c-4253-9e18-7275ee223bfe",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-08-23T11%3A10%3A22.708Z/fichas2.jpg",
+          "name": "fichas2.jpg",
+          "format": "jpg",
+          "updatedAt": "2016-08-23T11:08:09.041Z",
+          "description": "Fichas de organizaciones participantes"
+        },
+        {
+          "id": "700ce873-5e28-4e75-b74a-f4754feca146",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-08-23T11%3A11%3A22.843Z/fichas3.jpg",
+          "name": "fichas3.jpg",
+          "format": "jpg",
+          "updatedAt": "2016-08-23T11:08:38.632Z",
+          "description": "Fichas de organizaciones participantes"
+        },
+        {
+          "id": "56bba84b-2423-4806-beec-7ddfce8ab20d",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-08-23T11%3A12%3A39.772Z/fichas4-repetidas.jpg",
+          "name": "fichas4-repetidas.jpg",
+          "format": "jpg",
+          "updatedAt": "2016-08-23T11:09:55.592Z",
+          "description": "Fichas de organizaciones participantes"
+        }
+      ],
+      "createdAt": "2016-08-19T14:56:07.221Z",
+      "updatedAt": "2016-08-23T14:09:55.640Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "7cd514b1-577f-45a9-ab3a-1e4f75ec5438",
+      "name": "proveedores-del-estado-vigentes-2016",
+      "title": "Proveedores del Estado Vigentes 2016",
+      "keywords": [],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "c2204187-9641-439d-9611-efbe7b03ff07",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-08-19T11%3A50%3A49.564Z/proveedores-vigentes-hackathon-2016.xls",
+          "name": "Proveedores_Vigentes HACKATHON 2016.xls",
+          "format": "XLS",
+          "updatedAt": "2016-08-19T11:48:39.097Z",
+          "description": "Personas físicas y jurídicas que voluntariamente ofrecen bienes y servicios a la Estado Provincial Neuquino - 2016 - "
+        }
+      ],
+      "createdAt": "2016-08-19T14:47:54.582Z",
+      "updatedAt": "2016-08-19T14:51:17.209Z",
+      "contact": {
+        "name": "Sebastian Pistagnesi",
+        "email": "spistagnesi@haciendanqn.gob.ar"
+      }
+    },
+    {
+      "id": "8c9ac1f1-f633-4c78-ab4d-b572d9d9663d",
+      "name": "hacienda",
+      "title": "Organismos y Organizaciones que realizan  compras y contrataciones",
+      "keywords": [
+        "organismos",
+        "organizaciones",
+        "compras",
+        "contrataciones"
+      ],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "9f1da6d7-2d3d-49c5-863f-74851a38bf0a",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-19T14%3A44%3A13.785Z/organismos-y-organizaciones-que-compran.xls",
+          "name": "Organismos y organizaciones que compran.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Organismos y organizaciones que conforman el Estado \r\nProvincial Neuquino, clasificados por dependencia, a los cuales los \r\nproveedores del estado pueden ofrecer sus bienes o servicios"
+        },
+        {
+          "id": "7ddb66b2-dae7-4351-9be7-a601610e4f1a",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-20T12%3A53%3A20.060Z/organismos-y-organizaciones-que-compran.csv",
+          "name": "Organismos y organizaciones que compran.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Organismos y organizaciones que conforman el Estado \r\nProvincial Neuquino, clasificados por dependencia, a los cuales los \r\nproveedores del estado pueden ofrecer sus bienes o servicios"
+        },
+        {
+          "id": "2c23e449-8899-43e6-a573-d7d207f6868e",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-20T13%3A24%3A50.004Z/organismos-y-organizaciones-que-compran.xml",
+          "name": "Organismos y organizaciones que compran.xml",
+          "format": "XML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Organismos y organizaciones que conforman el Estado \r\nProvincial Neuquino, clasificados por dependencia, a los cuales los \r\nproveedores del estado pueden ofrecer sus bienes o servicios.\r\n"
+        }
+      ],
+      "createdAt": "2014-03-19T17:43:04.975Z",
+      "updatedAt": "2014-07-04T19:39:38.872Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "8f766297-deb5-4000-8377-eba3195b1ad0",
+      "name": "transporte-publico-de-la-provincia-del-neuquen",
+      "title": "Transporte público de la provincia del Neuquén",
+      "keywords": [
+        "colectivo",
+        "frecuencias",
+        "tarifas",
+        "transporte",
+        "viajar"
+      ],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "b65158b9-86af-4528-b6d5-2dc8f3cf6911",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-03-17T14%3A42%3A53.797Z/empresas-y-servicios.csv",
+          "name": "Empresas y Servicios.csv",
+          "format": "CSV",
+          "updatedAt": "2016-03-17T14:29:38.857Z",
+          "description": "Servicios por Empresa de Omnibus"
+        },
+        {
+          "id": "2997aedc-3393-4848-81ac-6ae09b7284dd",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-03-17T14%3A46%3A03.145Z/empresas-y-servicios.xls",
+          "name": "Empresas y Servicios.xls",
+          "format": "XLS",
+          "updatedAt": "2016-03-17T14:32:45.366Z",
+          "description": "Servicios por Empresa de Omnibus"
+        },
+        {
+          "id": "ed54f43e-d0f9-4385-adf3-480ebef495ee",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-03-17T14%3A46%3A51.070Z/listado-de-empresas.csv",
+          "name": "listado de empresas.csv",
+          "format": "CSV",
+          "updatedAt": "2016-03-17T14:33:29.834Z",
+          "description": "Empresas, códigos y sus datos - transporte de Omnibus"
+        },
+        {
+          "id": "30ac40b8-6d93-4e17-9f7a-e4b4e63379a6",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-03-17T14%3A47%3A16.573Z/listado-de-empresas.xls",
+          "name": "listado de empresas.xls",
+          "format": "XLS",
+          "updatedAt": "2016-03-17T14:33:55.038Z",
+          "description": "Empresas, códigos y sus datos - transporte de Omnibus"
+        },
+        {
+          "id": "a56ec54e-780d-47a1-b7af-4138a2b13df1",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-03-17T14%3A48%3A08.044Z/listado-de-corredores.xls",
+          "name": "Listado de corredores.xls",
+          "format": "XLS",
+          "updatedAt": "2016-03-17T14:34:46.906Z",
+          "description": "Transporte de ómnibus interurbano, corredores. código y datos."
+        },
+        {
+          "id": "6df2ea2f-dae1-4748-ba6f-18e31fe7e844",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-03-17T14%3A48%3A30.191Z/listado-de-corredores.csv",
+          "name": "Listado de corredores.csv",
+          "format": "CSV",
+          "updatedAt": "2016-03-17T14:35:08.888Z",
+          "description": "Transporte de ómnibus interurbano, corredores. código y datos."
+        }
+      ],
+      "createdAt": "2014-03-18T15:55:57.230Z",
+      "updatedAt": "2016-03-17T17:35:10.241Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "95c2ed78-46ac-40f4-8307-66cbc8a5e3d2",
+      "name": "actividad-petrolifera-y-gasifera",
+      "title": "Actividad Petrolifera y Gasifera ",
+      "keywords": [
+        "gas",
+        "mineria",
+        "petroleo"
+      ],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "542082a6-7eb4-4100-8612-c87b9d92c1d8",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-26T23%3A53%3A00.037Z/prodpetro.xls",
+          "name": "prodpetro.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Ubicacion de los pozos petroliferos en la provincia."
+        },
+        {
+          "id": "32f19872-9630-47fa-b9be-07df2cefb3c6",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T18%3A20%3A47.620Z/pozos-petroleros.csv",
+          "name": "Pozos Petroleros.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Ubicación de los pozos petrolíferos en la provincia."
+        }
+      ],
+      "createdAt": "2014-03-21T20:19:53.610Z",
+      "updatedAt": "2014-03-27T02:52:00.169Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "a31e13a0-02d5-4e68-9061-2d0d8133d80a",
+      "name": "padron-empleados-administracion-publica",
+      "title": "Padrón de empleados de la administración Pública",
+      "keywords": [
+        "adminsitración rrhh",
+        "padron"
+      ],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "09e4dff0-6c6b-4786-9401-6bbad7fbd9fa",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-07-20T17%3A35%3A25.030Z/padronpuestos.csv",
+          "name": "padronPuestos.csv",
+          "format": "CSV",
+          "updatedAt": "2016-07-20T17:35:54.766Z",
+          "description": "Listado de puestos de agentes públicos de la provincia del Neuquén, y sus lugares de trabajo."
+        }
+      ],
+      "createdAt": "2016-03-16T20:47:33.646Z",
+      "updatedAt": "2016-07-20T20:35:55.088Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "ae1b6d14-56d1-420e-a882-2e85cdea5679",
+      "name": "issn",
+      "title": "ISSN",
+      "keywords": [
+        "medicamento",
+        "farmacia",
+        "medico",
+        "practica",
+        "practica bioquimica",
+        "practica medica",
+        "practica odontologica",
+        "prestador",
+        "vademécum"
+      ],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "1cb02948-5986-4ba2-987f-478cbae0430e",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-08-09T15%3A55%3A41.742Z/localidad.xls",
+          "name": "Localidad.xls",
+          "format": "XLS",
+          "updatedAt": "2016-08-09T15:55:46.156Z",
+          "description": "Localidades ISSN"
+        },
+        {
+          "id": "2b0591ab-7110-4db3-baad-3f416d3a895f",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-08-09T15%3A57%3A51.205Z/med-droga.xls",
+          "name": "Med_Droga.xls",
+          "format": "XLS",
+          "updatedAt": "2016-08-09T15:56:34.109Z",
+          "description": "Catálogo de Drogas ISSN"
+        },
+        {
+          "id": "ec75bbde-be79-4599-958f-c10eafea4982",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-08-09T16%3A07%3A02.345Z/med-presentacion.xls",
+          "name": "Med_Presentacion.xls",
+          "format": "XLS",
+          "updatedAt": "2016-08-09T16:06:03.589Z",
+          "description": "Catálogo formas presentación medicamentos"
+        },
+        {
+          "id": "9010790f-6990-4aae-b437-d1b00bae3ab8",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-08-09T16%3A10%3A45.743Z/medicamento.xls",
+          "name": "Medicamento.xls",
+          "format": "XLS",
+          "updatedAt": "2016-08-09T16:09:32.874Z",
+          "description": "Catálogo de medicamentos"
+        },
+        {
+          "id": "2729c8bc-3353-41d4-b048-18b59331613a",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-08-09T17%3A56%3A47.120Z/pcias.xls",
+          "name": "Pcias.xls",
+          "format": "XLS",
+          "updatedAt": "2016-08-09T17:55:57.048Z",
+          "description": "Nomenclador códigos de provincias ISSN"
+        },
+        {
+          "id": "53403655-3815-4a9e-9d73-a62a110ccd91",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-08-09T18%3A02%3A15.924Z/prest-categ.xls",
+          "name": "Prest_Categ.xls",
+          "format": "XLS",
+          "updatedAt": "2016-08-09T18:01:08.133Z",
+          "description": "Categorías de prestaciones ISSN"
+        },
+        {
+          "id": "3794004e-5258-4a17-b936-dcc755ab3c47",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-08-09T18%3A03%3A48.378Z/prest-consul.xls",
+          "name": "Prest_Consul.xls",
+          "format": "XLS",
+          "updatedAt": "2016-08-09T18:02:50.384Z",
+          "description": "Tabla prestadores / Consultorios ISSN"
+        },
+        {
+          "id": "b66af993-fc3f-4ac2-ba4e-5d61437fe24e",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-08-09T18%3A04%3A58.387Z/prest-entidad.xls",
+          "name": "Prest_Entidad.xls",
+          "format": "XLS",
+          "updatedAt": "2016-08-09T18:03:54.868Z",
+          "description": "Catálogo de Entidades prestadoras ISSN"
+        },
+        {
+          "id": "6cb8ea63-27d5-4633-a526-2f6b04b51f16",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-08-09T18%3A05%3A54.526Z/prest-espec.xls",
+          "name": "Prest_Espec.xls",
+          "format": "XLS",
+          "updatedAt": "2016-08-09T18:04:44.413Z",
+          "description": "Catálogo de especialidades ISSN"
+        },
+        {
+          "id": "0ded453d-703d-4072-97f0-54327af25064",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-08-09T18%3A06%3A57.614Z/prest-prestaespec.xls",
+          "name": "Prest_PrestaEspec.xls",
+          "format": "XLS",
+          "updatedAt": "2016-08-09T18:05:48.113Z",
+          "description": "Tabla relaciones prestador / especialidad ISSN"
+        },
+        {
+          "id": "8ae141b5-fad4-460c-a6ca-ab53ebbbd3b6",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-08-09T18%3A07%3A44.013Z/prest-suc.xls",
+          "name": "Prest_Suc.xls",
+          "format": "XLS",
+          "updatedAt": "2016-08-09T18:06:31.502Z",
+          "description": "Domicilio prestadores ISSN"
+        },
+        {
+          "id": "794d85f4-f9fa-4e2b-9e39-0a33b5c6408d",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-08-09T18%3A08%3A19.624Z/prestadores.xls",
+          "name": "Prestadores.xls",
+          "format": "XLS",
+          "updatedAt": "2016-08-09T18:07:05.907Z",
+          "description": "Cat{alogo de prestadores ISSN"
+        },
+        {
+          "id": "12847a04-a6ca-4b19-bccf-ba25229e70e9",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-08-09T18%3A12%3A35.577Z/nom-cobertura.xls",
+          "name": "Nom_Cobertura.xls",
+          "format": "XLS",
+          "updatedAt": "2016-08-09T18:11:07.301Z",
+          "description": "Nomenclador de coberturas"
+        },
+        {
+          "id": "79bf9f94-28c2-431b-849f-59bd901bcc30",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-08-09T18%3A13%3A25.642Z/nomenclador.xls",
+          "name": "Nomenclador.xls",
+          "format": "XLS",
+          "updatedAt": "2016-08-09T18:12:05.850Z",
+          "description": "Catálogo Nomenclador ISSN"
+        }
+      ],
+      "createdAt": "2014-03-20T20:36:59.675Z",
+      "updatedAt": "2016-08-09T21:12:16.357Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "e4b259eb-950d-4efa-a07b-c273d27873bc",
+      "name": "registro-de-demandantes-de-empleo",
+      "title": " Registro de demandantes de empleo",
+      "keywords": [
+        "empleo",
+        "neuquen capital"
+      ],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "2bdafeed-42df-42e2-bea6-50d398fd6adb",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-20T13%3A18%3A29.420Z/datos-optic-nqn-capital.xls",
+          "name": "Trabajadores Nqn Capital.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Datos de personas que buscan empleo en Neuquen Capital por medio de la Subsecretaria de Empleo. Se removieron los datos personales de Nombre, Apellido, DNI y CUIL"
+        },
+        {
+          "id": "aa2aa812-1be7-46e6-9df0-fa2cde9c59bb",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-20T13%3A20%3A36.138Z/datos-optic-nqn-interior.xls",
+          "name": "Trabajadores Nqn Interior.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Datos de personas que buscan empleo en el interior de Neuquen por medio de la Subsecretaria de Empleo. Se removieron los datos personales de Nombre, Apellido, DNI y CUIL"
+        },
+        {
+          "id": "39f92200-a27e-40ff-b78b-34dce8ee7761",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T13%3A35%3A28.873Z/datos-optic-nqn-capital.csv",
+          "name": "Datos Optic Nqn Capital.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "e2b12f3f-f32a-405f-9f09-8db276c588d4",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T13%3A35%3A53.162Z/datos-optic-nqn-interior.csv",
+          "name": "Datos Optic Nqn Interior.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2014-03-20T16:22:35.968Z",
+      "updatedAt": "2014-10-21T16:30:37.245Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "f020330b-2560-4252-a357-931e8abaacbf",
+      "name": "oficina-provincial-de-contrataciones",
+      "title": "Oficina Provincial de Contrataciones",
+      "keywords": [
+        "compras",
+        "contrataciones",
+        "proveedores"
+      ],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "df314d6f-7173-4aa9-b269-052db58d4ff0",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T20%3A06%3A36.037Z/compras-realizadas-por-safipro.xls",
+          "name": "Compras realizadas por SAFIPRO.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "40dc971f-c1bc-4ffb-ae26-9fc4c57ef537",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-23T15%3A47%3A28.942Z/gastos-parte-1.xls",
+          "name": "Gastos parte 1.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "7af1af93-bb0e-4c4a-95d7-081dc40e23ed",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T20%3A15%3A45.147Z/gastos-parte-2.xls",
+          "name": "Gastos parte 2.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "8c668796-22fb-4899-a49e-1409154aec67",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T20%3A17%3A07.515Z/gastos-parte-3.xls",
+          "name": "Gastos parte 3.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "3680d3c1-fde3-42ca-bb12-95b84f4d777e",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T20%3A22%3A18.644Z/gastos-parte-4.xls",
+          "name": "Gastos parte 4.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "e822b7a9-b1e3-43a2-997f-e2c1150d6605",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T20%3A24%3A21.135Z/gastos-parte-5.xls",
+          "name": "Gastos parte 5.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "13c6a834-dc6a-4b8c-91bc-fc4d8d97da07",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T20%3A25%3A43.226Z/gastos-parte-6.xls",
+          "name": "Gastos parte 6.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "a7552a5b-4d29-4cfc-a239-6c13ba3ba3aa",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-25T11%3A08%3A47.807Z/compras-realizadas-por-safipro.csv",
+          "name": "compras-realizadas-por-safipro.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "7318144d-dab5-455d-a9ab-44482811d2b4",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-25T11%3A12%3A38.250Z/gastos-parte-1.csv",
+          "name": "gastos-parte-1.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "041aa605-3817-4ea2-86d4-fede95dad3b6",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-25T11%3A13%3A06.965Z/gastos-parte-2.csv",
+          "name": "gastos-parte-2.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "42f91b00-d18a-4c87-884e-8c95e5224917",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-25T11%3A18%3A23.777Z/gastos-parte-3.csv",
+          "name": "gastos-parte-3.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "91e50f76-e38d-4549-878c-11dcede7a220",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-25T11%3A18%3A36.650Z/gastos-parte-4.csv",
+          "name": "gastos-parte-4.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "b3a6179d-bf0e-44a6-9e68-8f7ad1a998c7",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-25T11%3A18%3A56.627Z/gastos-parte-5.csv",
+          "name": "gastos-parte-5.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "467a15e7-b6b8-4485-b05f-42c36c5596df",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-25T11%3A19%3A14.199Z/gastos-parte-6.csv",
+          "name": "gastos-parte-6.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "353d7e61-082c-4383-a5ba-ca4c252dd695",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-26T01%3A47%3A43.398Z/hkt-clases-asociadas-a-los-proveedores.xls",
+          "name": "HKT -Clases Asociadas a los Proveedores.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Bienes o servicios (Clases) que los Proveedores del Estado vigentes ofrecen voluntariamente al Estado."
+        }
+      ],
+      "createdAt": "2014-03-21T22:53:21.255Z",
+      "updatedAt": "2014-10-20T18:01:58.412Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "f7e31d38-cc99-4374-bdfb-5182563a2104",
+      "name": "informacion-municipal-basica",
+      "title": "Información Municipal Básica",
+      "keywords": [
+        "municipios",
+        "categorias"
+      ],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "7dd1bbc1-1368-42f5-a914-e0f295cef6a2",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T17%3A39%3A36.107Z/localidades.xls",
+          "name": "LocalidadesGEO.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Ubicacion de las localidades y comisiones de fomento."
+        },
+        {
+          "id": "ccd439d3-994c-46fe-80cb-a0f34c863776",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-21T17%3A42%3A02.707Z/variables-hackathon-final.xls",
+          "name": "Variables censo.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Descripcion de las variables de la encuesta de los municipios de la provincia"
+        },
+        {
+          "id": "426fe10e-be42-4ce7-99fc-7599f3482819",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-26T22%3A34%3A40.714Z/censo-2010-m-totalp01.xls",
+          "name": "Censo_2010_M_TotalP01.xls",
+          "format": "XLS",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "cfdbf916-e6a8-42e3-b825-7091c60edf3d",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2014-03-26T22%3A52%3A39.993Z/censo-2010-m-totalp01.csv",
+          "name": "Censo_2010_M_TotalP01.csv",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        },
+        {
+          "id": "5c0f4e8d-2caa-495b-82f9-4b19b7d04a47",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-07-25T12%3A36%3A29.580Z/variables-tabla-municipios-final.xls",
+          "name": "Variables tabla municipios - final.xls",
+          "format": "XLS",
+          "updatedAt": "2016-07-25T12:37:17.506Z",
+          "description": "Describe significado de campos tabla Información básica de Municipios provincia del Neuquén"
+        },
+        {
+          "id": "e759dc31-2a58-401e-bce8-61cc6449671c",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-07-25T12%3A39%3A18.712Z/municipios-informacion-basica.xlsx",
+          "name": "Municipios Información básica.xlsx",
+          "format": "XLS",
+          "updatedAt": "2016-07-25T12:39:34.054Z",
+          "description": "Tabla conteniendo datos básicos de los Municipios de la Provincia del Neuquén"
+        },
+        {
+          "id": "fbc18f31-4210-4a8c-8bf6-24ae28252838",
+          "downloadUrl": "http://datos.neuquen.gob.ar/storage/f/2016-07-25T13%3A51%3A43.383Z/informacion-municipal-basica.doc",
+          "name": "Información municipal básica.doc",
+          "format": "doc",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Documento con descripción e información tablas Información Municipios"
+        }
+      ],
+      "createdAt": "2014-03-18T18:50:28.121Z",
+      "updatedAt": "2016-07-25T16:51:57.594Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    }
+  ],
+  "organizations": [],
+  "updatedAt": "2023-12-16T10:50:26.756Z"
+}

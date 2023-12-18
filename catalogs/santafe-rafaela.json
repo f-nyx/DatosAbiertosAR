@@ -1,0 +1,3820 @@
+{
+  "id": "e8Ee8tTwoh",
+  "datasets": [
+    {
+      "id": "b6dffc3b-1bb3-4b29-acd1-3eaf51f28984",
+      "name": "decretos-543-y-547",
+      "title": "Decretos 543 y 547",
+      "keywords": [
+        "543",
+        "547",
+        "decreto"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "57c7c4ea-b289-45a7-a071-862720b86988",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/57c7c4ea-b289-45a7-a071-862720b86988/download/2016-08-decreto-543.csv",
+          "name": "2016-08 - Decreto 543.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T15:42:37.378Z",
+          "description": ""
+        },
+        {
+          "id": "57cbcd58-bc44-46e1-bb03-51fbf8bb395f",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/57cbcd58-bc44-46e1-bb03-51fbf8bb395f/download/2016-08-decreto-547.csv",
+          "name": "2016-08 - Decreto 547.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T15:54:06.967Z",
+          "description": ""
+        },
+        {
+          "id": "5eb44d62-5a5c-487c-9270-1d0c9560bad7",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/5eb44d62-5a5c-487c-9270-1d0c9560bad7/download/2016-09-decreto-543.csv",
+          "name": "2016-09 - Decreto 543.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:30:21.312Z",
+          "description": ""
+        },
+        {
+          "id": "8cd6a309-598f-47bd-a775-a50ff646419e",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/8cd6a309-598f-47bd-a775-a50ff646419e/download/2016-09-decreto-547.csv",
+          "name": "2016-09 - Decreto 547.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:30:36.513Z",
+          "description": ""
+        },
+        {
+          "id": "bd085c1a-d91c-4335-b969-dc254290d919",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/bd085c1a-d91c-4335-b969-dc254290d919/download/2016-10-decreto-543.csv",
+          "name": "2016-10 - Decreto 543.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:31:44.511Z",
+          "description": ""
+        },
+        {
+          "id": "fd7f6b69-6f9b-4c6f-8d08-ff304f68a104",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/fd7f6b69-6f9b-4c6f-8d08-ff304f68a104/download/2016-10-decreto-547.csv",
+          "name": "2016-10 - Decreto 547.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:32:06.370Z",
+          "description": ""
+        },
+        {
+          "id": "f8f40970-5a67-4778-b300-4e8bd6f7f456",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/f8f40970-5a67-4778-b300-4e8bd6f7f456/download/2016-11-decreto-543.csv",
+          "name": "2016-11 - Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2018-05-14T15:48:02.320Z",
+          "description": ""
+        },
+        {
+          "id": "468f6944-38b8-4f55-9bf1-53f25aaa96cf",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/468f6944-38b8-4f55-9bf1-53f25aaa96cf/download/2016-11-decreto-547.csv",
+          "name": "2016-11 - Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2018-05-14T15:52:01.420Z",
+          "description": ""
+        },
+        {
+          "id": "46525c11-2991-4008-baae-6ecfd2c4d076",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/46525c11-2991-4008-baae-6ecfd2c4d076/download/2016-12-decreto-543.csv",
+          "name": "2016-12 -  Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2018-05-14T15:56:30.746Z",
+          "description": ""
+        },
+        {
+          "id": "31bfabd3-129d-4019-94dd-a19e3dddade3",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/31bfabd3-129d-4019-94dd-a19e3dddade3/download/2016-12-decreto-547.csv",
+          "name": "2016-12 - Decreto 547.csv",
+          "format": "CSV",
+          "updatedAt": "2018-05-14T15:57:36.801Z",
+          "description": ""
+        },
+        {
+          "id": "dfb3ad5a-a7a2-4d25-bf90-e430ec447f3e",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/dfb3ad5a-a7a2-4d25-bf90-e430ec447f3e/download/2017-01-decreto-543.csv",
+          "name": "2017-01 - Decreto 543.csv",
+          "format": "CSV",
+          "updatedAt": "2018-05-14T15:59:21.366Z",
+          "description": ""
+        },
+        {
+          "id": "0c68908c-8161-45bb-ad2d-47876c8cd3e0",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/0c68908c-8161-45bb-ad2d-47876c8cd3e0/download/2017-01-decreto-547.csv",
+          "name": "2017-01 - Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2018-05-14T16:01:36.715Z",
+          "description": ""
+        },
+        {
+          "id": "b02f609a-4a2b-4e94-a7c3-72a0cb5afe36",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/b02f609a-4a2b-4e94-a7c3-72a0cb5afe36/download/2017-02-decreto-543.csv",
+          "name": "2017-02 - Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2018-05-14T16:04:53.163Z",
+          "description": ""
+        },
+        {
+          "id": "22b55f2e-7c7a-454d-8379-4dc8fe754e25",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/22b55f2e-7c7a-454d-8379-4dc8fe754e25/download/2017-02-decreto-547.csv",
+          "name": "2017-02 - Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2018-05-14T16:06:25.648Z",
+          "description": ""
+        },
+        {
+          "id": "f26e2289-9159-46a1-8049-ce4b11f05e84",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/f26e2289-9159-46a1-8049-ce4b11f05e84/download/2017-03-decreto-543.csv",
+          "name": "2017-03 - Decreto 543.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:38:48.259Z",
+          "description": ""
+        },
+        {
+          "id": "85592bc0-5b5d-4a72-80d3-86d2911b6c72",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/85592bc0-5b5d-4a72-80d3-86d2911b6c72/download/2017-03-decreto-547.csv",
+          "name": "2017-03 - Decreto 547.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:39:02.036Z",
+          "description": ""
+        },
+        {
+          "id": "5fbbaf9d-d120-4108-a753-5640c2fe9a14",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/5fbbaf9d-d120-4108-a753-5640c2fe9a14/download/2017-04-decreto-543.csv",
+          "name": "2017-04 - Decreto 543.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:39:33.484Z",
+          "description": ""
+        },
+        {
+          "id": "dc82db21-3856-4776-b10a-85655018acea",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/dc82db21-3856-4776-b10a-85655018acea/download/2017-04-decreto-547.csv",
+          "name": "2017-04 - Decreto 547.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:39:50.986Z",
+          "description": ""
+        },
+        {
+          "id": "6cc96817-cf02-4388-aa4e-2daf94db1601",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/6cc96817-cf02-4388-aa4e-2daf94db1601/download/2017-05-decreto-543.csv",
+          "name": "2017-05 - Decreto 543.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:40:10.676Z",
+          "description": ""
+        },
+        {
+          "id": "1207d434-1ee1-44a3-b578-8804041bd367",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/1207d434-1ee1-44a3-b578-8804041bd367/download/2017-05-decreto-547.csv",
+          "name": "2017-05 - Decreto 547.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:40:23.155Z",
+          "description": ""
+        },
+        {
+          "id": "8bdfc72d-688d-41c8-9c63-7d09ea8c09ca",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/8bdfc72d-688d-41c8-9c63-7d09ea8c09ca/download/2017-06-decreto-543.csv",
+          "name": "2017-06 - Decreto 543.csv",
+          "format": "CSV",
+          "updatedAt": "2017-10-11T13:53:04.484Z",
+          "description": ""
+        },
+        {
+          "id": "61a49bc9-d1dc-4bfe-b45d-aa7d7d85d23e",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/61a49bc9-d1dc-4bfe-b45d-aa7d7d85d23e/download/2017-06-decreto-547.csv",
+          "name": "2017-06 - Decreto 547.csv",
+          "format": "CSV",
+          "updatedAt": "2017-10-11T13:53:32.077Z",
+          "description": ""
+        },
+        {
+          "id": "0e2aa7fd-e7b9-48f8-9d79-ced22ea25ab1",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/0e2aa7fd-e7b9-48f8-9d79-ced22ea25ab1/download/2017-07-decreto-543.csv",
+          "name": "2017-07 - Decreto 543.csv",
+          "format": "CSV",
+          "updatedAt": "2017-10-11T13:56:17.525Z",
+          "description": ""
+        },
+        {
+          "id": "c8038a6f-6af3-4444-92d5-f71fe41812c6",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/c8038a6f-6af3-4444-92d5-f71fe41812c6/download/2017-07-decreto-547.csv",
+          "name": "2017-07 - Decreto 547.csv",
+          "format": "CSV",
+          "updatedAt": "2017-10-11T13:56:42.510Z",
+          "description": ""
+        },
+        {
+          "id": "faffb781-e6fa-4011-a5e7-59e40b087908",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/faffb781-e6fa-4011-a5e7-59e40b087908/download/2017-08-decreto-543.csv",
+          "name": "2017-08 - Decreto 543.csv",
+          "format": "CSV",
+          "updatedAt": "2017-10-23T14:56:33.422Z",
+          "description": ""
+        },
+        {
+          "id": "aef23632-7573-467e-b553-5b2c48f0fda0",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/aef23632-7573-467e-b553-5b2c48f0fda0/download/2017-08-decreto-547.csv",
+          "name": "2017-08 - Decreto 547.csv",
+          "format": "CSV",
+          "updatedAt": "2017-10-23T14:57:13.443Z",
+          "description": ""
+        },
+        {
+          "id": "ca7c92d1-ad99-44aa-b923-598a19c31eac",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/ca7c92d1-ad99-44aa-b923-598a19c31eac/download/2017-09-decreto-543.csv",
+          "name": "2017-09 - Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2018-05-08T18:13:14.623Z",
+          "description": ""
+        },
+        {
+          "id": "5f65e4d7-2d9a-4aab-bccf-1ad5aa1e4afd",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/5f65e4d7-2d9a-4aab-bccf-1ad5aa1e4afd/download/2017-09-decreto-547.csv",
+          "name": "2017-09 - Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2018-05-08T18:16:42.523Z",
+          "description": ""
+        },
+        {
+          "id": "59d33ec7-96b4-4cbf-98e4-7129ba8dffaf",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/59d33ec7-96b4-4cbf-98e4-7129ba8dffaf/download/201710-decreto-543.csv",
+          "name": "2017-10 - Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2018-05-08T18:26:12.301Z",
+          "description": ""
+        },
+        {
+          "id": "2d7177a4-9845-4129-81b1-49ca1310df40",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/2d7177a4-9845-4129-81b1-49ca1310df40/download/201710-decreto-547.csv",
+          "name": "2017-10 - Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2018-05-08T18:29:02.165Z",
+          "description": ""
+        },
+        {
+          "id": "19153de0-edb0-420f-8a84-b033fddf993c",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/19153de0-edb0-420f-8a84-b033fddf993c/download/201711-decreto-543.csv",
+          "name": "2017-11 - Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2018-05-08T18:33:27.099Z",
+          "description": ""
+        },
+        {
+          "id": "a0bd3790-0a85-4b2e-ab1c-ef284b4bf99d",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/a0bd3790-0a85-4b2e-ab1c-ef284b4bf99d/download/201711-decreto-547.csv",
+          "name": "2017-11 - Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2018-05-08T18:34:55.773Z",
+          "description": ""
+        },
+        {
+          "id": "13a16ced-3a50-4fdf-b1b9-78cb833f4b7f",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/13a16ced-3a50-4fdf-b1b9-78cb833f4b7f/download/201712-decreto-543.csv",
+          "name": "2017-12 - Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2018-05-08T18:37:30.265Z",
+          "description": ""
+        },
+        {
+          "id": "d9e74177-1043-427b-a711-0678a8894ab5",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/d9e74177-1043-427b-a711-0678a8894ab5/download/201712-decreto-547.csv",
+          "name": "201712 - Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2018-05-08T18:40:30.789Z",
+          "description": ""
+        },
+        {
+          "id": "3c1473a7-80ea-47ad-91ad-b47ef0795e37",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/3c1473a7-80ea-47ad-91ad-b47ef0795e37/download/201801-decreto-543.csv",
+          "name": "201801 - Decreto 543.csv",
+          "format": "CSV",
+          "updatedAt": "2018-05-08T18:43:12.731Z",
+          "description": ""
+        },
+        {
+          "id": "d865ec80-732d-4690-95f1-b7a102f44a71",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/d865ec80-732d-4690-95f1-b7a102f44a71/download/2018-01-decreto-547.csv",
+          "name": "201801 - Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2018-05-08T18:44:35.039Z",
+          "description": ""
+        },
+        {
+          "id": "656a2160-e41b-4719-9bfd-30711590b43e",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/656a2160-e41b-4719-9bfd-30711590b43e/download/201802-decreto-543.csv",
+          "name": "201802 - Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2018-05-08T18:45:57.260Z",
+          "description": ""
+        },
+        {
+          "id": "1f1aba4a-943c-411f-8d9e-feb6c69991b7",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/1f1aba4a-943c-411f-8d9e-feb6c69991b7/download/201802-decreto-547.csv",
+          "name": "201802 - Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2018-05-08T18:47:01.949Z",
+          "description": ""
+        },
+        {
+          "id": "4d377744-6dc0-4a40-84d0-7e07071a4127",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/4d377744-6dc0-4a40-84d0-7e07071a4127/download/201803-decreto-543.csv",
+          "name": "201803 - Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2018-05-08T18:53:14.747Z",
+          "description": ""
+        },
+        {
+          "id": "25534787-8f95-4088-ba2a-0b97a217fd9c",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/25534787-8f95-4088-ba2a-0b97a217fd9c/download/201803-decreto-547.csv",
+          "name": "201803 - Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2018-05-08T18:54:46.342Z",
+          "description": ""
+        },
+        {
+          "id": "62bf6e7f-3dc6-4196-bb78-c91be22e4a93",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/62bf6e7f-3dc6-4196-bb78-c91be22e4a93/download/201804-decreto-543.csv",
+          "name": "201804 - Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2018-05-08T18:56:22.048Z",
+          "description": ""
+        },
+        {
+          "id": "42a9b781-9387-4b6f-bcc7-66d249e79a8d",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/42a9b781-9387-4b6f-bcc7-66d249e79a8d/download/201804-decreto-547.csv",
+          "name": "201804 - Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2018-05-08T18:56:55.526Z",
+          "description": ""
+        },
+        {
+          "id": "e5e3d7f2-23f0-4b47-ac15-49492fe8e646",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/e5e3d7f2-23f0-4b47-ac15-49492fe8e646/download/201805-decreto-543.csv",
+          "name": "201805 - Decreto 543.csv",
+          "format": "CSV",
+          "updatedAt": "2018-06-12T16:14:47.756Z",
+          "description": ""
+        },
+        {
+          "id": "e5cee924-44d3-4181-b5ef-07a1bb98a631",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/e5cee924-44d3-4181-b5ef-07a1bb98a631/download/201805-decreto-547.csv",
+          "name": "201805 - Decreto 547.csv",
+          "format": "CSV",
+          "updatedAt": "2018-06-12T16:15:43.120Z",
+          "description": ""
+        },
+        {
+          "id": "633f0787-63e2-4a55-9646-6ae1b46be305",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/633f0787-63e2-4a55-9646-6ae1b46be305/download/201806-decreto-543.csv",
+          "name": "201806 - Decreto 543.csv",
+          "format": "CSV",
+          "updatedAt": "2018-07-11T16:06:07.947Z",
+          "description": ""
+        },
+        {
+          "id": "41951ba1-2a9c-49b5-8d47-c0eb9dc39cae",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/41951ba1-2a9c-49b5-8d47-c0eb9dc39cae/download/201806-decreto-547.csv",
+          "name": "201806 - Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2018-07-11T16:07:00.167Z",
+          "description": ""
+        },
+        {
+          "id": "2d4ad687-18db-4548-b1ae-5e753ed840d1",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/2d4ad687-18db-4548-b1ae-5e753ed840d1/download/201807-decreto-543.csv",
+          "name": "201807 - Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2018-09-06T15:07:04.146Z",
+          "description": ""
+        },
+        {
+          "id": "69750a19-af8f-4e96-b913-9313f08c25c6",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/69750a19-af8f-4e96-b913-9313f08c25c6/download/201807-decreto-547.csv",
+          "name": "201807 - Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2018-09-06T15:17:02.569Z",
+          "description": ""
+        },
+        {
+          "id": "40010904-298c-4bd6-a41b-80e898d102fb",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/40010904-298c-4bd6-a41b-80e898d102fb/download/201808-decreto-543.csv",
+          "name": "201808 - Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2018-09-06T15:17:57.856Z",
+          "description": ""
+        },
+        {
+          "id": "c0d5ba31-8ce8-4ac8-8596-3a0bc90ce21a",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/c0d5ba31-8ce8-4ac8-8596-3a0bc90ce21a/download/201808-decreto-547.csv",
+          "name": "201808 - Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2018-09-06T15:21:24.561Z",
+          "description": ""
+        },
+        {
+          "id": "23aa937c-ab2a-4abd-927c-ee5a35074abd",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/23aa937c-ab2a-4abd-927c-ee5a35074abd/download/201809-decreto-543.csv",
+          "name": "201809 - Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2018-10-08T15:37:08.743Z",
+          "description": ""
+        },
+        {
+          "id": "2c1e1162-e486-4f84-9143-fbc9c39dd277",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/2c1e1162-e486-4f84-9143-fbc9c39dd277/download/201809-decreto-547.csv",
+          "name": "201809 - Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2018-10-08T16:17:19.251Z",
+          "description": ""
+        },
+        {
+          "id": "f6450921-ba5e-479c-babf-3c046794e867",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/f6450921-ba5e-479c-babf-3c046794e867/download/201810-decreto-543.csv",
+          "name": "201810 - Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2018-11-09T20:43:11.443Z",
+          "description": ""
+        },
+        {
+          "id": "c368f4b7-d4b3-4ed7-9622-d0fe68e08519",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/c368f4b7-d4b3-4ed7-9622-d0fe68e08519/download/201810-decreto-547.csv",
+          "name": "201810 - Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2018-11-09T20:44:41.371Z",
+          "description": ""
+        },
+        {
+          "id": "ef5cd8a1-b47a-45d6-bf56-87f46271eec0",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/ef5cd8a1-b47a-45d6-bf56-87f46271eec0/download/201811-decreto-543.csv",
+          "name": "201811 - Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2018-12-11T17:37:28.751Z",
+          "description": ""
+        },
+        {
+          "id": "f6af8ad7-bdac-4787-a569-a1b084d3f424",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/f6af8ad7-bdac-4787-a569-a1b084d3f424/download/201811-decreto-547.csv",
+          "name": "201811 - Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2018-12-11T17:37:59.707Z",
+          "description": ""
+        },
+        {
+          "id": "fd9461a9-293a-45dd-a6bf-ad44ec6e76db",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/fd9461a9-293a-45dd-a6bf-ad44ec6e76db/download/201812-decreto-543.csv",
+          "name": "201812 - Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2019-01-07T14:49:16.199Z",
+          "description": ""
+        },
+        {
+          "id": "670ee5c6-973a-4a05-945d-2fc42a96e493",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/670ee5c6-973a-4a05-945d-2fc42a96e493/download/201812-decreto-547.csv",
+          "name": "201812 - Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2019-01-07T14:49:54.179Z",
+          "description": ""
+        },
+        {
+          "id": "98173ab2-2e64-42eb-bd09-16b1530b8a9c",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/98173ab2-2e64-42eb-bd09-16b1530b8a9c/download/201901-decreto-543.csv",
+          "name": "201901- Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T15:19:57.219Z",
+          "description": ""
+        },
+        {
+          "id": "06915523-d87a-4291-a51a-0e099fbe6fa8",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/06915523-d87a-4291-a51a-0e099fbe6fa8/download/201901-decreto-547.csv",
+          "name": "201901- Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T15:20:46.186Z",
+          "description": ""
+        },
+        {
+          "id": "02cdc48a-989a-4830-9a8f-7fde0f9d2887",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/02cdc48a-989a-4830-9a8f-7fde0f9d2887/download/201901-decreto-543.csv",
+          "name": "201902- Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T15:22:54.676Z",
+          "description": ""
+        },
+        {
+          "id": "21fbbebf-6a7d-42b3-8eb0-f53e55f379fd",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/21fbbebf-6a7d-42b3-8eb0-f53e55f379fd/download/201901-decreto-547.csv",
+          "name": "201902- Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T15:23:24.570Z",
+          "description": ""
+        },
+        {
+          "id": "ca71b90f-127c-41c7-a993-7c23331f5c9d",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/ca71b90f-127c-41c7-a993-7c23331f5c9d/download/201901-decreto-543.csv",
+          "name": "201903- Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T15:25:25.298Z",
+          "description": ""
+        },
+        {
+          "id": "bfa36e7a-3388-48c7-859f-a7605db44693",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/bfa36e7a-3388-48c7-859f-a7605db44693/download/201901-decreto-547.csv",
+          "name": "201903- Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T15:26:08.832Z",
+          "description": ""
+        },
+        {
+          "id": "02f06115-ac17-4b21-b051-66bae791ed1f",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/02f06115-ac17-4b21-b051-66bae791ed1f/download/201904-decreto-543.csv",
+          "name": "201904- Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T15:29:00.263Z",
+          "description": ""
+        },
+        {
+          "id": "b39e8c01-d64f-40b5-9eda-a832b8a1cc7c",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/b39e8c01-d64f-40b5-9eda-a832b8a1cc7c/download/201904-decreto-547.csv",
+          "name": "201904- Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T15:29:53.737Z",
+          "description": ""
+        },
+        {
+          "id": "cea6bddd-0ce8-47c0-842f-b41223048fae",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/cea6bddd-0ce8-47c0-842f-b41223048fae/download/201905-decreto-543.csv",
+          "name": "201905- Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T15:33:57.066Z",
+          "description": ""
+        },
+        {
+          "id": "fcb6e291-d96e-4bfb-89ba-b2f267ab4285",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/fcb6e291-d96e-4bfb-89ba-b2f267ab4285/download/201905-decreto-547.csv",
+          "name": "201905- Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T15:34:59.862Z",
+          "description": ""
+        },
+        {
+          "id": "8a457750-24ea-4981-9f3a-583ac486c952",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/8a457750-24ea-4981-9f3a-583ac486c952/download/201906-decreto-543.csv",
+          "name": "201906- Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T15:37:11.704Z",
+          "description": ""
+        },
+        {
+          "id": "6db9d3c7-3bd3-4208-a4b3-e9101b5b08a7",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/6db9d3c7-3bd3-4208-a4b3-e9101b5b08a7/download/201906-decreto-547-1.csv",
+          "name": "201906- Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T15:37:59.473Z",
+          "description": ""
+        },
+        {
+          "id": "bdeae3e3-9a3e-404d-a73b-93c1c2ad5999",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/bdeae3e3-9a3e-404d-a73b-93c1c2ad5999/download/201906-decreto-543.csv",
+          "name": "201907- Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T15:39:39.574Z",
+          "description": ""
+        },
+        {
+          "id": "425ec315-a68f-40a7-bdce-73cfb507ee2f",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/425ec315-a68f-40a7-bdce-73cfb507ee2f/download/201907-decreto-547.csv",
+          "name": "201907- Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T15:40:53.716Z",
+          "description": ""
+        },
+        {
+          "id": "75a5c315-e3d5-465a-af88-489532e29a23",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/75a5c315-e3d5-465a-af88-489532e29a23/download/201908-decreto-543.csv",
+          "name": "201908- Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2019-09-09T16:35:14.874Z",
+          "description": ""
+        },
+        {
+          "id": "9f0d9f6e-1c80-40b5-957a-9d87046b5fff",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/9f0d9f6e-1c80-40b5-957a-9d87046b5fff/download/201908-decreto-547.csv",
+          "name": "201908- Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2019-09-09T16:37:16.224Z",
+          "description": ""
+        },
+        {
+          "id": "124d476e-df66-4c3d-adbd-6184bdae5f51",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/124d476e-df66-4c3d-adbd-6184bdae5f51/download/201909-decreto-543.csv",
+          "name": "201909- Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2019-10-25T13:58:25.606Z",
+          "description": ""
+        },
+        {
+          "id": "885b53fa-caef-433f-8ec2-f824e45fe47f",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/885b53fa-caef-433f-8ec2-f824e45fe47f/download/201909-decreto-547.csv",
+          "name": "201909- Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2019-10-25T13:59:54.107Z",
+          "description": ""
+        },
+        {
+          "id": "11b7cd4f-5a4d-41ea-a540-99739c4dc02e",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/11b7cd4f-5a4d-41ea-a540-99739c4dc02e/download/201910-decreto-543.csv",
+          "name": "201910- Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2019-11-25T14:24:40.548Z",
+          "description": ""
+        },
+        {
+          "id": "25050d09-4c33-49cc-a19c-02fce72fa0f0",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/25050d09-4c33-49cc-a19c-02fce72fa0f0/download/201910-decreto-547.csv",
+          "name": "201910- Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2019-11-25T14:25:38.989Z",
+          "description": ""
+        },
+        {
+          "id": "6ccef662-d407-4e57-8160-ce6bebcb8fd1",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/6ccef662-d407-4e57-8160-ce6bebcb8fd1/download/201911-decreto-543.csv",
+          "name": "201911- Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2019-12-26T15:21:28.912Z",
+          "description": ""
+        },
+        {
+          "id": "59d7f7dd-8dd1-48e1-bb87-c981e48e581c",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/59d7f7dd-8dd1-48e1-bb87-c981e48e581c/download/201911-decreto-547.csv",
+          "name": "201911- Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2019-12-26T15:22:14.630Z",
+          "description": ""
+        },
+        {
+          "id": "c3722990-acad-4742-a29d-8f0ee30f5e68",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/c3722990-acad-4742-a29d-8f0ee30f5e68/download/201912-decreto-543.csv",
+          "name": "201912- Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2020-01-21T15:22:46.894Z",
+          "description": ""
+        },
+        {
+          "id": "fe11d759-fefe-4235-83db-d6f4343c4586",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/fe11d759-fefe-4235-83db-d6f4343c4586/download/201912-decreto-547.csv",
+          "name": "201912- Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2020-01-21T15:23:48.355Z",
+          "description": ""
+        },
+        {
+          "id": "b40da54f-6933-4ef9-9f0e-215cf730b0dd",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/b40da54f-6933-4ef9-9f0e-215cf730b0dd/download/202001-decreto-543.csv",
+          "name": "2020-01/Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2020-02-27T14:58:55.687Z",
+          "description": ""
+        },
+        {
+          "id": "51717b3f-ea4b-4bf0-a1e8-90af3ca41047",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/51717b3f-ea4b-4bf0-a1e8-90af3ca41047/download/202001-decreto-547.csv",
+          "name": "2020-01/Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2020-02-27T14:59:43.243Z",
+          "description": ""
+        },
+        {
+          "id": "4ccf8a3f-bbca-4a20-831f-72257380dce7",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/4ccf8a3f-bbca-4a20-831f-72257380dce7/download/202002-decreto-543.csv",
+          "name": "2020-02/ Decreto 543.csv",
+          "format": "CSV",
+          "updatedAt": "2020-03-02T17:15:45.383Z",
+          "description": ""
+        },
+        {
+          "id": "8a39bcc5-2464-45d6-8930-4653ab2a1376",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/8a39bcc5-2464-45d6-8930-4653ab2a1376/download/202002-decreto-547.csv",
+          "name": "2020-02/ Decreto 547.csv",
+          "format": "CSV",
+          "updatedAt": "2020-03-02T17:16:25.373Z",
+          "description": ""
+        },
+        {
+          "id": "728a4a36-1b16-471e-82a2-bc30cd7087df",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/728a4a36-1b16-471e-82a2-bc30cd7087df/download/202003-decreto-543.xls",
+          "name": "2020-03/ Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2020-05-08T17:16:25.377Z",
+          "description": ""
+        },
+        {
+          "id": "b3e90d34-4950-40b4-8de6-c42cd461d615",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/b3e90d34-4950-40b4-8de6-c42cd461d615/download/202003-decreto-547.xls",
+          "name": "2020-03/ Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2020-05-08T17:18:47.584Z",
+          "description": ""
+        },
+        {
+          "id": "26397132-8497-42e8-b7c1-bd20ca98f54e",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/26397132-8497-42e8-b7c1-bd20ca98f54e/download/202004-decreto-543.csv",
+          "name": "2020-04/ Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2020-05-08T17:21:34.289Z",
+          "description": ""
+        },
+        {
+          "id": "7da82e4e-b0e8-48a3-a303-c5ba381ebd2c",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/7da82e4e-b0e8-48a3-a303-c5ba381ebd2c/download/202004-decreto-547.csv",
+          "name": "2020-04/ Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2020-05-08T17:22:16.832Z",
+          "description": ""
+        },
+        {
+          "id": "292439f6-7691-4e07-90ce-8a19f55e0ab2",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/292439f6-7691-4e07-90ce-8a19f55e0ab2/download/202005-decreto-543.csv",
+          "name": "2020-05/Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2020-06-08T14:00:14.344Z",
+          "description": ""
+        },
+        {
+          "id": "d6129382-62ae-4451-913c-3c7a22ea77ea",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/d6129382-62ae-4451-913c-3c7a22ea77ea/download/202005-decreto-547.csv",
+          "name": "2020-05/Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2020-06-08T14:01:31.667Z",
+          "description": ""
+        },
+        {
+          "id": "7aedbf39-7659-42e6-8ffa-1ee1003a21d9",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/7aedbf39-7659-42e6-8ffa-1ee1003a21d9/download/202006-decreto-543.csv",
+          "name": "2020-06/ Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2020-07-13T14:05:23.899Z",
+          "description": ""
+        },
+        {
+          "id": "feb418cc-c48b-48d6-9d83-960fc9ca9ee1",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/feb418cc-c48b-48d6-9d83-960fc9ca9ee1/download/202006-decreto-547.csv",
+          "name": "2020-06/ Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2020-07-13T14:07:17.531Z",
+          "description": ""
+        },
+        {
+          "id": "e524d26f-2822-4a93-845a-3d51c3316708",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/e524d26f-2822-4a93-845a-3d51c3316708/download/202007-decreto-543.xls",
+          "name": "2020-07/ Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2020-08-12T16:55:11.003Z",
+          "description": ""
+        },
+        {
+          "id": "7ee380b6-b190-4d96-8b1e-7f7b3206d2a6",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/7ee380b6-b190-4d96-8b1e-7f7b3206d2a6/download/202007-decreto-543.xls",
+          "name": "2020-07/ Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2020-08-12T16:55:19.165Z",
+          "description": ""
+        },
+        {
+          "id": "6417a493-8b25-4aac-b04a-478f67176600",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/6417a493-8b25-4aac-b04a-478f67176600/download/202007-decreto-547.xls",
+          "name": "2020-07/ Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2020-08-12T16:56:07.621Z",
+          "description": ""
+        },
+        {
+          "id": "213c8825-8ee8-4187-bdca-85e3ae59a681",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/213c8825-8ee8-4187-bdca-85e3ae59a681/download/202008-decreto-543.xls",
+          "name": "2020-08 / Decreto 543",
+          "format": "CSV",
+          "updatedAt": "2020-09-09T14:31:14.313Z",
+          "description": ""
+        },
+        {
+          "id": "492f1c24-8d48-4e86-a95a-9369de1bb7d9",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/492f1c24-8d48-4e86-a95a-9369de1bb7d9/download/202008-decreto-547.xls",
+          "name": "2020-08 / Decreto 547",
+          "format": "CSV",
+          "updatedAt": "2020-09-09T14:35:22.940Z",
+          "description": ""
+        },
+        {
+          "id": "61ff37ee-bcc9-42c4-86a8-dd6cccfc448e",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/61ff37ee-bcc9-42c4-86a8-dd6cccfc448e/download/202009-decreto-543.xls",
+          "name": "2020-09 / Decreto543",
+          "format": "CSV",
+          "updatedAt": "2020-10-13T15:28:09.966Z",
+          "description": ""
+        },
+        {
+          "id": "9ce9b94e-735f-46c8-bc24-db8ad446d1c8",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/9ce9b94e-735f-46c8-bc24-db8ad446d1c8/download/202009-decreto-547.xls",
+          "name": "2020-09 / Decreto547",
+          "format": "CSV",
+          "updatedAt": "2020-10-13T15:28:59.598Z",
+          "description": ""
+        },
+        {
+          "id": "12bb379c-074b-46d8-a08a-c11122da3c60",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/12bb379c-074b-46d8-a08a-c11122da3c60/download/202010-decreto-543.xls",
+          "name": "2020-10 / Decreto543",
+          "format": "CSV",
+          "updatedAt": "2020-11-12T14:48:13.733Z",
+          "description": ""
+        },
+        {
+          "id": "834a09b0-4092-4f79-a9d5-e5711ec5c39c",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/834a09b0-4092-4f79-a9d5-e5711ec5c39c/download/202010-decreto-547.xls",
+          "name": "2020-10 / Decreto547",
+          "format": "CSV",
+          "updatedAt": "2020-11-12T14:53:04.549Z",
+          "description": ""
+        },
+        {
+          "id": "c3f90537-3517-4ab9-b97c-dea558c7a624",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/c3f90537-3517-4ab9-b97c-dea558c7a624/download/202011-decreto-543.xls",
+          "name": "2020-11 / Decreto543",
+          "format": "CSV",
+          "updatedAt": "2020-12-11T14:06:30.580Z",
+          "description": ""
+        },
+        {
+          "id": "ea841e82-973a-4efa-88bc-8c1963522073",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/ea841e82-973a-4efa-88bc-8c1963522073/download/202011-decreto-543.xls",
+          "name": "2020-11 / Decreto543",
+          "format": "CSV",
+          "updatedAt": "2020-12-11T14:06:38.837Z",
+          "description": ""
+        },
+        {
+          "id": "9d6301d8-361b-4fed-9714-f1fca8c07b3b",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/9d6301d8-361b-4fed-9714-f1fca8c07b3b/download/202011-decreto-547.xls",
+          "name": "2020-11 / Decreto547",
+          "format": "CSV",
+          "updatedAt": "2020-12-11T14:07:33.252Z",
+          "description": ""
+        },
+        {
+          "id": "b2f8b876-9f95-4014-8763-4d0269e55903",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/b2f8b876-9f95-4014-8763-4d0269e55903/download/202012-decreto-543.xls",
+          "name": "2020-12 / Decreto543",
+          "format": "CSV",
+          "updatedAt": "2021-01-06T14:20:38.840Z",
+          "description": ""
+        },
+        {
+          "id": "0300f6b2-8dbc-4c8c-9360-93f9da84f87d",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/0300f6b2-8dbc-4c8c-9360-93f9da84f87d/download/202101-decreto-543.xls",
+          "name": "2021-01 - Decreto543",
+          "format": "CSV",
+          "updatedAt": "2021-03-01T15:07:12.013Z",
+          "description": ""
+        },
+        {
+          "id": "7cdff068-2d8f-43ea-815e-c2e70891f475",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/7cdff068-2d8f-43ea-815e-c2e70891f475/download/202101-decreto-547.xls",
+          "name": "2021-01 - Decreto547",
+          "format": "CSV",
+          "updatedAt": "2021-03-01T15:08:20.875Z",
+          "description": ""
+        },
+        {
+          "id": "e0202eaf-bd7e-4582-a839-8c83618f3a3f",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/e0202eaf-bd7e-4582-a839-8c83618f3a3f/download/202103-decreto-543.xls",
+          "name": "2021-03 - Decreto543",
+          "format": "CSV",
+          "updatedAt": "2021-04-08T02:15:28.621Z",
+          "description": ""
+        },
+        {
+          "id": "28909748-390b-4998-8e89-15cf9a0e661d",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/28909748-390b-4998-8e89-15cf9a0e661d/download/202103-decreto-547.xls",
+          "name": "2021-03 - Decreto547",
+          "format": "CSV",
+          "updatedAt": "2021-04-08T02:16:09.924Z",
+          "description": ""
+        },
+        {
+          "id": "3f446442-8a76-401e-81ba-0543bacb50b7",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/3f446442-8a76-401e-81ba-0543bacb50b7/download/202104-decreto-543.xls",
+          "name": "2021-04 - Decreto543",
+          "format": "CSV",
+          "updatedAt": "2021-05-10T13:57:22.023Z",
+          "description": ""
+        },
+        {
+          "id": "07db04f8-1e3d-4401-a06f-73ebf2363f55",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/07db04f8-1e3d-4401-a06f-73ebf2363f55/download/202104-decreto-547.xls",
+          "name": "2021-04 - Decreto547",
+          "format": "CSV",
+          "updatedAt": "2021-05-10T13:58:27.061Z",
+          "description": ""
+        },
+        {
+          "id": "5132e0b1-f11d-424d-b159-91a16127a595",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/5132e0b1-f11d-424d-b159-91a16127a595/download/202105-decreto-543.xls",
+          "name": "2021-05 - Decreto543",
+          "format": "CSV",
+          "updatedAt": "2021-06-14T13:50:47.600Z",
+          "description": ""
+        },
+        {
+          "id": "ad662fe8-90f8-47b6-abf1-0a1e209c1cd2",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/ad662fe8-90f8-47b6-abf1-0a1e209c1cd2/download/202105-decreto-547.xls",
+          "name": "2021-05 - Decreto547",
+          "format": "CSV",
+          "updatedAt": "2021-06-14T13:51:44.829Z",
+          "description": ""
+        },
+        {
+          "id": "da2bb96a-99d9-40a9-967d-218db87da405",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/da2bb96a-99d9-40a9-967d-218db87da405/download/202106-decreto-543.xls",
+          "name": "2021-06 - Decreto543",
+          "format": "CSV",
+          "updatedAt": "2021-07-12T14:06:09.763Z",
+          "description": ""
+        },
+        {
+          "id": "e91d2410-6231-49ee-bedd-8d7d515bd809",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/e91d2410-6231-49ee-bedd-8d7d515bd809/download/202106-decreto-547.xls",
+          "name": "2021-06 - Decreto547",
+          "format": "CSV",
+          "updatedAt": "2021-07-12T14:09:13.169Z",
+          "description": ""
+        },
+        {
+          "id": "3b18ee18-382e-4f55-97ac-b0326af3b248",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/3b18ee18-382e-4f55-97ac-b0326af3b248/download/202107-decreto-543.xls",
+          "name": "2021-07 - Decreto543",
+          "format": "CSV",
+          "updatedAt": "2021-08-09T13:44:16.381Z",
+          "description": ""
+        },
+        {
+          "id": "d4994e28-7d39-4403-b5be-cbea45424d35",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/d4994e28-7d39-4403-b5be-cbea45424d35/download/202107-decreto-547.xls",
+          "name": "2021-07 - Decreto547",
+          "format": "CSV",
+          "updatedAt": "2021-08-09T13:46:02.324Z",
+          "description": ""
+        },
+        {
+          "id": "639de2a4-d8e7-452f-8c6a-da46d3d7476b",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/639de2a4-d8e7-452f-8c6a-da46d3d7476b/download/202108-decreto-543.xls",
+          "name": "2021-08 - Decreto543",
+          "format": "CSV",
+          "updatedAt": "2021-09-16T13:55:29.435Z",
+          "description": ""
+        },
+        {
+          "id": "7264b386-1465-4b3b-87bc-86b8fbcc7ff8",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/7264b386-1465-4b3b-87bc-86b8fbcc7ff8/download/202108-decreto-547.xls",
+          "name": "2021-08 - Decreto547",
+          "format": "CSV",
+          "updatedAt": "2021-09-16T13:57:26.601Z",
+          "description": ""
+        },
+        {
+          "id": "15ce192c-b8a3-46dc-8595-da306766e5a4",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/15ce192c-b8a3-46dc-8595-da306766e5a4/download/202109-decreto-543.xls",
+          "name": "2021-09 - Decreto543",
+          "format": "CSV",
+          "updatedAt": "2021-11-11T16:48:08.424Z",
+          "description": ""
+        },
+        {
+          "id": "b4d7a150-28f0-4d89-a492-c594393862cf",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/b4d7a150-28f0-4d89-a492-c594393862cf/download/202109-decreto-547.xls",
+          "name": "2021-09 - Decreto547",
+          "format": "CSV",
+          "updatedAt": "2021-11-11T16:49:41.390Z",
+          "description": ""
+        },
+        {
+          "id": "f7e1c2a2-4c85-495a-928c-51888e516235",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/f7e1c2a2-4c85-495a-928c-51888e516235/download/202110-decreto-543.xls",
+          "name": "2021-10 - Decreto543",
+          "format": "CSV",
+          "updatedAt": "2021-11-11T16:50:26.026Z",
+          "description": ""
+        },
+        {
+          "id": "b9455c09-b0ae-4f10-94b9-14b5e56539c6",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/b9455c09-b0ae-4f10-94b9-14b5e56539c6/download/202110-decreto-547.xls",
+          "name": "2021-10 - Decreto547",
+          "format": "CSV",
+          "updatedAt": "2021-11-11T16:51:08.554Z",
+          "description": ""
+        },
+        {
+          "id": "c85b3599-bf6c-4c43-88df-3a122b5945f3",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/c85b3599-bf6c-4c43-88df-3a122b5945f3/download/202111-decreto-543.xls",
+          "name": "2021-11 -Decreto543",
+          "format": "CSV",
+          "updatedAt": "2021-12-30T13:54:57.068Z",
+          "description": ""
+        },
+        {
+          "id": "d3274661-8492-4a35-8e5b-2f691050e19a",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/d3274661-8492-4a35-8e5b-2f691050e19a/download/202111-decreto-547.xls",
+          "name": "2021-11 -Decreto547",
+          "format": "CSV",
+          "updatedAt": "2021-12-30T14:05:24.020Z",
+          "description": ""
+        },
+        {
+          "id": "521250e8-1ec8-42e1-80ee-9d61c2f4571f",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/521250e8-1ec8-42e1-80ee-9d61c2f4571f/download/202112-decreto-543.xls",
+          "name": "2021-12 - Decreto543",
+          "format": "CSV",
+          "updatedAt": "2022-01-04T16:38:50.759Z",
+          "description": ""
+        },
+        {
+          "id": "2c50b824-c25a-401e-aa63-f3771d1eae79",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/2c50b824-c25a-401e-aa63-f3771d1eae79/download/202112-decreto-547.xls",
+          "name": "2021-12 - Decreto547",
+          "format": "CSV",
+          "updatedAt": "2022-01-04T16:40:20.385Z",
+          "description": ""
+        },
+        {
+          "id": "60dda2d4-8a72-4d46-b501-ff6b0fc0ee1d",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/60dda2d4-8a72-4d46-b501-ff6b0fc0ee1d/download/202201-decreto-543.xls",
+          "name": "2022-01 - Decreto543",
+          "format": "CSV",
+          "updatedAt": "2022-02-17T14:28:01.882Z",
+          "description": ""
+        },
+        {
+          "id": "07e53ea9-99e5-47f7-a070-066ed237b9a0",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/07e53ea9-99e5-47f7-a070-066ed237b9a0/download/202201-decreto-547.xls",
+          "name": "2022-01 - Decreto547",
+          "format": "CSV",
+          "updatedAt": "2022-02-17T14:29:59.403Z",
+          "description": ""
+        },
+        {
+          "id": "748135d8-1c93-430a-98dd-65fc35b6875f",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/748135d8-1c93-430a-98dd-65fc35b6875f/download/202202-decreto-543.xls",
+          "name": "2022-02 -Decreto543",
+          "format": "CSV",
+          "updatedAt": "2022-03-07T16:08:36.274Z",
+          "description": ""
+        },
+        {
+          "id": "bff65f5f-5c6a-4531-b297-922bae8ad4fd",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/bff65f5f-5c6a-4531-b297-922bae8ad4fd/download/202202-decreto-547.xls",
+          "name": "2022-02 -Decreto547",
+          "format": "CSV",
+          "updatedAt": "2022-03-07T16:09:31.749Z",
+          "description": ""
+        },
+        {
+          "id": "f1bad24f-1f99-4f5b-8354-459e549ed2af",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/f1bad24f-1f99-4f5b-8354-459e549ed2af/download/202203-decreto-543.xls",
+          "name": "2022-03 -Decreto543",
+          "format": "CSV",
+          "updatedAt": "2022-04-07T13:51:43.562Z",
+          "description": ""
+        },
+        {
+          "id": "99391292-cb1a-47cc-82ac-200e76f07e53",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/99391292-cb1a-47cc-82ac-200e76f07e53/download/202203-decreto-547.xls",
+          "name": "2022-03 -Decreto547",
+          "format": "CSV",
+          "updatedAt": "2022-04-07T13:52:32.784Z",
+          "description": ""
+        },
+        {
+          "id": "ab14d70b-5cb4-4724-a50c-9b17c7e953fb",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/ab14d70b-5cb4-4724-a50c-9b17c7e953fb/download/202204-decreto-543.xls",
+          "name": "2022-04 -Decreto543",
+          "format": "CSV",
+          "updatedAt": "2022-05-04T15:59:28.854Z",
+          "description": ""
+        },
+        {
+          "id": "e113cfa4-62fd-4cc4-a7d5-c1be30098a5a",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/e113cfa4-62fd-4cc4-a7d5-c1be30098a5a/download/202204-decreto-547.xls",
+          "name": "2022-04 -Decreto547",
+          "format": "CSV",
+          "updatedAt": "2022-05-04T16:01:25.941Z",
+          "description": ""
+        },
+        {
+          "id": "df8b7b1f-4af6-4681-b746-81aa3ab71c76",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/df8b7b1f-4af6-4681-b746-81aa3ab71c76/download/202204-decreto-547.xls",
+          "name": "2022-04 -Decreto547",
+          "format": "CSV",
+          "updatedAt": "2022-05-04T16:01:37.074Z",
+          "description": ""
+        },
+        {
+          "id": "3f22b4c1-5908-47b9-995d-81282cf28467",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/3f22b4c1-5908-47b9-995d-81282cf28467/download/202205-decreto-543.csv",
+          "name": "2022-05 - Decreto 543.csv",
+          "format": "CSV",
+          "updatedAt": "2022-09-16T13:33:38.778Z",
+          "description": "Decreto 543: listado mensual de la liquidación de pagos a proveedores disponibles para su cobro. "
+        },
+        {
+          "id": "9fae9f83-0f2a-4716-b325-f5b6b317299d",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/9fae9f83-0f2a-4716-b325-f5b6b317299d/download/202205-decreto-547.csv",
+          "name": "2022-05 - Decreto 547.csv",
+          "format": "CSV",
+          "updatedAt": "2022-09-16T13:35:39.850Z",
+          "description": "Decreto 547: listado mensual de los pagos efectuados por Contaduría Municipal."
+        },
+        {
+          "id": "6aa9b3cf-2342-4c4b-8860-5ed423f59361",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/6aa9b3cf-2342-4c4b-8860-5ed423f59361/download/202206-decreto-543.csv",
+          "name": "2022-06 - Decreto 543.csv",
+          "format": "CSV",
+          "updatedAt": "2022-09-16T13:36:45.278Z",
+          "description": "Decreto 543: listado mensual de la liquidación de pagos a proveedores disponibles para su cobro. "
+        },
+        {
+          "id": "74b377c8-c8c2-4189-8356-eb8d1af86d17",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/74b377c8-c8c2-4189-8356-eb8d1af86d17/download/202206-decreto-547.csv",
+          "name": "2022-06 - Decreto 547.csv",
+          "format": "CSV",
+          "updatedAt": "2022-09-16T13:38:18.426Z",
+          "description": "Decreto 547: listado mensual de los pagos efectuados por Contaduría Municipal."
+        },
+        {
+          "id": "342112fd-364a-4145-bbab-c4267200728f",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/342112fd-364a-4145-bbab-c4267200728f/download/202207-decreto-543.csv",
+          "name": "2022-07 - Decreto 543.csv",
+          "format": "CSV",
+          "updatedAt": "2022-09-16T13:42:05.259Z",
+          "description": "Decreto 543: listado mensual de la liquidación de pagos a proveedores disponibles para su cobro. "
+        },
+        {
+          "id": "f209e186-328b-402c-bd28-0b6cada534dd",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/b6dffc3b-1bb3-4b29-acd1-3eaf51f28984/resource/f209e186-328b-402c-bd28-0b6cada534dd/download/202207-decreto-547.csv",
+          "name": "2022-07 - Decreto 547.csv",
+          "format": "CSV",
+          "updatedAt": "2022-09-16T13:42:41.117Z",
+          "description": "Decreto 547: listado mensual de los pagos efectuados por Contaduría Municipal."
+        }
+      ],
+      "createdAt": "2017-07-26T15:39:42.665Z",
+      "updatedAt": "2022-09-16T13:42:41.329Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "5eb09905-48c4-40ac-abce-f8306d837308",
+      "name": "ejecuciones-2015",
+      "title": "Ejecuciones 2015",
+      "keywords": [
+        "2015",
+        "ejecuciones"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "4c35866f-cef5-49e0-86a2-8fee424f5c75",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5eb09905-48c4-40ac-abce-f8306d837308/resource/4c35866f-cef5-49e0-86a2-8fee424f5c75/download/mr-ga-ec-egresos-ene2015.csv",
+          "name": "MR-GA-EC-EGRESOS-ENE2015.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T17:04:18.850Z",
+          "description": ""
+        },
+        {
+          "id": "f10dcc7e-cbd8-4f03-b72a-d7552328caa4",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5eb09905-48c4-40ac-abce-f8306d837308/resource/f10dcc7e-cbd8-4f03-b72a-d7552328caa4/download/mr-ga-ec-ingresos-ene2015.csv",
+          "name": "MR-GA-EC-INGRESOS-ENE2015.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T17:52:10.439Z",
+          "description": ""
+        },
+        {
+          "id": "7f83dd5a-4a0f-4a4d-a8df-36c99ce4d17f",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5eb09905-48c4-40ac-abce-f8306d837308/resource/7f83dd5a-4a0f-4a4d-a8df-36c99ce4d17f/download/mr-ga-ec-egresos-feb2015.csv",
+          "name": "MR-GA-EC-EGRESOS-FEB2015.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:14:46.991Z",
+          "description": ""
+        },
+        {
+          "id": "c375ebe4-2d8e-43dd-95dc-e29c1424b52d",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5eb09905-48c4-40ac-abce-f8306d837308/resource/c375ebe4-2d8e-43dd-95dc-e29c1424b52d/download/mr-ga-ec-ingresos-feb2015.csv",
+          "name": "MR-GA-EC-INGRESOS-FEB2015.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:15:16.952Z",
+          "description": ""
+        },
+        {
+          "id": "8514d2b3-b946-4590-b8a1-aca33c18c1da",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5eb09905-48c4-40ac-abce-f8306d837308/resource/8514d2b3-b946-4590-b8a1-aca33c18c1da/download/mr-ga-ec-egresos-mar2015.csv",
+          "name": "MR-GA-EC-EGRESOS-MAR2015.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:16:52.753Z",
+          "description": ""
+        },
+        {
+          "id": "dc40fa49-daeb-463d-9aa4-2dec9433e259",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5eb09905-48c4-40ac-abce-f8306d837308/resource/dc40fa49-daeb-463d-9aa4-2dec9433e259/download/mr-ga-ec-ingresos-mar2015.csv",
+          "name": "MR-GA-EC-INGRESOS-MAR2015.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:17:12.780Z",
+          "description": ""
+        },
+        {
+          "id": "b257f834-2ec6-4629-9eb7-f96edb3b4ff7",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5eb09905-48c4-40ac-abce-f8306d837308/resource/b257f834-2ec6-4629-9eb7-f96edb3b4ff7/download/mr-ga-ec-egresos-abr2015.csv",
+          "name": "MR-GA-EC-EGRESOS-ABR2015.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:18:31.220Z",
+          "description": ""
+        },
+        {
+          "id": "ae7d7478-f226-49e7-9c87-05d925939fa5",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5eb09905-48c4-40ac-abce-f8306d837308/resource/ae7d7478-f226-49e7-9c87-05d925939fa5/download/mr-ga-ec-ingersos-abr2015.csv",
+          "name": "MR-GA-EC-INGERSOS-ABR2015.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:18:51.082Z",
+          "description": ""
+        },
+        {
+          "id": "ed806751-5d0b-436a-992b-591b2d00a5f9",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5eb09905-48c4-40ac-abce-f8306d837308/resource/ed806751-5d0b-436a-992b-591b2d00a5f9/download/mr-ga-ec-egresos-may2015.csv",
+          "name": "MR-GA-EC-EGRESOS-MAY2015.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:19:16.197Z",
+          "description": ""
+        },
+        {
+          "id": "11d6cb41-2a7b-4bd7-8d9a-44a49360e37e",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5eb09905-48c4-40ac-abce-f8306d837308/resource/11d6cb41-2a7b-4bd7-8d9a-44a49360e37e/download/mr-ga-ec-ingresos-may2015.csv",
+          "name": "MR-GA-EC-INGRESOS-MAY2015.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:19:32.546Z",
+          "description": ""
+        },
+        {
+          "id": "381214ed-d52a-44b1-806a-81addce2afae",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5eb09905-48c4-40ac-abce-f8306d837308/resource/381214ed-d52a-44b1-806a-81addce2afae/download/mr-ga-ec-egresos-jun2015.csv",
+          "name": "MR-GA-EC-EGRESOS-JUN2015.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:20:02.257Z",
+          "description": ""
+        },
+        {
+          "id": "9cc9eaf3-66da-401a-830d-dc26f25dbc43",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5eb09905-48c4-40ac-abce-f8306d837308/resource/9cc9eaf3-66da-401a-830d-dc26f25dbc43/download/mr-ga-ec-ingresos-jun2015.csv",
+          "name": "MR-GA-EC-INGRESOS-JUN2015.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:20:28.697Z",
+          "description": ""
+        },
+        {
+          "id": "07298439-f2df-4339-9b2a-14591a821df4",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5eb09905-48c4-40ac-abce-f8306d837308/resource/07298439-f2df-4339-9b2a-14591a821df4/download/mr-ga-ec-egresos-jul2015.csv",
+          "name": "MR-GA-EC-EGRESOS-JUL2015.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:21:12.620Z",
+          "description": ""
+        },
+        {
+          "id": "6e7ba343-bd2a-4da9-baba-dae7eb7f6f4c",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5eb09905-48c4-40ac-abce-f8306d837308/resource/6e7ba343-bd2a-4da9-baba-dae7eb7f6f4c/download/mr-ga-ec-ingresos-jul2015.csv",
+          "name": "MR-GA-EC-INGRESOS-JUL2015.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:21:34.842Z",
+          "description": ""
+        },
+        {
+          "id": "62dc99ab-ae40-479d-85a9-2fd6072e74bb",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5eb09905-48c4-40ac-abce-f8306d837308/resource/62dc99ab-ae40-479d-85a9-2fd6072e74bb/download/mr-ga-ec-egresos-ago2015.csv",
+          "name": "MR-GA-EC-EGRESOS-AGO2015.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:22:10.274Z",
+          "description": ""
+        },
+        {
+          "id": "1d2a2fb1-52cc-4539-a9fc-d30724202a99",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5eb09905-48c4-40ac-abce-f8306d837308/resource/1d2a2fb1-52cc-4539-a9fc-d30724202a99/download/mr-ga-ec-ingresos-ago2015.csv",
+          "name": "MR-GA-EC-INGRESOS-AGO2015.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:22:24.557Z",
+          "description": ""
+        },
+        {
+          "id": "21ff8d0f-a288-46be-ae56-8af6a3150400",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5eb09905-48c4-40ac-abce-f8306d837308/resource/21ff8d0f-a288-46be-ae56-8af6a3150400/download/mr-ga-ec-egresos-sep2015.csv",
+          "name": "MR-GA-EC-EGRESOS-SEP2015.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:22:55.791Z",
+          "description": ""
+        },
+        {
+          "id": "76ce489e-a49f-4f74-a3fb-866cf858593d",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5eb09905-48c4-40ac-abce-f8306d837308/resource/76ce489e-a49f-4f74-a3fb-866cf858593d/download/mr-ga-ec-ingresos-sep2015.csv",
+          "name": "MR-GA-EC-INGRESOS-SEP2015.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:23:10.850Z",
+          "description": ""
+        },
+        {
+          "id": "07d458c1-0604-48a7-ade6-da4ffb56c27c",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5eb09905-48c4-40ac-abce-f8306d837308/resource/07d458c1-0604-48a7-ade6-da4ffb56c27c/download/mr-ga-ec-egresos-oct2015.csv",
+          "name": "MR-GA-EC-EGRESOS-OCT2015.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:25:48.202Z",
+          "description": ""
+        },
+        {
+          "id": "b1048d84-24f5-4fba-bcdc-d186e978927c",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5eb09905-48c4-40ac-abce-f8306d837308/resource/b1048d84-24f5-4fba-bcdc-d186e978927c/download/mr-ga-ec-ingresos-oct2015.csv",
+          "name": "MR-GA-EC-INGRESOS-OCT2015.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:26:12.461Z",
+          "description": ""
+        },
+        {
+          "id": "8ad6bedb-b038-4518-852d-3eb3ac9dcf3b",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5eb09905-48c4-40ac-abce-f8306d837308/resource/8ad6bedb-b038-4518-852d-3eb3ac9dcf3b/download/mr-ga-ec-egresos-nov2015.csv",
+          "name": "MR-GA-EC-EGRESOS-NOV2015.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:26:31.194Z",
+          "description": ""
+        },
+        {
+          "id": "47006609-8b76-43a2-89df-73d097406173",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5eb09905-48c4-40ac-abce-f8306d837308/resource/47006609-8b76-43a2-89df-73d097406173/download/mr-ga-ec-ingresos-nov2015.csv",
+          "name": "MR-GA-EC-INGRESOS-NOV2015.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:26:47.736Z",
+          "description": ""
+        },
+        {
+          "id": "2d600d40-fb6d-4824-9258-cbafa6f888a1",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5eb09905-48c4-40ac-abce-f8306d837308/resource/2d600d40-fb6d-4824-9258-cbafa6f888a1/download/mr-ga-ec-egresos-dic2015.csv",
+          "name": "MR-GA-EC-EGRESOS-DIC2015.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:27:07.353Z",
+          "description": ""
+        },
+        {
+          "id": "4da8c03c-a267-4017-8079-c2c06439f302",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5eb09905-48c4-40ac-abce-f8306d837308/resource/4da8c03c-a267-4017-8079-c2c06439f302/download/mr-ga-ec-ingresos-dic2015.csv",
+          "name": "MR-GA-EC-INGRESOS-DIC2015.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T18:27:22.140Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2017-07-26T16:02:53.747Z",
+      "updatedAt": "2017-07-26T18:27:28.101Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "2018a081-1755-47d9-815b-99fedf31fe46",
+      "name": "ejecuciones-2016",
+      "title": "Ejecuciones 2016",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "da9cce95-6fe8-4453-a2e2-a3e29f31aba5",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2018a081-1755-47d9-815b-99fedf31fe46/resource/da9cce95-6fe8-4453-a2e2-a3e29f31aba5/download/mr-ga-ec-egresos-ene2016.csv",
+          "name": "MR-GA-EC-EGRESOS-ENE2016.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-26T17:40:18.486Z",
+          "description": ""
+        },
+        {
+          "id": "435d763a-22c7-4334-bbd1-f807458c3709",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2018a081-1755-47d9-815b-99fedf31fe46/resource/435d763a-22c7-4334-bbd1-f807458c3709/download/mr-ga-ec-ingresos-ene2016.csv",
+          "name": "MR-GA-EC-INGRESOS-ENE2016.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-27T17:10:39.175Z",
+          "description": ""
+        },
+        {
+          "id": "a9999a43-579f-4af5-bf6d-f00d8200bf36",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2018a081-1755-47d9-815b-99fedf31fe46/resource/a9999a43-579f-4af5-bf6d-f00d8200bf36/download/mr-ga-ec-egresos-feb2016.csv",
+          "name": "MR-GA-EC-EGRESOS-FEB2016.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-27T17:11:08.555Z",
+          "description": ""
+        },
+        {
+          "id": "c7de590f-69e3-4635-ba1d-038a9e98b347",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2018a081-1755-47d9-815b-99fedf31fe46/resource/c7de590f-69e3-4635-ba1d-038a9e98b347/download/mr-ga-ec-ingresos-feb2016.csv",
+          "name": "MR-GA-EC-INGRESOS-FEB2016.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-27T17:12:00.735Z",
+          "description": ""
+        },
+        {
+          "id": "f6b64a96-8407-441e-9c51-917ea91ed8d1",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2018a081-1755-47d9-815b-99fedf31fe46/resource/f6b64a96-8407-441e-9c51-917ea91ed8d1/download/mr-ga-ec-egresos-mar2016.csv",
+          "name": "MR-GA-EC-EGRESOS-MAR2016.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-27T17:18:39.543Z",
+          "description": ""
+        },
+        {
+          "id": "3aa9d21f-e118-49b7-8d3f-979da0779eda",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2018a081-1755-47d9-815b-99fedf31fe46/resource/3aa9d21f-e118-49b7-8d3f-979da0779eda/download/mr-ga-ec-ingresos-mar2016.csv",
+          "name": "MR-GA-EC-INGRESOS-MAR2016.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-27T17:19:01.745Z",
+          "description": ""
+        },
+        {
+          "id": "1a9c1b6d-a820-4ae6-a5be-cd7bd4832241",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2018a081-1755-47d9-815b-99fedf31fe46/resource/1a9c1b6d-a820-4ae6-a5be-cd7bd4832241/download/mr-ga-ec-egresos-abr2016.csv",
+          "name": "MR-GA-EC-EGRESOS-ABR2016.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-27T17:19:27.895Z",
+          "description": ""
+        },
+        {
+          "id": "b547696c-ef2a-4e22-b3e0-66a3828c46ac",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2018a081-1755-47d9-815b-99fedf31fe46/resource/b547696c-ef2a-4e22-b3e0-66a3828c46ac/download/mr-ga-ec-ingresos-abr2016.csv",
+          "name": "MR-GA-EC-INGRESOS-ABR2016.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-27T17:19:49.372Z",
+          "description": ""
+        },
+        {
+          "id": "f7d4c2a7-ce68-430f-9a41-176c6b492bca",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2018a081-1755-47d9-815b-99fedf31fe46/resource/f7d4c2a7-ce68-430f-9a41-176c6b492bca/download/mr-ga-ec-egresos-may2016.csv",
+          "name": "MR-GA-EC-EGRESOS-MAY2016.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-27T17:20:21.383Z",
+          "description": ""
+        },
+        {
+          "id": "afa91251-da99-4026-ba41-b7c32ac56da4",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2018a081-1755-47d9-815b-99fedf31fe46/resource/afa91251-da99-4026-ba41-b7c32ac56da4/download/mr-ga-ec-ingresos-may2016.csv",
+          "name": "MR-GA-EC-INGRESOS-MAY2016.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-27T17:20:37.629Z",
+          "description": ""
+        },
+        {
+          "id": "b61d8d0e-5315-44ed-897c-055e9e990c71",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2018a081-1755-47d9-815b-99fedf31fe46/resource/b61d8d0e-5315-44ed-897c-055e9e990c71/download/mr-ga-ec-egresos-jun2016.csv",
+          "name": "MR-GA-EC-EGRESOS-JUN2016.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-27T17:20:56.256Z",
+          "description": ""
+        },
+        {
+          "id": "32865695-a218-45ad-a204-95c16ad106e3",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2018a081-1755-47d9-815b-99fedf31fe46/resource/32865695-a218-45ad-a204-95c16ad106e3/download/mr-ga-ec-ingresos-jun2016.csv",
+          "name": "MR-GA-EC-INGRESOS-JUN2016.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-27T17:21:11.315Z",
+          "description": ""
+        },
+        {
+          "id": "4989a025-4e1a-403d-9546-5c625f77c7c4",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2018a081-1755-47d9-815b-99fedf31fe46/resource/4989a025-4e1a-403d-9546-5c625f77c7c4/download/mr-ga-ec-ingresos-jul2016.csv",
+          "name": "MR-GA-EC-INGRESOS-JUL2016.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-27T17:23:12.805Z",
+          "description": ""
+        },
+        {
+          "id": "cb197ae9-ea53-47da-adfc-de418ee7eca4",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2018a081-1755-47d9-815b-99fedf31fe46/resource/cb197ae9-ea53-47da-adfc-de418ee7eca4/download/mr-ga-ec-egresos-jul2016.csv",
+          "name": "MR-GA-EC-EGRESOS-JUL2016.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-27T17:24:59.060Z",
+          "description": ""
+        },
+        {
+          "id": "e437d646-41e1-4b04-b55b-32556b22e44d",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2018a081-1755-47d9-815b-99fedf31fe46/resource/e437d646-41e1-4b04-b55b-32556b22e44d/download/mr-ga-ec-egresos-ago2016.csv",
+          "name": "MR-GA-EC-EGRESOS-AGO2016.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-27T17:28:21.830Z",
+          "description": ""
+        },
+        {
+          "id": "ff772913-9c7a-4e48-84af-477bbe9ca188",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2018a081-1755-47d9-815b-99fedf31fe46/resource/ff772913-9c7a-4e48-84af-477bbe9ca188/download/mr-ga-ec-ingresos-ago2016.csv",
+          "name": "MR-GA-EC-INGRESOS-AGO2016.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-27T17:28:41.559Z",
+          "description": ""
+        },
+        {
+          "id": "24a50c96-9f18-4a1d-bf80-104596d21a2c",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2018a081-1755-47d9-815b-99fedf31fe46/resource/24a50c96-9f18-4a1d-bf80-104596d21a2c/download/mr-ga-ec-egresos-set2016.csv",
+          "name": "MR-GA-EC-EGRESOS-SET2016.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-27T17:29:59.171Z",
+          "description": ""
+        },
+        {
+          "id": "a0921a75-38de-4b1a-a545-0168edd64423",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2018a081-1755-47d9-815b-99fedf31fe46/resource/a0921a75-38de-4b1a-a545-0168edd64423/download/mr-ga-ec-ingresos-set2016.csv",
+          "name": "MR-GA-EC-INGRESOS-SET2016.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-27T17:30:14.581Z",
+          "description": ""
+        },
+        {
+          "id": "244cef96-83b7-4bba-8bbd-d3bef11f04e4",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2018a081-1755-47d9-815b-99fedf31fe46/resource/244cef96-83b7-4bba-8bbd-d3bef11f04e4/download/mr-ga-ec-egresos-oct2016.slk",
+          "name": "MR-GA-EC-EGRESOS-OCT2016.slk",
+          "format": "CSV",
+          "updatedAt": "2017-07-27T17:30:45.886Z",
+          "description": ""
+        },
+        {
+          "id": "89f9160c-c321-4d52-91d4-20823bb5524a",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2018a081-1755-47d9-815b-99fedf31fe46/resource/89f9160c-c321-4d52-91d4-20823bb5524a/download/mr-ga-ec-ingresos-oct2016.csv",
+          "name": "MR-GA-EC-INGRESOS-OCT2016.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-27T17:31:02.314Z",
+          "description": ""
+        },
+        {
+          "id": "66768548-73f0-4db3-a588-c9e1ab1d8984",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2018a081-1755-47d9-815b-99fedf31fe46/resource/66768548-73f0-4db3-a588-c9e1ab1d8984/download/mr-ga-ec-egresos-nov2016.csv",
+          "name": "MR-GA-EC-EGRESOS-NOV2016.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-27T17:31:19.867Z",
+          "description": ""
+        },
+        {
+          "id": "cc7ebddf-2254-4ff2-a1f9-056c778d9583",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2018a081-1755-47d9-815b-99fedf31fe46/resource/cc7ebddf-2254-4ff2-a1f9-056c778d9583/download/mr-ga-ec-ingresos-nov2016.csv",
+          "name": "MR-GA-EC-INGRESOS-NOV2016.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-27T17:31:34.041Z",
+          "description": ""
+        },
+        {
+          "id": "fde304e1-fdff-4b8b-95b6-9fabf4d3c818",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2018a081-1755-47d9-815b-99fedf31fe46/resource/fde304e1-fdff-4b8b-95b6-9fabf4d3c818/download/mr-ga-ec-egresos-dic2016.csv",
+          "name": "MR-GA-EC-EGRESOS-DIC2016.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-27T17:31:51.971Z",
+          "description": ""
+        },
+        {
+          "id": "10f43f13-860e-40cb-8cfd-1fafb3d75ab6",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2018a081-1755-47d9-815b-99fedf31fe46/resource/10f43f13-860e-40cb-8cfd-1fafb3d75ab6/download/mr-ga-ec-ingresos-dic2016.csv",
+          "name": "MR-GA-EC-INGRESOS-DIC2016.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-27T17:32:06.816Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2017-07-26T17:37:41.683Z",
+      "updatedAt": "2017-07-27T17:32:12.453Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "33f11ae1-e7cf-4d2a-a9f1-42fbc82d5af0",
+      "name": "ejecuciones-2017",
+      "title": "Ejecuciones 2017",
+      "keywords": [
+        "2017",
+        "ejecuciones"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "e410ff9b-c7eb-4f25-807c-7b29667eacf4",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/33f11ae1-e7cf-4d2a-a9f1-42fbc82d5af0/resource/e410ff9b-c7eb-4f25-807c-7b29667eacf4/download/mr-ga-ec-egresos-ene2017.csv",
+          "name": "MR-GA-EC-EGRESOS-ENE2017.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-28T14:04:35.283Z",
+          "description": ""
+        },
+        {
+          "id": "130b2bcc-4db1-4258-bb88-303e6e5bb2fe",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/33f11ae1-e7cf-4d2a-a9f1-42fbc82d5af0/resource/130b2bcc-4db1-4258-bb88-303e6e5bb2fe/download/mr-ga-ec-ingresos-ene2017.csv",
+          "name": "MR-GA-EC-INGRESOS-ENE2017.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-28T14:05:02.597Z",
+          "description": ""
+        },
+        {
+          "id": "fe4b9b58-2b18-4606-bed3-0023efd80a2d",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/33f11ae1-e7cf-4d2a-a9f1-42fbc82d5af0/resource/fe4b9b58-2b18-4606-bed3-0023efd80a2d/download/mr-ga-ec-egresos-feb2017.csv",
+          "name": "MR-GA-EC-EGRESOS-FEB2017.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-28T14:05:24.158Z",
+          "description": ""
+        },
+        {
+          "id": "01462e76-12ff-4c4a-8c0e-7276a0401b75",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/33f11ae1-e7cf-4d2a-a9f1-42fbc82d5af0/resource/01462e76-12ff-4c4a-8c0e-7276a0401b75/download/mr-ga-ec-ingresos-feb2017.csv",
+          "name": "MR-GA-EC-INGRESOS-FEB2017.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-28T14:05:40.601Z",
+          "description": ""
+        },
+        {
+          "id": "c8ecec8c-a292-4018-b3e0-79ddae2b612e",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/33f11ae1-e7cf-4d2a-a9f1-42fbc82d5af0/resource/c8ecec8c-a292-4018-b3e0-79ddae2b612e/download/mr-ga-ec-egresos-mar2017.csv",
+          "name": "MR-GA-EC-EGRESOS-MAR2017.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-28T14:06:00.220Z",
+          "description": ""
+        },
+        {
+          "id": "31c6a67b-18c9-477f-a8ed-55147263a236",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/33f11ae1-e7cf-4d2a-a9f1-42fbc82d5af0/resource/31c6a67b-18c9-477f-a8ed-55147263a236/download/mr-ga-ec-ingresos-mar2017.csv",
+          "name": "MR-GA-EC-INGRESOS-MAR2017.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-28T14:06:13.287Z",
+          "description": ""
+        },
+        {
+          "id": "0490bcd3-47d3-41ef-848f-8ec492de0719",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/33f11ae1-e7cf-4d2a-a9f1-42fbc82d5af0/resource/0490bcd3-47d3-41ef-848f-8ec492de0719/download/mr-ga-ec-egresos-abr2017.csv",
+          "name": "MR-GA-EC-EGRESOS-ABR2017.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-28T14:06:26.919Z",
+          "description": ""
+        },
+        {
+          "id": "ef1b2a82-0526-492b-90f0-35b4dcfda3bb",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/33f11ae1-e7cf-4d2a-a9f1-42fbc82d5af0/resource/ef1b2a82-0526-492b-90f0-35b4dcfda3bb/download/mr-ga-ec-ingresos-abr2017.csv",
+          "name": "MR-GA-EC-INGRESOS-ABR2017.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-28T14:06:46.358Z",
+          "description": ""
+        },
+        {
+          "id": "7208586c-0513-450f-93ce-0ea483fcaeb6",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/33f11ae1-e7cf-4d2a-a9f1-42fbc82d5af0/resource/7208586c-0513-450f-93ce-0ea483fcaeb6/download/mr-ga-ec-egresos-may2017.csv",
+          "name": "MR-GA-EC-EGRESOS-MAY2017.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-28T14:07:05.845Z",
+          "description": ""
+        },
+        {
+          "id": "285da303-c43b-4d7a-9779-b26a0d8a3e5a",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/33f11ae1-e7cf-4d2a-a9f1-42fbc82d5af0/resource/285da303-c43b-4d7a-9779-b26a0d8a3e5a/download/mr-ga-ec-ingresos-may2017.csv",
+          "name": "MR-GA-EC-INGRESOS-MAY2017.csv",
+          "format": "CSV",
+          "updatedAt": "2017-07-28T14:07:20.897Z",
+          "description": ""
+        },
+        {
+          "id": "3866bfec-8b74-410d-b785-f0ab01c03873",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/33f11ae1-e7cf-4d2a-a9f1-42fbc82d5af0/resource/3866bfec-8b74-410d-b785-f0ab01c03873/download/mr-ga-ec-egreso-jun2017.xls",
+          "name": "MR-GA-EC-EGRESO-JUN2017.xls",
+          "format": "CSV",
+          "updatedAt": "2017-10-04T14:51:46.321Z",
+          "description": ""
+        },
+        {
+          "id": "7817a175-db0b-40d1-beb5-6fe3fe0c6f5e",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/33f11ae1-e7cf-4d2a-a9f1-42fbc82d5af0/resource/7817a175-db0b-40d1-beb5-6fe3fe0c6f5e/download/mr-ga-ec-ingresos-jun2017.xls",
+          "name": "MR-GA-EC-INGRESOS-JUN2017.xls",
+          "format": "CSV",
+          "updatedAt": "2017-10-04T14:53:24.239Z",
+          "description": ""
+        },
+        {
+          "id": "177f1522-ee1a-4535-aa61-f067305bc36f",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/33f11ae1-e7cf-4d2a-a9f1-42fbc82d5af0/resource/177f1522-ee1a-4535-aa61-f067305bc36f/download/mr-ga-ec-egresos-jul2017.xls",
+          "name": "MR-GA-EC-EGRESOS-JUL2017.xls",
+          "format": "CSV",
+          "updatedAt": "2017-10-04T14:54:02.403Z",
+          "description": ""
+        },
+        {
+          "id": "8e38819b-1ac9-4776-81de-798a450304f4",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/33f11ae1-e7cf-4d2a-a9f1-42fbc82d5af0/resource/8e38819b-1ac9-4776-81de-798a450304f4/download/mr-ga-ec-ingresos-jul2017.xls",
+          "name": "MR-GA-EC-INGRESOS-JUL2017.xls",
+          "format": "CSV",
+          "updatedAt": "2017-10-04T14:54:43.668Z",
+          "description": ""
+        },
+        {
+          "id": "95d63510-e30d-46c0-926f-efce3e24497f",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/33f11ae1-e7cf-4d2a-a9f1-42fbc82d5af0/resource/95d63510-e30d-46c0-926f-efce3e24497f/download/mr-ga-ec-egresos-ago2017.csv",
+          "name": "MR-GA-EC-EGRESOS-AGO2017.csv",
+          "format": "CSV",
+          "updatedAt": "2017-10-23T14:58:59.959Z",
+          "description": ""
+        },
+        {
+          "id": "7c51c208-182f-472c-8929-3d817535221b",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/33f11ae1-e7cf-4d2a-a9f1-42fbc82d5af0/resource/7c51c208-182f-472c-8929-3d817535221b/download/mr-ga-ec-ingresos-ago2017.csv",
+          "name": "MR-GA-EC-INGRESOS-AGO2017.csv",
+          "format": "CSV",
+          "updatedAt": "2017-10-23T14:59:43.006Z",
+          "description": ""
+        },
+        {
+          "id": "1dead656-cc23-47a4-874e-d5dfffb434b1",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/33f11ae1-e7cf-4d2a-a9f1-42fbc82d5af0/resource/1dead656-cc23-47a4-874e-d5dfffb434b1/download/mr-ga-ec-egresos-sep2017.csv",
+          "name": "MR-GA-EC-EGRESOS-SEP2017.csv",
+          "format": "CSV",
+          "updatedAt": "2018-05-08T17:41:41.678Z",
+          "description": ""
+        },
+        {
+          "id": "b48410fc-99c1-468f-8d6e-0b9a07c9082a",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/33f11ae1-e7cf-4d2a-a9f1-42fbc82d5af0/resource/b48410fc-99c1-468f-8d6e-0b9a07c9082a/download/mr-ga-ec-ingresos-sep2017.csv",
+          "name": "MR-GA-EC-INGRESOS-SEP2017",
+          "format": "CSV",
+          "updatedAt": "2018-05-08T17:44:20.718Z",
+          "description": ""
+        },
+        {
+          "id": "6a4ec43f-a9df-4a34-9b1b-a38e3d7e3f23",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/33f11ae1-e7cf-4d2a-a9f1-42fbc82d5af0/resource/6a4ec43f-a9df-4a34-9b1b-a38e3d7e3f23/download/mr-ga-ec-egresos-oct2017.csv",
+          "name": "MR-GA-EC-EGRESOS-OCT2017",
+          "format": "CSV",
+          "updatedAt": "2018-05-08T17:40:19.914Z",
+          "description": ""
+        },
+        {
+          "id": "2b2b8fb9-c245-4a0f-8769-9d12b3357d5a",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/33f11ae1-e7cf-4d2a-a9f1-42fbc82d5af0/resource/2b2b8fb9-c245-4a0f-8769-9d12b3357d5a/download/mr-ga-ec-ingresos-oct2017.csv",
+          "name": "MR-GA-EC-INGRESOS-OCT2017",
+          "format": "CSV",
+          "updatedAt": "2018-05-08T17:38:02.595Z",
+          "description": ""
+        },
+        {
+          "id": "e7a54711-397b-43c2-8831-82101c56af1b",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/33f11ae1-e7cf-4d2a-a9f1-42fbc82d5af0/resource/e7a54711-397b-43c2-8831-82101c56af1b/download/mr-ga-ec-egresos-nov2017.csv",
+          "name": "MR-GA-EC-EGRESOS-NOV2017",
+          "format": "CSV",
+          "updatedAt": "2018-03-12T15:57:35.424Z",
+          "description": ""
+        },
+        {
+          "id": "ea39a7f3-b103-4131-9f44-2c11c9294399",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/33f11ae1-e7cf-4d2a-a9f1-42fbc82d5af0/resource/ea39a7f3-b103-4131-9f44-2c11c9294399/download/mr-ga-ec-ingresos-nov2017.csv",
+          "name": "MR-GA-EC-INGRESOS-NOV2017",
+          "format": "CSV",
+          "updatedAt": "2018-05-08T17:32:13.654Z",
+          "description": ""
+        },
+        {
+          "id": "92117d03-1ed8-46f1-94f3-d3cb6676cb19",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/33f11ae1-e7cf-4d2a-a9f1-42fbc82d5af0/resource/92117d03-1ed8-46f1-94f3-d3cb6676cb19/download/mr-ga-ec-egresos-dic2017.csv",
+          "name": "MR-GA-EC-EGRESOS-DIC2017",
+          "format": "CSV",
+          "updatedAt": "2018-05-08T17:51:41.076Z",
+          "description": ""
+        },
+        {
+          "id": "54170a33-7c3a-493f-b2f2-d4e528728f9e",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/33f11ae1-e7cf-4d2a-a9f1-42fbc82d5af0/resource/54170a33-7c3a-493f-b2f2-d4e528728f9e/download/mr-ga-ec-ingresos-dic2017.csv",
+          "name": "MR-GA-EC-INGRESOS-DIC2017",
+          "format": "CSV",
+          "updatedAt": "2018-05-08T17:56:45.634Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2017-07-28T13:56:19.764Z",
+      "updatedAt": "2018-05-08T17:56:45.789Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "91791485-5fb1-4c17-b20a-e19b3b6f547f",
+      "name": "ejecuciones-2018",
+      "title": "Ejecuciones 2018",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "b3b4dd19-7656-4a2b-be1a-110741e6c055",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/b3b4dd19-7656-4a2b-be1a-110741e6c055/download/mr-ga-ec-ingresos-ene2018.csv",
+          "name": "MR-GA-EC-INGRESOS-ENE2018",
+          "format": "CSV",
+          "updatedAt": "2018-10-02T17:37:54.737Z",
+          "description": ""
+        },
+        {
+          "id": "29931ab9-0f3b-4ff5-a3e2-065035d0316e",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/29931ab9-0f3b-4ff5-a3e2-065035d0316e/download/mr-ga-ec-egresos-ene2018.csv",
+          "name": "MR-GA-EC-EGRESOS-ENE2018",
+          "format": "CSV",
+          "updatedAt": "2018-10-02T17:39:24.751Z",
+          "description": ""
+        },
+        {
+          "id": "de2a4b50-8417-4bc1-babb-6bd74af3acd6",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/de2a4b50-8417-4bc1-babb-6bd74af3acd6/download/mr-ga-ec-egresosxprog-ene2018.csv",
+          "name": "MR-GA-EC-EGRESOSxPROG-ENE2018",
+          "format": "CSV",
+          "updatedAt": "2018-10-02T17:39:59.211Z",
+          "description": ""
+        },
+        {
+          "id": "49c9f97d-619f-4519-b92f-7ef20079870d",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/49c9f97d-619f-4519-b92f-7ef20079870d/download/mr-ga-ec-ingresos-feb2018.csv",
+          "name": "MR-GA-EC-INGRESOS-FEB2018",
+          "format": "CSV",
+          "updatedAt": "2018-10-02T17:32:34.464Z",
+          "description": ""
+        },
+        {
+          "id": "a3749b75-69b9-4ec5-b6b5-813934812374",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/a3749b75-69b9-4ec5-b6b5-813934812374/download/mr-ga-ec-egresos-feb2018.csv",
+          "name": "MR-GA-EC-EGRESOS-FEB2018",
+          "format": "CSV",
+          "updatedAt": "2018-10-02T17:31:38.984Z",
+          "description": ""
+        },
+        {
+          "id": "a3f94419-555b-4887-92f0-b993f6c8ab52",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/a3f94419-555b-4887-92f0-b993f6c8ab52/download/mr-ga-ec-egresosxprog-feb2018.csv",
+          "name": "MR-GA-EC-EGRESOSxPROG-FEB2018.csv",
+          "format": "CSV",
+          "updatedAt": "2018-10-02T17:29:57.744Z",
+          "description": ""
+        },
+        {
+          "id": "b4abf082-f136-4996-b88f-9420a3802b01",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/b4abf082-f136-4996-b88f-9420a3802b01/download/mr-ga-ec-ingresos-mar2018.csv",
+          "name": "MR-GA-EC-INGRESOS-MAR2018",
+          "format": "CSV",
+          "updatedAt": "2018-10-02T17:24:57.077Z",
+          "description": ""
+        },
+        {
+          "id": "69f291b9-17d4-47d9-a587-14a3b0d94734",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/69f291b9-17d4-47d9-a587-14a3b0d94734/download/mr-ga-ec-egresos-mar2018.csv",
+          "name": "MR-GA-EC-EGRESOS-MAR2018",
+          "format": "CSV",
+          "updatedAt": "2018-10-02T17:25:22.350Z",
+          "description": ""
+        },
+        {
+          "id": "ca1d337e-ce6f-47d4-80d7-c0dd073cf845",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/ca1d337e-ce6f-47d4-80d7-c0dd073cf845/download/mr-ga-ec-egresosxprog-mar2018.csv",
+          "name": "MR-GA-EC-EGRESOSxPROG-MAR2018",
+          "format": "CSV",
+          "updatedAt": "2018-10-02T17:25:59.326Z",
+          "description": ""
+        },
+        {
+          "id": "77f96489-4757-41b4-beeb-107f7ef9e801",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/77f96489-4757-41b4-beeb-107f7ef9e801/download/mr-ga-ec-ingresos-abr2018.csv",
+          "name": "MR-GA-EC-INGRESOS-ABR2018",
+          "format": "CSV",
+          "updatedAt": "2018-10-02T17:04:52.248Z",
+          "description": ""
+        },
+        {
+          "id": "4ffbfb12-ddee-4bbf-8c48-18cb7a492c44",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/4ffbfb12-ddee-4bbf-8c48-18cb7a492c44/download/mr-ga-ec-egresos-abr2018.csv",
+          "name": "MR-GA-EC-EGRESOS-ABR2018",
+          "format": "CSV",
+          "updatedAt": "2018-10-02T17:13:43.097Z",
+          "description": ""
+        },
+        {
+          "id": "fc1e2a25-88b5-4b5e-aaf5-cd29438a9e06",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/fc1e2a25-88b5-4b5e-aaf5-cd29438a9e06/download/mr-ga-ec-egresosxprog-abr2018.csv",
+          "name": "MR-GA-EC-EGRESOSxPROG-ABR2018",
+          "format": "CSV",
+          "updatedAt": "2018-10-02T17:14:32.415Z",
+          "description": ""
+        },
+        {
+          "id": "97b016d0-d5d0-4d3b-82e9-2b506d3639af",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/97b016d0-d5d0-4d3b-82e9-2b506d3639af/download/mr-ga-ec-ingresos-may2018.csv",
+          "name": "MR-GA-EC-INGRESOS-MAY2018",
+          "format": "CSV",
+          "updatedAt": "2018-10-02T16:32:32.545Z",
+          "description": ""
+        },
+        {
+          "id": "c304d4ad-5441-4b7a-bcca-7236e952a75f",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/c304d4ad-5441-4b7a-bcca-7236e952a75f/download/mr-ga-ec-egresos-may2018.csv",
+          "name": "MR-GA-EC-EGRESOS-MAY2018",
+          "format": "CSV",
+          "updatedAt": "2018-10-02T16:37:03.140Z",
+          "description": ""
+        },
+        {
+          "id": "c925aa2b-5be7-4a10-9f63-7d585c70899a",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/c925aa2b-5be7-4a10-9f63-7d585c70899a/download/mr-ga-ec-egresosxprog-may2018.csv",
+          "name": "MR-GA-EC-EGRESOSxPROG-MAY2018",
+          "format": "CSV",
+          "updatedAt": "2018-10-02T16:38:01.329Z",
+          "description": ""
+        },
+        {
+          "id": "202cebdb-a9ee-4815-99e8-9d9cd33b5c14",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/202cebdb-a9ee-4815-99e8-9d9cd33b5c14/download/mr-ga-ec-ingresos-jun2018.csv",
+          "name": "MR-GA-EC-INGRESOS-JUN2018.csv",
+          "format": "CSV",
+          "updatedAt": "2018-09-26T17:51:09.822Z",
+          "description": ""
+        },
+        {
+          "id": "889afcd8-33b9-491a-b9fd-dc022aae374f",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/889afcd8-33b9-491a-b9fd-dc022aae374f/download/mr-ga-ec-egresos-jun2018.csv",
+          "name": "MR-GA-EC-EGRESOS-JUN2018.csv",
+          "format": "CSV",
+          "updatedAt": "2018-09-26T17:55:47.469Z",
+          "description": ""
+        },
+        {
+          "id": "f7833226-b20e-4dd1-902d-5b52e58151d4",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/f7833226-b20e-4dd1-902d-5b52e58151d4/download/mr-ga-ec-egresosxprog-jun2018.csv",
+          "name": "MR-GA-EC-EGRESOSxPROG-JUN2018",
+          "format": "CSV",
+          "updatedAt": "2018-09-26T17:37:26.819Z",
+          "description": ""
+        },
+        {
+          "id": "be264691-b3be-41a9-950f-446a92d57354",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/be264691-b3be-41a9-950f-446a92d57354/download/mr-ga-ec-ingresos-jul2018.csv",
+          "name": "MR-GA-EC-INGRESOS-JUL2018",
+          "format": "CSV",
+          "updatedAt": "2018-09-27T15:26:36.728Z",
+          "description": ""
+        },
+        {
+          "id": "b9ee0405-0fa6-4f6f-92e2-3da52d8903c9",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/b9ee0405-0fa6-4f6f-92e2-3da52d8903c9/download/mr-ga-ec-egresos-jul2018.csv",
+          "name": "MR-GA-EC-EGRESOS-JUL2018",
+          "format": "CSV",
+          "updatedAt": "2018-09-27T15:27:09.133Z",
+          "description": ""
+        },
+        {
+          "id": "0d68f633-0c41-46d0-babf-8bc54fd1b08c",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/0d68f633-0c41-46d0-babf-8bc54fd1b08c/download/mr-ga-ec-egresosxprog-jul2018.csv",
+          "name": "MR-GA-EC-EGRESOSxPROG-JUL2018",
+          "format": "CSV",
+          "updatedAt": "2018-09-27T15:27:45.149Z",
+          "description": ""
+        },
+        {
+          "id": "5f1a2284-3b18-4a9d-93d2-899393ae1060",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/5f1a2284-3b18-4a9d-93d2-899393ae1060/download/mr-ga-ec-ingresos-ago2018.csv",
+          "name": "MR-GA-EC-INGRESOS-AGO2018",
+          "format": "CSV",
+          "updatedAt": "2018-11-21T14:54:57.313Z",
+          "description": ""
+        },
+        {
+          "id": "e7804edf-7796-4664-9a55-d0aea6fd6f3f",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/e7804edf-7796-4664-9a55-d0aea6fd6f3f/download/mr-ga-ec-egresos-ago2018.csv",
+          "name": "MR-GA-EC-EGRESOS-AGO2018",
+          "format": "CSV",
+          "updatedAt": "2018-11-21T14:55:41.125Z",
+          "description": ""
+        },
+        {
+          "id": "665ec330-b481-4c7b-9866-f4d3dba50067",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/665ec330-b481-4c7b-9866-f4d3dba50067/download/mr-ga-ec-egresosxprog-ago2018.csv",
+          "name": "MR-GA-EC-EGRESOSxPROG-AGO2018",
+          "format": "CSV",
+          "updatedAt": "2018-11-21T14:56:12.018Z",
+          "description": ""
+        },
+        {
+          "id": "6807dcbf-ec95-4e0a-b6c6-d7173cdc51b1",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/6807dcbf-ec95-4e0a-b6c6-d7173cdc51b1/download/mr-ga-ec-ingresos-sep2018.csv",
+          "name": "MR-GA-EC-INGRESOS-SEP2018",
+          "format": "CSV",
+          "updatedAt": "2018-11-29T15:14:30.258Z",
+          "description": ""
+        },
+        {
+          "id": "7466b2a9-0ba1-4e8d-aeb9-a821badaedea",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/7466b2a9-0ba1-4e8d-aeb9-a821badaedea/download/mr-ga-ec-egresos-sep2018.csv",
+          "name": "MR-GA-EC-EGRESOS-SEP2018",
+          "format": "CSV",
+          "updatedAt": "2018-11-29T15:18:36.056Z",
+          "description": ""
+        },
+        {
+          "id": "c75fbf95-c067-4b22-bea3-35e428bedecc",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/c75fbf95-c067-4b22-bea3-35e428bedecc/download/mr-ga-ec-egresosxprog-sep2018.csv",
+          "name": "MR-GA-EC-EGRESOSxPROG-SEP2018",
+          "format": "CSV",
+          "updatedAt": "2018-11-29T15:17:42.413Z",
+          "description": ""
+        },
+        {
+          "id": "4bc56d23-7c52-4eda-ae43-849a6fbbb018",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/4bc56d23-7c52-4eda-ae43-849a6fbbb018/download/mr-ga-ec-ingresos-oct2018.csv",
+          "name": "MR-GA-EC-INGRESOS-OCT2018",
+          "format": "CSV",
+          "updatedAt": "2018-12-19T18:58:50.609Z",
+          "description": ""
+        },
+        {
+          "id": "82a225ca-969d-4c9d-873d-dc861289ddef",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/82a225ca-969d-4c9d-873d-dc861289ddef/download/mr-ga-ec-egresos-otc2018.csv",
+          "name": "MR-GA-EC-EGRESOS-OTC2018",
+          "format": "CSV",
+          "updatedAt": "2018-12-19T18:59:13.048Z",
+          "description": ""
+        },
+        {
+          "id": "652108e6-d619-44ed-b4df-c2a784307933",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/652108e6-d619-44ed-b4df-c2a784307933/download/mr-ga-ec-egresosxprog-oct018.csv",
+          "name": "MR-GA-EC-EGRESOSxPROG-OCT018",
+          "format": "CSV",
+          "updatedAt": "2018-12-19T19:00:04.170Z",
+          "description": ""
+        },
+        {
+          "id": "8b54ff95-0411-4af1-9d8e-1d2661a58559",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/8b54ff95-0411-4af1-9d8e-1d2661a58559/download/mr-ga-ec-ingresos-nov2018.csv",
+          "name": "MR-GA-EC-INGRESOS-NOV2018.csv",
+          "format": "CSV",
+          "updatedAt": "2019-01-29T18:11:09.354Z",
+          "description": ""
+        },
+        {
+          "id": "b8c7662c-1a8e-445d-8aac-a1278b275a46",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/b8c7662c-1a8e-445d-8aac-a1278b275a46/download/mr-ga-ec-egresos-nov2018.csv",
+          "name": "MR-GA-EC-EGRESOS-NOV2018.csv",
+          "format": "CSV",
+          "updatedAt": "2019-01-29T18:11:36.761Z",
+          "description": ""
+        },
+        {
+          "id": "4e0def53-c23c-46af-9087-348f6b6ffa22",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/4e0def53-c23c-46af-9087-348f6b6ffa22/download/mr-ga-ec-egresosxprog-nov018.csv",
+          "name": "MR-GA-EC-EGRESOSxPROG-NOV018.csv",
+          "format": "CSV",
+          "updatedAt": "2019-01-29T18:12:37.616Z",
+          "description": ""
+        },
+        {
+          "id": "503c9323-f600-4561-b714-8df7bff406a3",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/503c9323-f600-4561-b714-8df7bff406a3/download/cont_ejec_pprogr_20181231.csv",
+          "name": "MR-GA-EC-EGRESOSxPROG-DIC018",
+          "format": "CSV",
+          "updatedAt": "2019-05-08T18:25:20.186Z",
+          "description": ""
+        },
+        {
+          "id": "d58c9fd5-4bc3-435f-947e-c620b08c359a",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/d58c9fd5-4bc3-435f-947e-c620b08c359a/download/cont_ejec20181231.csv",
+          "name": "MR-GA-EC-EGRESOS-DIC2018",
+          "format": "CSV",
+          "updatedAt": "2019-05-08T19:04:47.757Z",
+          "description": ""
+        },
+        {
+          "id": "bfb3fea2-47f3-4a9f-a565-57cdcca59d57",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/91791485-5fb1-4c17-b20a-e19b3b6f547f/resource/bfb3fea2-47f3-4a9f-a565-57cdcca59d57/download/cont_sys20011231.csv",
+          "name": "MR-GA-INGRESOS-DIC18",
+          "format": "CSV",
+          "updatedAt": "2019-05-08T19:06:34.163Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2018-05-21T16:31:22.326Z",
+      "updatedAt": "2019-05-08T19:08:37.277Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "155bf441-f2e5-45b1-91cc-015cab6b0059",
+      "name": "ejecuciones-2019",
+      "title": "Ejecuciones 2019",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "dfa89b04-a170-4698-b24e-a388896c11bf",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/dfa89b04-a170-4698-b24e-a388896c11bf/download/cont_ejec_pprogr_20190131-1.csv",
+          "name": "EGRESOSPROGRAMAS-ENERO2019.csv",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T15:14:16.143Z",
+          "description": ""
+        },
+        {
+          "id": "b41c02d1-28b4-455f-94a9-8c352311a02f",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/b41c02d1-28b4-455f-94a9-8c352311a02f/download/egresos-enero2019.csv",
+          "name": "EGRESOS-ENERO2019.csv",
+          "format": "CSV",
+          "updatedAt": "2019-03-13T19:36:52.312Z",
+          "description": ""
+        },
+        {
+          "id": "f2baa1f2-7a07-4f09-ae14-cd4b3db23a6d",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/f2baa1f2-7a07-4f09-ae14-cd4b3db23a6d/download/ingresos-enero19.csv",
+          "name": "INGRESOS-ENERO2019.csv",
+          "format": "CSV",
+          "updatedAt": "2019-05-10T15:33:25.329Z",
+          "description": ""
+        },
+        {
+          "id": "f5952194-8e94-42c7-b00f-320b41422671",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/f5952194-8e94-42c7-b00f-320b41422671/download/cont_ejec_pprogr_20190228.csv",
+          "name": "EGRESOSPROGRAMAS- FEBRERO2019",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T15:45:16.932Z",
+          "description": ""
+        },
+        {
+          "id": "62610bb7-157d-4076-a914-05810f079b32",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/62610bb7-157d-4076-a914-05810f079b32/download/cont_ejec20190228.csv",
+          "name": "EGRESOS- FEBRERO2019",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T15:46:15.742Z",
+          "description": ""
+        },
+        {
+          "id": "07eeb39e-3ca7-49c3-af91-d07c95e9464b",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/07eeb39e-3ca7-49c3-af91-d07c95e9464b/download/cont_sys20190228.csv",
+          "name": "INGRESOS- FEBRERO2019",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T15:47:07.595Z",
+          "description": ""
+        },
+        {
+          "id": "93ec69e7-8dbb-46aa-947b-ab346a9d7f08",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/93ec69e7-8dbb-46aa-947b-ab346a9d7f08/download/cont_ejec_pprogr_20190331.csv",
+          "name": "EGRESOSPROGRAMAS- MARZO2019",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T15:55:09.740Z",
+          "description": ""
+        },
+        {
+          "id": "1cd75560-0530-4d44-9b1d-b415833c4ddc",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/1cd75560-0530-4d44-9b1d-b415833c4ddc/download/cont_ejec20190331.csv",
+          "name": "EGRESOS- MARZO2019",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T15:56:20.819Z",
+          "description": ""
+        },
+        {
+          "id": "f265d761-f08e-496a-8e21-d657b0d76f91",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/f265d761-f08e-496a-8e21-d657b0d76f91/download/cont_sys20190331.csv",
+          "name": "INGRESOS- MARZO2019",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T15:56:54.259Z",
+          "description": ""
+        },
+        {
+          "id": "0dac5804-8245-4c9c-bcd5-2f7589f39538",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/0dac5804-8245-4c9c-bcd5-2f7589f39538/download/cont_ejec_pprogr_20190430.csv",
+          "name": "EGRESOSPROGRAMAS- ABRIL2019",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T15:59:15.019Z",
+          "description": ""
+        },
+        {
+          "id": "fde7f35e-bc5f-43fe-b9c3-5e72d1a50b43",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/fde7f35e-bc5f-43fe-b9c3-5e72d1a50b43/download/cont_ejec20190430.csv",
+          "name": "EGRESOS- ABRIL2019",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T16:00:12.107Z",
+          "description": ""
+        },
+        {
+          "id": "111e43fb-a756-44fc-a7c9-e2d223d9805c",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/111e43fb-a756-44fc-a7c9-e2d223d9805c/download/cont_sys20190430.csv",
+          "name": "INGRESOS- ABRIL2019",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T16:00:56.245Z",
+          "description": ""
+        },
+        {
+          "id": "8b6b5fcc-d7d5-4434-947a-01879b80ac9c",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/8b6b5fcc-d7d5-4434-947a-01879b80ac9c/download/cont_ejec_pprogr_20190531.csv",
+          "name": "EGRESOSPROGRAMAS- MAYO2019",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T16:03:30.746Z",
+          "description": ""
+        },
+        {
+          "id": "333e24d0-a1d2-4d2d-8f58-b4ad3fd59111",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/333e24d0-a1d2-4d2d-8f58-b4ad3fd59111/download/cont_ejec20190531.csv",
+          "name": "EGRESOS- MAYO2019",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T16:04:12.366Z",
+          "description": ""
+        },
+        {
+          "id": "3c283bec-26fa-4bce-b775-9c860860df4d",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/3c283bec-26fa-4bce-b775-9c860860df4d/download/cont_sys20190531.csv",
+          "name": "INGRESOS- MAYO2019",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T16:04:47.258Z",
+          "description": ""
+        },
+        {
+          "id": "bf994df9-8bd1-483c-9d15-594b58e2885f",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/bf994df9-8bd1-483c-9d15-594b58e2885f/download/cont_ejec_pprogr_20190630.csv",
+          "name": "EGRESOSPROGRAMAS- JUNIO2019",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T16:07:00.855Z",
+          "description": ""
+        },
+        {
+          "id": "92af9440-c2fe-4f30-a9d2-00402bbf7cb6",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/92af9440-c2fe-4f30-a9d2-00402bbf7cb6/download/cont_ejec20190630.csv",
+          "name": "EGRESOS- JUNIO2019",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T16:07:36.262Z",
+          "description": ""
+        },
+        {
+          "id": "7f966c7c-6439-47bd-9a4c-d49f09eb1970",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/7f966c7c-6439-47bd-9a4c-d49f09eb1970/download/cont_sys20190630.csv",
+          "name": "INGRESOS- JUNIO2019",
+          "format": "CSV",
+          "updatedAt": "2019-09-05T16:08:13.015Z",
+          "description": ""
+        },
+        {
+          "id": "a81821a7-1cde-4b50-9501-450369b4313b",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/a81821a7-1cde-4b50-9501-450369b4313b/download/cont_ejec_pprogr_20190731.csv",
+          "name": "EGRESOSPROGRAMAS- JULIO2019",
+          "format": "CSV",
+          "updatedAt": "2019-09-30T16:49:35.095Z",
+          "description": ""
+        },
+        {
+          "id": "09eb3b18-d796-4ebb-a36c-5fb205c6096d",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/09eb3b18-d796-4ebb-a36c-5fb205c6096d/download/cont_ejec20190731.csv",
+          "name": "EGRESOS- JULIO2019",
+          "format": "CSV",
+          "updatedAt": "2019-09-30T16:50:13.118Z",
+          "description": ""
+        },
+        {
+          "id": "d85dee40-b957-48b2-bfe9-8a9a5025bd53",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/d85dee40-b957-48b2-bfe9-8a9a5025bd53/download/cont_sys20190731.csv",
+          "name": "INGRESOS- JULIO2019",
+          "format": "CSV",
+          "updatedAt": "2019-09-30T16:51:22.859Z",
+          "description": ""
+        },
+        {
+          "id": "ec70d0d4-d080-40a4-862a-3c93c48e9b3e",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/ec70d0d4-d080-40a4-862a-3c93c48e9b3e/download/cont_ejec_pprogr_20190831.csv",
+          "name": "EGRESOSPROGRAMAS- AGOSTO2019",
+          "format": "CSV",
+          "updatedAt": "2019-10-28T16:02:29.114Z",
+          "description": ""
+        },
+        {
+          "id": "18d373df-3ad3-46af-96d9-7e0b196bd224",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/18d373df-3ad3-46af-96d9-7e0b196bd224/download/cont_ejec20190831.csv",
+          "name": "EGRESOS- AGOSTO2019",
+          "format": "CSV",
+          "updatedAt": "2019-10-28T16:03:47.876Z",
+          "description": ""
+        },
+        {
+          "id": "f002b576-5f38-422e-b3bd-6269d3c27c29",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/f002b576-5f38-422e-b3bd-6269d3c27c29/download/cont_sys20190831.csv",
+          "name": "INGRESOS- AGOSTO2019",
+          "format": "CSV",
+          "updatedAt": "2019-10-28T16:04:31.186Z",
+          "description": ""
+        },
+        {
+          "id": "03aa4edd-27ad-4e5b-a96f-70c8057ca991",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/03aa4edd-27ad-4e5b-a96f-70c8057ca991/download/cont_ejec_pprogr_20190930.csv",
+          "name": "EGRESOSPROGRAMAS- SEPTIEMBRE2019",
+          "format": "CSV",
+          "updatedAt": "2019-12-19T15:39:09.295Z",
+          "description": ""
+        },
+        {
+          "id": "2aae7032-ad62-4f38-87eb-dfe30efebf58",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/2aae7032-ad62-4f38-87eb-dfe30efebf58/download/cont_ejec20190930.csv",
+          "name": "EGRESOS- SEPTIEMBRE2019",
+          "format": "CSV",
+          "updatedAt": "2019-12-19T15:39:50.814Z",
+          "description": ""
+        },
+        {
+          "id": "ee0405da-d067-4d4a-bd73-621b06686e7e",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/ee0405da-d067-4d4a-bd73-621b06686e7e/download/cont_sys20190930.csv",
+          "name": "INGRESOS- SEPTIEMBRE2019",
+          "format": "CSV",
+          "updatedAt": "2019-12-19T15:41:31.600Z",
+          "description": ""
+        },
+        {
+          "id": "1321cd55-7a6b-47ac-92ea-f3ba4949f5d0",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/1321cd55-7a6b-47ac-92ea-f3ba4949f5d0/download/cont_ejec_pprogr_20191031.csv",
+          "name": "EGRESOSPROGRAMAS- OCTUBRE2019",
+          "format": "CSV",
+          "updatedAt": "2020-01-21T15:30:47.651Z",
+          "description": ""
+        },
+        {
+          "id": "c0de8e9d-9e7a-47e4-8c55-f12ad5bdd888",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/c0de8e9d-9e7a-47e4-8c55-f12ad5bdd888/download/cont_ejec20191031.csv",
+          "name": "EGRESOS- OCTUBRE2019",
+          "format": "CSV",
+          "updatedAt": "2020-01-21T15:31:37.354Z",
+          "description": ""
+        },
+        {
+          "id": "c875fa57-26b1-4c72-a48a-4b2513a70d94",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/c875fa57-26b1-4c72-a48a-4b2513a70d94/download/cont_sys20191031.csv",
+          "name": "INGRESOS- OCTUBRE2019",
+          "format": "CSV",
+          "updatedAt": "2020-01-21T15:32:40.548Z",
+          "description": ""
+        },
+        {
+          "id": "a666c4be-305b-4797-a43c-605fecbec5b5",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/a666c4be-305b-4797-a43c-605fecbec5b5/download/cont_ejec_pprogr_20191130.csv",
+          "name": "EGRESOSPROGRAMAS- NOVIEMBRE2019",
+          "format": "CSV",
+          "updatedAt": "2020-01-21T15:46:27.562Z",
+          "description": ""
+        },
+        {
+          "id": "a44d64db-3d18-4f22-a96b-0d82696b9686",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/a44d64db-3d18-4f22-a96b-0d82696b9686/download/cont_ejec20191130.csv",
+          "name": "EGRESOS- NOVIEMBRE2019",
+          "format": "CSV",
+          "updatedAt": "2020-01-21T15:47:11.675Z",
+          "description": ""
+        },
+        {
+          "id": "d7fca76c-3dd6-41bb-80eb-35cffa402a6e",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/d7fca76c-3dd6-41bb-80eb-35cffa402a6e/download/cont_sys20191130.csv",
+          "name": "INGRESOS- NOVIEMBRE2019",
+          "format": "CSV",
+          "updatedAt": "2020-01-21T15:47:52.246Z",
+          "description": ""
+        },
+        {
+          "id": "21c146b3-b749-426c-9610-d8030bec6a08",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/21c146b3-b749-426c-9610-d8030bec6a08/download/cont_ejec_pprogr_20191231.csv",
+          "name": "EGRESOSPROGRAMAS- DICIEMBRE2019",
+          "format": "CSV",
+          "updatedAt": "2020-05-08T15:53:55.019Z",
+          "description": ""
+        },
+        {
+          "id": "078e1f94-eb3a-493c-b2f6-83e0f4e4b3fe",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/078e1f94-eb3a-493c-b2f6-83e0f4e4b3fe/download/cont_ejec20191231.csv",
+          "name": "EGRESOS- DICIEMBRE2019",
+          "format": "CSV",
+          "updatedAt": "2020-05-08T15:55:13.226Z",
+          "description": ""
+        },
+        {
+          "id": "b0a6bf97-b178-4568-b446-31bd810784a1",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/155bf441-f2e5-45b1-91cc-015cab6b0059/resource/b0a6bf97-b178-4568-b446-31bd810784a1/download/cont_sys20191231.csv",
+          "name": "INGRESOS- DICIEMBRE2019",
+          "format": "CSV",
+          "updatedAt": "2020-05-08T15:55:48.126Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2019-03-13T19:19:56.330Z",
+      "updatedAt": "2020-05-08T15:55:48.197Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "7acbd736-f48e-49eb-86b0-11278155511d",
+      "name": "ejecuciones-2020",
+      "title": "Ejecuciones 2020",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "1c7da529-6351-4c3b-bc86-7a6b2c796565",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/1c7da529-6351-4c3b-bc86-7a6b2c796565/download/cont_sys20200131.csv",
+          "name": "INGRESOS-ENERO2020",
+          "format": "CSV",
+          "updatedAt": "2020-04-03T14:47:11.663Z",
+          "description": ""
+        },
+        {
+          "id": "6f207941-f514-4786-bca1-d7a67a063ed5",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/6f207941-f514-4786-bca1-d7a67a063ed5/download/cont_ejec20200131.csv",
+          "name": "EGRESOS-ENERO2020",
+          "format": "CSV",
+          "updatedAt": "2020-04-03T14:48:13.744Z",
+          "description": ""
+        },
+        {
+          "id": "c8691987-3383-4b83-b0c4-bf3b2c7d341c",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/c8691987-3383-4b83-b0c4-bf3b2c7d341c/download/cont_ejec_pprogr_20200131.csv",
+          "name": "EGRESOSPROGRAMAS-ENERO2020",
+          "format": "CSV",
+          "updatedAt": "2020-04-03T14:49:01.100Z",
+          "description": ""
+        },
+        {
+          "id": "39f95d39-9694-4c3e-a99d-27e8643176e9",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/39f95d39-9694-4c3e-a99d-27e8643176e9/download/cont_ejec_pprogr_20200229.xls",
+          "name": "EGRESOSPROGRAMAS- FEBRERO2020",
+          "format": "CSV",
+          "updatedAt": "2020-04-21T17:45:01.981Z",
+          "description": ""
+        },
+        {
+          "id": "391d1c34-b3c1-4ddb-9fb8-738b0661a064",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/391d1c34-b3c1-4ddb-9fb8-738b0661a064/download/cont_ejec20200229.xls",
+          "name": "EGRESOS- FEBRERO2020",
+          "format": "CSV",
+          "updatedAt": "2020-04-21T17:46:00.056Z",
+          "description": ""
+        },
+        {
+          "id": "75e3428b-2eba-4933-b2fc-47dee30608bc",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/75e3428b-2eba-4933-b2fc-47dee30608bc/download/cont_sys20200229.xls",
+          "name": "INGRESOS- FEBRERO2020",
+          "format": "CSV",
+          "updatedAt": "2020-04-21T17:46:57.418Z",
+          "description": ""
+        },
+        {
+          "id": "d0e27b0b-850b-4159-9021-c9e8c3f0ee74",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/d0e27b0b-850b-4159-9021-c9e8c3f0ee74/download/cont_ejec_pprogr_20200331.csv",
+          "name": "EGRESOSPROGRAMAS- MARZO2020",
+          "format": "CSV",
+          "updatedAt": "2020-05-21T18:32:37.779Z",
+          "description": ""
+        },
+        {
+          "id": "ccef5cdd-b9f5-49f2-94a5-f3e0f2d92d38",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/ccef5cdd-b9f5-49f2-94a5-f3e0f2d92d38/download/cont_ejec20200331.csv",
+          "name": "EGRESOS- MARZO2020",
+          "format": "CSV",
+          "updatedAt": "2020-05-21T18:33:34.202Z",
+          "description": ""
+        },
+        {
+          "id": "8e65b2be-3cb2-4d84-8a95-72aacff32177",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/8e65b2be-3cb2-4d84-8a95-72aacff32177/download/cont_sys20200331.csv",
+          "name": "INGRESOS- MARZO2020",
+          "format": "CSV",
+          "updatedAt": "2020-05-21T18:34:14.566Z",
+          "description": ""
+        },
+        {
+          "id": "670e27c6-ed27-40eb-ba2c-9670cabe11c6",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/670e27c6-ed27-40eb-ba2c-9670cabe11c6/download/cont_sys20200430.csv",
+          "name": "INGRESOS- ABRIL2020",
+          "format": "CSV",
+          "updatedAt": "2020-07-13T14:10:33.972Z",
+          "description": ""
+        },
+        {
+          "id": "c88d03ab-ac80-48bc-a747-ab91053820d5",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/c88d03ab-ac80-48bc-a747-ab91053820d5/download/cont_ejec20200430.csv",
+          "name": "EGRESOS- ABRIL2020",
+          "format": "CSV",
+          "updatedAt": "2020-07-13T14:11:20.956Z",
+          "description": ""
+        },
+        {
+          "id": "22c4f03c-8152-4ab4-9b9b-b26dacd60079",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/22c4f03c-8152-4ab4-9b9b-b26dacd60079/download/cont_ejec_pprogr_20200430.csv",
+          "name": "EGRESOSPROGRAMAS- ABRIL2020",
+          "format": "CSV",
+          "updatedAt": "2020-07-13T14:12:00.582Z",
+          "description": ""
+        },
+        {
+          "id": "bf532466-e842-4393-a3de-d3bfc3a0bb9c",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/bf532466-e842-4393-a3de-d3bfc3a0bb9c/download/cont_sys20200531.xls",
+          "name": "INGRESOS- MAYO2020",
+          "format": "CSV",
+          "updatedAt": "2020-07-30T14:03:26.955Z",
+          "description": ""
+        },
+        {
+          "id": "167789b7-da5b-4f70-9c61-23375bc81935",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/167789b7-da5b-4f70-9c61-23375bc81935/download/cont_ejec20200531.xls",
+          "name": "EGRESOS- MAYO2020",
+          "format": "CSV",
+          "updatedAt": "2020-07-30T14:04:26.925Z",
+          "description": ""
+        },
+        {
+          "id": "8c56679f-49a0-41fa-b3b0-58c12777c958",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/8c56679f-49a0-41fa-b3b0-58c12777c958/download/cont_ejec_pprogr_20200531.xls",
+          "name": "EGRESOSPROGRAMAS- MAYO2020",
+          "format": "CSV",
+          "updatedAt": "2020-07-30T14:05:11.053Z",
+          "description": ""
+        },
+        {
+          "id": "95ec91e0-5a33-44b4-a08a-21d225884cf8",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/95ec91e0-5a33-44b4-a08a-21d225884cf8/download/cont_sys20200630.xls",
+          "name": "INGRESOS- JUNIO2020",
+          "format": "CSV",
+          "updatedAt": "2020-08-24T15:31:54.305Z",
+          "description": ""
+        },
+        {
+          "id": "7a45f21d-e4ea-4752-996a-015fc3ec0b51",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/7a45f21d-e4ea-4752-996a-015fc3ec0b51/download/cont_ejec20200630.xls",
+          "name": "EGRESOS- JUNIO2020",
+          "format": "CSV",
+          "updatedAt": "2020-08-24T15:36:23.203Z",
+          "description": ""
+        },
+        {
+          "id": "e354bc6f-506e-477a-b623-31d18686e0ff",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/e354bc6f-506e-477a-b623-31d18686e0ff/download/cont_ejec_pprogr_20200630.xls",
+          "name": "EGRESOSPROGRAMAS- JUNIO2020",
+          "format": "CSV",
+          "updatedAt": "2020-08-24T15:37:08.214Z",
+          "description": ""
+        },
+        {
+          "id": "d0d7e550-7a05-42b1-b5fe-c168e062770c",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/d0d7e550-7a05-42b1-b5fe-c168e062770c/download/cont_sys20200731.xls",
+          "name": "INGRESOS- JULIO2020",
+          "format": "CSV",
+          "updatedAt": "2020-09-29T15:48:56.075Z",
+          "description": ""
+        },
+        {
+          "id": "25414389-855c-4322-abe2-fc2a54a29cfb",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/25414389-855c-4322-abe2-fc2a54a29cfb/download/cont_ejec20200731.xls",
+          "name": "EGRESOS- JULIO2020",
+          "format": "CSV",
+          "updatedAt": "2020-09-29T15:50:28.506Z",
+          "description": ""
+        },
+        {
+          "id": "1229b892-a838-4f46-8639-91e90954001b",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/1229b892-a838-4f46-8639-91e90954001b/download/cont_ejec_pprogr_20200731.xls",
+          "name": "EGRESOSPROGRAMAS- JULIO2020",
+          "format": "CSV",
+          "updatedAt": "2020-09-29T15:52:27.684Z",
+          "description": ""
+        },
+        {
+          "id": "928965d9-dfdc-4bf4-ba73-d893b1ec0fa1",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/928965d9-dfdc-4bf4-ba73-d893b1ec0fa1/download/cont_sys20200831.xls",
+          "name": "INGRESOS- AGOSTO2020",
+          "format": "CSV",
+          "updatedAt": "2020-10-27T23:50:03.623Z",
+          "description": ""
+        },
+        {
+          "id": "c511cbdd-d7ad-48be-b350-1f740b120d96",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/c511cbdd-d7ad-48be-b350-1f740b120d96/download/cont_ejec20200831.xls",
+          "name": "EGRESOS- AGOSTO2020",
+          "format": "CSV",
+          "updatedAt": "2020-10-27T23:50:44.717Z",
+          "description": ""
+        },
+        {
+          "id": "23937b68-9818-4ab3-bcd2-f4cbadfa2c25",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/23937b68-9818-4ab3-bcd2-f4cbadfa2c25/download/cont_ejec_pprogr_20200831.xls",
+          "name": "EGRESOSPROGRAMAS- AGOSTO2020",
+          "format": "CSV",
+          "updatedAt": "2020-10-27T23:51:23.395Z",
+          "description": ""
+        },
+        {
+          "id": "138e74d5-eb6e-4bbe-8b68-7979e58e11f6",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/138e74d5-eb6e-4bbe-8b68-7979e58e11f6/download/cont_sys20200930.xls",
+          "name": "INGRESOS- SEPTIEMBRE2020",
+          "format": "CSV",
+          "updatedAt": "2020-11-27T15:55:09.111Z",
+          "description": ""
+        },
+        {
+          "id": "4edd20f5-0f38-41e5-8e38-2a1db90d5998",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/4edd20f5-0f38-41e5-8e38-2a1db90d5998/download/cont_ejec20200930.xls",
+          "name": "EGRESOS- SEPTIEMBRE2020",
+          "format": "CSV",
+          "updatedAt": "2020-11-27T15:56:25.933Z",
+          "description": ""
+        },
+        {
+          "id": "23c49c03-faff-44eb-97d6-6d3d9f77729c",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/23c49c03-faff-44eb-97d6-6d3d9f77729c/download/cont_ejec_pprogr_20200930.xls",
+          "name": "EGRESOSPROGRAMAS- SEPTIEMBRE2020",
+          "format": "CSV",
+          "updatedAt": "2020-11-27T15:57:11.227Z",
+          "description": ""
+        },
+        {
+          "id": "4fc751f7-3b4f-4818-867c-d97379374a99",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/4fc751f7-3b4f-4818-867c-d97379374a99/download/cont_sys20201031.xls",
+          "name": "INGRESOS - OCTUBRE2020",
+          "format": "CSV",
+          "updatedAt": "2021-01-07T14:53:31.080Z",
+          "description": ""
+        },
+        {
+          "id": "ac96c72f-1b77-46b5-8261-fb7ee25e7f51",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/ac96c72f-1b77-46b5-8261-fb7ee25e7f51/download/cont_ejec20201031.xls",
+          "name": "EGRESOS - OCTUBRE2020",
+          "format": "CSV",
+          "updatedAt": "2021-01-07T14:54:19.701Z",
+          "description": ""
+        },
+        {
+          "id": "ce5b42e1-b613-4264-ac00-6b8bddfa4bb5",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/ce5b42e1-b613-4264-ac00-6b8bddfa4bb5/download/cont_ejec_pprogr_20201031.xls",
+          "name": "EGRESOSPROGRAMAS - OCTUBRE2020",
+          "format": "CSV",
+          "updatedAt": "2021-01-07T14:55:30.387Z",
+          "description": ""
+        },
+        {
+          "id": "1be7c6ec-b276-4dd9-b393-9f4e72f60c09",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/1be7c6ec-b276-4dd9-b393-9f4e72f60c09/download/cont_sys20201130.xls",
+          "name": "INGRESOS- NOVIEMBRE2020",
+          "format": "CSV",
+          "updatedAt": "2021-03-01T15:00:32.126Z",
+          "description": ""
+        },
+        {
+          "id": "44acb3a5-1dce-416f-92e9-700a4bf48dd0",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/44acb3a5-1dce-416f-92e9-700a4bf48dd0/download/cont_ejec20201130.xls",
+          "name": "EGRESOS- NOVIEMBRE2020",
+          "format": "CSV",
+          "updatedAt": "2021-03-01T15:01:18.842Z",
+          "description": ""
+        },
+        {
+          "id": "dfcb54df-45d5-42ca-be39-9dfaf75299bc",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/7acbd736-f48e-49eb-86b0-11278155511d/resource/dfcb54df-45d5-42ca-be39-9dfaf75299bc/download/cont_ejec_pprogr_20201130.xls",
+          "name": "EGRESOSPROGRAMAS- NOVIEMBRE2020",
+          "format": "CSV",
+          "updatedAt": "2021-03-01T15:05:13.967Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2020-04-03T14:45:20.112Z",
+      "updatedAt": "2021-03-01T15:05:14.039Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "2cb03386-9da0-4c36-8886-3c5e3809eca3",
+      "name": "ejecuciones-2021",
+      "title": "Ejecuciones 2021",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "95284ea8-8a89-422e-8cae-9eee2178776d",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/95284ea8-8a89-422e-8cae-9eee2178776d/download/cont_sys20210131.xls",
+          "name": "INGRESOS-ENERO2021",
+          "format": "CSV",
+          "updatedAt": "2021-04-09T01:26:48.759Z",
+          "description": ""
+        },
+        {
+          "id": "26a73270-301c-4dc6-8a80-a08e16c4c813",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/26a73270-301c-4dc6-8a80-a08e16c4c813/download/cont_ejec20210131.xls",
+          "name": "EGRESOS-ENERO2021",
+          "format": "CSV",
+          "updatedAt": "2021-04-09T01:27:20.269Z",
+          "description": ""
+        },
+        {
+          "id": "726cd81c-f91a-40fb-b9a8-70032bc60e45",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/726cd81c-f91a-40fb-b9a8-70032bc60e45/download/cont_ejec_pprogr_20210131.xls",
+          "name": "EGRESOSPROGRAMAS-ENERO2021",
+          "format": "CSV",
+          "updatedAt": "2021-04-09T01:28:02.585Z",
+          "description": ""
+        },
+        {
+          "id": "894aa450-dd98-436b-a2fd-7e7b654ec7fa",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/894aa450-dd98-436b-a2fd-7e7b654ec7fa/download/cont_sys20210228.xls",
+          "name": "INGRESOS- FEBRERO2021",
+          "format": "CSV",
+          "updatedAt": "2021-05-18T13:54:33.774Z",
+          "description": ""
+        },
+        {
+          "id": "c156d039-793e-4072-9faa-14a19dc6b84e",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/c156d039-793e-4072-9faa-14a19dc6b84e/download/cont_ejec20210228.xls",
+          "name": "EGRESOS- FEBRERO2021",
+          "format": "CSV",
+          "updatedAt": "2021-05-18T13:55:23.537Z",
+          "description": ""
+        },
+        {
+          "id": "40650037-87b2-4c82-bff5-ba8507d90d51",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/40650037-87b2-4c82-bff5-ba8507d90d51/download/cont_ejec_pprogr_20210228.xls",
+          "name": "EGRESOSPROGRAMAS- FEBRERO2021",
+          "format": "CSV",
+          "updatedAt": "2021-05-18T13:56:12.168Z",
+          "description": ""
+        },
+        {
+          "id": "6a790951-68a8-4b26-ab76-a60866dd7132",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/6a790951-68a8-4b26-ab76-a60866dd7132/download/cont_sys20210331.xls",
+          "name": "INGRESOS - MARZO2021",
+          "format": "CSV",
+          "updatedAt": "2021-06-23T14:05:13.363Z",
+          "description": ""
+        },
+        {
+          "id": "59f6796b-40c7-417b-9123-7e314a93e30d",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/59f6796b-40c7-417b-9123-7e314a93e30d/download/cont_ejec20210331.xls",
+          "name": "EGRESOS -MARZO2021",
+          "format": "CSV",
+          "updatedAt": "2021-06-23T14:06:37.484Z",
+          "description": ""
+        },
+        {
+          "id": "51392e40-22ff-4896-b66a-cbe6edf0d63e",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/51392e40-22ff-4896-b66a-cbe6edf0d63e/download/cont_ejec_pprogr_20210331.xls",
+          "name": "EGRESOSPROGRAMAS -MARZO2021",
+          "format": "CSV",
+          "updatedAt": "2021-06-23T14:08:48.186Z",
+          "description": ""
+        },
+        {
+          "id": "5b9c2d19-7f09-497e-8627-b954d5d26e77",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/5b9c2d19-7f09-497e-8627-b954d5d26e77/download/cont_sys20210430.xls",
+          "name": "INGRESOS - ABRIL2021",
+          "format": "CSV",
+          "updatedAt": "2021-07-20T14:03:25.012Z",
+          "description": ""
+        },
+        {
+          "id": "0acc4717-a46d-4a93-9441-07c89d26a606",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/0acc4717-a46d-4a93-9441-07c89d26a606/download/cont_ejec20210430.xls",
+          "name": "EGRESOS - ABRIL2021",
+          "format": "CSV",
+          "updatedAt": "2021-07-20T14:06:12.006Z",
+          "description": ""
+        },
+        {
+          "id": "bae95e5e-8638-4fd7-abb3-e11dbd39bdee",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/bae95e5e-8638-4fd7-abb3-e11dbd39bdee/download/cont_ejec_pprogr_20210430.xls",
+          "name": "EGRESOSPROGRAMAS - ABRIL2021",
+          "format": "CSV",
+          "updatedAt": "2021-07-20T14:07:44.453Z",
+          "description": ""
+        },
+        {
+          "id": "f914934a-71e4-429b-a1e9-7ae7bf60d542",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/f914934a-71e4-429b-a1e9-7ae7bf60d542/download/cont_sys20210531.xls",
+          "name": "INGRESOS - MAYO2021",
+          "format": "CSV",
+          "updatedAt": "2021-08-10T14:46:39.293Z",
+          "description": ""
+        },
+        {
+          "id": "d0140e93-b831-4d65-85c0-765fd770286d",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/d0140e93-b831-4d65-85c0-765fd770286d/download/cont_ejec20210531.xls",
+          "name": "EGRESOS -MAYO2021",
+          "format": "CSV",
+          "updatedAt": "2021-08-10T14:47:24.552Z",
+          "description": ""
+        },
+        {
+          "id": "0dcd63a3-ad0d-4efd-8173-9f99fc915826",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/0dcd63a3-ad0d-4efd-8173-9f99fc915826/download/cont_ejec_pprogr_20210531.xls",
+          "name": "EGRESOSPROGRAMAS -MAYO2021",
+          "format": "CSV",
+          "updatedAt": "2021-08-10T14:48:03.037Z",
+          "description": ""
+        },
+        {
+          "id": "4eb6e4c4-1f0f-4ecf-bc9c-bec5d75493ea",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/4eb6e4c4-1f0f-4ecf-bc9c-bec5d75493ea/download/cont_sys20210630.xls",
+          "name": "INGRESOS -JUNIO2021",
+          "format": "CSV",
+          "updatedAt": "2021-08-30T14:44:21.101Z",
+          "description": ""
+        },
+        {
+          "id": "00483196-061b-435b-8030-794cb0388073",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/00483196-061b-435b-8030-794cb0388073/download/cont_ejec20210630.xls",
+          "name": "EGRESOS -JUNIO2021",
+          "format": "CSV",
+          "updatedAt": "2021-08-30T14:45:04.528Z",
+          "description": ""
+        },
+        {
+          "id": "2416c762-b179-4df1-b901-d5f34107b28f",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/2416c762-b179-4df1-b901-d5f34107b28f/download/cont_ejec_pprogr_20210630.xls",
+          "name": "EGRESOSPROGRAMAS -JUNIO2021",
+          "format": "CSV",
+          "updatedAt": "2021-08-30T14:45:55.019Z",
+          "description": ""
+        },
+        {
+          "id": "70e5527a-6065-48d9-9cbd-ee397b5d7806",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/70e5527a-6065-48d9-9cbd-ee397b5d7806/download/cont_sys20210731.xls",
+          "name": "INGRESOS- JULIO2021",
+          "format": "CSV",
+          "updatedAt": "2021-09-22T18:38:52.875Z",
+          "description": ""
+        },
+        {
+          "id": "2a854eab-070d-443c-893f-585689bdd3d3",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/2a854eab-070d-443c-893f-585689bdd3d3/download/cont_ejec20210731.xls",
+          "name": "EGRESOS- JULIO2021",
+          "format": "CSV",
+          "updatedAt": "2021-09-22T18:40:26.947Z",
+          "description": ""
+        },
+        {
+          "id": "cd36b6fd-f3ba-4699-b0de-bee8f174247f",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/cd36b6fd-f3ba-4699-b0de-bee8f174247f/download/cont_ejec_pprogr_20210731.xls",
+          "name": "EGRESOSPROGRAMAS- JULIO2021",
+          "format": "CSV",
+          "updatedAt": "2021-09-22T18:41:22.434Z",
+          "description": ""
+        },
+        {
+          "id": "66968798-b296-4b6c-9a31-a3c6974f7483",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/66968798-b296-4b6c-9a31-a3c6974f7483/download/cont_sys20210831.xls",
+          "name": "INGRESOS- AGOSTO2021",
+          "format": "CSV",
+          "updatedAt": "2021-10-14T18:45:42.434Z",
+          "description": ""
+        },
+        {
+          "id": "ad47b1e8-40e3-4640-b5bb-3b03c615d032",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/ad47b1e8-40e3-4640-b5bb-3b03c615d032/download/cont_ejec20210831.xls",
+          "name": "EGRESOS- AGOSTO2021",
+          "format": "CSV",
+          "updatedAt": "2021-10-14T18:46:22.926Z",
+          "description": ""
+        },
+        {
+          "id": "c057b998-42c7-4890-883e-8efac6ba6945",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/c057b998-42c7-4890-883e-8efac6ba6945/download/cont_ejec_pprogr_20210831.xls",
+          "name": "EGRESOSPROGRAMAS- AGOSTO2021",
+          "format": "CSV",
+          "updatedAt": "2021-10-14T18:47:04.763Z",
+          "description": ""
+        },
+        {
+          "id": "466eeccc-d6dd-4fc6-9d92-af43ca3428e1",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/466eeccc-d6dd-4fc6-9d92-af43ca3428e1/download/cont_sys20210930.xls",
+          "name": "INGRESOS- SEPTIEMBRE2021",
+          "format": "CSV",
+          "updatedAt": "2021-11-23T14:11:18.765Z",
+          "description": ""
+        },
+        {
+          "id": "097a46bc-cbfc-4f17-b0c8-262bc9730565",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/097a46bc-cbfc-4f17-b0c8-262bc9730565/download/cont_ejec20210930.xls",
+          "name": "EGRESOS- SEPTIEMBRE2021",
+          "format": "CSV",
+          "updatedAt": "2021-11-23T14:12:33.496Z",
+          "description": ""
+        },
+        {
+          "id": "fe96d83c-f54e-499c-ac88-1e37d446c633",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/fe96d83c-f54e-499c-ac88-1e37d446c633/download/cont_ejec_pprogr_20210930.xls",
+          "name": "EGRESOSPROGRAMAS- SEPTIEMBRE2021",
+          "format": "CSV",
+          "updatedAt": "2021-11-23T14:13:30.619Z",
+          "description": ""
+        },
+        {
+          "id": "f10277a2-90c9-40e2-a435-ef994c62bf04",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/f10277a2-90c9-40e2-a435-ef994c62bf04/download/cont_sys20211031.xls",
+          "name": "INGRESOS- OCTUBRE2021",
+          "format": "CSV",
+          "updatedAt": "2022-01-05T13:38:52.954Z",
+          "description": ""
+        },
+        {
+          "id": "730e4a2e-be0f-401a-8fd5-bbdfdad339c6",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/730e4a2e-be0f-401a-8fd5-bbdfdad339c6/download/cont_ejec20211031.xls",
+          "name": "EGRESOS- OCTUBRE2021",
+          "format": "CSV",
+          "updatedAt": "2022-01-05T13:39:43.500Z",
+          "description": ""
+        },
+        {
+          "id": "0a4dad85-ef9f-45e1-8a8f-5f90126eb184",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/0a4dad85-ef9f-45e1-8a8f-5f90126eb184/download/cont_ejec_pprogr_20211031.xls",
+          "name": "EGRESOSPROGRAMAS- OCTUBRE2021",
+          "format": "CSV",
+          "updatedAt": "2022-01-05T13:40:35.116Z",
+          "description": ""
+        },
+        {
+          "id": "f8053ac4-c9c2-4a7d-bd6f-7cb5b645c244",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/f8053ac4-c9c2-4a7d-bd6f-7cb5b645c244/download/cont_sys20211130.xls",
+          "name": "INGRESOS -NOVIEMBRE2021",
+          "format": "CSV",
+          "updatedAt": "2022-02-22T14:06:36.618Z",
+          "description": ""
+        },
+        {
+          "id": "8d5e39ce-dd68-469a-918a-e30ad873753c",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/8d5e39ce-dd68-469a-918a-e30ad873753c/download/cont_ejec20211130.xls",
+          "name": "EGRESOS -NOVIEMBRE2021",
+          "format": "CSV",
+          "updatedAt": "2022-02-22T14:08:10.032Z",
+          "description": ""
+        },
+        {
+          "id": "524d2228-7707-4063-896b-2180dccc9026",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/524d2228-7707-4063-896b-2180dccc9026/download/cont_ejec_pprogr_20211130.xls",
+          "name": "EGRESOSPROGRAMAS -NOVIEMBRE2021",
+          "format": "CSV",
+          "updatedAt": "2022-02-22T14:08:52.458Z",
+          "description": ""
+        },
+        {
+          "id": "701f7e4e-1899-4971-bb69-5c1c0c34f09a",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/701f7e4e-1899-4971-bb69-5c1c0c34f09a/download/cont_sys20211231.xls",
+          "name": "INGRESOS- DICIEMBRE2021",
+          "format": "CSV",
+          "updatedAt": "2022-05-02T14:20:33.554Z",
+          "description": ""
+        },
+        {
+          "id": "72b4d361-4ac1-4750-af3e-f9e867fb45ec",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/72b4d361-4ac1-4750-af3e-f9e867fb45ec/download/cont_ejec20211231.xls",
+          "name": "EGRESOS- DICIEMBRE2021",
+          "format": "CSV",
+          "updatedAt": "2022-05-02T14:22:30.047Z",
+          "description": ""
+        },
+        {
+          "id": "12fddaf8-bbc3-44a4-898a-a17d4d8d5a05",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb03386-9da0-4c36-8886-3c5e3809eca3/resource/12fddaf8-bbc3-44a4-898a-a17d4d8d5a05/download/cont_ejec_pprogr_20211231.xls",
+          "name": "EGRESOSPROGRAMAS -DICIEMBRE2021",
+          "format": "CSV",
+          "updatedAt": "2022-05-02T14:24:11.004Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2021-04-09T01:25:39.303Z",
+      "updatedAt": "2022-05-02T14:24:11.383Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "5515451d-86ca-4d06-ad18-7ac3179c4b10",
+      "name": "ejecuciones-2022",
+      "title": "Ejecuciones",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "75f10a54-fe9d-46a3-873b-ab6bc6d3b3a6",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/75f10a54-fe9d-46a3-873b-ab6bc6d3b3a6/download/cont_sys20220131.xls",
+          "name": "INGRESOS- ENERO2022",
+          "format": "CSV",
+          "updatedAt": "2022-04-06T14:17:14.590Z",
+          "description": ""
+        },
+        {
+          "id": "dac45768-673d-4889-8d82-444607fcfbdf",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/dac45768-673d-4889-8d82-444607fcfbdf/download/cont_ejec20220131.xls",
+          "name": "EGRESOS- ENERO2022",
+          "format": "CSV",
+          "updatedAt": "2022-04-06T14:17:56.796Z",
+          "description": ""
+        },
+        {
+          "id": "da4cc4de-5866-46f6-88e5-09ec77e99fd7",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/da4cc4de-5866-46f6-88e5-09ec77e99fd7/download/cont_ejec_pprogr_20220131.xls",
+          "name": "EGRESOSPROGRAMAS -ENERO2022",
+          "format": "CSV",
+          "updatedAt": "2022-04-06T14:18:34.169Z",
+          "description": ""
+        },
+        {
+          "id": "65ef2555-7c8f-4cd1-9bd9-460ee575ee19",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/65ef2555-7c8f-4cd1-9bd9-460ee575ee19/download/cont_sys20220228.xls",
+          "name": "INGRESOS- FEBRERO2022",
+          "format": "CSV",
+          "updatedAt": "2022-04-20T13:54:22.468Z",
+          "description": ""
+        },
+        {
+          "id": "ea002f06-3b82-4361-968c-6b004070b444",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/ea002f06-3b82-4361-968c-6b004070b444/download/cont_ejec20220228.xls",
+          "name": "EGRESOS- FEBRERO2022",
+          "format": "CSV",
+          "updatedAt": "2022-04-20T13:55:08.263Z",
+          "description": ""
+        },
+        {
+          "id": "6b868005-521a-45d0-ac05-3bafe51841ad",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/6b868005-521a-45d0-ac05-3bafe51841ad/download/cont_ejec_pprogr_20220228.xls",
+          "name": "EGRESOSPROGRAMAS- FEBRERO2022",
+          "format": "CSV",
+          "updatedAt": "2022-04-20T13:55:45.690Z",
+          "description": ""
+        },
+        {
+          "id": "2d92e042-889c-42f7-afe3-fb93198f2068",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/2d92e042-889c-42f7-afe3-fb93198f2068/download/cont_sys20220331.xls",
+          "name": "INGRESOS -MARZO2022",
+          "format": "CSV",
+          "updatedAt": "2022-05-16T16:10:20.393Z",
+          "description": ""
+        },
+        {
+          "id": "02b8392e-f29d-40ca-a95b-88675576e4c9",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/02b8392e-f29d-40ca-a95b-88675576e4c9/download/cont_ejec20220331.xls",
+          "name": "EGRESOS- MARZO2022",
+          "format": "CSV",
+          "updatedAt": "2022-05-16T16:12:32.928Z",
+          "description": ""
+        },
+        {
+          "id": "1ebe01a4-1168-447c-9302-f619d6439c0a",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/1ebe01a4-1168-447c-9302-f619d6439c0a/download/cont_ejec_pprogr_20220331.xls",
+          "name": "EGRESOSPROGRAMAS- MARZO2022",
+          "format": "CSV",
+          "updatedAt": "2022-05-16T16:13:17.314Z",
+          "description": ""
+        },
+        {
+          "id": "1a5073d2-79c6-4ef6-b92f-cf96a8b42f78",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/1a5073d2-79c6-4ef6-b92f-cf96a8b42f78/download/cont_sys20220430.csv",
+          "name": "INGRESOS - ABRIL 2022.csv",
+          "format": "CSV",
+          "updatedAt": "2022-09-16T13:52:39.896Z",
+          "description": "Datos de saldos, ejecuciones y ejecuciones por programa 2022"
+        },
+        {
+          "id": "efd4cc2a-308d-4725-b822-3716f0912434",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/efd4cc2a-308d-4725-b822-3716f0912434/download/cont_ejec20220430.csv",
+          "name": "EGRESOS - ABRIL 2022.csv",
+          "format": "CSV",
+          "updatedAt": "2022-09-16T13:53:27.625Z",
+          "description": "Datos de saldos, ejecuciones y ejecuciones por programa 2022"
+        },
+        {
+          "id": "3152c03f-939c-4f93-85b9-ae059c169e13",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/3152c03f-939c-4f93-85b9-ae059c169e13/download/cont_ejec_pprogr_20220430.csv",
+          "name": "EGRESOS POR PROGRAMAS - ABRIL 2022.csv",
+          "format": "CSV",
+          "updatedAt": "2022-09-16T13:54:00.416Z",
+          "description": "Datos de saldos, ejecuciones y ejecuciones por programa 2022"
+        },
+        {
+          "id": "61824d87-0c2b-4b92-bd14-ad06f9569f0e",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/61824d87-0c2b-4b92-bd14-ad06f9569f0e/download/cont_sys20220531.csv",
+          "name": "INGRESOS - MAYO 2022.csv",
+          "format": "CSV",
+          "updatedAt": "2022-09-16T13:55:40.836Z",
+          "description": "Datos de saldos, ejecuciones y ejecuciones por programa 2022"
+        },
+        {
+          "id": "08e8f804-9a38-4567-85ae-55ae12b50acd",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/08e8f804-9a38-4567-85ae-55ae12b50acd/download/cont_ejec20220531.csv",
+          "name": "EGRESOS - MAYO 2022.csv",
+          "format": "CSV",
+          "updatedAt": "2022-09-16T13:56:50.013Z",
+          "description": "Datos de saldos, ejecuciones y ejecuciones por programa 2022"
+        },
+        {
+          "id": "8cbceb58-cdea-4b02-880f-50a0d5bfbc54",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/8cbceb58-cdea-4b02-880f-50a0d5bfbc54/download/cont_ejec_pprogr_20220531.csv",
+          "name": "EGRESOS POR PROGRAMA - MAYO 2022.csv",
+          "format": "CSV",
+          "updatedAt": "2022-09-16T13:57:57.264Z",
+          "description": "Datos de saldos, ejecuciones y ejecuciones por programa 2022"
+        },
+        {
+          "id": "dee7743f-0970-44dd-b6ce-54eac5b1588b",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/dee7743f-0970-44dd-b6ce-54eac5b1588b/download/cont_sys20220630.csv",
+          "name": "INGRESOS - JUNIO 2022.csv",
+          "format": "CSV",
+          "updatedAt": "2022-09-16T13:59:01.997Z",
+          "description": "Datos de saldos, ejecuciones y ejecuciones por programa 2022"
+        },
+        {
+          "id": "fc58d878-1352-4d1a-9555-95f2bd35fcfb",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/fc58d878-1352-4d1a-9555-95f2bd35fcfb/download/cont_ejec20220630.csv",
+          "name": "EGRESOS - JUNIO 2022.csv",
+          "format": "CSV",
+          "updatedAt": "2022-09-16T13:59:32.938Z",
+          "description": "Datos de saldos, ejecuciones y ejecuciones por programa 2022"
+        },
+        {
+          "id": "1fe62b05-c3bc-4258-bf64-fbaa8161cc4b",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/1fe62b05-c3bc-4258-bf64-fbaa8161cc4b/download/cont_ejec_pprogr_20220630.csv",
+          "name": "EGRESOS POR PROGRAMAS - JUNIO 2022.csv",
+          "format": "CSV",
+          "updatedAt": "2022-09-16T14:00:06.108Z",
+          "description": "Datos de saldos, ejecuciones y ejecuciones por programa 2022"
+        },
+        {
+          "id": "3412d279-aa1c-4747-b35c-7bde050fe2cc",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/3412d279-aa1c-4747-b35c-7bde050fe2cc/download/cont_sys20220731.csv",
+          "name": "INGRESOS - JULIO 2022.csv",
+          "format": "CSV",
+          "updatedAt": "2022-10-05T13:25:47.944Z",
+          "description": "Datos de saldos, ejecuciones y ejecuciones por programa 2022"
+        },
+        {
+          "id": "8e7c4ec3-4e78-416d-b2d7-080e9bbf0ccd",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/8e7c4ec3-4e78-416d-b2d7-080e9bbf0ccd/download/cont_ejec20220731.csv",
+          "name": "EGRESOS - JULIO 2022.csv",
+          "format": "CSV",
+          "updatedAt": "2022-10-05T13:27:03.786Z",
+          "description": "Datos de saldos, ejecuciones y ejecuciones por programa 2022"
+        },
+        {
+          "id": "c52ca840-99dd-431a-b69b-6402749ce16a",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/c52ca840-99dd-431a-b69b-6402749ce16a/download/cont_ejec_pprogr_20220731.csv",
+          "name": "EGRESOS POR PROGRAMAS - JULIO 2022.csv",
+          "format": "CSV",
+          "updatedAt": "2022-10-05T13:28:28.022Z",
+          "description": "Datos de saldos, ejecuciones y ejecuciones por programa 2022"
+        },
+        {
+          "id": "6bfa44b0-f95b-4353-b7ae-f5c8fd8038e4",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/6bfa44b0-f95b-4353-b7ae-f5c8fd8038e4/download/cont_sys20220831.csv",
+          "name": "INGRESOS - AGOSTO 2022.csv",
+          "format": "CSV",
+          "updatedAt": "2023-01-19T14:06:48.356Z",
+          "description": "Datos de saldos, ejecuciones y ejecuciones por programa 2022"
+        },
+        {
+          "id": "1a347c37-2ce6-4b9a-81ad-7c15b86c6b4d",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/1a347c37-2ce6-4b9a-81ad-7c15b86c6b4d/download/cont_ejec20220831.csv",
+          "name": "EGRESOS - AGOSTO 2022.csv",
+          "format": "CSV",
+          "updatedAt": "2023-01-19T14:08:10.309Z",
+          "description": "Datos de saldos, ejecuciones y ejecuciones por programa 2022"
+        },
+        {
+          "id": "fedd7978-0820-496d-b6df-d6f7cb5646c6",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/fedd7978-0820-496d-b6df-d6f7cb5646c6/download/cont_ejec_pprogr_20220831.csv",
+          "name": "EGRESOS POR PROGRAMAS - AGOSTO 2022.csv",
+          "format": "CSV",
+          "updatedAt": "2023-01-19T14:09:57.173Z",
+          "description": "Datos de saldos, ejecuciones y ejecuciones por programa 2022"
+        },
+        {
+          "id": "6f984234-ea58-4db9-b5d1-dfc29687dc87",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/6f984234-ea58-4db9-b5d1-dfc29687dc87/download/cont_sys20220930.csv",
+          "name": "INGRESOS - SETIEMBRE 2022.csv",
+          "format": "CSV",
+          "updatedAt": "2023-01-19T14:11:48.217Z",
+          "description": "Datos de saldos, ejecuciones y ejecuciones por programa 2022"
+        },
+        {
+          "id": "bff654a6-2339-42e8-bcfe-361da6927383",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/bff654a6-2339-42e8-bcfe-361da6927383/download/cont_ejec20220930.csv",
+          "name": "EGRESOS - SETIEMBRE 2022.csv",
+          "format": "CSV",
+          "updatedAt": "2023-01-19T14:13:31.186Z",
+          "description": "Datos de saldos, ejecuciones y ejecuciones por programa 2022"
+        },
+        {
+          "id": "634691c8-0af1-4697-ab18-8ea34b54e040",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/634691c8-0af1-4697-ab18-8ea34b54e040/download/cont_ejec_pprogr_20220930.csv",
+          "name": "EGRESOS POR PROGRAMAS - SETIEMBRE 2022.csv",
+          "format": "CSV",
+          "updatedAt": "2023-01-19T14:15:16.629Z",
+          "description": "Datos de saldos, ejecuciones y ejecuciones por programa 2022"
+        },
+        {
+          "id": "e59e81ab-9603-4775-854f-8207e70f178a",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/e59e81ab-9603-4775-854f-8207e70f178a/download/cont_sys20221031.csv",
+          "name": "INGRESOS - OCTUBRE 2022.csv",
+          "format": "CSV",
+          "updatedAt": "2023-01-19T14:16:11.802Z",
+          "description": "Datos de saldos, ejecuciones y ejecuciones por programa 2022"
+        },
+        {
+          "id": "b85d4424-924d-4ebb-b8d9-80b6648b2b29",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/b85d4424-924d-4ebb-b8d9-80b6648b2b29/download/cont_ejec20221031.csv",
+          "name": "EGRESOS - OCTUBRE 2022.csv",
+          "format": "CSV",
+          "updatedAt": "2023-01-19T14:17:14.205Z",
+          "description": "Datos de saldos, ejecuciones y ejecuciones por programa 2022"
+        },
+        {
+          "id": "d98d25fa-f1a2-4196-b22a-d2f5a5a0ff9c",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/d98d25fa-f1a2-4196-b22a-d2f5a5a0ff9c/download/cont_ejec_pprogr_20221031.csv",
+          "name": "EGRESOS POR PROGRAMAS - OCTUBRE 2022.csv",
+          "format": "CSV",
+          "updatedAt": "2023-01-19T14:18:08.040Z",
+          "description": "Datos de saldos, ejecuciones y ejecuciones por programa 2022"
+        },
+        {
+          "id": "09e82890-d7f3-401e-9b18-f322de9883a1",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/09e82890-d7f3-401e-9b18-f322de9883a1/download/cont_sys20221130.xls",
+          "name": "INGRESOS - NOVIEMBRE 2022.csv",
+          "format": "CSV",
+          "updatedAt": "2023-03-09T16:54:38.618Z",
+          "description": ""
+        },
+        {
+          "id": "00d396b4-6d1d-486f-bad4-427f36e0da0a",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/00d396b4-6d1d-486f-bad4-427f36e0da0a/download/cont_ejec20221130.xls",
+          "name": "EGRESOS - NOVIEMBRE 2022.csv",
+          "format": "CSV",
+          "updatedAt": "2023-03-09T16:57:13.502Z",
+          "description": ""
+        },
+        {
+          "id": "cf77d9a2-8761-47f5-a7a8-33ac7aefedaa",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/cf77d9a2-8761-47f5-a7a8-33ac7aefedaa/download/cont_ejec_pprogr_20221130.xls",
+          "name": "EGRESOS POR PROGRAMAS - NOVIEMBRE 2022.csv",
+          "format": "CSV",
+          "updatedAt": "2023-03-09T16:58:29.306Z",
+          "description": ""
+        },
+        {
+          "id": "33e55f45-9758-4817-9a19-7e18fc2b9292",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/33e55f45-9758-4817-9a19-7e18fc2b9292/download/cont_sys20221231.xls",
+          "name": "INGRESOS DICIEMBRE 2022",
+          "format": "CSV",
+          "updatedAt": "2023-05-09T13:50:26.858Z",
+          "description": ""
+        },
+        {
+          "id": "0cc0da6f-d775-496a-8483-3c57deb8b62a",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/0cc0da6f-d775-496a-8483-3c57deb8b62a/download/cont_ejec20221231.xls",
+          "name": "EGRESOS - DICIEMBRE 2022",
+          "format": "CSV",
+          "updatedAt": "2023-05-09T14:03:29.489Z",
+          "description": ""
+        },
+        {
+          "id": "45346331-b925-4ff7-a91c-4aeff884422e",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/45346331-b925-4ff7-a91c-4aeff884422e/download/cont_ejec_pprogr_20221231.xls",
+          "name": "EGRESOS POR PROGRAMA - DICIEMBRE 2022",
+          "format": "CSV",
+          "updatedAt": "2023-05-09T14:04:35.097Z",
+          "description": ""
+        },
+        {
+          "id": "79f37045-a23f-43e7-94a7-3215d0c9ad32",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/79f37045-a23f-43e7-94a7-3215d0c9ad32/download/cont_sys20230131.xls",
+          "name": "INGRESOS - ENERO 2023",
+          "format": "CSV",
+          "updatedAt": "2023-04-03T12:32:11.170Z",
+          "description": ""
+        },
+        {
+          "id": "47c834d8-c094-4659-8cd2-39e31eff825e",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/47c834d8-c094-4659-8cd2-39e31eff825e/download/cont_ejec20230131.xls",
+          "name": "EGRESOS - ENERO 2023",
+          "format": "CSV",
+          "updatedAt": "2023-04-03T12:34:55.277Z",
+          "description": ""
+        },
+        {
+          "id": "ea7cb750-a12e-4549-94d6-4522ef3b3c27",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/ea7cb750-a12e-4549-94d6-4522ef3b3c27/download/cont_ejec_pprogr_20230131.xls",
+          "name": "EGRESOS POR PROGRAMAS - ENERO 2023",
+          "format": "CSV",
+          "updatedAt": "2023-04-03T12:36:25.404Z",
+          "description": ""
+        },
+        {
+          "id": "0d195d31-0246-4f91-8f68-784d42e03678",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/0d195d31-0246-4f91-8f68-784d42e03678/download/cont_sys20230228.xls",
+          "name": "INGRESOS FEBRERO 2023",
+          "format": "CSV",
+          "updatedAt": "2023-04-12T12:49:07.321Z",
+          "description": ""
+        },
+        {
+          "id": "4265a3cf-ea97-41c1-8328-6fda305f8e49",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/4265a3cf-ea97-41c1-8328-6fda305f8e49/download/cont_ejec20230228.xls",
+          "name": "EGRESOS - FEBRERO 2023",
+          "format": "CSV",
+          "updatedAt": "2023-04-12T12:50:10.633Z",
+          "description": ""
+        },
+        {
+          "id": "3ee8c203-4614-4bf2-afd3-bb545bcd1047",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/3ee8c203-4614-4bf2-afd3-bb545bcd1047/download/cont_ejec_pprogr_20230228.xls",
+          "name": "EGRESOS POR PROGRAMA - FEBRERO 2023",
+          "format": "CSV",
+          "updatedAt": "2023-04-12T12:50:54.936Z",
+          "description": ""
+        },
+        {
+          "id": "3a2df899-ac0c-49f0-b726-3826f796a955",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/3a2df899-ac0c-49f0-b726-3826f796a955/download/cont_sys20230331.xls",
+          "name": "INGRESOS - MARZO 2023",
+          "format": "CSV",
+          "updatedAt": "2023-06-09T15:00:32.904Z",
+          "description": ""
+        },
+        {
+          "id": "5834a1b2-517c-4d7a-acc3-07cad45ab2aa",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/5834a1b2-517c-4d7a-acc3-07cad45ab2aa/download/cont_ejec20230331.xls",
+          "name": "EGRESOS - MARZO 2023",
+          "format": "CSV",
+          "updatedAt": "2023-06-09T15:02:16.235Z",
+          "description": ""
+        },
+        {
+          "id": "aaa95183-6b9d-46d3-8c10-d601275a89ca",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/aaa95183-6b9d-46d3-8c10-d601275a89ca/download/cont_ejec_pprogr_20230331.xls",
+          "name": "EGRESOS POR PROGRAMA - MARZO 2023",
+          "format": "CSV",
+          "updatedAt": "2023-06-09T15:04:05.014Z",
+          "description": ""
+        },
+        {
+          "id": "21007b73-6bb7-46e0-917c-77df76088355",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/21007b73-6bb7-46e0-917c-77df76088355/download/cont_sys20230430.xls",
+          "name": "INGRESOS - ABRIL 2023",
+          "format": "CSV",
+          "updatedAt": "2023-07-24T13:47:51.465Z",
+          "description": ""
+        },
+        {
+          "id": "bae3ce1c-1568-499b-9752-18417ead4b26",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/bae3ce1c-1568-499b-9752-18417ead4b26/download/cont_ejec20230430.xls",
+          "name": "EGRESOS - ABRIL 2023",
+          "format": "CSV",
+          "updatedAt": "2023-07-24T13:48:58.353Z",
+          "description": ""
+        },
+        {
+          "id": "949029ba-f759-41d8-a4ac-4d2f7083901a",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/949029ba-f759-41d8-a4ac-4d2f7083901a/download/cont_ejec_pprogr_20230430.xls",
+          "name": "EGRESOS POR PROGRAMA - ABRIL 2023",
+          "format": "CSV",
+          "updatedAt": "2023-07-24T13:50:40.645Z",
+          "description": ""
+        },
+        {
+          "id": "a8875165-2ac3-447a-8c29-24e46770734b",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/a8875165-2ac3-447a-8c29-24e46770734b/download/cont_sys20230531.xls",
+          "name": "INGRESOS - MAYO 2023",
+          "format": "CSV",
+          "updatedAt": "2023-08-10T13:24:11.574Z",
+          "description": ""
+        },
+        {
+          "id": "70853c8e-8fa6-4b03-ae32-b565a7926289",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/70853c8e-8fa6-4b03-ae32-b565a7926289/download/cont_ejec20230531.xls",
+          "name": "EGRESOS - MAYO 2023",
+          "format": "CSV",
+          "updatedAt": "2023-08-10T13:26:09.319Z",
+          "description": ""
+        },
+        {
+          "id": "b118ea5c-eb0e-4bbb-9857-c2e4dc4a8580",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/b118ea5c-eb0e-4bbb-9857-c2e4dc4a8580/download/cont_ejec_pprogr_20230531.xls",
+          "name": "EGRESOS POR PROGRAMAS- MAYO 2023",
+          "format": "CSV",
+          "updatedAt": "2023-08-10T13:30:37.636Z",
+          "description": ""
+        },
+        {
+          "id": "c9768f0a-66e0-4636-8d2e-ed38e5354cc3",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/c9768f0a-66e0-4636-8d2e-ed38e5354cc3/download/cont_sys20230630.xls",
+          "name": "INGRESOS - JUNIO 2023",
+          "format": "CSV",
+          "updatedAt": "2023-08-17T18:37:43.501Z",
+          "description": ""
+        },
+        {
+          "id": "f7f14d77-eaa4-4e1d-9a09-96c7fb0e1774",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/f7f14d77-eaa4-4e1d-9a09-96c7fb0e1774/download/cont_ejec20230630.xls",
+          "name": "EGRESOS - JUNIO 2023",
+          "format": "CSV",
+          "updatedAt": "2023-08-17T18:38:51.085Z",
+          "description": ""
+        },
+        {
+          "id": "2fca7de8-ddf3-46b8-ac86-a4f11a6c9730",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/2fca7de8-ddf3-46b8-ac86-a4f11a6c9730/download/cont_ejec_pprogr_20230630.xls",
+          "name": "EGRESOS POR PROGRAMAS - JUNIO 2023",
+          "format": "CSV",
+          "updatedAt": "2023-08-17T18:39:46.777Z",
+          "description": ""
+        },
+        {
+          "id": "213c3cbe-7dd0-431e-8edf-b7d3c4357209",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/213c3cbe-7dd0-431e-8edf-b7d3c4357209/download/cont_sys20230731.xls",
+          "name": "INGRESOS - JULIO 2023",
+          "format": "CSV",
+          "updatedAt": "2023-11-03T17:21:30.745Z",
+          "description": ""
+        },
+        {
+          "id": "2324da11-149c-4cca-bc21-66e3ffde9b02",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/2324da11-149c-4cca-bc21-66e3ffde9b02/download/cont_ejec20230731.xls",
+          "name": "EGRESOS - JULIO 2023",
+          "format": "CSV",
+          "updatedAt": "2023-11-03T17:23:51.110Z",
+          "description": ""
+        },
+        {
+          "id": "489f4727-81c4-4e06-b0a8-d8440d124b3a",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/489f4727-81c4-4e06-b0a8-d8440d124b3a/download/cont_ejec_pprogr_20230731.xls",
+          "name": "EGRESOS POR PROGRAMAS - JUNIO 2023",
+          "format": "CSV",
+          "updatedAt": "2023-11-03T17:31:25.379Z",
+          "description": ""
+        },
+        {
+          "id": "55fe4c98-562c-4eb5-ae1a-0b0e122d02c4",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/55fe4c98-562c-4eb5-ae1a-0b0e122d02c4/download/cont_sys20230831.xls",
+          "name": "INGRESOS - AGOSTO 2023",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T13:27:32.515Z",
+          "description": ""
+        },
+        {
+          "id": "f15e5ccc-b9d9-40b4-849b-331d076922a1",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/f15e5ccc-b9d9-40b4-849b-331d076922a1/download/cont_ejec20230831.xls",
+          "name": "EGRESOS - AGOSTO 2023",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T13:28:42.965Z",
+          "description": ""
+        },
+        {
+          "id": "6ecc1245-995a-4253-9dbf-7909525e3198",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/6ecc1245-995a-4253-9dbf-7909525e3198/download/cont_ejec_pprogr_20230831.xls",
+          "name": "EGRESOS POR PROGRAMAS - AGOSTO 2023",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T13:29:54.199Z",
+          "description": ""
+        },
+        {
+          "id": "207cca2d-8be4-4144-9fdd-2f0abcfbff03",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/207cca2d-8be4-4144-9fdd-2f0abcfbff03/download/cont_sys20230930.xls",
+          "name": "INGRESOS - SETIEMBRE 2023",
+          "format": "CSV",
+          "updatedAt": "2023-11-24T17:00:27.463Z",
+          "description": ""
+        },
+        {
+          "id": "2dff4636-e45e-4f82-a329-4ff00a2ed2af",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/2dff4636-e45e-4f82-a329-4ff00a2ed2af/download/cont_ejec20230930.xls",
+          "name": "EGRESOS - SETIEMBRE 2023",
+          "format": "CSV",
+          "updatedAt": "2023-11-24T17:01:34.172Z",
+          "description": ""
+        },
+        {
+          "id": "d31a01f9-d20b-42e8-ab70-6995cf20f2e8",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/d31a01f9-d20b-42e8-ab70-6995cf20f2e8/download/cont_ejec_pprogr_20230930.xls",
+          "name": "EGRESOS POR PROGRAMA - SETIEMBRE 2023",
+          "format": "CSV",
+          "updatedAt": "2023-11-24T17:02:17.699Z",
+          "description": ""
+        },
+        {
+          "id": "2782b303-afe0-4fe0-99b1-6f86f97d9be9",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/2782b303-afe0-4fe0-99b1-6f86f97d9be9/download/cont_sys20231031.xls",
+          "name": "INGRESOS - OCTUBRE 2023",
+          "format": "CSV",
+          "updatedAt": "2023-12-14T12:08:19.537Z",
+          "description": ""
+        },
+        {
+          "id": "84b39be9-4caf-4ec1-9dc4-7fbfeac395f2",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/84b39be9-4caf-4ec1-9dc4-7fbfeac395f2/download/cont_ejec20231031.xls",
+          "name": "EGRESOS - OCTUBRE 2023",
+          "format": "CSV",
+          "updatedAt": "2023-12-14T12:09:27.209Z",
+          "description": ""
+        },
+        {
+          "id": "f669a520-bf92-4b65-a13a-452da66a3971",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/5515451d-86ca-4d06-ad18-7ac3179c4b10/resource/f669a520-bf92-4b65-a13a-452da66a3971/download/cont_ejec_pprogr_20231031.xls",
+          "name": "EGRESOS POR PROGRAMA - OCTUBRE 2023",
+          "format": "CSV",
+          "updatedAt": "2023-12-14T12:10:18.541Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2022-04-06T14:14:14.037Z",
+      "updatedAt": "2023-12-14T12:10:18.637Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "2ed36484-443a-489c-8a04-c082bb8d0ccc",
+      "name": "fondo-especial-para-desague-2019",
+      "title": "Fondo Especial para Desagües 2019",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "597c340e-02e1-4951-a2fa-572d9edea6b4",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2ed36484-443a-489c-8a04-c082bb8d0ccc/resource/597c340e-02e1-4951-a2fa-572d9edea6b4/download/ingresos.xlsx",
+          "name": "Ingresos- 1er Semestre 2019",
+          "format": "CSV",
+          "updatedAt": "2019-09-30T17:07:02.260Z",
+          "description": ""
+        },
+        {
+          "id": "11bc2539-b13d-4358-a34f-c60e803c364d",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2ed36484-443a-489c-8a04-c082bb8d0ccc/resource/11bc2539-b13d-4358-a34f-c60e803c364d/download/egresos.xlsx",
+          "name": "Egresos- 1er semestre 2019",
+          "format": "CSV",
+          "updatedAt": "2019-09-30T17:07:44.092Z",
+          "description": ""
+        },
+        {
+          "id": "75fe385f-52a8-45e9-b93b-93d53275ca2d",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2ed36484-443a-489c-8a04-c082bb8d0ccc/resource/75fe385f-52a8-45e9-b93b-93d53275ca2d/download/proveedores.xlsx",
+          "name": "Proveedores- 1er semestre 2019",
+          "format": "CSV",
+          "updatedAt": "2019-09-30T17:08:26.030Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2019-09-26T13:53:18.253Z",
+      "updatedAt": "2019-09-30T17:08:26.064Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "2c073eef-f262-44db-9332-afbbf3fa7e33",
+      "name": "fondo-especial-para-desagues",
+      "title": "Fondo Especial para Desagües 2017",
+      "keywords": [
+        "ejecuciones"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "00ed7daf-e58e-4891-93ad-516a245d5bbe",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2c073eef-f262-44db-9332-afbbf3fa7e33/resource/00ed7daf-e58e-4891-93ad-516a245d5bbe/download/2017s1-fe-empedrado-i.csv",
+          "name": "2017S1-FE-Desagüe-I",
+          "format": "CSV",
+          "updatedAt": "2018-05-14T16:54:42.620Z",
+          "description": "Ingresos del Fondo Especial para Desagües - Primer Semestre"
+        },
+        {
+          "id": "2e68ef8b-e6c2-4277-a0e1-68b1d68e8258",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2c073eef-f262-44db-9332-afbbf3fa7e33/resource/2e68ef8b-e6c2-4277-a0e1-68b1d68e8258/download/2017s1-fe-empedrado-e.csv",
+          "name": "2017S1-FE-Desagüe-E",
+          "format": "CSV",
+          "updatedAt": "2018-05-14T16:55:40.924Z",
+          "description": "Haberes y Aportes Patronales - Primer Semestre"
+        },
+        {
+          "id": "2421ec7c-355a-4393-a442-362621f8ac03",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2c073eef-f262-44db-9332-afbbf3fa7e33/resource/2421ec7c-355a-4393-a442-362621f8ac03/download/2017s1-fe-empedrado-prov.csv",
+          "name": "2017S1-FE-Desagüe-PROV",
+          "format": "CSV",
+          "updatedAt": "2018-05-14T16:56:34.066Z",
+          "description": "Pago a Proveedores - Primer Semestre"
+        },
+        {
+          "id": "3eef0238-553f-4ec7-8612-876f33e8332e",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2c073eef-f262-44db-9332-afbbf3fa7e33/resource/3eef0238-553f-4ec7-8612-876f33e8332e/download/2017s2-fe-empedrado-i.csv",
+          "name": "2017S2-FE-Desagüe-I",
+          "format": "CSV",
+          "updatedAt": "2018-05-14T16:57:54.404Z",
+          "description": "Ingresos del Fondo Especial para Desagües - Segundo Semestre"
+        },
+        {
+          "id": "ea0845a2-0f8a-4281-9297-7cc0ef5f14a4",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2c073eef-f262-44db-9332-afbbf3fa7e33/resource/ea0845a2-0f8a-4281-9297-7cc0ef5f14a4/download/2017s2-fe-empedrado-prov.csv",
+          "name": "2017S2-FE-Desagüe-PROV",
+          "format": "CSV",
+          "updatedAt": "2018-05-14T16:58:43.124Z",
+          "description": "Pago a Proveedores - Segundo Semestre"
+        },
+        {
+          "id": "344b7c9e-811e-4a27-9367-1fcaed959f82",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2c073eef-f262-44db-9332-afbbf3fa7e33/resource/344b7c9e-811e-4a27-9367-1fcaed959f82/download/2017s2-fe-empedrado-e.csv",
+          "name": "2017S2-FE-Desagüe-E",
+          "format": "CSV",
+          "updatedAt": "2018-05-14T16:59:29.885Z",
+          "description": "Haberes y Aportes Patronales - Segundo Semestre"
+        }
+      ],
+      "createdAt": "2018-05-10T22:05:18.879Z",
+      "updatedAt": "2018-05-14T16:59:29.917Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "43a0d65f-4417-4c2f-a3fc-3026cc5c9974",
+      "name": "fondo-especial-para-desagues-2018",
+      "title": "Fondo Especial para Desagües 2018",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "09b0c249-080a-4bde-a43d-6a94694c7b1b",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/43a0d65f-4417-4c2f-a3fc-3026cc5c9974/resource/09b0c249-080a-4bde-a43d-6a94694c7b1b/download/2018s1-fe-desague-i.csv",
+          "name": "2018S1-FE-Desagüe-I",
+          "format": "CSV",
+          "updatedAt": "2018-10-08T13:42:53.450Z",
+          "description": ""
+        },
+        {
+          "id": "150bbb02-8c37-42f7-900a-e2d9ddb755ea",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/43a0d65f-4417-4c2f-a3fc-3026cc5c9974/resource/150bbb02-8c37-42f7-900a-e2d9ddb755ea/download/2018s1-fe-desague-e.csv",
+          "name": "2018S1-FE-Desagüe-E",
+          "format": "CSV",
+          "updatedAt": "2018-10-08T13:46:09.832Z",
+          "description": ""
+        },
+        {
+          "id": "32e88357-f1a0-4f6d-b867-0ee4048712f4",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/43a0d65f-4417-4c2f-a3fc-3026cc5c9974/resource/32e88357-f1a0-4f6d-b867-0ee4048712f4/download/2018s1-fe-desague-prov.csv",
+          "name": "2018S1-FE-Desagüe-PROV",
+          "format": "CSV",
+          "updatedAt": "2018-10-08T13:48:55.618Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2018-10-08T13:39:22.421Z",
+      "updatedAt": "2018-10-08T13:53:34.349Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "a696cf86-6753-4ea7-bd06-898cae359bee",
+      "name": "fondo-especial-para-empedrado",
+      "title": "Fondo Especial para Empedrado 2017",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "8b8d01a0-1027-4801-a18c-599dc70b6be6",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/a696cf86-6753-4ea7-bd06-898cae359bee/resource/8b8d01a0-1027-4801-a18c-599dc70b6be6/download/2017s1-fe-empedrado-i.csv",
+          "name": "2017S1-FE-Empedrado-I",
+          "format": "CSV",
+          "updatedAt": "2018-05-14T16:21:48.011Z",
+          "description": "Ingresos mensuales del Fondo Especial para Empedrado - Primer Semestre"
+        },
+        {
+          "id": "9a9e7dc1-166b-4687-b51e-4139e97db2b5",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/a696cf86-6753-4ea7-bd06-898cae359bee/resource/9a9e7dc1-166b-4687-b51e-4139e97db2b5/download/2017s1-fe-empedrado-e.csv",
+          "name": "2017S1-FE-Empedrado-E.csv",
+          "format": "CSV",
+          "updatedAt": "2018-05-14T16:26:13.721Z",
+          "description": "Egresos correspondientes a Haberes y Aportes Patronales - Primer Semestre"
+        },
+        {
+          "id": "28e9d0c2-0d71-4c6c-9eef-7dae48550ce0",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/a696cf86-6753-4ea7-bd06-898cae359bee/resource/28e9d0c2-0d71-4c6c-9eef-7dae48550ce0/download/2017s1-fe-empedrado-prov.csv",
+          "name": "2017S1-FE-Empedrado-PROV.csv",
+          "format": "CSV",
+          "updatedAt": "2018-05-14T16:33:57.753Z",
+          "description": "Pagos a Proveedores - Primer Semestre"
+        },
+        {
+          "id": "7e1aa0c9-638b-447e-8413-f324c3288fc8",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/a696cf86-6753-4ea7-bd06-898cae359bee/resource/7e1aa0c9-638b-447e-8413-f324c3288fc8/download/2017s2-fe-empedrado-i.csv",
+          "name": "2017S2-FE-Empedrado-I",
+          "format": "CSV",
+          "updatedAt": "2018-05-14T16:36:58.032Z",
+          "description": " Ingresos mensuales del Fondo Especial para Empedrado - Segundo Semestre"
+        },
+        {
+          "id": "47dc83e7-5f05-4a19-9cf3-5bbc4376e509",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/a696cf86-6753-4ea7-bd06-898cae359bee/resource/47dc83e7-5f05-4a19-9cf3-5bbc4376e509/download/2017s2-fe-empedrado-e.csv",
+          "name": "2017S2-FE-Empedrado-E",
+          "format": "CSV",
+          "updatedAt": "2018-05-14T16:45:45.171Z",
+          "description": "Haberes y Aportes Patronales - Segundo Semestre"
+        },
+        {
+          "id": "b6374034-57f9-4448-b37e-f44fa18b9a4b",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/a696cf86-6753-4ea7-bd06-898cae359bee/resource/b6374034-57f9-4448-b37e-f44fa18b9a4b/download/2017s2-fe-empedrado-prov.csv",
+          "name": "2017S2-FE-Empedrado-PROV.csv",
+          "format": "CSV",
+          "updatedAt": "2018-05-14T16:47:18.627Z",
+          "description": " Pagos a Proveedores - Segundo Semestre "
+        }
+      ],
+      "createdAt": "2018-05-10T23:16:29.374Z",
+      "updatedAt": "2018-05-14T16:47:18.660Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "fc38297b-1301-4f53-842e-e824812afa3b",
+      "name": "fondo-especial-para-empedrado-2018",
+      "title": "Fondo Especial para Empedrado 2018",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "cc6b4cbf-7cce-40dd-ba3d-b07800d1aa29",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/fc38297b-1301-4f53-842e-e824812afa3b/resource/cc6b4cbf-7cce-40dd-ba3d-b07800d1aa29/download/2018s1-fe-empedrado-i.csv",
+          "name": "2018S1-FE-Empedrado-I",
+          "format": "CSV",
+          "updatedAt": "2018-10-08T13:59:25.960Z",
+          "description": ""
+        },
+        {
+          "id": "d05597b4-2954-48a3-956a-9ea7f83b4f7d",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/fc38297b-1301-4f53-842e-e824812afa3b/resource/d05597b4-2954-48a3-956a-9ea7f83b4f7d/download/2018s1-fe-empedrado-e.csv",
+          "name": "2018S1-FE-Empedrado-E",
+          "format": "CSV",
+          "updatedAt": "2018-10-08T14:01:11.910Z",
+          "description": ""
+        },
+        {
+          "id": "d3a3486e-587e-44a8-ae55-c4a510aeb91c",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/fc38297b-1301-4f53-842e-e824812afa3b/resource/d3a3486e-587e-44a8-ae55-c4a510aeb91c/download/2018s1-fe-empedrado-prov.csv",
+          "name": "2018S1-FE-Empedrado-PROV",
+          "format": "CSV",
+          "updatedAt": "2018-10-08T14:02:29.987Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2018-10-08T13:56:44.548Z",
+      "updatedAt": "2018-10-08T14:02:36.379Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "2cb9893d-7ac9-4b0c-9514-9a817a7ec4b4",
+      "name": "fondo-especial-para-empedrado-2019",
+      "title": "Fondo Especial para Empedrado 2019",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "219eeaf2-97ce-4293-b05e-bdba585126b5",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb9893d-7ac9-4b0c-9514-9a817a7ec4b4/resource/219eeaf2-97ce-4293-b05e-bdba585126b5/download/ingresos-empedrado.xlsx",
+          "name": "Ingresos: 1er semestre 2019",
+          "format": "CSV",
+          "updatedAt": "2019-09-30T17:01:36.564Z",
+          "description": ""
+        },
+        {
+          "id": "a9092147-0002-4f85-af73-07f3e1ec119b",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb9893d-7ac9-4b0c-9514-9a817a7ec4b4/resource/a9092147-0002-4f85-af73-07f3e1ec119b/download/egresos-empedrado.xlsx",
+          "name": "Egresos: 1er semestre 2019",
+          "format": "CSV",
+          "updatedAt": "2019-09-30T17:02:22.834Z",
+          "description": ""
+        },
+        {
+          "id": "d48ffb45-954f-47a2-9494-47e8a4bc9ed1",
+          "downloadUrl": "http://datosabiertos.rafaela.gob.ar/dataset/2cb9893d-7ac9-4b0c-9514-9a817a7ec4b4/resource/d48ffb45-954f-47a2-9494-47e8a4bc9ed1/download/provedores-empedrado.xlsx",
+          "name": "Proveedores: 1er semestre 2019",
+          "format": "CSV",
+          "updatedAt": "2019-09-30T17:03:01.333Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2019-09-26T13:57:40.375Z",
+      "updatedAt": "2019-09-30T17:03:01.361Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    }
+  ],
+  "organizations": [],
+  "updatedAt": "2023-12-16T11:35:31.419Z"
+}

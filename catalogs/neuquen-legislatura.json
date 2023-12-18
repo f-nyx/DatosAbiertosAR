@@ -1,0 +1,3563 @@
+{
+  "id": "KGlDNM4ark",
+  "datasets": [
+    {
+      "id": "cfe1ef71-57f6-4b1c-ad80-996e32e52ede",
+      "name": "actividad_comisiones",
+      "title": "Actividad_comisiones",
+      "keywords": [],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "2d71b8c6-a9e9-48ea-a3b8-9692d180d4ae",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/cfe1ef71-57f6-4b1c-ad80-996e32e52ede/resource/2d71b8c6-a9e9-48ea-a3b8-9692d180d4ae/download/tabla_actividad_comisiones.csv",
+          "name": "actividad_comisiones",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:35:32.876Z",
+          "description": null
+        }
+      ],
+      "createdAt": "2023-12-05T18:49:46.983Z",
+      "updatedAt": "2023-12-12T17:35:32.888Z",
+      "contact": {
+        "name": null,
+        "email": null
+      }
+    },
+    {
+      "id": "891918c0-b1a7-4363-8684-194acd18376c",
+      "name": "actividad-de-las-comisiones",
+      "title": "Actividad de las Comisiones",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "999b3486-0fd7-42b8-9b23-8957a6840035",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/891918c0-b1a7-4363-8684-194acd18376c/resource/999b3486-0fd7-42b8-9b23-8957a6840035/download/1-dataset-actividad-comisiones.csv",
+          "name": "Actividad de las Comisiones",
+          "format": "CSV",
+          "updatedAt": "2023-01-30T18:09:21.042Z",
+          "description": "El recurso se puede previsualizar, así como generar gráficos en línea."
+        },
+        {
+          "id": "b60cb8de-13cc-4ea0-9e04-a79bc1a78687",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/891918c0-b1a7-4363-8684-194acd18376c/resource/b60cb8de-13cc-4ea0-9e04-a79bc1a78687/download/dataset-actividad-comisiones.xlsx",
+          "name": "Actividad Comisiones",
+          "format": "XLSX",
+          "updatedAt": "2022-08-04T16:49:17.654Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2021-12-03T17:10:03.510Z",
+      "updatedAt": "2023-01-30T18:09:21.054Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "7ba781b7-aa05-4595-b2c2-c219f7e67078",
+      "name": "autoridades-1983-1991",
+      "title": "Autoridades 1983-1991",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "a7ef9109-f209-49d3-b561-79cbc504c930",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/7ba781b7-aa05-4595-b2c2-c219f7e67078/resource/a7ef9109-f209-49d3-b561-79cbc504c930/download/autoridades-1983-87.xlsx",
+          "name": "Autoridades 1983-87.xlsx",
+          "format": "XLSX",
+          "updatedAt": "2022-12-12T16:52:15.433Z",
+          "description": ""
+        },
+        {
+          "id": "6f225d9e-398c-44b0-8472-0198d9b2f997",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/7ba781b7-aa05-4595-b2c2-c219f7e67078/resource/6f225d9e-398c-44b0-8472-0198d9b2f997/download/autoridades-1983-87-cvs.csv",
+          "name": "Autoridades 1983-87-cvs.csv",
+          "format": "CSV",
+          "updatedAt": "2022-12-12T16:52:23.407Z",
+          "description": ""
+        },
+        {
+          "id": "d9cf8d06-920b-4a9b-bdb4-1524e600af0d",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/7ba781b7-aa05-4595-b2c2-c219f7e67078/resource/d9cf8d06-920b-4a9b-bdb4-1524e600af0d/download/autoridades-1987-91.cvs.csv",
+          "name": "Autoridades 1987-91.cvs.csv",
+          "format": "CSV",
+          "updatedAt": "2022-12-12T16:52:32.018Z",
+          "description": ""
+        },
+        {
+          "id": "1a651117-ec59-417c-a188-719da3189af8",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/7ba781b7-aa05-4595-b2c2-c219f7e67078/resource/1a651117-ec59-417c-a188-719da3189af8/download/autoridades-1987-91.xlsx",
+          "name": "Autoridades 1987-91.xlsx",
+          "format": "XLSX",
+          "updatedAt": "2022-12-12T16:52:39.107Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2022-12-12T16:52:07.084Z",
+      "updatedAt": "2022-12-12T17:13:24.459Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "345fbee9-c188-4a71-853d-69f95f962d02",
+      "name": "bloques",
+      "title": "Bloques",
+      "keywords": [],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "576d7a9a-3020-427c-9518-dd822010cd64",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/345fbee9-c188-4a71-853d-69f95f962d02/resource/576d7a9a-3020-427c-9518-dd822010cd64/download/tabla_bloques.csv",
+          "name": "bloques",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:35:25.415Z",
+          "description": null
+        }
+      ],
+      "createdAt": "2023-12-05T18:49:51.229Z",
+      "updatedAt": "2023-12-12T17:35:25.424Z",
+      "contact": {
+        "name": null,
+        "email": null
+      }
+    },
+    {
+      "id": "8f50ba64-5ca1-46b0-b27c-ff1601d2c07d",
+      "name": "bloques-legislativos-historicos",
+      "title": "Bloques Legislativos históricos",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "44d75e4a-f174-4a4a-a320-2b8ea5bc92e2",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/8f50ba64-5ca1-46b0-b27c-ff1601d2c07d/resource/44d75e4a-f174-4a4a-a320-2b8ea5bc92e2/download/composicion-de-bloques-1983-87.cvs.csv",
+          "name": "Composición de bloques 1983-87.cvs.csv",
+          "format": "CSV",
+          "updatedAt": "2022-12-12T16:49:53.895Z",
+          "description": ""
+        },
+        {
+          "id": "3cb268b6-a9b3-42dd-9188-d9b72dc910d3",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/8f50ba64-5ca1-46b0-b27c-ff1601d2c07d/resource/3cb268b6-a9b3-42dd-9188-d9b72dc910d3/download/composicion-de-bloques-1983-87.xlsx",
+          "name": "Composición de bloques 1983-87.xlsx",
+          "format": "XLSX",
+          "updatedAt": "2022-12-12T16:50:03.386Z",
+          "description": ""
+        },
+        {
+          "id": "8687ab24-0781-4d08-83fe-05ed95ef1aa9",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/8f50ba64-5ca1-46b0-b27c-ff1601d2c07d/resource/8687ab24-0781-4d08-83fe-05ed95ef1aa9/download/composicion-de-bloques-1987-91.cvs.csv",
+          "name": "Composición de bloques 1987-91.cvs.csv",
+          "format": "CSV",
+          "updatedAt": "2022-12-12T16:50:14.468Z",
+          "description": ""
+        },
+        {
+          "id": "f3dd4a8e-62b1-46d8-a607-4918abd012c4",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/8f50ba64-5ca1-46b0-b27c-ff1601d2c07d/resource/f3dd4a8e-62b1-46d8-a607-4918abd012c4/download/composicion-de-bloques-1987-91.xlsx",
+          "name": "Composición de bloques 1987-91.xlsx",
+          "format": "XLSX",
+          "updatedAt": "2022-12-12T16:50:48.202Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2022-12-12T16:49:42.068Z",
+      "updatedAt": "2022-12-12T17:13:45.721Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "ad307413-fe05-48c5-bc75-448b1436c6f6",
+      "name": "bloques-parlamentarios",
+      "title": "Bloques parlamentarios",
+      "keywords": [
+        "bloque parlamentario",
+        "presidente del bloque"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "756b0e5e-f332-4c89-88c3-d131eb632d4d",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/ad307413-fe05-48c5-bc75-448b1436c6f6/resource/756b0e5e-f332-4c89-88c3-d131eb632d4d/download/dataset-bloques.xlsx",
+          "name": "Dataset - Bloques",
+          "format": "XLSX",
+          "updatedAt": "2022-08-04T16:58:48.417Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2021-12-03T15:13:15.134Z",
+      "updatedAt": "2023-08-10T18:47:15.416Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "16bf86a8-ae8a-404e-aaae-0e7b6eeff958",
+      "name": "comisiones-especiales",
+      "title": "Comisiones Especiales",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "b28b143a-5c12-4dc2-aeeb-3f3cd97a7fbd",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/16bf86a8-ae8a-404e-aaae-0e7b6eeff958/resource/b28b143a-5c12-4dc2-aeeb-3f3cd97a7fbd/download/comisiones-especiales-hln-2022.pdf",
+          "name": "Comisiones Especiales HLN-2022.pdf",
+          "format": "PDF",
+          "updatedAt": "2023-05-09T20:13:23.180Z",
+          "description": "Listado y conformación de las comisiones especiales de la HNL-2022. "
+        }
+      ],
+      "createdAt": "2023-05-09T20:12:59.213Z",
+      "updatedAt": "2023-05-09T20:13:23.746Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "c6faef45-2e8d-4e3c-b69d-0653cf9fac5a",
+      "name": "comisiones_especiales",
+      "title": "Comisiones_especiales",
+      "keywords": [],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "67dae25c-4444-49f7-8286-6d8302ca9a25",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c6faef45-2e8d-4e3c-b69d-0653cf9fac5a/resource/67dae25c-4444-49f7-8286-6d8302ca9a25/download/tabla_comisiones_especiales.csv",
+          "name": "comisiones_especiales",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:35:35.204Z",
+          "description": null
+        }
+      ],
+      "createdAt": "2023-12-05T18:49:38.765Z",
+      "updatedAt": "2023-12-12T17:35:35.213Z",
+      "contact": {
+        "name": null,
+        "email": null
+      }
+    },
+    {
+      "id": "71e33494-a215-4bb7-838e-a235aad046f1",
+      "name": "comisiones_permanentes",
+      "title": "Comisiones_permanentes",
+      "keywords": [],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "e9c505ab-89c5-4c27-b780-e11e50884283",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/71e33494-a215-4bb7-838e-a235aad046f1/resource/e9c505ab-89c5-4c27-b780-e11e50884283/download/tabla_comisiones_permanentes.csv",
+          "name": "comisiones_permanentes",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:35:29.925Z",
+          "description": null
+        }
+      ],
+      "createdAt": "2023-12-05T18:49:45.787Z",
+      "updatedAt": "2023-12-12T17:35:29.934Z",
+      "contact": {
+        "name": null,
+        "email": null
+      }
+    },
+    {
+      "id": "5d86f29d-0ca4-4163-96e5-a9db29a2c230",
+      "name": "composicion-legislatura-1983-1987",
+      "title": "Composición Legislatura 1983-1987",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "e4999e50-24bb-4693-a9db-7595f1c74e38",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/5d86f29d-0ca4-4163-96e5-a9db29a2c230/resource/e4999e50-24bb-4693-a9db-7595f1c74e38/download/legisladores-1983-87.csv",
+          "name": "Legisladores-1983-87.csv",
+          "format": "CSV",
+          "updatedAt": "2022-12-12T16:47:30.914Z",
+          "description": ""
+        },
+        {
+          "id": "27b3156a-7ed5-44db-a67a-57ca4a101d4b",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/5d86f29d-0ca4-4163-96e5-a9db29a2c230/resource/27b3156a-7ed5-44db-a67a-57ca4a101d4b/download/legisladores-1983-87.xlsx",
+          "name": "Legisladores-1983-87.xlsx",
+          "format": "XLSX",
+          "updatedAt": "2022-12-12T16:47:39.426Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2022-12-12T16:47:21.556Z",
+      "updatedAt": "2022-12-12T17:14:09.844Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "c1cdadbe-0b63-4510-91c4-fa642c380ad2",
+      "name": "composicion-legislatura-1987-1991",
+      "title": "Composición Legislatura 1987-1991",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "08de3162-ac05-4862-af0a-1c44036481d9",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c1cdadbe-0b63-4510-91c4-fa642c380ad2/resource/08de3162-ac05-4862-af0a-1c44036481d9/download/legisladores-1987-91.csv",
+          "name": "Legisladores-1987-91.csv",
+          "format": "CSV",
+          "updatedAt": "2022-12-12T16:41:18.417Z",
+          "description": ""
+        },
+        {
+          "id": "a499bff2-5d50-4353-89b9-1eaa446b522f",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c1cdadbe-0b63-4510-91c4-fa642c380ad2/resource/a499bff2-5d50-4353-89b9-1eaa446b522f/download/legisladores-1987-91.xlsx",
+          "name": "Legisladores-1987-91.xlsx",
+          "format": "XLSX",
+          "updatedAt": "2022-12-12T16:41:26.381Z",
+          "description": ""
+        },
+        {
+          "id": "350eb630-f83c-4bf5-a764-ae7714585591",
+          "downloadUrl": "",
+          "name": "",
+          "format": "",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2022-12-12T16:31:38.142Z",
+      "updatedAt": "2022-12-12T17:12:54.576Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "773d45e4-b890-4aa8-9681-94b6de75bfb1",
+      "name": "compras-adjudicadas",
+      "title": "Compras adjudicadas",
+      "keywords": [
+        "compras"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "a5c670e0-6252-438f-91c1-6e0671bcafec",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/773d45e4-b890-4aa8-9681-94b6de75bfb1/resource/a5c670e0-6252-438f-91c1-6e0671bcafec/download/dataset-compras-adjudicadas.xlsx",
+          "name": "Dataset - Compras adjudicadas",
+          "format": "XLSX",
+          "updatedAt": "2022-08-04T16:52:01.497Z",
+          "description": ""
+        },
+        {
+          "id": "1ff8451f-7960-46a4-9456-08a710245f5c",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/773d45e4-b890-4aa8-9681-94b6de75bfb1/resource/1ff8451f-7960-46a4-9456-08a710245f5c/download/1-dataset-compras-adjudicadas-2008.csv",
+          "name": "Compras adjudicadas 2008",
+          "format": "CSV",
+          "updatedAt": "2023-02-02T19:43:55.987Z",
+          "description": ""
+        },
+        {
+          "id": "87c961ff-163f-49ab-b716-3a8cf7654116",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/773d45e4-b890-4aa8-9681-94b6de75bfb1/resource/87c961ff-163f-49ab-b716-3a8cf7654116/download/1-dataset-compras-adjudicadas-2009.csv",
+          "name": "Compras adjudicadas 2009",
+          "format": "CSV",
+          "updatedAt": "2023-02-02T19:42:33.277Z",
+          "description": ""
+        },
+        {
+          "id": "01e2862c-d897-4f61-8a8e-000cb3367075",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/773d45e4-b890-4aa8-9681-94b6de75bfb1/resource/01e2862c-d897-4f61-8a8e-000cb3367075/download/1-dataset-compras-adjudicadas-2010.csv",
+          "name": "Compras adjudicadas 2010",
+          "format": "CSV",
+          "updatedAt": "2023-02-02T19:41:54.041Z",
+          "description": ""
+        },
+        {
+          "id": "ec750718-4ade-41e5-881e-19278734290b",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/773d45e4-b890-4aa8-9681-94b6de75bfb1/resource/ec750718-4ade-41e5-881e-19278734290b/download/1-dataset-compras-adjudicadas-2011.csv",
+          "name": "Compras adjudicadas 2011",
+          "format": "CSV",
+          "updatedAt": "2023-02-02T19:40:56.179Z",
+          "description": ""
+        },
+        {
+          "id": "24894847-1736-4c1c-8ed3-9b63d5be0655",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/773d45e4-b890-4aa8-9681-94b6de75bfb1/resource/24894847-1736-4c1c-8ed3-9b63d5be0655/download/1-dataset-compras-adjudicadas-2012.csv",
+          "name": "Compras adjudicadas 2012",
+          "format": "CSV",
+          "updatedAt": "2023-02-02T19:34:04.691Z",
+          "description": ""
+        },
+        {
+          "id": "33f25ded-454b-4d3d-b15a-8ee49a7386f6",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/773d45e4-b890-4aa8-9681-94b6de75bfb1/resource/33f25ded-454b-4d3d-b15a-8ee49a7386f6/download/1-dataset-compras-adjudicadas-2013.csv",
+          "name": "Compras adjudicadas 2013",
+          "format": "CSV",
+          "updatedAt": "2023-02-02T19:29:35.071Z",
+          "description": ""
+        },
+        {
+          "id": "39531168-c90f-493f-95a2-1a5e1ad07786",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/773d45e4-b890-4aa8-9681-94b6de75bfb1/resource/39531168-c90f-493f-95a2-1a5e1ad07786/download/1-dataset-compras-adjudicadas-2014.csv",
+          "name": "Compras adjudicadas 2014",
+          "format": "CSV",
+          "updatedAt": "2023-02-02T19:28:34.221Z",
+          "description": ""
+        },
+        {
+          "id": "2273d76b-891e-4531-b1f8-9ed59e44f22b",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/773d45e4-b890-4aa8-9681-94b6de75bfb1/resource/2273d76b-891e-4531-b1f8-9ed59e44f22b/download/1-dataset-compras-adjudicadas-2015.csv",
+          "name": "Compras adjudicadas 2015",
+          "format": "CSV",
+          "updatedAt": "2023-02-02T19:27:26.409Z",
+          "description": ""
+        },
+        {
+          "id": "a1f368f3-d729-465e-b67c-ec947cbe5134",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/773d45e4-b890-4aa8-9681-94b6de75bfb1/resource/a1f368f3-d729-465e-b67c-ec947cbe5134/download/1-dataset-compras-adjudicadas-2016.csv",
+          "name": "Compras adjudicadas 2016",
+          "format": "CSV",
+          "updatedAt": "2023-02-02T19:26:28.621Z",
+          "description": ""
+        },
+        {
+          "id": "e0244fec-e64a-4d3c-84d2-cdced2ea35ba",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/773d45e4-b890-4aa8-9681-94b6de75bfb1/resource/e0244fec-e64a-4d3c-84d2-cdced2ea35ba/download/1-dataset-compras-adjudicadas-2017.csv",
+          "name": "Compras adjudicadas 2017",
+          "format": "CSV",
+          "updatedAt": "2023-02-02T19:25:36.616Z",
+          "description": ""
+        },
+        {
+          "id": "9bb659ea-1026-4fdc-978f-444bc23bd646",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/773d45e4-b890-4aa8-9681-94b6de75bfb1/resource/9bb659ea-1026-4fdc-978f-444bc23bd646/download/1-dataset-compras-adjudicadas-2018.csv",
+          "name": "Compras adjudicadas 2018",
+          "format": "CSV",
+          "updatedAt": "2023-02-02T19:24:50.072Z",
+          "description": ""
+        },
+        {
+          "id": "faa22bab-1747-486f-8041-b7de22829e55",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/773d45e4-b890-4aa8-9681-94b6de75bfb1/resource/faa22bab-1747-486f-8041-b7de22829e55/download/1-dataset-compras-adjudicadas-2019.csv",
+          "name": "Compras adjudicadas 2019",
+          "format": "CSV",
+          "updatedAt": "2023-02-02T19:23:31.548Z",
+          "description": ""
+        },
+        {
+          "id": "2ffabf5e-ec8d-41b7-a3a8-116190eaf92c",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/773d45e4-b890-4aa8-9681-94b6de75bfb1/resource/2ffabf5e-ec8d-41b7-a3a8-116190eaf92c/download/1-dataset-compras-adjudicadas-2020.csv",
+          "name": "Compras adjudicadas 2020",
+          "format": "CSV",
+          "updatedAt": "2023-02-02T19:22:49.420Z",
+          "description": ""
+        },
+        {
+          "id": "98b2423f-c611-4da9-aafb-e2ab256b1fc9",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/773d45e4-b890-4aa8-9681-94b6de75bfb1/resource/98b2423f-c611-4da9-aafb-e2ab256b1fc9/download/1-dataset-compras-adjudicadas-2021.csv",
+          "name": "Compras adjudicadas 2021",
+          "format": "CSV",
+          "updatedAt": "2023-02-02T19:21:59.284Z",
+          "description": ""
+        },
+        {
+          "id": "6bc94790-610c-47b1-856d-468d5ba7fcd0",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/773d45e4-b890-4aa8-9681-94b6de75bfb1/resource/6bc94790-610c-47b1-856d-468d5ba7fcd0/download/1-dataset-compras-adjudicadas-2022.csv",
+          "name": "Compras adjudicadas 2022",
+          "format": "CSV",
+          "updatedAt": "2023-02-02T19:20:45.539Z",
+          "description": ""
+        },
+        {
+          "id": "1e518bb5-945a-4bfa-896f-2699a804dd9c",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/773d45e4-b890-4aa8-9681-94b6de75bfb1/resource/1e518bb5-945a-4bfa-896f-2699a804dd9c/download/tabla_compras_adjudicadas_2023.csv",
+          "name": "Compras adjudicadas 2023",
+          "format": "CSV",
+          "updatedAt": "2023-05-25T01:26:28.871Z",
+          "description": null
+        },
+        {
+          "id": "5df6a9ec-2c8f-40c7-920a-6df895acc7b8",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/773d45e4-b890-4aa8-9681-94b6de75bfb1/resource/5df6a9ec-2c8f-40c7-920a-6df895acc7b8/download/tabla_compras_adjudicadas_2023.csv",
+          "name": "Compras adjudicadas 2023",
+          "format": "CSV",
+          "updatedAt": "2023-05-30T14:31:04.162Z",
+          "description": null
+        },
+        {
+          "id": "28d08e16-ee6f-45b9-9917-20a3bbc59554",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/773d45e4-b890-4aa8-9681-94b6de75bfb1/resource/28d08e16-ee6f-45b9-9917-20a3bbc59554/download/tabla_compras_adjudicadas_2023.csv",
+          "name": "Compras adjudicadas 2023",
+          "format": "CSV",
+          "updatedAt": "2023-05-30T14:32:45.442Z",
+          "description": null
+        }
+      ],
+      "createdAt": "2021-12-03T15:00:19.989Z",
+      "updatedAt": "2023-08-10T18:47:10.106Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "e4a27a5e-d453-4a2e-b575-d45a9cdf112e",
+      "name": "compras_adjudicadas",
+      "title": "Compras_adjudicadas",
+      "keywords": [],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "76a45b03-b90f-4dec-838b-91f2fe80f397",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/e4a27a5e-d453-4a2e-b575-d45a9cdf112e/resource/76a45b03-b90f-4dec-838b-91f2fe80f397/download/tabla_compras_adjudicadas_2008.csv",
+          "name": "compras_adjudicadas_2008",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:38:42.758Z",
+          "description": null
+        },
+        {
+          "id": "9f3e5823-92c4-4347-973a-80ae79a0db75",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/e4a27a5e-d453-4a2e-b575-d45a9cdf112e/resource/9f3e5823-92c4-4347-973a-80ae79a0db75/download/tabla_compras_adjudicadas_2009.csv",
+          "name": "compras_adjudicadas_2009",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:38:45.134Z",
+          "description": null
+        },
+        {
+          "id": "66dae7df-bf20-43e3-af12-af9b986040ab",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/e4a27a5e-d453-4a2e-b575-d45a9cdf112e/resource/66dae7df-bf20-43e3-af12-af9b986040ab/download/tabla_compras_adjudicadas_2010.csv",
+          "name": "compras_adjudicadas_2010",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:38:47.641Z",
+          "description": null
+        },
+        {
+          "id": "a93a3aa5-074f-4be7-b91c-9f07c64470ff",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/e4a27a5e-d453-4a2e-b575-d45a9cdf112e/resource/a93a3aa5-074f-4be7-b91c-9f07c64470ff/download/tabla_compras_adjudicadas_2011.csv",
+          "name": "compras_adjudicadas_2011",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:38:49.974Z",
+          "description": null
+        },
+        {
+          "id": "c8effe70-22a3-4e4a-8a20-b566f529a92d",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/e4a27a5e-d453-4a2e-b575-d45a9cdf112e/resource/c8effe70-22a3-4e4a-8a20-b566f529a92d/download/tabla_compras_adjudicadas_2012.csv",
+          "name": "compras_adjudicadas_2012",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:38:52.419Z",
+          "description": null
+        },
+        {
+          "id": "fc1d6e3a-8fe2-4b6c-a438-4c111325a66b",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/e4a27a5e-d453-4a2e-b575-d45a9cdf112e/resource/fc1d6e3a-8fe2-4b6c-a438-4c111325a66b/download/tabla_compras_adjudicadas_2013.csv",
+          "name": "compras_adjudicadas_2013",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:38:54.789Z",
+          "description": null
+        },
+        {
+          "id": "f26f87fc-2647-4788-8411-f95fe987903d",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/e4a27a5e-d453-4a2e-b575-d45a9cdf112e/resource/f26f87fc-2647-4788-8411-f95fe987903d/download/tabla_compras_adjudicadas_2014.csv",
+          "name": "compras_adjudicadas_2014",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:38:57.244Z",
+          "description": null
+        },
+        {
+          "id": "1736e868-b8fa-4a81-ad79-615018d32ea3",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/e4a27a5e-d453-4a2e-b575-d45a9cdf112e/resource/1736e868-b8fa-4a81-ad79-615018d32ea3/download/tabla_compras_adjudicadas_2015.csv",
+          "name": "compras_adjudicadas_2015",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:38:59.587Z",
+          "description": null
+        },
+        {
+          "id": "65db507b-b3e4-457a-9257-00e86a869745",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/e4a27a5e-d453-4a2e-b575-d45a9cdf112e/resource/65db507b-b3e4-457a-9257-00e86a869745/download/tabla_compras_adjudicadas_2016.csv",
+          "name": "compras_adjudicadas_2016",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:39:02.197Z",
+          "description": null
+        },
+        {
+          "id": "09576024-589c-4db8-a104-aedbe54bb7d0",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/e4a27a5e-d453-4a2e-b575-d45a9cdf112e/resource/09576024-589c-4db8-a104-aedbe54bb7d0/download/tabla_compras_adjudicadas_2017.csv",
+          "name": "compras_adjudicadas_2017",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:39:04.547Z",
+          "description": null
+        },
+        {
+          "id": "8f2d280f-3070-4fb1-b925-259f6fc51b4a",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/e4a27a5e-d453-4a2e-b575-d45a9cdf112e/resource/8f2d280f-3070-4fb1-b925-259f6fc51b4a/download/tabla_compras_adjudicadas_2018.csv",
+          "name": "compras_adjudicadas_2018",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:39:07.140Z",
+          "description": null
+        },
+        {
+          "id": "2a7fe727-5420-415b-9fa8-4b33cd8d8d60",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/e4a27a5e-d453-4a2e-b575-d45a9cdf112e/resource/2a7fe727-5420-415b-9fa8-4b33cd8d8d60/download/tabla_compras_adjudicadas_2019.csv",
+          "name": "compras_adjudicadas_2019",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:39:09.566Z",
+          "description": null
+        },
+        {
+          "id": "9feda1c9-b008-40d7-9c8e-86b4fb189629",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/e4a27a5e-d453-4a2e-b575-d45a9cdf112e/resource/9feda1c9-b008-40d7-9c8e-86b4fb189629/download/tabla_compras_adjudicadas_2020.csv",
+          "name": "compras_adjudicadas_2020",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:39:12.029Z",
+          "description": null
+        },
+        {
+          "id": "8746dc9c-5752-4c0c-9d56-ea984005756d",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/e4a27a5e-d453-4a2e-b575-d45a9cdf112e/resource/8746dc9c-5752-4c0c-9d56-ea984005756d/download/tabla_compras_adjudicadas_2021.csv",
+          "name": "compras_adjudicadas_2021",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:39:14.489Z",
+          "description": null
+        },
+        {
+          "id": "624bd11c-19d9-4771-94ad-a6f5c8850a52",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/e4a27a5e-d453-4a2e-b575-d45a9cdf112e/resource/624bd11c-19d9-4771-94ad-a6f5c8850a52/download/tabla_compras_adjudicadas_2022.csv",
+          "name": "compras_adjudicadas_2022",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:39:16.967Z",
+          "description": null
+        },
+        {
+          "id": "191f43aa-c09a-4aaf-924c-ed7da7138616",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/e4a27a5e-d453-4a2e-b575-d45a9cdf112e/resource/191f43aa-c09a-4aaf-924c-ed7da7138616/download/tabla_compras_adjudicadas_2023.csv",
+          "name": "compras_adjudicadas_2023",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:39:19.479Z",
+          "description": null
+        }
+      ],
+      "createdAt": "2023-12-05T20:16:41.634Z",
+      "updatedAt": "2023-12-12T17:39:19.496Z",
+      "contact": {
+        "name": null,
+        "email": null
+      }
+    },
+    {
+      "id": "10f98826-4c99-4194-ba70-f16d38fcab0f",
+      "name": "compras-en-curso",
+      "title": "Compras en curso",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "b07f54b8-c414-471b-b2c5-55dc4c8e82a6",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/10f98826-4c99-4194-ba70-f16d38fcab0f/resource/b07f54b8-c414-471b-b2c5-55dc4c8e82a6/download/dataset-licitaciones.csv",
+          "name": "Dataset - Compras en curso",
+          "format": "CSV",
+          "updatedAt": "2022-08-04T17:01:00.475Z",
+          "description": "El recurso se puede previsualizar, así como generar gráficos en línea."
+        },
+        {
+          "id": "d44c2bff-01f6-4f8b-82ce-121e7d11368f",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/10f98826-4c99-4194-ba70-f16d38fcab0f/resource/d44c2bff-01f6-4f8b-82ce-121e7d11368f/download/dataset-licitaciones.xlsx",
+          "name": "Dataset - Compras en curso",
+          "format": "XLSX",
+          "updatedAt": "2022-08-04T17:01:31.424Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2021-12-03T15:33:16.353Z",
+      "updatedAt": "2022-11-29T18:13:34.220Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "a6f926ac-3755-467e-bf4f-2c6d75e1e95d",
+      "name": "compras_en_proceso",
+      "title": "Compras_en_proceso",
+      "keywords": [],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "9773f15e-9760-4136-af57-3ef7646e6f7a",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/a6f926ac-3755-467e-bf4f-2c6d75e1e95d/resource/9773f15e-9760-4136-af57-3ef7646e6f7a/download/tabla_compras_en_proceso.csv",
+          "name": "compras_en_proceso",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:35:39.846Z",
+          "description": null
+        }
+      ],
+      "createdAt": "2023-12-05T18:49:53.572Z",
+      "updatedAt": "2023-12-12T17:35:39.855Z",
+      "contact": {
+        "name": null,
+        "email": null
+      }
+    },
+    {
+      "id": "61e22822-ef98-44f2-8208-2991f86fccda",
+      "name": "conformacion-de-las-comisiones",
+      "title": "Conformación de las Comisiones",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "3d7313c1-2a11-4a4d-9fb1-9e67705c44ce",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/61e22822-ef98-44f2-8208-2991f86fccda/resource/3d7313c1-2a11-4a4d-9fb1-9e67705c44ce/download/comisionespermanentes2.csv",
+          "name": "Conformación Comisiones",
+          "format": "CSV",
+          "updatedAt": "2023-06-23T21:16:56.026Z",
+          "description": "El recurso se puede previsualizar, así como generar gráficos en línea."
+        }
+      ],
+      "createdAt": "2021-12-03T16:58:46.361Z",
+      "updatedAt": "2023-06-23T21:16:56.032Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "f4656b8b-690e-4999-9d45-bd4a02daa657",
+      "name": "diputados",
+      "title": "Diputados",
+      "keywords": [],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "852032a3-5b0c-4f6a-84ac-4637049ca5ef",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/f4656b8b-690e-4999-9d45-bd4a02daa657/resource/852032a3-5b0c-4f6a-84ac-4637049ca5ef/download/tabla_diputados.csv",
+          "name": "diputados",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:35:42.271Z",
+          "description": null
+        }
+      ],
+      "createdAt": "2023-12-05T18:49:44.502Z",
+      "updatedAt": "2023-12-12T17:35:42.284Z",
+      "contact": {
+        "name": null,
+        "email": null
+      }
+    },
+    {
+      "id": "6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6",
+      "name": "ejecuciones-presupuestarias",
+      "title": "Ejecución Recursos y Gastos 2023",
+      "keywords": [
+        "gastos",
+        "recursos",
+        "presupuesto"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "8be0056b-41a4-4502-9ef2-e7525ea18fcb",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/8be0056b-41a4-4502-9ef2-e7525ea18fcb/download/ley3366fd.pdf",
+          "name": "Ley 3366 Presupuesto 2023",
+          "format": "PDF",
+          "updatedAt": "2023-06-01T21:04:40.617Z",
+          "description": ""
+        },
+        {
+          "id": "76efcf21-995e-4e15-bccc-4749a4157023",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/76efcf21-995e-4e15-bccc-4749a4157023/download/recursos-enero-pdf.pdf",
+          "name": "Recursos Enero 2023",
+          "format": "PDF",
+          "updatedAt": "2023-06-02T16:47:28.329Z",
+          "description": ""
+        },
+        {
+          "id": "ad26d8a3-b0e7-40b9-96c8-534140cabc0f",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/ad26d8a3-b0e7-40b9-96c8-534140cabc0f/download/recursos-febrero-pdf.pdf",
+          "name": "Recursos Febrero 2023",
+          "format": "PDF",
+          "updatedAt": "2023-06-02T18:01:19.115Z",
+          "description": ""
+        },
+        {
+          "id": "5e7ba65b-f110-466b-8960-22dec2a73b95",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/5e7ba65b-f110-466b-8960-22dec2a73b95/download/recursos-marzo-pdf.pdf",
+          "name": "Recursos Marzo 2023",
+          "format": "PDF",
+          "updatedAt": "2023-06-02T18:11:03.141Z",
+          "description": ""
+        },
+        {
+          "id": "3067f7e6-2b06-4f9f-8951-63defe707a53",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/3067f7e6-2b06-4f9f-8951-63defe707a53/download/recursos-abril-pdf.pdf",
+          "name": "Recursos Abril 2023",
+          "format": "PDF",
+          "updatedAt": "2023-06-02T18:11:53.618Z",
+          "description": ""
+        },
+        {
+          "id": "7156aed8-8f5c-4a71-941b-6ea9cdf68a9c",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/7156aed8-8f5c-4a71-941b-6ea9cdf68a9c/download/recursos-mayo-2023.pdf",
+          "name": "Recursos Mayo 2023",
+          "format": "PDF",
+          "updatedAt": "2023-07-26T18:49:44.231Z",
+          "description": ""
+        },
+        {
+          "id": "5d375874-596f-43c1-985a-94788a8bb602",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/5d375874-596f-43c1-985a-94788a8bb602/download/recursos-junio-2023.pdf",
+          "name": "Recursos Junio 2023",
+          "format": "PDF",
+          "updatedAt": "2023-07-26T18:51:45.835Z",
+          "description": ""
+        },
+        {
+          "id": "1a732427-23dd-44b0-b198-6db023389f88",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/1a732427-23dd-44b0-b198-6db023389f88/download/recursos-julio-pdf.pdf",
+          "name": "Recursos Julio 2023",
+          "format": "PDF",
+          "updatedAt": "2023-11-09T17:49:37.138Z",
+          "description": ""
+        },
+        {
+          "id": "fc192c93-1941-4f43-a1f4-5d445053767b",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/fc192c93-1941-4f43-a1f4-5d445053767b/download/recursos-agosto-pdf.pdf",
+          "name": "Recursos Agosto 2023",
+          "format": "PDF",
+          "updatedAt": "2023-11-09T17:50:03.322Z",
+          "description": ""
+        },
+        {
+          "id": "e50340bd-830c-4c2d-b488-735bd8605a4d",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/e50340bd-830c-4c2d-b488-735bd8605a4d/download/recursos-septiembre-pdf.pdf",
+          "name": "Recursos Septiembre 2023",
+          "format": "PDF",
+          "updatedAt": "2023-11-09T17:50:31.058Z",
+          "description": ""
+        },
+        {
+          "id": "2773bc73-9595-4777-a107-98ffccdaada7",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/2773bc73-9595-4777-a107-98ffccdaada7/download/recursos-enero.csv",
+          "name": "Recursos Enero 2023",
+          "format": "CSV",
+          "updatedAt": "2023-06-02T18:15:12.296Z",
+          "description": ""
+        },
+        {
+          "id": "411facc2-d4af-43ac-b3c2-333c5d6c417e",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/411facc2-d4af-43ac-b3c2-333c5d6c417e/download/recursos-febrero.csv",
+          "name": "Recursos Febrero 2023",
+          "format": "CSV",
+          "updatedAt": "2023-06-02T18:15:28.572Z",
+          "description": ""
+        },
+        {
+          "id": "2ea8fb3f-1b6a-487d-9ab3-dfee6173fcfd",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/2ea8fb3f-1b6a-487d-9ab3-dfee6173fcfd/download/recursos-marzo.csv",
+          "name": "Recursos Marzo 2023",
+          "format": "CSV",
+          "updatedAt": "2023-06-02T18:15:56.472Z",
+          "description": ""
+        },
+        {
+          "id": "0f4dd415-fbae-43bc-ad19-4208819ddacb",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/0f4dd415-fbae-43bc-ad19-4208819ddacb/download/recursos-abril-excel.csv",
+          "name": "Recursos Abril 2023",
+          "format": "CSV",
+          "updatedAt": "2023-06-02T18:17:51.874Z",
+          "description": ""
+        },
+        {
+          "id": "2a9acd64-cb06-4181-bea3-f673b176a129",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/2a9acd64-cb06-4181-bea3-f673b176a129/download/recursos-mayo-2023.csv",
+          "name": "Recursos Mayo 2023",
+          "format": "CSV",
+          "updatedAt": "2023-07-26T19:01:30.327Z",
+          "description": ""
+        },
+        {
+          "id": "660cabf7-23d1-4d66-adf1-dcabe8770402",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/660cabf7-23d1-4d66-adf1-dcabe8770402/download/recursos-junio-2023.csv",
+          "name": "Recursos Junio 2023",
+          "format": "CSV",
+          "updatedAt": "2023-07-26T18:56:15.285Z",
+          "description": ""
+        },
+        {
+          "id": "e4ea9798-9400-4ee0-9a0c-a48ffbb844ad",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/e4ea9798-9400-4ee0-9a0c-a48ffbb844ad/download/recursos-julio-excel-1.csv",
+          "name": "Recursos Julio 2023",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T17:55:27.105Z",
+          "description": ""
+        },
+        {
+          "id": "22ff2df2-e42e-41ba-8cce-3b378bcbb431",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/22ff2df2-e42e-41ba-8cce-3b378bcbb431/download/recursos-agosto-excel-1.csv",
+          "name": "Recursos Agosto 2023",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T17:56:24.303Z",
+          "description": ""
+        },
+        {
+          "id": "6ab3b311-11ca-4a59-9f71-440044c923f3",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/6ab3b311-11ca-4a59-9f71-440044c923f3/download/recursos-septiembre-excel.csv",
+          "name": "Recursos Septiembre 2023",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T17:57:33.267Z",
+          "description": ""
+        },
+        {
+          "id": "16e2b533-3a9e-407f-99f1-c02702bead12",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/16e2b533-3a9e-407f-99f1-c02702bead12/download/ecp-enero-2023.pdf",
+          "name": "Gastos por Programas Enero 2023",
+          "format": "PDF",
+          "updatedAt": "2023-05-31T20:23:28.904Z",
+          "description": ""
+        },
+        {
+          "id": "29d6ef12-08d0-427b-8dd4-8c5ab0e20f94",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/29d6ef12-08d0-427b-8dd4-8c5ab0e20f94/download/ecp-febrero-2023.pdf",
+          "name": "Gastos por Programas Febrero 2023 ",
+          "format": "PDF",
+          "updatedAt": "2023-05-31T20:23:44.010Z",
+          "description": ""
+        },
+        {
+          "id": "b813e682-7b39-40b6-a782-5620268099ac",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/b813e682-7b39-40b6-a782-5620268099ac/download/ecp-marzo-2023.pdf",
+          "name": "Gastos por Programas Marzo 2023 ",
+          "format": "PDF",
+          "updatedAt": "2023-05-31T20:23:59.533Z",
+          "description": ""
+        },
+        {
+          "id": "61ea0965-4ba9-4e7f-9b91-baecdda6acf0",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/61ea0965-4ba9-4e7f-9b91-baecdda6acf0/download/ecp-abril-2023.pdf",
+          "name": "Gastos por Programas Abril 2023 ",
+          "format": "PDF",
+          "updatedAt": "2023-05-31T20:24:16.256Z",
+          "description": ""
+        },
+        {
+          "id": "93cb93a6-32cf-44ae-b86e-4621af54f5fb",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/93cb93a6-32cf-44ae-b86e-4621af54f5fb/download/ecpmayo23.pdf",
+          "name": "Gastos por Programas Mayo 2023",
+          "format": "PDF",
+          "updatedAt": "2023-08-08T16:32:58.402Z",
+          "description": ""
+        },
+        {
+          "id": "0639d0e0-669f-4783-8484-1f416445618e",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/0639d0e0-669f-4783-8484-1f416445618e/download/ecpjunio23.pdf",
+          "name": "Gastos por Programas Junio 2023",
+          "format": "PDF",
+          "updatedAt": "2023-08-08T16:33:17.215Z",
+          "description": ""
+        },
+        {
+          "id": "06cb35df-6496-4ff0-a90f-34c39eed4008",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/06cb35df-6496-4ff0-a90f-34c39eed4008/download/07julio-23.pdf",
+          "name": "Gastos por Programas Julio 2023",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T17:36:33.196Z",
+          "description": ""
+        },
+        {
+          "id": "13578e4a-b2aa-4580-b0cf-3736fbc78c50",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/13578e4a-b2aa-4580-b0cf-3736fbc78c50/download/08-agosto-23.pdf",
+          "name": "Gastos por Programas Agosto 2023",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T17:37:51.762Z",
+          "description": ""
+        },
+        {
+          "id": "db22b708-42e7-42fb-bab0-b6e67eae1977",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/db22b708-42e7-42fb-bab0-b6e67eae1977/download/09-sep-23.pdf",
+          "name": "Gastos por Programas Septiembre 2023",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T17:38:49.697Z",
+          "description": ""
+        },
+        {
+          "id": "8ec88833-09fd-482f-a91f-4be5efac31ec",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/8ec88833-09fd-482f-a91f-4be5efac31ec/download/ecp-enero-2023.csv",
+          "name": "Gastos por Programas Enero 2023 ",
+          "format": "CSV",
+          "updatedAt": "2023-06-01T18:28:24.590Z",
+          "description": ""
+        },
+        {
+          "id": "efc874f3-e872-4c01-8759-53349ff14ea7",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/efc874f3-e872-4c01-8759-53349ff14ea7/download/ecp-febrero-2023.csv",
+          "name": "Gastos por Programas Febrero 2023 ",
+          "format": "CSV",
+          "updatedAt": "2023-06-01T18:41:19.426Z",
+          "description": ""
+        },
+        {
+          "id": "e56ddef0-e3bb-4043-b749-6416cf640abb",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/e56ddef0-e3bb-4043-b749-6416cf640abb/download/ecp-marzo-2023.csv",
+          "name": "Gastos por Programas Marzo 2023 ",
+          "format": "CSV",
+          "updatedAt": "2023-06-01T18:46:32.024Z",
+          "description": ""
+        },
+        {
+          "id": "331b55f5-8a30-4dbc-b6ea-03c30efcf9d8",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/331b55f5-8a30-4dbc-b6ea-03c30efcf9d8/download/ecp-abril-2023.csv",
+          "name": "Gastos por Programas Abril 2023",
+          "format": "CSV",
+          "updatedAt": "2023-06-01T18:54:43.024Z",
+          "description": ""
+        },
+        {
+          "id": "919f89f9-26a7-47a1-ba6b-546691572b7b",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/919f89f9-26a7-47a1-ba6b-546691572b7b/download/ecpmayo23.csv",
+          "name": "Gastos por Programas Mayo 2023",
+          "format": "CSV",
+          "updatedAt": "2023-08-08T16:36:55.971Z",
+          "description": ""
+        },
+        {
+          "id": "ab65f6bc-87cc-48ed-8315-7addab899d69",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/ab65f6bc-87cc-48ed-8315-7addab899d69/download/ecpjunio23.csv",
+          "name": "Gastos por Programas Junio 2023",
+          "format": "CSV",
+          "updatedAt": "2023-08-08T16:38:54.822Z",
+          "description": ""
+        },
+        {
+          "id": "df34a2a2-2246-4b67-ae8f-f781cf73b67f",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/df34a2a2-2246-4b67-ae8f-f781cf73b67f/download/07-julio-23.csv",
+          "name": "Gastos por Programas Julio 2023",
+          "format": "CSV",
+          "updatedAt": "2023-11-07T17:43:06.095Z",
+          "description": ""
+        },
+        {
+          "id": "ac2cdbb9-ddf8-48ff-8f02-c3646438d341",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/ac2cdbb9-ddf8-48ff-8f02-c3646438d341/download/gastos-por-programa-agosto-2023.csv",
+          "name": "Gastos por Programas Agosto 2023",
+          "format": "CSV",
+          "updatedAt": "2023-11-07T20:34:14.962Z",
+          "description": ""
+        },
+        {
+          "id": "49479ca4-d519-45bb-9825-0d8ddae2246e",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/49479ca4-d519-45bb-9825-0d8ddae2246e/download/gastos-por-programa-septiembre-2023.csv",
+          "name": "Gastos por Programas Septiembre 2023",
+          "format": "CSV",
+          "updatedAt": "2023-11-07T20:35:19.298Z",
+          "description": ""
+        },
+        {
+          "id": "8d3ea217-6baa-43cb-8423-d0235f18cba3",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/8d3ea217-6baa-43cb-8423-d0235f18cba3/download/ccg-enero-2023.pdf",
+          "name": "Gastos por Objeto Enero 2023",
+          "format": "PDF",
+          "updatedAt": "2023-05-31T20:19:40.884Z",
+          "description": ""
+        },
+        {
+          "id": "62930c55-4778-4e9c-9bb5-96559d6d4429",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/62930c55-4778-4e9c-9bb5-96559d6d4429/download/ccg-febrero-2023.pdf",
+          "name": "Gastos por Objeto Febrero 2023",
+          "format": "PDF",
+          "updatedAt": "2023-05-31T20:20:29.003Z",
+          "description": ""
+        },
+        {
+          "id": "557dedb5-67db-4798-bdc0-5b089ae28c5d",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/557dedb5-67db-4798-bdc0-5b089ae28c5d/download/ccg-marzo-2023.pdf",
+          "name": "Gastos por Objeto Marzo 2023",
+          "format": "PDF",
+          "updatedAt": "2023-05-31T20:21:02.766Z",
+          "description": ""
+        },
+        {
+          "id": "4fe3a628-03a5-43e5-8a69-47cdfc9aaaad",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/4fe3a628-03a5-43e5-8a69-47cdfc9aaaad/download/ccg-abril-2023.pdf",
+          "name": "Gastos por Objeto Abril 2023",
+          "format": "PDF",
+          "updatedAt": "2023-05-31T20:21:15.548Z",
+          "description": ""
+        },
+        {
+          "id": "66db116a-3587-4391-94ee-c37f78de44a2",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/66db116a-3587-4391-94ee-c37f78de44a2/download/05-ejec.por-clasificacion-mayo23.pdf",
+          "name": "Gastos por Objeto Mayo 2023",
+          "format": "PDF",
+          "updatedAt": "2023-08-08T16:40:21.007Z",
+          "description": ""
+        },
+        {
+          "id": "9c3f263f-236d-46e2-b046-5433c795ff1c",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/9c3f263f-236d-46e2-b046-5433c795ff1c/download/06-ejec.por-clasificacion-junio23.pdf",
+          "name": "Gastos por Objeto Junio 2023",
+          "format": "PDF",
+          "updatedAt": "2023-08-08T16:40:41.062Z",
+          "description": ""
+        },
+        {
+          "id": "55d64234-732a-48b2-bc4a-1cd37a6c9d1c",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/55d64234-732a-48b2-bc4a-1cd37a6c9d1c/download/07-ejerc.-por-clasificacion-julio23.pdf",
+          "name": "Gastos por Objeto Julio 2023",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T17:31:59.017Z",
+          "description": ""
+        },
+        {
+          "id": "a42157a9-7405-4c94-9f3e-b49019005384",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/a42157a9-7405-4c94-9f3e-b49019005384/download/08-ejerc.-por-clasificacion-agosto23.pdf",
+          "name": "Gastos por Objeto Agosto 2023",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T17:33:23.417Z",
+          "description": ""
+        },
+        {
+          "id": "70833997-6813-4620-b9f8-bc2fbae00bc3",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/6cb3fb6d-dec4-4d89-a96f-cff8b7fa40b6/resource/70833997-6813-4620-b9f8-bc2fbae00bc3/download/09-ejerc.-por-clasificacion-sep-23.pdf",
+          "name": "Gastos por Objeto Septiembre 2023",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T17:34:13.016Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2023-05-18T16:03:21.776Z",
+      "updatedAt": "2023-11-09T18:00:21.850Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "2acaccd5-0132-4878-8fd5-3477f158ee76",
+      "name": "ejecucion-recursos-y-gastos-2020",
+      "title": "Ejecución Recursos y Gastos 2020",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "15f5a8b3-166a-4106-a9a0-acf006689148",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/15f5a8b3-166a-4106-a9a0-acf006689148/download/2020-enero.pdf",
+          "name": "Recursos Enero 2020",
+          "format": "PDF",
+          "updatedAt": "2023-07-28T17:14:12.420Z",
+          "description": ""
+        },
+        {
+          "id": "4b987ed0-1bff-488b-9994-c34da2b7a082",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/4b987ed0-1bff-488b-9994-c34da2b7a082/download/2020-febrero.pdf",
+          "name": "Recursos Febrero 2020",
+          "format": "PDF",
+          "updatedAt": "2023-07-28T17:17:28.330Z",
+          "description": ""
+        },
+        {
+          "id": "e62c9f70-4c2c-4062-a776-85b0d82ec996",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/e62c9f70-4c2c-4062-a776-85b0d82ec996/download/2020-marzo.pdf",
+          "name": "Recursos Marzo 2020",
+          "format": "PDF",
+          "updatedAt": "2023-07-28T17:20:10.561Z",
+          "description": ""
+        },
+        {
+          "id": "2b9f7ad4-79de-40a7-9670-c4f13a55c21d",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/2b9f7ad4-79de-40a7-9670-c4f13a55c21d/download/2020-abril.pdf",
+          "name": "Recursos Abril 2020",
+          "format": "PDF",
+          "updatedAt": "2023-07-28T17:20:33.466Z",
+          "description": ""
+        },
+        {
+          "id": "e8fb5a47-1803-46f1-b20d-7356dbdce4a6",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/e8fb5a47-1803-46f1-b20d-7356dbdce4a6/download/2020-mayo.pdf",
+          "name": "Recursos Mayo 2020",
+          "format": "PDF",
+          "updatedAt": "2023-07-28T17:24:39.953Z",
+          "description": ""
+        },
+        {
+          "id": "eda59b14-b7a0-460a-ab42-1501b618f1d3",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/eda59b14-b7a0-460a-ab42-1501b618f1d3/download/2020-junio.pdf",
+          "name": "Recursos Junio 2020",
+          "format": "PDF",
+          "updatedAt": "2023-07-28T17:25:02.020Z",
+          "description": ""
+        },
+        {
+          "id": "36fd89bd-2e58-4f6e-abd9-e544d83dfe40",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/36fd89bd-2e58-4f6e-abd9-e544d83dfe40/download/2020-julio.pdf",
+          "name": "Recursos Julio 2020",
+          "format": "PDF",
+          "updatedAt": "2023-07-28T17:26:00.811Z",
+          "description": ""
+        },
+        {
+          "id": "f5d8705f-d043-4cc0-a033-8b216a3f0b8b",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/f5d8705f-d043-4cc0-a033-8b216a3f0b8b/download/2020-agosto.pdf",
+          "name": "Recursos Agosto 2020",
+          "format": "PDF",
+          "updatedAt": "2023-07-28T17:28:03.884Z",
+          "description": ""
+        },
+        {
+          "id": "ffad5d92-119d-4b07-a88e-d9f278d6db6a",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/ffad5d92-119d-4b07-a88e-d9f278d6db6a/download/2020-septiembre.pdf",
+          "name": "Recursos Septiembre 2020",
+          "format": "PDF",
+          "updatedAt": "2023-07-28T17:28:33.734Z",
+          "description": ""
+        },
+        {
+          "id": "9f87930a-4f97-428e-8351-ee5dd97f8319",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/9f87930a-4f97-428e-8351-ee5dd97f8319/download/2020-octubre.pdf",
+          "name": "Recursos Octubre 2020",
+          "format": "PDF",
+          "updatedAt": "2023-07-28T17:28:56.623Z",
+          "description": ""
+        },
+        {
+          "id": "9c1a97c5-45d8-443d-8e41-366ac1b9f4ce",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/9c1a97c5-45d8-443d-8e41-366ac1b9f4ce/download/2020-noviembre.pdf",
+          "name": "Recursos Noviembre 2020",
+          "format": "PDF",
+          "updatedAt": "2023-07-28T17:29:19.667Z",
+          "description": ""
+        },
+        {
+          "id": "57ef3237-87fc-4c28-909a-8e0926597de9",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/57ef3237-87fc-4c28-909a-8e0926597de9/download/2020-diciembre.pdf",
+          "name": "Recursos Diciembre 2020",
+          "format": "PDF",
+          "updatedAt": "2023-07-28T17:29:40.149Z",
+          "description": ""
+        },
+        {
+          "id": "e7df15d8-1990-49d2-8c36-f3d7b0b5cf6a",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/e7df15d8-1990-49d2-8c36-f3d7b0b5cf6a/download/2020-enero.csv",
+          "name": "Recursos Enero 2020",
+          "format": "CSV",
+          "updatedAt": "2023-07-28T18:13:08.868Z",
+          "description": ""
+        },
+        {
+          "id": "e2d7bfb5-c0f8-4a62-a789-b6f70eff41bd",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/e2d7bfb5-c0f8-4a62-a789-b6f70eff41bd/download/2020-febrero.csv",
+          "name": "Recursos Febrero 2020",
+          "format": "CSV",
+          "updatedAt": "2023-07-28T18:14:29.444Z",
+          "description": ""
+        },
+        {
+          "id": "d3e8fe9c-3891-46e3-8998-7749f5b4b58e",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/d3e8fe9c-3891-46e3-8998-7749f5b4b58e/download/2020-marzo.csv",
+          "name": "Recursos Marzo 2020",
+          "format": "CSV",
+          "updatedAt": "2023-07-28T18:15:46.751Z",
+          "description": ""
+        },
+        {
+          "id": "7ceab0dc-8730-4be7-8fa3-e7dcd30e4d93",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/7ceab0dc-8730-4be7-8fa3-e7dcd30e4d93/download/2020-abril.csv",
+          "name": "Recursos Abril 2020",
+          "format": "CSV",
+          "updatedAt": "2023-07-28T18:18:03.067Z",
+          "description": ""
+        },
+        {
+          "id": "e31085bb-2a5d-469e-84e5-fc9170c19c0e",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/e31085bb-2a5d-469e-84e5-fc9170c19c0e/download/2020-mayo.csv",
+          "name": "Recursos Mayo 2020",
+          "format": "CSV",
+          "updatedAt": "2023-07-28T18:22:05.658Z",
+          "description": ""
+        },
+        {
+          "id": "88234046-3dda-4418-a5fe-568f63f8a06c",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/88234046-3dda-4418-a5fe-568f63f8a06c/download/2020-junio.csv",
+          "name": "Recursos Junio 2020",
+          "format": "CSV",
+          "updatedAt": "2023-07-28T18:24:27.346Z",
+          "description": ""
+        },
+        {
+          "id": "4bfb2e61-5ad1-4a12-924f-b16ce268744f",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/4bfb2e61-5ad1-4a12-924f-b16ce268744f/download/2020-julio.csv",
+          "name": "Recursos Julio 2020",
+          "format": "CSV",
+          "updatedAt": "2023-07-28T21:10:59.177Z",
+          "description": ""
+        },
+        {
+          "id": "7814e46f-1d98-4946-9b69-8b32845f16d0",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/7814e46f-1d98-4946-9b69-8b32845f16d0/download/2020-agosto.csv",
+          "name": "Recursos Agosto 2020",
+          "format": "CSV",
+          "updatedAt": "2023-07-28T21:11:55.019Z",
+          "description": ""
+        },
+        {
+          "id": "3aa98a0d-e022-4cae-a833-caec0467c1ff",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/3aa98a0d-e022-4cae-a833-caec0467c1ff/download/2020-septiembre.csv",
+          "name": "Recursos Septiembre 2020",
+          "format": "CSV",
+          "updatedAt": "2023-07-28T21:12:57.308Z",
+          "description": ""
+        },
+        {
+          "id": "b7b2f3c3-1e8d-4f6d-9b9d-98e700750480",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/b7b2f3c3-1e8d-4f6d-9b9d-98e700750480/download/2020-octubre.csv",
+          "name": "Recursos Octubre 2020",
+          "format": "CSV",
+          "updatedAt": "2023-07-28T21:13:59.275Z",
+          "description": ""
+        },
+        {
+          "id": "b0845742-ea89-4f07-854d-4f5e3c897b17",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/b0845742-ea89-4f07-854d-4f5e3c897b17/download/2020-noviembre.csv",
+          "name": "Recursos Noviembre 2020",
+          "format": "CSV",
+          "updatedAt": "2023-07-28T21:15:02.546Z",
+          "description": ""
+        },
+        {
+          "id": "52adc3c1-f7a8-43b3-bc91-ee5b76e06eca",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/52adc3c1-f7a8-43b3-bc91-ee5b76e06eca/download/2020-diciembre.csv",
+          "name": "Recursos Diciembre 2020",
+          "format": "CSV",
+          "updatedAt": "2023-07-28T21:16:06.105Z",
+          "description": ""
+        },
+        {
+          "id": "93e74aa9-6aff-4df1-82e3-ae2aaa6a1696",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/93e74aa9-6aff-4df1-82e3-ae2aaa6a1696/download/ejecucion-por-programa-enero-2020.pdf",
+          "name": "Gastos por Programas Enero 2020",
+          "format": "PDF",
+          "updatedAt": "2023-11-09T16:45:50.659Z",
+          "description": ""
+        },
+        {
+          "id": "218e1c0d-9734-48a1-9fef-81bdcdffefcc",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/218e1c0d-9734-48a1-9fef-81bdcdffefcc/download/ejecucion-por-programa-febrero-2020.pdf",
+          "name": "Gastos por Programas Febrero 2020",
+          "format": "PDF",
+          "updatedAt": "2023-11-09T16:46:15.092Z",
+          "description": ""
+        },
+        {
+          "id": "3a54af97-b16c-4049-a299-1a424685746a",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/3a54af97-b16c-4049-a299-1a424685746a/download/ejecucion-por-programa-marzo-2020.pdf",
+          "name": "Gastos por Programas Marzo 2020",
+          "format": "PDF",
+          "updatedAt": "2023-11-09T16:47:11.736Z",
+          "description": ""
+        },
+        {
+          "id": "cc0465ce-49d7-4923-82a0-45a839fd8fe4",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/cc0465ce-49d7-4923-82a0-45a839fd8fe4/download/ejecucion-por-programa-abril-2020.pdf",
+          "name": "Gastos por Programas Abril 2020",
+          "format": "PDF",
+          "updatedAt": "2023-11-09T16:47:37.113Z",
+          "description": ""
+        },
+        {
+          "id": "834e26df-61f7-4318-b8ca-aaadd7708ebd",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/834e26df-61f7-4318-b8ca-aaadd7708ebd/download/ejecucion-por-programa-mayo-2020.pdf",
+          "name": "Gastos por Programas Mayo 2020",
+          "format": "PDF",
+          "updatedAt": "2023-11-09T16:48:27.080Z",
+          "description": ""
+        },
+        {
+          "id": "ecc64ff9-cf92-4ade-a6d3-76ce4227d3b5",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/ecc64ff9-cf92-4ade-a6d3-76ce4227d3b5/download/ejecucion-por-programa-junio-2020.pdf",
+          "name": "Gastos por Programas Junio 2020",
+          "format": "PDF",
+          "updatedAt": "2023-11-09T16:53:10.153Z",
+          "description": ""
+        },
+        {
+          "id": "4cc02337-e32f-4e1f-ab69-b271b1c40a35",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/4cc02337-e32f-4e1f-ab69-b271b1c40a35/download/ejecucion-por-programa-julio-2020.pdf",
+          "name": "Gastos por Programas Julio 2020",
+          "format": "PDF",
+          "updatedAt": "2023-11-09T16:53:38.704Z",
+          "description": ""
+        },
+        {
+          "id": "104adef3-d965-4e90-8927-dca0855ab00b",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/104adef3-d965-4e90-8927-dca0855ab00b/download/ejecucion-por-programa-agosto-2020.pdf",
+          "name": "Gastos por Programas Agosto 2020",
+          "format": "PDF",
+          "updatedAt": "2023-11-09T16:54:06.408Z",
+          "description": ""
+        },
+        {
+          "id": "60774c1b-3995-48fe-9d34-f7dc2fc226de",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/60774c1b-3995-48fe-9d34-f7dc2fc226de/download/ejecucion-por-programa-septiembre-2020.pdf",
+          "name": "Gastos por Programas Septiembre 2020",
+          "format": "PDF",
+          "updatedAt": "2023-11-09T16:54:30.048Z",
+          "description": ""
+        },
+        {
+          "id": "48e9e40c-6538-4243-a092-d9bbf31c4ec1",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/48e9e40c-6538-4243-a092-d9bbf31c4ec1/download/ejecucion-por-programa-octubre-2020.pdf",
+          "name": "Gastos por Programas Octubre 2020",
+          "format": "PDF",
+          "updatedAt": "2023-11-09T16:54:53.714Z",
+          "description": ""
+        },
+        {
+          "id": "d84afa13-012b-418e-b5da-1b6d5437bdaa",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/d84afa13-012b-418e-b5da-1b6d5437bdaa/download/ejecucion-por-programa-noviembre-2020.pdf",
+          "name": "Gastos por Programas Noviembre 2020",
+          "format": "PDF",
+          "updatedAt": "2023-11-09T16:55:28.162Z",
+          "description": ""
+        },
+        {
+          "id": "8bd74279-e96c-45c7-93c3-c8a4048da9cf",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/8bd74279-e96c-45c7-93c3-c8a4048da9cf/download/ejecucion-por-programa-diciembre-2020.pdf",
+          "name": "Gastos por Programas Diciembre 2020",
+          "format": "PDF",
+          "updatedAt": "2023-11-09T16:55:56.967Z",
+          "description": ""
+        },
+        {
+          "id": "6f3e0926-2f21-4663-b919-7ce53e22430a",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/6f3e0926-2f21-4663-b919-7ce53e22430a/download/ejecucion-por-programa-enero-2020.csv",
+          "name": "Gastos por Programas Enero 2020",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T17:01:07.465Z",
+          "description": ""
+        },
+        {
+          "id": "302dc7cf-f2f0-4388-967b-82854d3c0f4b",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/302dc7cf-f2f0-4388-967b-82854d3c0f4b/download/ejecucion-por-programa-febrero-2020.csv",
+          "name": "Gastos por Programas Febrero 2020",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T17:01:19.965Z",
+          "description": ""
+        },
+        {
+          "id": "d751efeb-8ab1-483b-bbbf-e97cc39d53ac",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/d751efeb-8ab1-483b-bbbf-e97cc39d53ac/download/ejecucion-por-programa-marzo-2020.csv",
+          "name": "Gastos por Programas Marzo 2020",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T17:10:57.591Z",
+          "description": ""
+        },
+        {
+          "id": "dceea61f-1627-4bf9-aad1-f743324fd021",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/dceea61f-1627-4bf9-aad1-f743324fd021/download/ejecucion-por-programa-abril-2020.csv",
+          "name": "Gastos por Programas Abril 2020",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T17:27:38.612Z",
+          "description": ""
+        },
+        {
+          "id": "97957118-0e29-4780-a3b4-8102fbc373e1",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/97957118-0e29-4780-a3b4-8102fbc373e1/download/ejecucion-por-programa-mayo-2020.csv",
+          "name": "Gastos por Programas Mayo 2020",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T17:28:27.200Z",
+          "description": ""
+        },
+        {
+          "id": "ece62c15-602f-472d-af35-c49e294df4db",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/ece62c15-602f-472d-af35-c49e294df4db/download/ejecucion-por-programa-junio-2020.csv",
+          "name": "Gastos por Programas Junio 2020",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T17:30:29.855Z",
+          "description": ""
+        },
+        {
+          "id": "745214b0-fee2-46c2-b148-649926aae54b",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/745214b0-fee2-46c2-b148-649926aae54b/download/ejecucion-por-programa-julio-2020.csv",
+          "name": "Gastos por Programas Julio 2020",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T17:31:06.448Z",
+          "description": ""
+        },
+        {
+          "id": "fb6bf352-0138-4099-b8e6-998630d5eb55",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/fb6bf352-0138-4099-b8e6-998630d5eb55/download/ejecucion-por-programa-agosto-2020.csv",
+          "name": "Gastos por Programas Agosto 2020",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T17:31:42.624Z",
+          "description": ""
+        },
+        {
+          "id": "28f8a98c-0b3f-414f-ac7b-25a4924c3de6",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/28f8a98c-0b3f-414f-ac7b-25a4924c3de6/download/ejecucion-por-programa-septiembre-2020.csv",
+          "name": "Gastos por Programas Septiembre 2020",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T17:32:20.144Z",
+          "description": ""
+        },
+        {
+          "id": "06377fa1-8bfc-4678-bd57-b7b92826892f",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/06377fa1-8bfc-4678-bd57-b7b92826892f/download/ejecucion-por-programa-octubre-2020.csv",
+          "name": "Gastos por Programas Octubre 2020",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T17:34:02.208Z",
+          "description": ""
+        },
+        {
+          "id": "005a109a-a101-46e2-8c1e-b48972236c15",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/005a109a-a101-46e2-8c1e-b48972236c15/download/ejecucion-por-programa-noviembre-2020.csv",
+          "name": "Gastos por Programas Noviembre  2020",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T17:34:41.080Z",
+          "description": ""
+        },
+        {
+          "id": "6caeb797-f4f0-4e6b-a8fa-769f87f9fe02",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/6caeb797-f4f0-4e6b-a8fa-769f87f9fe02/download/ejecucion-por-programa-diciembre-2020.csv",
+          "name": "Gastos por Programas Diciembre 2020",
+          "format": "CSV",
+          "updatedAt": "2023-11-09T17:36:36.847Z",
+          "description": ""
+        },
+        {
+          "id": "d3ff3224-3f8f-4e47-89dd-5fe22b814ecb",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/d3ff3224-3f8f-4e47-89dd-5fe22b814ecb/download/gastos-por-objeto-enero-2020.pdf",
+          "name": "Gastos por Objeto Enero 2020",
+          "format": "PDF",
+          "updatedAt": "2023-11-09T17:43:25.360Z",
+          "description": ""
+        },
+        {
+          "id": "5e7eb923-d0f2-4fe8-a3ea-bcd0f606c995",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/5e7eb923-d0f2-4fe8-a3ea-bcd0f606c995/download/gastos-por-objeto-febrero-2020.pdf",
+          "name": "Gastos por Objeto Febrero 2020",
+          "format": "PDF",
+          "updatedAt": "2023-11-09T17:43:48.089Z",
+          "description": ""
+        },
+        {
+          "id": "d7eb82cd-37f3-447e-a649-0b38e6aea4b7",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/d7eb82cd-37f3-447e-a649-0b38e6aea4b7/download/gastos-por-objeto-marzo-2020.pdf",
+          "name": "Gastos por Objeto Marzo 2020",
+          "format": "PDF",
+          "updatedAt": "2023-11-09T17:44:47.601Z",
+          "description": ""
+        },
+        {
+          "id": "66cc3136-de09-4acf-910f-e88c819c0091",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/66cc3136-de09-4acf-910f-e88c819c0091/download/gastos-por-objeto-abril-2020.pdf",
+          "name": "Gastos por Objeto Abril 2020",
+          "format": "PDF",
+          "updatedAt": "2023-11-09T17:45:04.350Z",
+          "description": ""
+        },
+        {
+          "id": "a015d38f-a7f0-49f3-8a95-489c62223312",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/a015d38f-a7f0-49f3-8a95-489c62223312/download/gastos-por-objeto-mayo-2020.pdf",
+          "name": "Gastos por Objeto Mayo 2020",
+          "format": "PDF",
+          "updatedAt": "2023-11-09T17:45:21.954Z",
+          "description": ""
+        },
+        {
+          "id": "fa4adf1f-0636-4e21-bf9d-a53f9c6b845d",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/fa4adf1f-0636-4e21-bf9d-a53f9c6b845d/download/gastos-por-objeto-junio-2020.pdf",
+          "name": "Gastos por Objeto Junio 2020",
+          "format": "PDF",
+          "updatedAt": "2023-11-09T17:45:41.005Z",
+          "description": ""
+        },
+        {
+          "id": "94b9c1b0-f59d-4b57-832a-7780a6178951",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/94b9c1b0-f59d-4b57-832a-7780a6178951/download/gastos-por-objeto-julio-2020.pdf",
+          "name": "Gastos por Objeto Julio 2020",
+          "format": "PDF",
+          "updatedAt": "2023-11-09T17:46:00.253Z",
+          "description": ""
+        },
+        {
+          "id": "168bd1d2-08fe-476c-ab17-0f8471e67ca6",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/168bd1d2-08fe-476c-ab17-0f8471e67ca6/download/gastos-por-objeto-agosto-2020.pdf",
+          "name": "Gastos por Objeto Agosto 2020",
+          "format": "PDF",
+          "updatedAt": "2023-11-09T17:46:21.565Z",
+          "description": ""
+        },
+        {
+          "id": "171a8684-950e-4053-9087-651c7025bc08",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/171a8684-950e-4053-9087-651c7025bc08/download/gastos-por-objeto-septiembre-2020.pdf",
+          "name": "Gastos por Objeto Septiembre 2020",
+          "format": "PDF",
+          "updatedAt": "2023-11-09T17:46:43.596Z",
+          "description": ""
+        },
+        {
+          "id": "a5d1156c-aa76-43ab-b1e8-29e7b211f87e",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/a5d1156c-aa76-43ab-b1e8-29e7b211f87e/download/gastos-por-objeto-octubre-2020.pdf",
+          "name": "Gastos por Objeto Octubre 2020",
+          "format": "PDF",
+          "updatedAt": "2023-11-09T17:47:03.690Z",
+          "description": ""
+        },
+        {
+          "id": "f0859881-89c9-42e3-a6be-271c0937bbc0",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/f0859881-89c9-42e3-a6be-271c0937bbc0/download/gastos-por-objeto-noviembre-2020.pdf",
+          "name": "Gastos por Objeto Noviembre 2020",
+          "format": "PDF",
+          "updatedAt": "2023-11-09T17:47:28.732Z",
+          "description": ""
+        },
+        {
+          "id": "4d713eb7-4ee5-4176-a41c-eb286fa1b907",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/2acaccd5-0132-4878-8fd5-3477f158ee76/resource/4d713eb7-4ee5-4176-a41c-eb286fa1b907/download/gastos-por-objeto-diciembre-2020.pdf",
+          "name": "Gastos por Objeto Diciembre 2020",
+          "format": "PDF",
+          "updatedAt": "2023-11-09T17:47:50.461Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2023-07-28T17:13:59.252Z",
+      "updatedAt": "2023-11-09T17:47:50.506Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "c9d3012b-abaa-4538-8259-f42c34a5aa43",
+      "name": "ejecucion-recursos-y-gastos-2021",
+      "title": "Ejecución Recursos y Gastos 2021",
+      "keywords": [
+        "gastos",
+        "recursos",
+        "presupuesto"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "0622cdd3-528e-452c-af56-2b1ab0aae215",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/0622cdd3-528e-452c-af56-2b1ab0aae215/download/presupuesto-sancionado-2021-ley-3277.pdf",
+          "name": "Presupuesto Sancionado 2021",
+          "format": "PDF",
+          "updatedAt": "2023-06-02T15:41:15.635Z",
+          "description": ""
+        },
+        {
+          "id": "8f419449-07af-4bfc-a09d-2532ade1de0e",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/8f419449-07af-4bfc-a09d-2532ade1de0e/download/recursos-enero-2021.pdf",
+          "name": "Recursos Enero 2021",
+          "format": "PDF",
+          "updatedAt": "2023-07-26T19:06:00.055Z",
+          "description": ""
+        },
+        {
+          "id": "8903d8af-52ce-4a2a-8ae8-afd78b082a87",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/8903d8af-52ce-4a2a-8ae8-afd78b082a87/download/recursos-febrero-2021.pdf",
+          "name": "Recursos Febrero 2021",
+          "format": "PDF",
+          "updatedAt": "2023-07-26T19:07:27.934Z",
+          "description": ""
+        },
+        {
+          "id": "717e0b26-4b3d-40b0-9653-d575e4f52bd6",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/717e0b26-4b3d-40b0-9653-d575e4f52bd6/download/recursos-marzo-2021.pdf",
+          "name": "Recursos Marzo 2021",
+          "format": "PDF",
+          "updatedAt": "2023-07-26T19:09:17.717Z",
+          "description": ""
+        },
+        {
+          "id": "0caf9a94-325e-4691-80b1-029b2feeb6ef",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/0caf9a94-325e-4691-80b1-029b2feeb6ef/download/recursos-abril-2021.pdf",
+          "name": "Recursos Abril 2021",
+          "format": "PDF",
+          "updatedAt": "2023-07-26T19:10:30.528Z",
+          "description": ""
+        },
+        {
+          "id": "d2bc4472-913a-4f55-ad92-6fe012cdf0a6",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/d2bc4472-913a-4f55-ad92-6fe012cdf0a6/download/recursos-mayo-2021.pdf",
+          "name": "Recursos Mayo 2021",
+          "format": "PDF",
+          "updatedAt": "2023-07-26T19:12:05.435Z",
+          "description": ""
+        },
+        {
+          "id": "1079e926-9815-4ed7-958d-494ddee0151b",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/1079e926-9815-4ed7-958d-494ddee0151b/download/recursos-junio-2021.pdf",
+          "name": "Recursos Junio 2021",
+          "format": "PDF",
+          "updatedAt": "2023-07-26T19:13:06.527Z",
+          "description": ""
+        },
+        {
+          "id": "6f776221-607d-49f9-9b01-1b0a34c6d710",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/6f776221-607d-49f9-9b01-1b0a34c6d710/download/recursos-julio-2021.pdf",
+          "name": "Recursos Julio 2021",
+          "format": "PDF",
+          "updatedAt": "2023-07-26T19:14:35.200Z",
+          "description": ""
+        },
+        {
+          "id": "a3e9fc9d-c39d-4515-b3a5-293f07952dae",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/a3e9fc9d-c39d-4515-b3a5-293f07952dae/download/recursos-agosto-2021.pdf",
+          "name": "Recursos Agosto 2021",
+          "format": "PDF",
+          "updatedAt": "2023-07-26T19:15:31.777Z",
+          "description": ""
+        },
+        {
+          "id": "24b364ac-88c9-48ef-a22a-63a47a4bb1e0",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/24b364ac-88c9-48ef-a22a-63a47a4bb1e0/download/recursos-septiembre-2021.pdf",
+          "name": "Recursos Septiembre 2021",
+          "format": "PDF",
+          "updatedAt": "2023-07-26T19:16:40.534Z",
+          "description": ""
+        },
+        {
+          "id": "171398bb-bd75-4a5d-bc61-466ace0776fc",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/171398bb-bd75-4a5d-bc61-466ace0776fc/download/recursos-octubre-2021.pdf",
+          "name": "Recursos Octubre 2021",
+          "format": "PDF",
+          "updatedAt": "2023-07-26T19:17:26.715Z",
+          "description": ""
+        },
+        {
+          "id": "fc4328b7-c069-437a-a248-25e551257213",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/fc4328b7-c069-437a-a248-25e551257213/download/recursos-noviembre-2021.pdf",
+          "name": "Recursos Noviembre 2021",
+          "format": "PDF",
+          "updatedAt": "2023-07-26T19:19:28.680Z",
+          "description": ""
+        },
+        {
+          "id": "0ba137e5-2c03-403a-8897-6acd398f4714",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/0ba137e5-2c03-403a-8897-6acd398f4714/download/recursos-diciembre-final-2021.pdf",
+          "name": "Recursos Diciembre 2021",
+          "format": "PDF",
+          "updatedAt": "2023-07-26T19:21:00.461Z",
+          "description": ""
+        },
+        {
+          "id": "76986843-623f-4ad8-94c1-954c1e202a73",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/76986843-623f-4ad8-94c1-954c1e202a73/download/recursos-enero-2021.csv",
+          "name": "Recursos Enero 2021",
+          "format": "CSV",
+          "updatedAt": "2023-07-26T19:23:04.832Z",
+          "description": ""
+        },
+        {
+          "id": "3af567c8-c92a-4819-bebe-2723722c08b3",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/3af567c8-c92a-4819-bebe-2723722c08b3/download/recursos-febrero-2021.csv",
+          "name": "Recursos Febrero 2021",
+          "format": "CSV",
+          "updatedAt": "2023-07-26T19:27:09.295Z",
+          "description": ""
+        },
+        {
+          "id": "e1794cab-4f52-4825-bdff-b773eca82deb",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/e1794cab-4f52-4825-bdff-b773eca82deb/download/recursos-marzo-2021.csv",
+          "name": "Recursos Marzo 2021",
+          "format": "CSV",
+          "updatedAt": "2023-07-26T19:30:22.484Z",
+          "description": ""
+        },
+        {
+          "id": "65b6bae5-52a6-40b5-9176-a00e8098672a",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/65b6bae5-52a6-40b5-9176-a00e8098672a/download/recursos-abril-2021.csv",
+          "name": "Recursos Abril 2021",
+          "format": "CSV",
+          "updatedAt": "2023-07-26T19:43:22.791Z",
+          "description": ""
+        },
+        {
+          "id": "3d90f4fb-2cd4-45f3-ad59-b81e7e9b52d7",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/3d90f4fb-2cd4-45f3-ad59-b81e7e9b52d7/download/recursos-mayo-2021.csv",
+          "name": "Recursos Mayo 2021",
+          "format": "CSV",
+          "updatedAt": "2023-07-26T19:44:43.160Z",
+          "description": ""
+        },
+        {
+          "id": "4e57573b-2d34-414d-bb73-398df81070d6",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/4e57573b-2d34-414d-bb73-398df81070d6/download/recursos-junio-2021.csv",
+          "name": "Recursos Junio 2021",
+          "format": "CSV",
+          "updatedAt": "2023-07-26T19:46:13.743Z",
+          "description": ""
+        },
+        {
+          "id": "3ba7bd7f-a68c-4fed-8d69-3a40b11dfd16",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/3ba7bd7f-a68c-4fed-8d69-3a40b11dfd16/download/recursos-julio-2021.csv",
+          "name": "Recursos Julio 2021",
+          "format": "CSV",
+          "updatedAt": "2023-07-26T19:47:50.125Z",
+          "description": ""
+        },
+        {
+          "id": "dfcaf068-70a8-4941-8111-3b4ae70edaa0",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/dfcaf068-70a8-4941-8111-3b4ae70edaa0/download/recursos-agosto-2021.csv",
+          "name": "Recursos Agosto 2021",
+          "format": "CSV",
+          "updatedAt": "2023-07-26T19:50:26.267Z",
+          "description": ""
+        },
+        {
+          "id": "f15f74e2-0f8c-4816-a423-7e042be0ba44",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/f15f74e2-0f8c-4816-a423-7e042be0ba44/download/recursos-septiembre-2021.csv",
+          "name": "Recursos Septiembre 2021",
+          "format": "CSV",
+          "updatedAt": "2023-07-26T19:52:28.417Z",
+          "description": ""
+        },
+        {
+          "id": "fb345e77-50b1-40a0-85bd-f689494806a3",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/fb345e77-50b1-40a0-85bd-f689494806a3/download/recursos-octubre-2021.csv",
+          "name": "Recursos Octubre 2021",
+          "format": "CSV",
+          "updatedAt": "2023-07-26T19:53:55.563Z",
+          "description": ""
+        },
+        {
+          "id": "461b4781-fbf0-4fec-8214-72cf5685c3c8",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/461b4781-fbf0-4fec-8214-72cf5685c3c8/download/recursos-noviembre-2021.csv",
+          "name": "Recursos Noviembre 2021",
+          "format": "CSV",
+          "updatedAt": "2023-07-26T19:55:10.173Z",
+          "description": ""
+        },
+        {
+          "id": "76a30513-d54f-4ec9-91e8-8111021bb8ce",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/76a30513-d54f-4ec9-91e8-8111021bb8ce/download/recursos-diciembre-final-2021.csv",
+          "name": "Recursos Diciembre 2021",
+          "format": "CSV",
+          "updatedAt": "2023-07-26T19:56:56.520Z",
+          "description": ""
+        },
+        {
+          "id": "3d2e5dc1-abad-4368-ba2a-84fb122e77d0",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/3d2e5dc1-abad-4368-ba2a-84fb122e77d0/download/gastos-por-programas-enero-2021.pdf",
+          "name": "Gastos por Programas Enero 2021",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T18:29:00.562Z",
+          "description": ""
+        },
+        {
+          "id": "998e84f5-9c32-47d1-a037-6634df8afa6f",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/998e84f5-9c32-47d1-a037-6634df8afa6f/download/gastos-por-programas-febrero-2021.pdf",
+          "name": "Gastos por Programas Febrero 2021",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T18:29:46.535Z",
+          "description": ""
+        },
+        {
+          "id": "b59f9e9e-4464-4a90-9703-16dcd6109213",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/b59f9e9e-4464-4a90-9703-16dcd6109213/download/gastos-por-programas-marzo-2021.pdf",
+          "name": "Gastos por Programas Marzo 2021",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T18:30:25.841Z",
+          "description": ""
+        },
+        {
+          "id": "76f7ec77-6920-4f48-b75f-7aefca45ecab",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/76f7ec77-6920-4f48-b75f-7aefca45ecab/download/gastos-por-programas-abril-2021.pdf",
+          "name": "Gastos por Programas Abril 2021",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T18:31:00.525Z",
+          "description": ""
+        },
+        {
+          "id": "018ea086-7235-4af3-a8d0-0bba51b53434",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/018ea086-7235-4af3-a8d0-0bba51b53434/download/gastos-por-programas-mayo-2021.pdf",
+          "name": "Gastos por Programas Mayo 2021",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T18:31:33.481Z",
+          "description": ""
+        },
+        {
+          "id": "15aa05aa-4423-49ff-973a-8bf150470e04",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/15aa05aa-4423-49ff-973a-8bf150470e04/download/gastos-por-programas-junio-2021.pdf",
+          "name": "Gastos por Programas Junio 2021",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T18:32:19.837Z",
+          "description": ""
+        },
+        {
+          "id": "3985e189-d1ad-45f8-9b14-ad5bed455bb6",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/3985e189-d1ad-45f8-9b14-ad5bed455bb6/download/gastos-por-programas-julio-2021.pdf",
+          "name": "Gastos por Programas Julio 2021",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T18:33:32.030Z",
+          "description": ""
+        },
+        {
+          "id": "7f6f4474-b516-4f39-87f5-e0eb859c19c0",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/7f6f4474-b516-4f39-87f5-e0eb859c19c0/download/gastos-por-programas-agosto-2021.pdf",
+          "name": "Gastos por Programas Agosto 2021",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T18:34:19.331Z",
+          "description": ""
+        },
+        {
+          "id": "941d8638-fcdd-45af-80e9-3e0b204f4296",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/941d8638-fcdd-45af-80e9-3e0b204f4296/download/gastos-por-programas-septiembre-2021.pdf",
+          "name": "Gastos por Programas Septiembre 2021",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T18:34:53.319Z",
+          "description": ""
+        },
+        {
+          "id": "8837bb64-3f59-4435-a477-8e1bdb70b17f",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/8837bb64-3f59-4435-a477-8e1bdb70b17f/download/gastos-por-programas-octubre-2021.pdf",
+          "name": "Gastos por Programas Octubre 2021",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T18:35:38.579Z",
+          "description": ""
+        },
+        {
+          "id": "633da75f-c003-42fe-a567-b1b6eaaeb169",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/633da75f-c003-42fe-a567-b1b6eaaeb169/download/gastos-por-programas-noviembre-2021.pdf",
+          "name": "Gastos por Programas Noviembre 2021",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T18:36:15.282Z",
+          "description": ""
+        },
+        {
+          "id": "eaedb098-a822-4f5c-8a6e-1406ec644381",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/eaedb098-a822-4f5c-8a6e-1406ec644381/download/gastos-por-programas-diciembre-2021.pdf",
+          "name": "Gastos por Programas Diciembre 2021",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T18:36:48.556Z",
+          "description": ""
+        },
+        {
+          "id": "0b958c25-d619-42c1-9062-a0c88c070898",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/0b958c25-d619-42c1-9062-a0c88c070898/download/gastos-por-programas-enero-2021.csv",
+          "name": "Gastos por Programas Enero 2021",
+          "format": "CSV",
+          "updatedAt": "2023-11-07T18:42:00.410Z",
+          "description": ""
+        },
+        {
+          "id": "3e15523e-960c-40aa-a0ad-7f0b89a074f0",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/3e15523e-960c-40aa-a0ad-7f0b89a074f0/download/gastos-por-programas-febrero-2021.csv",
+          "name": "Gastos por Programas Febrero 2021",
+          "format": "CSV",
+          "updatedAt": "2023-11-07T18:46:27.581Z",
+          "description": ""
+        },
+        {
+          "id": "82144609-817d-4331-8b4a-3f1935a26078",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/82144609-817d-4331-8b4a-3f1935a26078/download/gastos-por-programas-marzo-2021.csv",
+          "name": "Gastos por Programas Marzo 2021",
+          "format": "CSV",
+          "updatedAt": "2023-11-07T18:48:02.120Z",
+          "description": ""
+        },
+        {
+          "id": "ff583df6-51c6-497c-a901-c12d01490fc0",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/ff583df6-51c6-497c-a901-c12d01490fc0/download/gastos-por-programas-abril-2021.csv",
+          "name": "Gastos por Programas Abril 2021",
+          "format": "CSV",
+          "updatedAt": "2023-11-07T20:39:51.118Z",
+          "description": ""
+        },
+        {
+          "id": "38073dee-c380-491b-9155-c496da541d7b",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/38073dee-c380-491b-9155-c496da541d7b/download/gastos-por-programas-mayo-2021.csv",
+          "name": "Gastos por Programas Mayo 2021",
+          "format": "CSV",
+          "updatedAt": "2023-11-07T20:41:10.969Z",
+          "description": ""
+        },
+        {
+          "id": "533033e6-abb2-4b97-b1cc-728354de8c76",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/533033e6-abb2-4b97-b1cc-728354de8c76/download/gastos-por-programas-junio-2021.csv",
+          "name": "Gastos por Programas Junio 2021",
+          "format": "CSV",
+          "updatedAt": "2023-11-07T20:42:46.212Z",
+          "description": ""
+        },
+        {
+          "id": "6eade462-ab69-498d-9c73-6d973e34e5f0",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/6eade462-ab69-498d-9c73-6d973e34e5f0/download/gastos-por-programas-julio-2021.csv",
+          "name": "Gastos por Programas Julio 2021",
+          "format": "CSV",
+          "updatedAt": "2023-11-07T20:44:30.904Z",
+          "description": ""
+        },
+        {
+          "id": "32855313-3f1a-4e43-8fdb-771ee9b925cb",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/32855313-3f1a-4e43-8fdb-771ee9b925cb/download/gastos-por-programas-agosto-2021.csv",
+          "name": "Gastos por Programas Agosto 2021",
+          "format": "CSV",
+          "updatedAt": "2023-11-07T20:46:24.318Z",
+          "description": ""
+        },
+        {
+          "id": "ee5abcb8-96ab-4f94-b734-c52669b877aa",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/ee5abcb8-96ab-4f94-b734-c52669b877aa/download/gastos-por-programas-septiembre-2021.csv",
+          "name": "Gastos por Programas Septiembre 2021",
+          "format": "CSV",
+          "updatedAt": "2023-11-07T20:46:59.032Z",
+          "description": ""
+        },
+        {
+          "id": "482cbaeb-2a11-4e40-be91-344753c95961",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/482cbaeb-2a11-4e40-be91-344753c95961/download/gastos-por-programas-octubre-2021.csv",
+          "name": "Gastos por Programas Octubre 2021",
+          "format": "CSV",
+          "updatedAt": "2023-11-07T20:47:33.503Z",
+          "description": ""
+        },
+        {
+          "id": "6012a5f6-365c-46d9-84f3-66ec2bcf1a6e",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/6012a5f6-365c-46d9-84f3-66ec2bcf1a6e/download/gastos-por-programas-noviembre-2021.csv",
+          "name": "Gastos por Programas Noviembre 2021",
+          "format": "CSV",
+          "updatedAt": "2023-11-07T20:48:11.048Z",
+          "description": ""
+        },
+        {
+          "id": "89a97f5f-0082-4743-8f51-9bdbdaf92a52",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/89a97f5f-0082-4743-8f51-9bdbdaf92a52/download/gastos-por-programas-diciembre-2021.csv",
+          "name": "Gastos por Programas Diciembre 2021",
+          "format": "CSV",
+          "updatedAt": "2023-11-07T20:48:53.381Z",
+          "description": ""
+        },
+        {
+          "id": "8a4cfb66-cb34-433c-b8ac-b85f6fedfe0f",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/8a4cfb66-cb34-433c-b8ac-b85f6fedfe0f/download/gastos-por-objeto-enero-2021.pdf",
+          "name": "Gastos por Objeto Enero 2021",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T18:18:57.420Z",
+          "description": ""
+        },
+        {
+          "id": "4c1c6c14-0be8-4563-a5c8-05635be95e8b",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/4c1c6c14-0be8-4563-a5c8-05635be95e8b/download/gastos-por-objeto-febrero-2021.pdf",
+          "name": "Gastos por Objeto Febrero 2021",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T18:19:47.173Z",
+          "description": ""
+        },
+        {
+          "id": "8ce95bbd-924b-4640-a060-556e8262dfb3",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/8ce95bbd-924b-4640-a060-556e8262dfb3/download/gastos-por-objeto-marzo-2021.pdf",
+          "name": "Gastos por Objeto Marzo 2021",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T18:20:46.255Z",
+          "description": ""
+        },
+        {
+          "id": "71335ab4-d8a4-4e9d-93d6-e785ff2e15f0",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/71335ab4-d8a4-4e9d-93d6-e785ff2e15f0/download/gastos-por-objeto-abril-2021.pdf",
+          "name": "Gastos por Objeto Abril 2021",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T18:21:29.732Z",
+          "description": ""
+        },
+        {
+          "id": "d931ef51-b551-429c-b76b-94498e6061f1",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/d931ef51-b551-429c-b76b-94498e6061f1/download/gastos-por-objeto-mayo-2021.pdf",
+          "name": "Gastos por Objeto Mayo 2021",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T18:22:09.957Z",
+          "description": ""
+        },
+        {
+          "id": "15f18a0b-8a45-4a66-b563-3652b3b081ca",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/15f18a0b-8a45-4a66-b563-3652b3b081ca/download/gastos-por-objeto-junio-2021.pdf",
+          "name": "Gastos por Objeto Junio 2021",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T18:22:54.678Z",
+          "description": ""
+        },
+        {
+          "id": "d6a5a8ba-2204-4b0c-a668-a9c0d4e608e4",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/d6a5a8ba-2204-4b0c-a668-a9c0d4e608e4/download/gastos-por-objeto-julio-2021.pdf",
+          "name": "Gastos por Objeto Julio 2021",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T18:23:34.753Z",
+          "description": ""
+        },
+        {
+          "id": "b3940c45-0f0a-487e-b151-8d950f0f4d90",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/b3940c45-0f0a-487e-b151-8d950f0f4d90/download/gastos-por-objeto-agosto-2021.pdf",
+          "name": "Gastos por Objeto Agosto 2021",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T18:24:12.733Z",
+          "description": ""
+        },
+        {
+          "id": "16f2155f-3266-4573-bc31-bb354e2f86d7",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/16f2155f-3266-4573-bc31-bb354e2f86d7/download/gastos-por-objeto-septiembre-2021.pdf",
+          "name": "Gastos por Objeto Septiembre 2021",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T18:24:59.620Z",
+          "description": ""
+        },
+        {
+          "id": "2a9278dc-2019-4068-b27c-4cea986bd3d3",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/2a9278dc-2019-4068-b27c-4cea986bd3d3/download/gastos-por-objeto-octubre-2021.pdf",
+          "name": "Gastos por Objeto Octubre 2021",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T18:25:46.620Z",
+          "description": ""
+        },
+        {
+          "id": "a3477dae-0dc4-4169-8c62-f9e28517db56",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/a3477dae-0dc4-4169-8c62-f9e28517db56/download/gastos-por-objeto-noviembre-2021.pdf",
+          "name": "Gastos por Objeto Noviembre 2021",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T18:26:37.425Z",
+          "description": ""
+        },
+        {
+          "id": "a09f1e61-d4e7-48f1-9ffb-ad3a3ef47666",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c9d3012b-abaa-4538-8259-f42c34a5aa43/resource/a09f1e61-d4e7-48f1-9ffb-ad3a3ef47666/download/gastos-por-objeto-diciembre-2021.pdf",
+          "name": "Gastos por Objeto Diciembre 2021",
+          "format": "PDF",
+          "updatedAt": "2023-11-07T18:27:09.548Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2023-06-02T15:40:57.859Z",
+      "updatedAt": "2023-11-07T20:50:04.241Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "9c9b440b-c599-4f63-afd9-9174c61cfe3b",
+      "name": "ejecucion-recursos-y-gastos-2022x",
+      "title": "Ejecución Recursos y Gastos 2022",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "42795589-13d2-4d4f-8448-2a3a76331f28",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/42795589-13d2-4d4f-8448-2a3a76331f28/download/presupuesto-sancionado-2022-ley-3314.pdf",
+          "name": "Presupuesto Sancionado 2022",
+          "format": "PDF",
+          "updatedAt": "2023-06-02T15:37:18.537Z",
+          "description": ""
+        },
+        {
+          "id": "487f5600-b6ac-43be-82d3-77164fc1b578",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/487f5600-b6ac-43be-82d3-77164fc1b578/download/01.22.recursos.pdf",
+          "name": "Recursos Enero 2022",
+          "format": "PDF",
+          "updatedAt": "2023-06-13T18:10:48.227Z",
+          "description": ""
+        },
+        {
+          "id": "2c4988f8-60a5-40db-9f11-c6723790d0c6",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/2c4988f8-60a5-40db-9f11-c6723790d0c6/download/02.22.recursos.pdf",
+          "name": "Recursos Febrero 2022",
+          "format": "PDF",
+          "updatedAt": "2023-06-13T18:11:04.866Z",
+          "description": ""
+        },
+        {
+          "id": "a5071275-2cce-4460-a68f-25d0756a8575",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/a5071275-2cce-4460-a68f-25d0756a8575/download/03.22.recursos.pdf",
+          "name": "Recursos Marzo 2022",
+          "format": "PDF",
+          "updatedAt": "2023-06-13T18:11:23.731Z",
+          "description": ""
+        },
+        {
+          "id": "7dfe18a4-70b8-43a7-8be2-9be0309c063a",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/7dfe18a4-70b8-43a7-8be2-9be0309c063a/download/04.22.recursos.pdf",
+          "name": "Recursos Abril 2022",
+          "format": "PDF",
+          "updatedAt": "2023-06-13T18:11:50.184Z",
+          "description": ""
+        },
+        {
+          "id": "f75a71e1-ff3d-45e6-a1dd-68e355866649",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/f75a71e1-ff3d-45e6-a1dd-68e355866649/download/05.22.recursos.pdf",
+          "name": "Recursos Mayo 2022",
+          "format": "PDF",
+          "updatedAt": "2023-06-13T18:09:50.956Z",
+          "description": ""
+        },
+        {
+          "id": "8108c8bc-6fb6-4ccf-968f-a678f65abbe5",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/8108c8bc-6fb6-4ccf-968f-a678f65abbe5/download/06.22.recursos.pdf",
+          "name": "Recursos Junio 2022",
+          "format": "PDF",
+          "updatedAt": "2023-06-13T18:12:59.438Z",
+          "description": ""
+        },
+        {
+          "id": "cfac6acf-729c-424d-9920-cc70f6fb585e",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/cfac6acf-729c-424d-9920-cc70f6fb585e/download/07.22.recursos.pdf",
+          "name": "Recursos Julio 2022",
+          "format": "PDF",
+          "updatedAt": "2023-06-13T18:12:08.233Z",
+          "description": ""
+        },
+        {
+          "id": "5f63757d-73e4-4b12-8fcf-ab8337757f11",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/5f63757d-73e4-4b12-8fcf-ab8337757f11/download/08.22.recursos.pdf",
+          "name": "Recursos Agosto 2022",
+          "format": "PDF",
+          "updatedAt": "2023-06-13T18:08:13.798Z",
+          "description": ""
+        },
+        {
+          "id": "1ccff2bc-7d44-4940-bf4f-abef3ef37c9d",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/1ccff2bc-7d44-4940-bf4f-abef3ef37c9d/download/09.22.recursos.pdf",
+          "name": "Recursos Septiembre 2022",
+          "format": "PDF",
+          "updatedAt": "2023-06-13T18:08:48.820Z",
+          "description": ""
+        },
+        {
+          "id": "5b77f994-6f7e-4e66-8755-7907d7f28574",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/5b77f994-6f7e-4e66-8755-7907d7f28574/download/10.22.recursos.pdf",
+          "name": "Recursos Octubre 2022",
+          "format": "PDF",
+          "updatedAt": "2023-06-13T18:09:14.250Z",
+          "description": ""
+        },
+        {
+          "id": "12863e96-495d-4be0-9f8e-e35057d87178",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/12863e96-495d-4be0-9f8e-e35057d87178/download/11.22.recursos.pdf",
+          "name": "Recursos Noviembre 2022",
+          "format": "PDF",
+          "updatedAt": "2023-06-13T18:09:31.824Z",
+          "description": ""
+        },
+        {
+          "id": "c0f46302-333f-476a-8286-bb9fcb5a26a8",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/c0f46302-333f-476a-8286-bb9fcb5a26a8/download/12.22.recursos-final.pdf",
+          "name": "Recursos Diciembre 2022",
+          "format": "PDF",
+          "updatedAt": "2023-06-13T18:13:16.886Z",
+          "description": ""
+        },
+        {
+          "id": "6ccc9e8f-1627-4e4b-ac6e-dd931bc1f891",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/6ccc9e8f-1627-4e4b-ac6e-dd931bc1f891/download/01.22.recursos.csv",
+          "name": "Recursos Enero 2022",
+          "format": "CSV",
+          "updatedAt": "2023-06-13T18:23:24.524Z",
+          "description": ""
+        },
+        {
+          "id": "6fb2bdde-27e0-4f60-9b0e-39ba22c9a7af",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/6fb2bdde-27e0-4f60-9b0e-39ba22c9a7af/download/02.22.recursos.csv",
+          "name": "Recursos Febrero 2022",
+          "format": "CSV",
+          "updatedAt": "2023-06-13T18:25:07.078Z",
+          "description": ""
+        },
+        {
+          "id": "4dd56738-9d6c-419e-aca3-dd64079685fd",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/4dd56738-9d6c-419e-aca3-dd64079685fd/download/03.22.recursos.csv",
+          "name": "Recursos Marzo 2022",
+          "format": "CSV",
+          "updatedAt": "2023-06-13T18:20:55.254Z",
+          "description": ""
+        },
+        {
+          "id": "c0d3ef3d-67d7-4171-8493-5b4c5db03988",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/c0d3ef3d-67d7-4171-8493-5b4c5db03988/download/04.22.recursos.csv",
+          "name": "Recursos Abril 2022",
+          "format": "CSV",
+          "updatedAt": "2023-06-13T18:48:25.357Z",
+          "description": ""
+        },
+        {
+          "id": "ef5116af-0acd-42a1-a7a0-499fc8a3df63",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/ef5116af-0acd-42a1-a7a0-499fc8a3df63/download/05.22.recursos.csv",
+          "name": "Recursos Mayo 2022",
+          "format": "CSV",
+          "updatedAt": "2023-06-13T18:51:10.887Z",
+          "description": ""
+        },
+        {
+          "id": "53f4f6ef-da5e-439d-9af8-ac0c0485b1a7",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/53f4f6ef-da5e-439d-9af8-ac0c0485b1a7/download/06.22.recursos.csv",
+          "name": "Recursos Junio 2022",
+          "format": "CSV",
+          "updatedAt": "2023-06-13T18:51:26.081Z",
+          "description": ""
+        },
+        {
+          "id": "c64461ee-3772-4d76-8f42-432fa3ebeaac",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/c64461ee-3772-4d76-8f42-432fa3ebeaac/download/07.22.recursos.csv",
+          "name": "Recursos Julio 2022",
+          "format": "CSV",
+          "updatedAt": "2023-06-13T18:54:19.696Z",
+          "description": ""
+        },
+        {
+          "id": "3edbd1da-be31-4894-bcd0-a92d5290b501",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/3edbd1da-be31-4894-bcd0-a92d5290b501/download/08.22.recursos.csv",
+          "name": "Recursos Agosto 2022",
+          "format": "CSV",
+          "updatedAt": "2023-06-13T18:54:40.142Z",
+          "description": ""
+        },
+        {
+          "id": "c1038d91-e9d9-4b5d-be9c-a4ae2e20d6bc",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/c1038d91-e9d9-4b5d-be9c-a4ae2e20d6bc/download/09.22.recursos.csv",
+          "name": "Recursos Septiembre 2022",
+          "format": "CSV",
+          "updatedAt": "2023-06-13T16:45:19.100Z",
+          "description": ""
+        },
+        {
+          "id": "59694e74-8648-453f-b52d-682e4ab016b8",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/59694e74-8648-453f-b52d-682e4ab016b8/download/10.22.recursos.csv",
+          "name": "Recursos Octubre 2022",
+          "format": "CSV",
+          "updatedAt": "2023-06-13T18:18:15.607Z",
+          "description": ""
+        },
+        {
+          "id": "93056132-0b5b-4b92-aab2-0849317ec74a",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/93056132-0b5b-4b92-aab2-0849317ec74a/download/11.22.recursos.csv",
+          "name": "Recursos Noviembre 2022",
+          "format": "CSV",
+          "updatedAt": "2023-06-13T18:58:56.449Z",
+          "description": ""
+        },
+        {
+          "id": "a0e8c433-0832-4468-87c6-08871be1efff",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/a0e8c433-0832-4468-87c6-08871be1efff/download/12.22.recursos.csv",
+          "name": "Recursos Diciembre 2022",
+          "format": "CSV",
+          "updatedAt": "2023-06-13T19:00:34.021Z",
+          "description": ""
+        },
+        {
+          "id": "4fd2da42-386d-4579-a95c-cc16d214ffb4",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/4fd2da42-386d-4579-a95c-cc16d214ffb4/download/ejecucion-por-programa-enero-2022.pdf",
+          "name": "Gastos por Programas Enero 2022",
+          "format": "PDF",
+          "updatedAt": "2023-11-08T15:43:45.031Z",
+          "description": ""
+        },
+        {
+          "id": "a900434f-2269-4006-a5c9-cbf5e0466e18",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/a900434f-2269-4006-a5c9-cbf5e0466e18/download/ejecucion-por-programa-febrero-2022.pdf",
+          "name": "Gastos por Programas Febrero 2022",
+          "format": "PDF",
+          "updatedAt": "2023-11-08T15:44:19.630Z",
+          "description": ""
+        },
+        {
+          "id": "c50136f6-e8f9-4ddc-a2ee-b9382a8f28be",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/c50136f6-e8f9-4ddc-a2ee-b9382a8f28be/download/ejecucion-por-programa-marzo-2022.pdf",
+          "name": "Gastos por Programas Marzo 2022",
+          "format": "PDF",
+          "updatedAt": "2023-11-08T15:44:52.962Z",
+          "description": ""
+        },
+        {
+          "id": "1644995d-17e1-4e31-a62e-4003738fe905",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/1644995d-17e1-4e31-a62e-4003738fe905/download/ejecucion-por-programa-abril-2022.pdf",
+          "name": "Gastos por Programas Abril 2022",
+          "format": "PDF",
+          "updatedAt": "2023-11-08T15:45:21.480Z",
+          "description": ""
+        },
+        {
+          "id": "fd8b2017-8b52-4479-9c6d-a343fe5e6ce4",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/fd8b2017-8b52-4479-9c6d-a343fe5e6ce4/download/ejecucion-por-programa-mayo-2022.pdf",
+          "name": "Gastos por Programas Mayo 2022",
+          "format": "PDF",
+          "updatedAt": "2023-11-08T15:46:02.729Z",
+          "description": ""
+        },
+        {
+          "id": "d2cfb669-4318-4cc2-8b06-484cd425f86f",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/d2cfb669-4318-4cc2-8b06-484cd425f86f/download/ejecucion-por-programa-junio-2022.pdf",
+          "name": "Gastos por Programas Junio 2022",
+          "format": "PDF",
+          "updatedAt": "2023-11-08T15:46:34.119Z",
+          "description": ""
+        },
+        {
+          "id": "ad0e5f04-7395-446f-b556-264fc182f484",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/ad0e5f04-7395-446f-b556-264fc182f484/download/ejecucion-por-programa-julio-2022.pdf",
+          "name": "Gastos por Programas Julio 2022",
+          "format": "PDF",
+          "updatedAt": "2023-11-08T15:46:59.679Z",
+          "description": ""
+        },
+        {
+          "id": "c45e325c-4cd3-46bb-b673-641323f9d7d2",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/c45e325c-4cd3-46bb-b673-641323f9d7d2/download/ejecucion-por-programa-agosto-2022.pdf",
+          "name": "Gastos por Programas Agosto 2022",
+          "format": "PDF",
+          "updatedAt": "2023-11-08T15:47:26.309Z",
+          "description": ""
+        },
+        {
+          "id": "21540d4e-5541-40bd-b296-017788ca7139",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/21540d4e-5541-40bd-b296-017788ca7139/download/ejecucion-por-programa-septiembre-2022.pdf",
+          "name": "Gastos por Programas Septiembre 2022",
+          "format": "PDF",
+          "updatedAt": "2023-11-08T15:47:52.142Z",
+          "description": ""
+        },
+        {
+          "id": "6ddef566-a123-4216-af35-0e6927ec0e2e",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/6ddef566-a123-4216-af35-0e6927ec0e2e/download/ejecucion-por-programa-octubre-2022.pdf",
+          "name": "Gastos por Programas Octubre 2022",
+          "format": "PDF",
+          "updatedAt": "2023-11-08T15:48:22.517Z",
+          "description": ""
+        },
+        {
+          "id": "9a333a53-e6bf-4c9d-be11-3f16cf0c05fc",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/9a333a53-e6bf-4c9d-be11-3f16cf0c05fc/download/ejecucion-por-programa-noviembre-2022.pdf",
+          "name": "Gastos por Programas Noviembre 2022",
+          "format": "PDF",
+          "updatedAt": "2023-11-08T15:48:52.796Z",
+          "description": ""
+        },
+        {
+          "id": "ffd98b05-a0f2-4ac5-ad88-461bf31fbdb6",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/ffd98b05-a0f2-4ac5-ad88-461bf31fbdb6/download/ejecucion-por-programa-diciembre-2022.pdf",
+          "name": "Gastos por Programas Diciembre 2022",
+          "format": "PDF",
+          "updatedAt": "2023-11-08T15:49:24.591Z",
+          "description": ""
+        },
+        {
+          "id": "bd4d7047-d922-42b7-9d3e-cf60680d66ba",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/bd4d7047-d922-42b7-9d3e-cf60680d66ba/download/gasto-por-programa-enero-2022.csv",
+          "name": "Gastos por Programas Enero 2022",
+          "format": "CSV",
+          "updatedAt": "2023-11-08T15:51:13.805Z",
+          "description": ""
+        },
+        {
+          "id": "f46a6d82-7ece-4a26-9192-8246c1043dec",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/f46a6d82-7ece-4a26-9192-8246c1043dec/download/gasto-por-programa-febrero-2022.csv",
+          "name": "Gastos por Programas Febrero 2022",
+          "format": "CSV",
+          "updatedAt": "2023-11-08T15:52:52.008Z",
+          "description": ""
+        },
+        {
+          "id": "8c7c2031-69a2-4d26-b3fe-e4d1900ea4d5",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/8c7c2031-69a2-4d26-b3fe-e4d1900ea4d5/download/gasto-por-programa-marzo-2022.csv",
+          "name": "Gastos por Programas Marzo 2022",
+          "format": "CSV",
+          "updatedAt": "2023-11-08T15:53:37.080Z",
+          "description": ""
+        },
+        {
+          "id": "f8ddd772-d4f6-4251-b334-ca64ec1e4d21",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/f8ddd772-d4f6-4251-b334-ca64ec1e4d21/download/gasto-por-programa-abril-2022.csv",
+          "name": "Gastos por Programas Abril 2022",
+          "format": "CSV",
+          "updatedAt": "2023-11-08T17:06:54.232Z",
+          "description": ""
+        },
+        {
+          "id": "afb8e892-8ec7-425c-b524-0da30a08ca6f",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/afb8e892-8ec7-425c-b524-0da30a08ca6f/download/gasto-por-programa-mayo-2022.csv",
+          "name": "Gastos por Programas Mayo 2022",
+          "format": "CSV",
+          "updatedAt": "2023-11-08T17:08:07.388Z",
+          "description": ""
+        },
+        {
+          "id": "79fd8706-9d13-47d8-a0bb-b968586fa226",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/79fd8706-9d13-47d8-a0bb-b968586fa226/download/gasto-por-programa-junio-2022.csv",
+          "name": "Gastos por Programas Junio 2022",
+          "format": "CSV",
+          "updatedAt": "2023-11-08T17:09:47.432Z",
+          "description": ""
+        },
+        {
+          "id": "1416f982-cb41-4e53-a05d-0514185f2dc1",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/1416f982-cb41-4e53-a05d-0514185f2dc1/download/gasto-por-programa-julio-2022.csv",
+          "name": "Gastos por Programas Julio 2022",
+          "format": "CSV",
+          "updatedAt": "2023-11-08T17:10:22.444Z",
+          "description": ""
+        },
+        {
+          "id": "beb53097-ca4d-4ad3-973d-4b46680d336b",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/beb53097-ca4d-4ad3-973d-4b46680d336b/download/gasto-por-programa-agosto-2022.csv",
+          "name": "Gastos por Programas Agosto 2022",
+          "format": "CSV",
+          "updatedAt": "2023-11-08T17:11:18.663Z",
+          "description": ""
+        },
+        {
+          "id": "25c0cf39-d69d-44a1-91e6-ba04a9acb02f",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/25c0cf39-d69d-44a1-91e6-ba04a9acb02f/download/gasto-por-programa-septiembre-2022.csv",
+          "name": "Gastos por Programas Septiembre 2022",
+          "format": "CSV",
+          "updatedAt": "2023-11-08T17:12:08.595Z",
+          "description": ""
+        },
+        {
+          "id": "9c3ae6b1-d08d-42e4-b407-1891f15c2007",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/9c3ae6b1-d08d-42e4-b407-1891f15c2007/download/gasto-por-programa-octubre-2022.csv",
+          "name": "Gastos por Programas Octubre 2022",
+          "format": "CSV",
+          "updatedAt": "2023-11-08T17:13:18.651Z",
+          "description": ""
+        },
+        {
+          "id": "882c1c2f-16ad-4af7-a64f-15ba6a6a42f6",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/882c1c2f-16ad-4af7-a64f-15ba6a6a42f6/download/gasto-por-programa-noviembre-2022.csv",
+          "name": "Gastos por Programas Noviembre 2022",
+          "format": "CSV",
+          "updatedAt": "2023-11-08T17:13:59.331Z",
+          "description": ""
+        },
+        {
+          "id": "1927a689-a25e-42c9-beef-cf66c944e13a",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/1927a689-a25e-42c9-beef-cf66c944e13a/download/gasto-por-programa-diciembre-2022.csv",
+          "name": "Gastos por Programas Diciembre 2022",
+          "format": "CSV",
+          "updatedAt": "2023-11-08T17:14:35.586Z",
+          "description": ""
+        },
+        {
+          "id": "5f31b17e-4824-475e-a9df-b58757b0989d",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/5f31b17e-4824-475e-a9df-b58757b0989d/download/gasto-por-objeto-enero-2022.pdf",
+          "name": "Gastos por Objeto Enero 2022",
+          "format": "PDF",
+          "updatedAt": "2023-11-08T17:17:06.677Z",
+          "description": ""
+        },
+        {
+          "id": "b742e77a-d8ce-46b7-807c-ca427e683fa5",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/b742e77a-d8ce-46b7-807c-ca427e683fa5/download/gasto-por-objeto-febrero-2022.pdf",
+          "name": "Gastos por Objeto Febrero 2022",
+          "format": "PDF",
+          "updatedAt": "2023-11-08T17:17:40.187Z",
+          "description": ""
+        },
+        {
+          "id": "9a25578b-8913-43c9-b6a7-ea3286aff1eb",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/9a25578b-8913-43c9-b6a7-ea3286aff1eb/download/gasto-por-objeto-marzo-2022.pdf",
+          "name": "Gastos por Objeto Marzo 2022",
+          "format": "PDF",
+          "updatedAt": "2023-11-08T17:18:36.548Z",
+          "description": ""
+        },
+        {
+          "id": "db7a44d5-1d8a-4f56-a6ea-eb25a3e92cf7",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/db7a44d5-1d8a-4f56-a6ea-eb25a3e92cf7/download/gasto-por-objeto-abril-2022.pdf",
+          "name": "Gastos por Objeto Abril 2022",
+          "format": "PDF",
+          "updatedAt": "2023-11-08T17:20:16.590Z",
+          "description": ""
+        },
+        {
+          "id": "cda33254-63ea-4e85-b830-813d28c06e0f",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/cda33254-63ea-4e85-b830-813d28c06e0f/download/gasto-por-objeto-mayo-2022.pdf",
+          "name": "Gastos por Objeto Mayo 2022",
+          "format": "PDF",
+          "updatedAt": "2023-11-08T17:20:47.739Z",
+          "description": ""
+        },
+        {
+          "id": "432fbbb6-4f11-4e0f-a084-333a11616c2f",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/432fbbb6-4f11-4e0f-a084-333a11616c2f/download/gasto-por-objeto-junio-2022.pdf",
+          "name": "Gastos por Objeto Junio 2022",
+          "format": "PDF",
+          "updatedAt": "2023-11-08T17:21:12.126Z",
+          "description": ""
+        },
+        {
+          "id": "153db60a-58a2-4adb-a8a3-486ad38d0289",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/153db60a-58a2-4adb-a8a3-486ad38d0289/download/gasto-por-objeto-julio-2022.pdf",
+          "name": "Gastos por Objeto Julio 2022",
+          "format": "PDF",
+          "updatedAt": "2023-11-08T17:21:39.120Z",
+          "description": ""
+        },
+        {
+          "id": "bd897515-b240-41c1-a833-5b32f6fba815",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/bd897515-b240-41c1-a833-5b32f6fba815/download/gasto-por-objeto-agosto-2022.pdf",
+          "name": "Gastos por Objeto Agosto 2022",
+          "format": "PDF",
+          "updatedAt": "2023-11-08T17:22:06.213Z",
+          "description": ""
+        },
+        {
+          "id": "75f890d2-999a-4da6-9687-7b61eb5510a1",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/75f890d2-999a-4da6-9687-7b61eb5510a1/download/gasto-por-objeto-septiembre-2022.pdf",
+          "name": "Gastos por Objeto Septiembre 2022",
+          "format": "PDF",
+          "updatedAt": "2023-11-08T17:22:30.196Z",
+          "description": ""
+        },
+        {
+          "id": "a4527fb5-2b33-462a-80b1-9464ff3648e7",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/a4527fb5-2b33-462a-80b1-9464ff3648e7/download/gasto-por-objeto-octubre-2022.pdf",
+          "name": "Gastos por Objeto Octubre 2022",
+          "format": "PDF",
+          "updatedAt": "2023-11-08T17:22:54.594Z",
+          "description": ""
+        },
+        {
+          "id": "a60220ec-adad-4e2b-9833-08a2f5d6a4da",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/a60220ec-adad-4e2b-9833-08a2f5d6a4da/download/gasto-por-objeto-noviembre-2022.pdf",
+          "name": "Gastos por Objeto Noviembre 2022",
+          "format": "PDF",
+          "updatedAt": "2023-11-08T17:23:17.455Z",
+          "description": ""
+        },
+        {
+          "id": "8100363c-088f-4aca-9cc0-b348008b463c",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/9c9b440b-c599-4f63-afd9-9174c61cfe3b/resource/8100363c-088f-4aca-9cc0-b348008b463c/download/gasto-por-objeto-diciembre-2022.pdf",
+          "name": "Gastos por Objeto Diciembre 2022",
+          "format": "PDF",
+          "updatedAt": "2023-11-08T17:23:43.747Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2023-06-02T15:35:53.771Z",
+      "updatedAt": "2023-11-08T17:24:11.255Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "7800c108-e9ac-472b-ac4e-4efa5f512a49",
+      "name": "estructura-organica",
+      "title": "Estructura orgánica",
+      "keywords": [
+        "cámara",
+        "estructura"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "15d7096c-3d38-471b-be95-60e20055a1e4",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/7800c108-e9ac-472b-ac4e-4efa5f512a49/resource/15d7096c-3d38-471b-be95-60e20055a1e4/download/1-presidencia.pdf",
+          "name": "1 - Presidencia",
+          "format": "PDF",
+          "updatedAt": "2023-06-07T17:28:34.800Z",
+          "description": ""
+        },
+        {
+          "id": "c0053a2e-ea41-4b7a-ac22-fe68d7a5a503",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/7800c108-e9ac-472b-ac4e-4efa5f512a49/resource/c0053a2e-ea41-4b7a-ac22-fe68d7a5a503/download/1.2-secretaria-de-camara.pdf",
+          "name": "1.2 - Secretaria de Cámara",
+          "format": "PDF",
+          "updatedAt": "2023-06-07T17:45:58.156Z",
+          "description": ""
+        },
+        {
+          "id": "270543b6-6025-4761-92ff-be7a0a719ed0",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/7800c108-e9ac-472b-ac4e-4efa5f512a49/resource/270543b6-6025-4761-92ff-be7a0a719ed0/download/1.3-coordinacion-casa-de-las-leyes.pdf",
+          "name": "1.3 - Coordinación casa de las leyes.pdf",
+          "format": "PDF",
+          "updatedAt": "2023-06-07T17:46:18.394Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2021-12-03T15:18:42.795Z",
+      "updatedAt": "2023-06-23T18:39:04.657Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "0a260025-59d2-43f8-b6b5-627d247d7cce",
+      "name": "estructura_organica",
+      "title": "Estructura_organica",
+      "keywords": [],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "dbf2bb81-946c-4494-a244-e5f9376bb2a1",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/0a260025-59d2-43f8-b6b5-627d247d7cce/resource/dbf2bb81-946c-4494-a244-e5f9376bb2a1/download/tabla_estructura_organica.csv",
+          "name": "estructura_organica",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:35:37.693Z",
+          "description": null
+        }
+      ],
+      "createdAt": "2023-12-05T19:20:28.283Z",
+      "updatedAt": "2023-12-12T17:35:37.702Z",
+      "contact": {
+        "name": null,
+        "email": null
+      }
+    },
+    {
+      "id": "e6ce3645-1a61-4682-b6aa-2f25b061cc88",
+      "name": "inventario-de-bienes-hln",
+      "title": "Bienes de la HLN",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "9af041f2-0cb3-45d3-90e2-a7970b509a5d",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/e6ce3645-1a61-4682-b6aa-2f25b061cc88/resource/9af041f2-0cb3-45d3-90e2-a7970b509a5d/download/inventario-activo-hln-marzo-2023.csv",
+          "name": "Inventario Bienes Muebles-Marzo 2023",
+          "format": "CSV",
+          "updatedAt": "2023-05-09T19:51:31.468Z",
+          "description": "Inventario de bienes muebles activos de las Honorable Legislatura de Neuquén a marzo de 2023. "
+        }
+      ],
+      "createdAt": "2023-05-09T19:50:27.373Z",
+      "updatedAt": "2023-05-09T20:07:00.988Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "c3c6f32c-91d3-4065-b4dc-f367a958cff4",
+      "name": "legisladores",
+      "title": "Legisladores",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "972d888d-e7d1-4f5d-af39-9efd045400ed",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/c3c6f32c-91d3-4065-b4dc-f367a958cff4/resource/972d888d-e7d1-4f5d-af39-9efd045400ed/download/legisladores.csv",
+          "name": "Legisladores",
+          "format": "CSV",
+          "updatedAt": "2023-07-04T20:34:05.894Z",
+          "description": ""
+        },
+        {
+          "id": "d32e01cf-6237-44c8-943d-a14ffe7e65bc",
+          "downloadUrl": "http://www.legislaturaneuquen.gob.ar/representantes",
+          "name": "Legisladores",
+          "format": "",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2021-12-03T17:28:28.637Z",
+      "updatedAt": "2023-07-20T18:14:27.266Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "363f539e-cdb4-4dbc-b48c-5e7e64ed15b6",
+      "name": "ley-de-coparticipacion-federal",
+      "title": "Ley de Coparticipación Federal",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "6b526757-28b4-4edf-8a46-c5674794550d",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/363f539e-cdb4-4dbc-b48c-5e7e64ed15b6/resource/6b526757-28b4-4edf-8a46-c5674794550d/download/ley-coparticipacion.pdf",
+          "name": "Ley Coparticipación.pdf",
+          "format": "PDF",
+          "updatedAt": "2023-05-09T20:16:59.912Z",
+          "description": "Ley N° 2395-de coparticipación federal de la provincia de Neuquén. "
+        }
+      ],
+      "createdAt": "2023-05-09T20:16:23.254Z",
+      "updatedAt": "2023-05-09T20:17:00.494Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "fd0eba66-072d-4000-bea0-5a4e018e221c",
+      "name": "leyes_sancionadas",
+      "title": "Leyes_sancionadas",
+      "keywords": [],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "b88003c1-fa6b-4395-b092-d85822d3a3e6",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/b88003c1-fa6b-4395-b092-d85822d3a3e6/download/tabla_leyes_sancionadas_1968.csv",
+          "name": "leyes_sancionadas_1968",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:09:34.560Z",
+          "description": null
+        },
+        {
+          "id": "302211b8-0d3c-4671-b608-248abf630ebd",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/302211b8-0d3c-4671-b608-248abf630ebd/download/tabla_leyes_sancionadas_1982.csv",
+          "name": "leyes_sancionadas_1982",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:10:19.598Z",
+          "description": null
+        },
+        {
+          "id": "4fefe855-056d-4a7c-9da4-5ab5a31b373a",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/4fefe855-056d-4a7c-9da4-5ab5a31b373a/download/tabla_leyes_sancionadas_1958.csv",
+          "name": "leyes_sancionadas_1958",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:39:35.122Z",
+          "description": null
+        },
+        {
+          "id": "83df4737-59a0-4eaa-821f-d5dfdde456bc",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/83df4737-59a0-4eaa-821f-d5dfdde456bc/download/tabla_leyes_sancionadas_1959.csv",
+          "name": "leyes_sancionadas_1959",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:39:38.585Z",
+          "description": null
+        },
+        {
+          "id": "824615ff-2e45-4564-8710-0cbf9907271d",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/824615ff-2e45-4564-8710-0cbf9907271d/download/tabla_leyes_sancionadas_1960.csv",
+          "name": "leyes_sancionadas_1960",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:39:42.168Z",
+          "description": null
+        },
+        {
+          "id": "1a4e1454-aa55-497a-9c4d-a1a1f2b46238",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/1a4e1454-aa55-497a-9c4d-a1a1f2b46238/download/tabla_leyes_sancionadas_1961.csv",
+          "name": "leyes_sancionadas_1961",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:39:45.673Z",
+          "description": null
+        },
+        {
+          "id": "097efccc-c1ca-4ed1-9189-0e8497f645e4",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/097efccc-c1ca-4ed1-9189-0e8497f645e4/download/tabla_leyes_sancionadas_1962.csv",
+          "name": "leyes_sancionadas_1962",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:39:49.291Z",
+          "description": null
+        },
+        {
+          "id": "f14cedee-b859-4fd0-bc81-8cb8b5985bc4",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/f14cedee-b859-4fd0-bc81-8cb8b5985bc4/download/tabla_leyes_sancionadas_1963.csv",
+          "name": "leyes_sancionadas_1963",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:39:52.916Z",
+          "description": null
+        },
+        {
+          "id": "74bd0e8f-2f84-41a5-85d7-823e75274861",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/74bd0e8f-2f84-41a5-85d7-823e75274861/download/tabla_leyes_sancionadas_1964.csv",
+          "name": "leyes_sancionadas_1964",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:39:56.493Z",
+          "description": null
+        },
+        {
+          "id": "a1ec47c7-3853-447e-ae81-55077f2a0b93",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/a1ec47c7-3853-447e-ae81-55077f2a0b93/download/tabla_leyes_sancionadas_1965.csv",
+          "name": "leyes_sancionadas_1965",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:40:00.041Z",
+          "description": null
+        },
+        {
+          "id": "bdeaf451-602d-4fa6-8352-72a36a3d5b2e",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/bdeaf451-602d-4fa6-8352-72a36a3d5b2e/download/tabla_leyes_sancionadas_1966.csv",
+          "name": "leyes_sancionadas_1966",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:40:03.700Z",
+          "description": null
+        },
+        {
+          "id": "1140c907-a080-4ffc-a6ed-1d2d4b288a72",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/1140c907-a080-4ffc-a6ed-1d2d4b288a72/download/tabla_leyes_sancionadas_1967.csv",
+          "name": "leyes_sancionadas_1967",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:40:07.217Z",
+          "description": null
+        },
+        {
+          "id": "24b198d6-c484-4f3b-bb04-3bb7021ce6f5",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/24b198d6-c484-4f3b-bb04-3bb7021ce6f5/download/tabla_leyes_sancionadas_1968.csv",
+          "name": "leyes_sancionadas_1968",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:40:10.793Z",
+          "description": null
+        },
+        {
+          "id": "a9686ae9-c4de-401a-a478-52b706bac9e2",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/a9686ae9-c4de-401a-a478-52b706bac9e2/download/tabla_leyes_sancionadas_1969.csv",
+          "name": "leyes_sancionadas_1969",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:40:14.467Z",
+          "description": null
+        },
+        {
+          "id": "92456b5a-38f3-4bf9-a615-0d5f4752ffec",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/92456b5a-38f3-4bf9-a615-0d5f4752ffec/download/tabla_leyes_sancionadas_1970.csv",
+          "name": "leyes_sancionadas_1970",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:40:18.092Z",
+          "description": null
+        },
+        {
+          "id": "63e59e4c-2753-4d84-bb6c-f08bd5d96196",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/63e59e4c-2753-4d84-bb6c-f08bd5d96196/download/tabla_leyes_sancionadas_1971.csv",
+          "name": "leyes_sancionadas_1971",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:40:21.633Z",
+          "description": null
+        },
+        {
+          "id": "fdd62346-fcaf-47ba-bacc-3a0f3deae8be",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/fdd62346-fcaf-47ba-bacc-3a0f3deae8be/download/tabla_leyes_sancionadas_1972.csv",
+          "name": "leyes_sancionadas_1972",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:40:25.308Z",
+          "description": null
+        },
+        {
+          "id": "8c43a763-13f5-48c9-8713-fabf575c0d47",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/8c43a763-13f5-48c9-8713-fabf575c0d47/download/tabla_leyes_sancionadas_1973.csv",
+          "name": "leyes_sancionadas_1973",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:40:28.861Z",
+          "description": null
+        },
+        {
+          "id": "bd6ebf9b-671d-4f80-ab31-d9c59dc21cb7",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/bd6ebf9b-671d-4f80-ab31-d9c59dc21cb7/download/tabla_leyes_sancionadas_1974.csv",
+          "name": "leyes_sancionadas_1974",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:40:32.489Z",
+          "description": null
+        },
+        {
+          "id": "efc5291c-7cc6-4086-a587-6ce24dc9f2dd",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/efc5291c-7cc6-4086-a587-6ce24dc9f2dd/download/tabla_leyes_sancionadas_1975.csv",
+          "name": "leyes_sancionadas_1975",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:40:36.274Z",
+          "description": null
+        },
+        {
+          "id": "3cf3f573-dccb-4a5c-b3ad-d763dc911c59",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/3cf3f573-dccb-4a5c-b3ad-d763dc911c59/download/tabla_leyes_sancionadas_1976.csv",
+          "name": "leyes_sancionadas_1976",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:40:39.918Z",
+          "description": null
+        },
+        {
+          "id": "f0c6a12a-1612-48f5-a241-bb99bbb40839",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/f0c6a12a-1612-48f5-a241-bb99bbb40839/download/tabla_leyes_sancionadas_1977.csv",
+          "name": "leyes_sancionadas_1977",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:40:43.457Z",
+          "description": null
+        },
+        {
+          "id": "8b68fa06-9356-4489-aa9b-b87709333b94",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/8b68fa06-9356-4489-aa9b-b87709333b94/download/tabla_leyes_sancionadas_1978.csv",
+          "name": "leyes_sancionadas_1978",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:40:47.183Z",
+          "description": null
+        },
+        {
+          "id": "a27a7bb5-344b-4af2-9d4d-ad6ed679a03e",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/a27a7bb5-344b-4af2-9d4d-ad6ed679a03e/download/tabla_leyes_sancionadas_1979.csv",
+          "name": "leyes_sancionadas_1979",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:40:51.120Z",
+          "description": null
+        },
+        {
+          "id": "b36003ba-4965-4d4e-bfca-01e34833c320",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/b36003ba-4965-4d4e-bfca-01e34833c320/download/tabla_leyes_sancionadas_1980.csv",
+          "name": "leyes_sancionadas_1980",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:40:54.644Z",
+          "description": null
+        },
+        {
+          "id": "8f153b5a-2a27-4e8f-88bd-639d5c96c087",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/8f153b5a-2a27-4e8f-88bd-639d5c96c087/download/tabla_leyes_sancionadas_1981.csv",
+          "name": "leyes_sancionadas_1981",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:40:58.219Z",
+          "description": null
+        },
+        {
+          "id": "ff86f22a-4946-4d63-bc73-341e4efa64bc",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/ff86f22a-4946-4d63-bc73-341e4efa64bc/download/tabla_leyes_sancionadas_1982.csv",
+          "name": "leyes_sancionadas_1982",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:41:00.567Z",
+          "description": null
+        },
+        {
+          "id": "3f5503e5-2a48-40c9-9b09-59ed787346ea",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/3f5503e5-2a48-40c9-9b09-59ed787346ea/download/tabla_leyes_sancionadas_1983.csv",
+          "name": "leyes_sancionadas_1983",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:41:04.308Z",
+          "description": null
+        },
+        {
+          "id": "96c50f8e-810f-42bd-ad8a-39d63a3dbbc4",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/96c50f8e-810f-42bd-ad8a-39d63a3dbbc4/download/tabla_leyes_sancionadas_1984.csv",
+          "name": "leyes_sancionadas_1984",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:41:07.930Z",
+          "description": null
+        },
+        {
+          "id": "81f943f1-f7ff-4cf2-b1f5-bfe05c795dfe",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/81f943f1-f7ff-4cf2-b1f5-bfe05c795dfe/download/tabla_leyes_sancionadas_1985.csv",
+          "name": "leyes_sancionadas_1985",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:41:11.530Z",
+          "description": null
+        },
+        {
+          "id": "81089ad4-c281-4f18-ae4a-06c208bb30e8",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/81089ad4-c281-4f18-ae4a-06c208bb30e8/download/tabla_leyes_sancionadas_1986.csv",
+          "name": "leyes_sancionadas_1986",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:41:15.118Z",
+          "description": null
+        },
+        {
+          "id": "80c0e105-c47d-489e-8460-ff459c438761",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/80c0e105-c47d-489e-8460-ff459c438761/download/tabla_leyes_sancionadas_1987.csv",
+          "name": "leyes_sancionadas_1987",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:41:18.763Z",
+          "description": null
+        },
+        {
+          "id": "c6e22d1d-0f2a-437a-b30a-d9c674f1a5d5",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/c6e22d1d-0f2a-437a-b30a-d9c674f1a5d5/download/tabla_leyes_sancionadas_1988.csv",
+          "name": "leyes_sancionadas_1988",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:41:22.440Z",
+          "description": null
+        },
+        {
+          "id": "94b3c998-01b6-4917-b21c-7311a82b0c43",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/94b3c998-01b6-4917-b21c-7311a82b0c43/download/tabla_leyes_sancionadas_1989.csv",
+          "name": "leyes_sancionadas_1989",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:41:26.157Z",
+          "description": null
+        },
+        {
+          "id": "0d2324ad-68f2-46a8-9de4-716d2e7ee8ab",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/0d2324ad-68f2-46a8-9de4-716d2e7ee8ab/download/tabla_leyes_sancionadas_1990.csv",
+          "name": "leyes_sancionadas_1990",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:41:29.702Z",
+          "description": null
+        },
+        {
+          "id": "7572f2a0-5bf2-4ec8-b596-a2487b470757",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/7572f2a0-5bf2-4ec8-b596-a2487b470757/download/tabla_leyes_sancionadas_1991.csv",
+          "name": "leyes_sancionadas_1991",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:41:33.412Z",
+          "description": null
+        },
+        {
+          "id": "2b31cd68-7f81-4c55-9219-0de52e275e48",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/2b31cd68-7f81-4c55-9219-0de52e275e48/download/tabla_leyes_sancionadas_1992.csv",
+          "name": "leyes_sancionadas_1992",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:41:37.075Z",
+          "description": null
+        },
+        {
+          "id": "aca2bc12-dc67-4b7b-94b2-ac7665502bd6",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/aca2bc12-dc67-4b7b-94b2-ac7665502bd6/download/tabla_leyes_sancionadas_1993.csv",
+          "name": "leyes_sancionadas_1993",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:41:40.762Z",
+          "description": null
+        },
+        {
+          "id": "d21e91b9-14f6-41a8-aecb-65a0ef07a385",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/d21e91b9-14f6-41a8-aecb-65a0ef07a385/download/tabla_leyes_sancionadas_1994.csv",
+          "name": "leyes_sancionadas_1994",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:41:44.342Z",
+          "description": null
+        },
+        {
+          "id": "208b6a3d-6bf2-45f6-8fb9-1f80c7614da4",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/208b6a3d-6bf2-45f6-8fb9-1f80c7614da4/download/tabla_leyes_sancionadas_1995.csv",
+          "name": "leyes_sancionadas_1995",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:41:48.174Z",
+          "description": null
+        },
+        {
+          "id": "1d652be6-93f8-4c6b-ae18-a181480ccd43",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/1d652be6-93f8-4c6b-ae18-a181480ccd43/download/tabla_leyes_sancionadas_1996.csv",
+          "name": "leyes_sancionadas_1996",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:41:51.631Z",
+          "description": null
+        },
+        {
+          "id": "63019a9c-6a00-46f1-a66b-b9d4742f8555",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/63019a9c-6a00-46f1-a66b-b9d4742f8555/download/tabla_leyes_sancionadas_1997.csv",
+          "name": "leyes_sancionadas_1997",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:41:55.208Z",
+          "description": null
+        },
+        {
+          "id": "10f92a68-5c5d-4ce2-9384-9088bdd5bcfc",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/10f92a68-5c5d-4ce2-9384-9088bdd5bcfc/download/tabla_leyes_sancionadas_1998.csv",
+          "name": "leyes_sancionadas_1998",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:41:58.628Z",
+          "description": null
+        },
+        {
+          "id": "6f58aee3-4c39-4cb9-9d50-6dcf49c86899",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/6f58aee3-4c39-4cb9-9d50-6dcf49c86899/download/tabla_leyes_sancionadas_1999.csv",
+          "name": "leyes_sancionadas_1999",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:42:02.228Z",
+          "description": null
+        },
+        {
+          "id": "bf64efe4-25fb-4c13-be7f-144ea2a29a71",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/bf64efe4-25fb-4c13-be7f-144ea2a29a71/download/tabla_leyes_sancionadas_2000.csv",
+          "name": "leyes_sancionadas_2000",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:42:05.954Z",
+          "description": null
+        },
+        {
+          "id": "e8d1d6da-c9a6-4d20-a403-142482a5775c",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/e8d1d6da-c9a6-4d20-a403-142482a5775c/download/tabla_leyes_sancionadas_2001.csv",
+          "name": "leyes_sancionadas_2001",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:42:09.727Z",
+          "description": null
+        },
+        {
+          "id": "1eff9b42-8938-4a07-9128-dce91b10e90f",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/1eff9b42-8938-4a07-9128-dce91b10e90f/download/tabla_leyes_sancionadas_2002.csv",
+          "name": "leyes_sancionadas_2002",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:42:13.411Z",
+          "description": null
+        },
+        {
+          "id": "9fbd70bc-cd94-41c2-b61e-07672cd252e6",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/9fbd70bc-cd94-41c2-b61e-07672cd252e6/download/tabla_leyes_sancionadas_2003.csv",
+          "name": "leyes_sancionadas_2003",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:42:17.095Z",
+          "description": null
+        },
+        {
+          "id": "92ac27b7-e988-4db5-ba38-81f091401ad4",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/92ac27b7-e988-4db5-ba38-81f091401ad4/download/tabla_leyes_sancionadas_2004.csv",
+          "name": "leyes_sancionadas_2004",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:42:20.734Z",
+          "description": null
+        },
+        {
+          "id": "3e40bad1-f67c-44a7-807e-343cb0946d53",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/3e40bad1-f67c-44a7-807e-343cb0946d53/download/tabla_leyes_sancionadas_2005.csv",
+          "name": "leyes_sancionadas_2005",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:42:24.252Z",
+          "description": null
+        },
+        {
+          "id": "84e2c7c4-fc82-4495-ae5f-50894af6408d",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/84e2c7c4-fc82-4495-ae5f-50894af6408d/download/tabla_leyes_sancionadas_2006.csv",
+          "name": "leyes_sancionadas_2006",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:42:27.935Z",
+          "description": null
+        },
+        {
+          "id": "8f21f531-0d46-416f-9576-0edecae9bd32",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/8f21f531-0d46-416f-9576-0edecae9bd32/download/tabla_leyes_sancionadas_2007.csv",
+          "name": "leyes_sancionadas_2007",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:42:31.388Z",
+          "description": null
+        },
+        {
+          "id": "e6ce3ddf-26af-49ca-9de0-5afe0eb91927",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/e6ce3ddf-26af-49ca-9de0-5afe0eb91927/download/tabla_leyes_sancionadas_2008.csv",
+          "name": "leyes_sancionadas_2008",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:42:35.198Z",
+          "description": null
+        },
+        {
+          "id": "a1b8d968-db67-4c7c-967c-2d3baaacc806",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/a1b8d968-db67-4c7c-967c-2d3baaacc806/download/tabla_leyes_sancionadas_2009.csv",
+          "name": "leyes_sancionadas_2009",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:42:39.105Z",
+          "description": null
+        },
+        {
+          "id": "5be47c61-9e41-48a1-941c-b639dad6ec53",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/5be47c61-9e41-48a1-941c-b639dad6ec53/download/tabla_leyes_sancionadas_2010.csv",
+          "name": "leyes_sancionadas_2010",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:42:43.473Z",
+          "description": null
+        },
+        {
+          "id": "c9f850eb-173a-4fd5-90a8-80975dc43bfa",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/c9f850eb-173a-4fd5-90a8-80975dc43bfa/download/tabla_leyes_sancionadas_2011.csv",
+          "name": "leyes_sancionadas_2011",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:42:47.215Z",
+          "description": null
+        },
+        {
+          "id": "4459f76d-cdeb-4d4f-99a7-551c8cffcfe2",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/4459f76d-cdeb-4d4f-99a7-551c8cffcfe2/download/tabla_leyes_sancionadas_2012.csv",
+          "name": "leyes_sancionadas_2012",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:42:51.371Z",
+          "description": null
+        },
+        {
+          "id": "0afd7778-4ba4-4f0e-9abf-bb62dd7f1840",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/0afd7778-4ba4-4f0e-9abf-bb62dd7f1840/download/tabla_leyes_sancionadas_2013.csv",
+          "name": "leyes_sancionadas_2013",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:42:55.038Z",
+          "description": null
+        },
+        {
+          "id": "4b51aab0-ebda-4a65-b192-cf163bc15103",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/4b51aab0-ebda-4a65-b192-cf163bc15103/download/tabla_leyes_sancionadas_2014.csv",
+          "name": "leyes_sancionadas_2014",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:42:58.797Z",
+          "description": null
+        },
+        {
+          "id": "66c7c185-ef20-4cf6-b127-ac11a0a8c89b",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/66c7c185-ef20-4cf6-b127-ac11a0a8c89b/download/tabla_leyes_sancionadas_2015.csv",
+          "name": "leyes_sancionadas_2015",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:43:02.710Z",
+          "description": null
+        },
+        {
+          "id": "e865185a-6a06-4951-b9ef-717808a624ff",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/e865185a-6a06-4951-b9ef-717808a624ff/download/tabla_leyes_sancionadas_2016.csv",
+          "name": "leyes_sancionadas_2016",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:43:06.633Z",
+          "description": null
+        },
+        {
+          "id": "49742971-4cde-4aec-8931-bb9744feadf6",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/49742971-4cde-4aec-8931-bb9744feadf6/download/tabla_leyes_sancionadas_2017.csv",
+          "name": "leyes_sancionadas_2017",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:43:10.554Z",
+          "description": null
+        },
+        {
+          "id": "4eaed528-cf9e-42d9-b258-dd700cbe6ca1",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/4eaed528-cf9e-42d9-b258-dd700cbe6ca1/download/tabla_leyes_sancionadas_2018.csv",
+          "name": "leyes_sancionadas_2018",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:43:14.419Z",
+          "description": null
+        },
+        {
+          "id": "3c6c9a51-03ac-49a9-9314-22464b4ea34c",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/3c6c9a51-03ac-49a9-9314-22464b4ea34c/download/tabla_leyes_sancionadas_2019.csv",
+          "name": "leyes_sancionadas_2019",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:43:18.208Z",
+          "description": null
+        },
+        {
+          "id": "e34f0460-2da1-4ba7-a6a4-428ea1996319",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/e34f0460-2da1-4ba7-a6a4-428ea1996319/download/tabla_leyes_sancionadas_2020.csv",
+          "name": "leyes_sancionadas_2020",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:43:21.979Z",
+          "description": null
+        },
+        {
+          "id": "a015212a-67aa-478f-9458-6741f9030e2c",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/a015212a-67aa-478f-9458-6741f9030e2c/download/tabla_leyes_sancionadas_2021.csv",
+          "name": "leyes_sancionadas_2021",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:43:25.907Z",
+          "description": null
+        },
+        {
+          "id": "c0910691-5aef-447b-8dfa-69bd2d41bff0",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/c0910691-5aef-447b-8dfa-69bd2d41bff0/download/tabla_leyes_sancionadas_2022.csv",
+          "name": "leyes_sancionadas_2022",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:43:30.098Z",
+          "description": null
+        },
+        {
+          "id": "dc8caadf-ad22-49e2-a7a4-b4f64a997e23",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/fd0eba66-072d-4000-bea0-5a4e018e221c/resource/dc8caadf-ad22-49e2-a7a4-b4f64a997e23/download/tabla_leyes_sancionadas_2023.csv",
+          "name": "leyes_sancionadas_2023",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:43:34.064Z",
+          "description": null
+        }
+      ],
+      "createdAt": "2023-12-05T20:18:41.974Z",
+      "updatedAt": "2023-12-12T17:43:34.105Z",
+      "contact": {
+        "name": null,
+        "email": null
+      }
+    },
+    {
+      "id": "d0251c24-1947-48b9-b417-a4759b6cae63",
+      "name": "presupuesto",
+      "title": "Presupuestos Sancionados",
+      "keywords": [
+        "presupuesto"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "5ab2f8e6-fb01-4b22-a59a-f47cd5e0703c",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/d0251c24-1947-48b9-b417-a4759b6cae63/resource/5ab2f8e6-fb01-4b22-a59a-f47cd5e0703c/download/presupuesto-sancionado-2022-ley-3314.pdf",
+          "name": "Presupuesto Sancionado 2022",
+          "format": "PDF",
+          "updatedAt": "2022-03-04T15:07:37.779Z",
+          "description": "Presupuesto sancionado correspondiente al Ejercicio 2022."
+        },
+        {
+          "id": "b3376af2-ee1f-4299-9b3d-7b71748f7d39",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/d0251c24-1947-48b9-b417-a4759b6cae63/resource/b3376af2-ee1f-4299-9b3d-7b71748f7d39/download/presupuesto-sancionado-2021-ley-3277.pdf",
+          "name": "Presupuesto Sancionado 2021",
+          "format": "PDF",
+          "updatedAt": "2022-03-04T15:19:22.721Z",
+          "description": "Presupuesto sancionado correspondiente al Ejercicio 2021."
+        },
+        {
+          "id": "ec6c84b1-05ae-49e6-b7a5-fb0f88e861f2",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/d0251c24-1947-48b9-b417-a4759b6cae63/resource/ec6c84b1-05ae-49e6-b7a5-fb0f88e861f2/download/ley3366fd.pdf",
+          "name": "Presupuesto Sancionado 2023",
+          "format": "PDF",
+          "updatedAt": "2023-02-02T20:08:29.600Z",
+          "description": "Presupuesto sancionado correspondiente al Ejercicio 2023."
+        },
+        {
+          "id": "5e8ebc7a-ec1f-451a-a837-96557271aab3",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/d0251c24-1947-48b9-b417-a4759b6cae63/resource/5e8ebc7a-ec1f-451a-a837-96557271aab3/download/ley-coparticipacion.pdf",
+          "name": "Ley de Coparticipación",
+          "format": "PDF",
+          "updatedAt": "2023-05-09T19:45:19.796Z",
+          "description": "Ley N° 2395. de coparticipación federal."
+        }
+      ],
+      "createdAt": "2021-12-03T14:43:00.932Z",
+      "updatedAt": "2023-05-09T19:45:19.817Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "b5ee726f-b6bd-4aae-b009-cd7d1803a0a2",
+      "name": "proyectos_presentados",
+      "title": "Proyectos_presentados",
+      "keywords": [],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "7756f5f8-c25e-4e18-87f3-b7a6f770ec82",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/b5ee726f-b6bd-4aae-b009-cd7d1803a0a2/resource/7756f5f8-c25e-4e18-87f3-b7a6f770ec82/download/tabla_proyectos_presentados_2008.csv",
+          "name": "proyectos_presentados_2008",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:37:58.999Z",
+          "description": null
+        },
+        {
+          "id": "afc5e2a0-53d7-4b90-bce5-6460a5255966",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/b5ee726f-b6bd-4aae-b009-cd7d1803a0a2/resource/afc5e2a0-53d7-4b90-bce5-6460a5255966/download/tabla_proyectos_presentados_2009.csv",
+          "name": "proyectos_presentados_2009",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:38:01.411Z",
+          "description": null
+        },
+        {
+          "id": "2104f580-8f7f-4256-a9be-75a33b4e2a1a",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/b5ee726f-b6bd-4aae-b009-cd7d1803a0a2/resource/2104f580-8f7f-4256-a9be-75a33b4e2a1a/download/tabla_proyectos_presentados_2010.csv",
+          "name": "proyectos_presentados_2010",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:38:04.183Z",
+          "description": null
+        },
+        {
+          "id": "edb45530-a8f7-479f-8248-61e1f05c4020",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/b5ee726f-b6bd-4aae-b009-cd7d1803a0a2/resource/edb45530-a8f7-479f-8248-61e1f05c4020/download/tabla_proyectos_presentados_2011.csv",
+          "name": "proyectos_presentados_2011",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:38:07.063Z",
+          "description": null
+        },
+        {
+          "id": "f59b8157-2aec-428a-9ecf-c3cabfa1656d",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/b5ee726f-b6bd-4aae-b009-cd7d1803a0a2/resource/f59b8157-2aec-428a-9ecf-c3cabfa1656d/download/tabla_proyectos_presentados_2012.csv",
+          "name": "proyectos_presentados_2012",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:38:09.599Z",
+          "description": null
+        },
+        {
+          "id": "13ac987e-8909-412a-be23-bc953ec70749",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/b5ee726f-b6bd-4aae-b009-cd7d1803a0a2/resource/13ac987e-8909-412a-be23-bc953ec70749/download/tabla_proyectos_presentados_2013.csv",
+          "name": "proyectos_presentados_2013",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:38:12.030Z",
+          "description": null
+        },
+        {
+          "id": "459b23e6-3210-4f2b-8001-3431cb6f8a47",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/b5ee726f-b6bd-4aae-b009-cd7d1803a0a2/resource/459b23e6-3210-4f2b-8001-3431cb6f8a47/download/tabla_proyectos_presentados_2014.csv",
+          "name": "proyectos_presentados_2014",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:38:14.466Z",
+          "description": null
+        },
+        {
+          "id": "a5d714af-6656-4245-b7fd-410c1286a79c",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/b5ee726f-b6bd-4aae-b009-cd7d1803a0a2/resource/a5d714af-6656-4245-b7fd-410c1286a79c/download/tabla_proyectos_presentados_2015.csv",
+          "name": "proyectos_presentados_2015",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:38:16.839Z",
+          "description": null
+        },
+        {
+          "id": "e8044b2a-7d79-4a2b-a645-edb0ddb13d62",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/b5ee726f-b6bd-4aae-b009-cd7d1803a0a2/resource/e8044b2a-7d79-4a2b-a645-edb0ddb13d62/download/tabla_proyectos_presentados_2016.csv",
+          "name": "proyectos_presentados_2016",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:38:19.244Z",
+          "description": null
+        },
+        {
+          "id": "f51bb7fa-fdc8-4917-a749-257a1d56e880",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/b5ee726f-b6bd-4aae-b009-cd7d1803a0a2/resource/f51bb7fa-fdc8-4917-a749-257a1d56e880/download/tabla_proyectos_presentados_2017.csv",
+          "name": "proyectos_presentados_2017",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:38:21.749Z",
+          "description": null
+        },
+        {
+          "id": "708442ec-12f0-4beb-9100-b1fc43ce4db1",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/b5ee726f-b6bd-4aae-b009-cd7d1803a0a2/resource/708442ec-12f0-4beb-9100-b1fc43ce4db1/download/tabla_proyectos_presentados_2018.csv",
+          "name": "proyectos_presentados_2018",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:38:24.306Z",
+          "description": null
+        },
+        {
+          "id": "daa93bf5-0a7c-43cf-9d03-79260b322c47",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/b5ee726f-b6bd-4aae-b009-cd7d1803a0a2/resource/daa93bf5-0a7c-43cf-9d03-79260b322c47/download/tabla_proyectos_presentados_2019.csv",
+          "name": "proyectos_presentados_2019",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:38:26.847Z",
+          "description": null
+        },
+        {
+          "id": "712c1c56-81d5-4641-a375-63d21a18c5ea",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/b5ee726f-b6bd-4aae-b009-cd7d1803a0a2/resource/712c1c56-81d5-4641-a375-63d21a18c5ea/download/tabla_proyectos_presentados_2020.csv",
+          "name": "proyectos_presentados_2020",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:38:29.319Z",
+          "description": null
+        },
+        {
+          "id": "770650e9-8461-443a-8bd6-604387c86d16",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/b5ee726f-b6bd-4aae-b009-cd7d1803a0a2/resource/770650e9-8461-443a-8bd6-604387c86d16/download/tabla_proyectos_presentados_2021.csv",
+          "name": "proyectos_presentados_2021",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:38:32.272Z",
+          "description": null
+        },
+        {
+          "id": "a6308bc4-a9ba-44c6-b6c5-5636ed910547",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/b5ee726f-b6bd-4aae-b009-cd7d1803a0a2/resource/a6308bc4-a9ba-44c6-b6c5-5636ed910547/download/tabla_proyectos_presentados_2022.csv",
+          "name": "proyectos_presentados_2022",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:38:34.829Z",
+          "description": null
+        },
+        {
+          "id": "b18fbdb0-db2d-472a-8512-162ff0fdf7ae",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/b5ee726f-b6bd-4aae-b009-cd7d1803a0a2/resource/b18fbdb0-db2d-472a-8512-162ff0fdf7ae/download/tabla_proyectos_presentados_2023.csv",
+          "name": "proyectos_presentados_2023",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:38:37.599Z",
+          "description": null
+        }
+      ],
+      "createdAt": "2023-12-05T20:15:08.028Z",
+      "updatedAt": "2023-12-12T17:38:37.615Z",
+      "contact": {
+        "name": null,
+        "email": null
+      }
+    },
+    {
+      "id": "20ea2881-101d-4d38-8e92-c45578e7a2bd",
+      "name": "sesiones",
+      "title": "Sesiones",
+      "keywords": [],
+      "landingPage": null,
+      "resources": [
+        {
+          "id": "b09fd309-0642-4981-a606-c55e1e854c6a",
+          "downloadUrl": "https://datos.legislaturaneuquen.gob.ar/dataset/20ea2881-101d-4d38-8e92-c45578e7a2bd/resource/b09fd309-0642-4981-a606-c55e1e854c6a/download/tabla_sesiones.csv",
+          "name": "sesiones",
+          "format": "CSV",
+          "updatedAt": "2023-12-12T17:35:27.749Z",
+          "description": null
+        }
+      ],
+      "createdAt": "2023-12-05T18:49:42.081Z",
+      "updatedAt": "2023-12-12T17:35:27.758Z",
+      "contact": {
+        "name": null,
+        "email": null
+      }
+    }
+  ],
+  "organizations": [],
+  "updatedAt": "2023-12-16T10:49:37.520Z"
+}

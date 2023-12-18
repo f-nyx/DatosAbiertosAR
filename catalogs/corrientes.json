@@ -1,0 +1,2367 @@
+{
+  "id": "MLEEh8HR5G",
+  "datasets": [
+    {
+      "id": "43304c01-fd39-4498-8108-8ce6b3baafd3",
+      "name": "acceso-y-uso-a-la-tecnologia",
+      "title": "Acceso y Uso a la tecnología",
+      "keywords": [
+        "acceso",
+        "democratizacion",
+        "tecnologia"
+      ],
+      "landingPage": "https://www.indec.gob.ar",
+      "resources": [
+        {
+          "id": "156297cb-76b4-4913-950e-de6fe3b9aad2",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT2CccUCemrJi6OaBly8GN-01HYnh7WyRxxwALzisnfAND7Y4LzCYhjg3HtcDfJI7a0677kbGtGxrCv/pub?gid=205812158&single=true&output=csv",
+          "name": "Acceso y Uso de tecnologías",
+          "format": "CSV",
+          "updatedAt": "2021-04-01T01:49:42.893Z",
+          "description": "Acceso de hogares y personas a computadora, internet y teléfono celular. ",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-04-01T01:48:29.515Z",
+      "updatedAt": "2023-10-12T17:26:33.695Z",
+      "contact": {
+        "name": "Observatorio Económico",
+        "email": ""
+      }
+    },
+    {
+      "id": "5643948a-fbf3-4499-b376-d98f4aee4b1c",
+      "name": "actas_infraccion",
+      "title": "Actas de infracciones",
+      "keywords": [
+        "infracciones",
+        "movilidad",
+        "multas",
+        "transporte",
+        "tránsito"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/actas_infraccion",
+      "resources": [
+        {
+          "id": "6db9eee0-bfff-4891-a43d-3ae99a44e5ab",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSCMC22bmwNxEAcHVHfZ6lxcA9N_i4LlxNXZn7hIUGdnPhCbTGFm-tjtDMyvD8bww/pub?gid=751805691&single=true&output=csv",
+          "name": "Infracciones emitidas",
+          "format": "CSV",
+          "updatedAt": "2021-04-12T23:01:25.371Z",
+          "description": "Cantidad histórica de actas de infracción emitidas desde enero de 2018.",
+          "landingUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/actas_infraccion/archivo/6db9eee0-bfff-4891-a43d-3ae99a44e5ab"
+        }
+      ],
+      "createdAt": "2020-06-09T19:41:12.173Z",
+      "updatedAt": "2023-10-12T17:57:07.242Z",
+      "contact": {
+        "name": "Subsecretaría de Transporte Urbano; Secretaría de Movilidad Urbana y Seguridad ciudadana",
+        "email": ""
+      }
+    },
+    {
+      "id": "a2ce48f0-eabc-423b-a96c-3d46b4944d9d",
+      "name": "actas_infraccion_vehiculos_prof",
+      "title": "Actas de infracciones emitidas por tipo de vehiculo",
+      "keywords": [
+        "actas",
+        "movilidad",
+        "multas",
+        "transporte",
+        "tránsito"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/actas_infraccion_vehiculos_prof",
+      "resources": [
+        {
+          "id": "f8969929-8098-4ed8-81f6-4b0faea15835",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSCMC22bmwNxEAcHVHfZ6lxcA9N_i4LlxNXZn7hIUGdnPhCbTGFm-tjtDMyvD8bww/pub?gid=860496529&single=true&output=csv",
+          "name": "Actas de infracción emitidas por tipo de vehiculo",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Registro de actas de infracción emitidas con fecha, tipo de vehículo y lugar de ocurrencia",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-06-09T19:52:26.504Z",
+      "updatedAt": "2023-10-12T17:56:29.733Z",
+      "contact": {
+        "name": "Subsecretaría de Transporte; Secretaría de Movilidad Urbana y Seguridad ciudadana",
+        "email": ""
+      }
+    },
+    {
+      "id": "18dff36f-0da4-4d66-b061-5ff5b9347e4d",
+      "name": "alumbrado-publico",
+      "title": "Alumbrado Público",
+      "keywords": [
+        "alumbrado",
+        "alumbrado público",
+        "direccion provincial de energía de corrientes",
+        "electrico",
+        "energía"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/alumbrado-publico",
+      "resources": [
+        {
+          "id": "085711d7-d3af-4f1a-b9de-e4a47b90097e",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQrhIIWJkFhHG2dVvBDu4gv6cAvNu_g2xzZq5szi2318jvcF8WqREf07skJiMXSxA/pub?gid=847514404&single=true&output=csv",
+          "name": "Alumbrado Público",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Puntos de alumbrado público LED, con información georeferenciada de cada punto",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-10-09T15:35:01.861Z",
+      "updatedAt": "2023-10-17T17:36:10.606Z",
+      "contact": {
+        "name": "Dirección general de infraestructura eléctrica",
+        "email": ""
+      }
+    },
+    {
+      "id": "3a0f25f7-9170-4f8e-9611-bf35e65dbc5c",
+      "name": "atencion_embarazadas",
+      "title": "Consultas médicas de embarazadas",
+      "keywords": [
+        "embarazos",
+        "obstetricia",
+        "prenatal"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/atencion_embarazadas",
+      "resources": [
+        {
+          "id": "9e37b61a-e7f7-4d88-bca4-51df649e0b17",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/3a0f25f7-9170-4f8e-9611-bf35e65dbc5c/resource/9e37b61a-e7f7-4d88-bca4-51df649e0b17/download/consultas_embarazadas.csv",
+          "name": "Consultas Embarazadas",
+          "format": "CSV",
+          "updatedAt": "2022-04-01T16:37:55.694Z",
+          "description": "Cantidad histórica de consultas medicas por motivo de embarazo desde enero de 2020.",
+          "landingUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/atencion_embarazadas/archivo/9e37b61a-e7f7-4d88-bca4-51df649e0b17"
+        }
+      ],
+      "createdAt": "2020-06-10T14:43:32.572Z",
+      "updatedAt": "2023-10-18T15:03:17.474Z",
+      "contact": {
+        "name": "Secretaria de Salud",
+        "email": ""
+      }
+    },
+    {
+      "id": "921ff326-8989-4600-b0a9-1a5b495fccf2",
+      "name": "barrios",
+      "title": "Barrios",
+      "keywords": [
+        "barrio",
+        "límites",
+        "zona",
+        "áreas"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/barrios",
+      "resources": [
+        {
+          "id": "fe281850-2a92-4e61-81cd-4db3bb9598f5",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/921ff326-8989-4600-b0a9-1a5b495fccf2/resource/fe281850-2a92-4e61-81cd-4db3bb9598f5/download/vw_densidad_de_poblacion.csv",
+          "name": "Densidad poblacional",
+          "format": "CSV",
+          "updatedAt": "2020-08-20T23:12:45.152Z",
+          "description": "Poblacion, densidad, genero y hogares por zonas de la ciudad",
+          "landingUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/barrios/archivo/fe281850-2a92-4e61-81cd-4db3bb9598f5"
+        },
+        {
+          "id": "39a4ed35-fa45-4f5b-801c-9d1b0f89e45f",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRl5SOftTZqK61xix7pp0HBjv6FNFZlPEkbxBVPB2HA34hKKE93bTEd7h48ihHOaUJuY1wOW1isdxoQ/pub?gid=1636149938&single=true&output=csv",
+          "name": "RENABAP",
+          "format": "CSV",
+          "updatedAt": "2020-08-20T23:38:51.002Z",
+          "description": "Asentamientos del Registro Nacional de Barrios Populares en Corrientes",
+          "landingUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRl5SOftTZqK61xix7pp0HBjv6FNFZlPEkbxBVPB2HA34hKKE93bTEd7h48ihHOaUJuY1wOW1isdxoQ/pub?gid=1636149938&single=true&output=csv"
+        },
+        {
+          "id": "a3b229c5-08d8-4ca4-908e-d72b63eb295f",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRIUNfkr_0CWP41-Bro70yIAVaVwlRw-9mEOx7tZnSIAgMtyJq5ai19XHwuCeS-uQ/pub?gid=1051011522&single=true&output=csv",
+          "name": "Barrios",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Listado delimitado de barrios de la ciudad",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-08-19T22:58:16.942Z",
+      "updatedAt": "2023-09-20T18:27:09.109Z",
+      "contact": {
+        "name": "Dirección General de Sistemas de Información Geográfica",
+        "email": ""
+      }
+    },
+    {
+      "id": "51df1868-7801-4707-9224-62624c308413",
+      "name": "boletos-de-colectivo",
+      "title": "SUBE. Pasajes de colectivo urbano",
+      "keywords": [
+        "boletos",
+        "colectivos",
+        "sube",
+        "subsidio",
+        "transporte"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/boletos-de-colectivo",
+      "resources": [
+        {
+          "id": "89f17a51-5b63-4e5c-a428-c6aab58c5352",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8nhZvWx7h08320dHGsdULNXaiVH_kcT7UPeE8_p6MqsUlqVuSu7IxSujP9_mjp0J0D88WXltjsce9/pub?gid=274733566&single=true&output=csv",
+          "name": "Boletos de colectivo",
+          "format": "CSV",
+          "updatedAt": "2021-02-23T22:22:07.169Z",
+          "description": "Total de boletos de colectivos tickados por tipo de usuario. Desde Enero de 2018",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-02-23T22:10:56.268Z",
+      "updatedAt": "2021-04-30T22:59:17.200Z",
+      "contact": {
+        "name": "Observatorio Económico",
+        "email": ""
+      }
+    },
+    {
+      "id": "ab21b06b-fe56-4bd4-b4b3-8a2b92168292",
+      "name": "calles",
+      "title": "Calles",
+      "keywords": [
+        "altura",
+        "aparcamiento",
+        "calle",
+        "cochera",
+        "ejido",
+        "estacionamiento",
+        "garage",
+        "intersección",
+        "ruta",
+        "tramo",
+        "urbano"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/calles",
+      "resources": [
+        {
+          "id": "1e1bbde3-2196-40a3-ac14-24677816a781",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQyOia1nd9PVR-a3ur-5IDPC9vompcLyuazkZ5GdQwuKry-06jX3O7RSjoO9e4NhItUYjq6Qz6xdCR6/pub?gid=1357603681&single=true&output=csv",
+          "name": "Nombres de calles",
+          "format": "CSV",
+          "updatedAt": "2020-08-19T22:26:32.252Z",
+          "description": "Listado de calles con sus nombres y ID",
+          "landingUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQyOia1nd9PVR-a3ur-5IDPC9vompcLyuazkZ5GdQwuKry-06jX3O7RSjoO9e4NhItUYjq6Qz6xdCR6/pub?gid=1357603681&single=true&output=csv"
+        },
+        {
+          "id": "ba41e80c-b40d-4651-b3eb-6b39b95982bf",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/ab21b06b-fe56-4bd4-b4b3-8a2b92168292/resource/ba41e80c-b40d-4651-b3eb-6b39b95982bf/download/calle_tramos.csv",
+          "name": "Tramos de calles",
+          "format": "CSV",
+          "updatedAt": "2021-02-02T21:11:36.450Z",
+          "description": "Tramos de calles de la ciudad",
+          "landingUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/calles/archivo/ba41e80c-b40d-4651-b3eb-6b39b95982bf"
+        },
+        {
+          "id": "84f67d49-3e9e-49b9-9ba6-ed4c107eba3f",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/ab21b06b-fe56-4bd4-b4b3-8a2b92168292/resource/84f67d49-3e9e-49b9-9ba6-ed4c107eba3f/download/tipo_calle.csv",
+          "name": "Tipo de calle",
+          "format": "CSV",
+          "updatedAt": "2020-08-19T22:48:48.806Z",
+          "description": "Descripción del tipo de camino (link: id_tipo_calle)",
+          "landingUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/calles/archivo/84f67d49-3e9e-49b9-9ba6-ed4c107eba3f"
+        },
+        {
+          "id": "f2ae300b-7053-411e-ac05-9f7db2fd9093",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRIUNfkr_0CWP41-Bro70yIAVaVwlRw-9mEOx7tZnSIAgMtyJq5ai19XHwuCeS-uQ/pub?gid=1443814615&single=true&output=csv",
+          "name": "Calles de la ciudad",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Detalle de las calles de la ciudad y su ubicación.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-08-19T21:30:08.350Z",
+      "updatedAt": "2023-09-20T19:13:07.970Z",
+      "contact": {
+        "name": "Dirección General de Sistemas de Información Geográfica",
+        "email": ""
+      }
+    },
+    {
+      "id": "b6f487cd-7954-4de4-8fcf-5f701b81ba28",
+      "name": "camaras",
+      "title": "Centro de Operaciones y Monitoreo (COM)",
+      "keywords": [],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/camaras",
+      "resources": [
+        {
+          "id": "3901a34e-c03d-46bc-afbc-97e192b5ba0d",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTKbyu8fAA6BN0PioL4QY1NvLI0PgpO7ytoNcR9yLzlzy3eEQcrny-wpVmTPkOcok44gT86WFdWe_eY/pub?gid=22229145&single=true&output=csv",
+          "name": "Cantidad de Camaras",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Cantidad de camaras que se encuentran a cargo de la secretaria de Movilidad y seguridad ciudadana, donde se encuentran instaladas y el tipo de camara. ",
+          "landingUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTKbyu8fAA6BN0PioL4QY1NvLI0PgpO7ytoNcR9yLzlzy3eEQcrny-wpVmTPkOcok44gT86WFdWe_eY/pub?gid=22229145&single=true&output=csv"
+        }
+      ],
+      "createdAt": "2022-12-19T18:19:26.137Z",
+      "updatedAt": "2023-10-12T18:24:32.132Z",
+      "contact": {
+        "name": "Secretaría de Movilidad y Seguridad Ciudadana",
+        "email": "dginnovacionygobiernoabierto@ciudaddecorrientes.gov.ar"
+      }
+    },
+    {
+      "id": "ded6c40f-08e8-4661-af47-adf116134076",
+      "name": "centros-de-desarrollo-infantil",
+      "title": "Centros de Desarrollo Infantil",
+      "keywords": [],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/centros-de-desarrollo-infantil",
+      "resources": [
+        {
+          "id": "3a338367-d3aa-4830-a571-aef2dd9d1f06",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRIUNfkr_0CWP41-Bro70yIAVaVwlRw-9mEOx7tZnSIAgMtyJq5ai19XHwuCeS-uQ/pub?gid=6793408&single=true&output=csv",
+          "name": "Centros de Desarrollo Infantil",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "\"Ubicación de los\r\nCentros de Desarrollo Infantil de la ciudad\"",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-09-20T06:14:56.361Z",
+      "updatedAt": "2023-10-12T18:10:59.043Z",
+      "contact": {
+        "name": "Secretaría de cultura y Educación",
+        "email": ""
+      }
+    },
+    {
+      "id": "31c9adc0-d83d-45f3-b50f-15305c77410d",
+      "name": "centros-de-distribucion-dpec",
+      "title": "Centros de distribucion DPEC",
+      "keywords": [
+        "dpec",
+        "direccion provincial de energía de corrientes",
+        "apagón",
+        "electricidad",
+        "energía",
+        "estación",
+        "luz",
+        "transformadora"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/centros-de-distribucion-dpec",
+      "resources": [
+        {
+          "id": "b8e2995f-73ee-46cf-bfa4-8322492a2e9c",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/31c9adc0-d83d-45f3-b50f-15305c77410d/resource/b8e2995f-73ee-46cf-bfa4-8322492a2e9c/download/vw_centros_distribuidores_dpec.csv",
+          "name": "Estaciones de distribución DPEC",
+          "format": "CSV",
+          "updatedAt": "2020-08-20T23:01:10.054Z",
+          "description": "Estaciones transformadoras de DPEC",
+          "landingUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/centros-de-distribucion-dpec/archivo/b8e2995f-73ee-46cf-bfa4-8322492a2e9c"
+        }
+      ],
+      "createdAt": "2020-08-20T22:58:50.197Z",
+      "updatedAt": "2020-12-01T18:28:02.631Z",
+      "contact": {
+        "name": "Dirección General de Sistemas de Información Geográfica",
+        "email": ""
+      }
+    },
+    {
+      "id": "7d035b5b-059e-42e2-b40f-3c60d7a03ef3",
+      "name": "centros-de-salud",
+      "title": "Centros de salud",
+      "keywords": [
+        "caps",
+        "hospitales",
+        "medicina",
+        "programáticas",
+        "salud",
+        "sanatorios",
+        "saps",
+        "áreas"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/centros-de-salud",
+      "resources": [
+        {
+          "id": "a9171b4a-72d9-424b-a877-3b695d88fcb4",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/7d035b5b-059e-42e2-b40f-3c60d7a03ef3/resource/a9171b4a-72d9-424b-a877-3b695d88fcb4/download/vw_areas_programaticas_saps.csv",
+          "name": "Áreas programáticas de salud",
+          "format": "CSV",
+          "updatedAt": "2020-08-20T20:58:49.247Z",
+          "description": "Áreas programáticas de SAPS en la ciudad",
+          "landingUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/centros-de-salud"
+        },
+        {
+          "id": "fb222378-07d9-4623-bb3a-be69a1446afc",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRIUNfkr_0CWP41-Bro70yIAVaVwlRw-9mEOx7tZnSIAgMtyJq5ai19XHwuCeS-uQ/pub?gid=1662488011&single=true&output=csv",
+          "name": "CAPS",
+          "format": "CSV",
+          "updatedAt": "2020-08-20T21:12:37.297Z",
+          "description": "Localización de CAPS (Centros de Atención Primaria de Salud) en la ciudad",
+          "landingUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQDmzdbTT4zHZq7l0uYzksu6M-yr2SM1GbrENRmxVwhlJFmf0ghaCWYvFSrq-PiG0SQnFCP3LbCd61e/pub?gid=1165266085&single=true&output=csv"
+        },
+        {
+          "id": "243a6ea4-7939-48af-93da-1a187afa56d8",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSIG1rVD8GX_mLx6CrALYBqwGCUAIQc6M6iGC6_4q2dMlhLvV4AurQ5KNgYGR-CirMUNqjYtTPbPh8B/pub?gid=715185972&single=true&output=csv",
+          "name": "Hospitales",
+          "format": "CSV",
+          "updatedAt": "2021-02-02T21:43:41.109Z",
+          "description": "Localización de hospitales centrales en la ciudad",
+          "landingUrl": ""
+        },
+        {
+          "id": "f0af0ede-444f-48ad-a389-2ea5ec30dade",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTPD-zYY7TiyWVtM0howYSWRB_LMsJMXgpe9_fTfyS_1i6d9usQV5W13aOkGG5MHrt1PEeRhzz-HDts/pub?gid=1287222661&single=true&output=csv",
+          "name": "Centros privados de salud",
+          "format": "CSV",
+          "updatedAt": "2021-04-09T01:08:57.833Z",
+          "description": "Sanatorios, clínicas e institutos de salud",
+          "landingUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTPD-zYY7TiyWVtM0howYSWRB_LMsJMXgpe9_fTfyS_1i6d9usQV5W13aOkGG5MHrt1PEeRhzz-HDts/pub?gid=1287222661&single=true&output=csv"
+        },
+        {
+          "id": "9c2f3822-0da9-4401-80e0-3995217d8158",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRIUNfkr_0CWP41-Bro70yIAVaVwlRw-9mEOx7tZnSIAgMtyJq5ai19XHwuCeS-uQ/pub?gid=486778204&single=true&output=csv",
+          "name": "SAPS",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Localización de SAPS (Salas de Atención Primaria) de la ciudad",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-08-20T20:12:43.742Z",
+      "updatedAt": "2023-09-20T18:55:55.569Z",
+      "contact": {
+        "name": "Dirección General de Sistemas de Información Geográfica",
+        "email": ""
+      }
+    },
+    {
+      "id": "188c72f4-0746-4f47-9b22-dbc8e0b08509",
+      "name": "centro_transf_residuos_secos_ingreso",
+      "title": "Centro de Transferencia de Residuos Secos",
+      "keywords": [
+        "ambiente",
+        "basura",
+        "higiene",
+        "residuos"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/centro_transf_residuos_secos_ingreso",
+      "resources": [
+        {
+          "id": "895341e5-e8f6-4dcd-b582-a7dc16c66b46",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/188c72f4-0746-4f47-9b22-dbc8e0b08509/resource/895341e5-e8f6-4dcd-b582-a7dc16c66b46/download/ctrs_ingreso.csv",
+          "name": "CTRS Entradas 06/2019 - 12/2019",
+          "format": "CSV",
+          "updatedAt": "2020-10-06T23:18:59.478Z",
+          "description": "Ingresos históricos al Centro de Transferencia de Residuos Secos entre junio y diciembre de 2019",
+          "landingUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/centro_transf_residuos_secos_ingreso/archivo/895341e5-e8f6-4dcd-b582-a7dc16c66b46"
+        },
+        {
+          "id": "387db336-f3eb-4792-9e64-01d8c5197f10",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/188c72f4-0746-4f47-9b22-dbc8e0b08509/resource/387db336-f3eb-4792-9e64-01d8c5197f10/download/ctrs_egreso.csv",
+          "name": "CTRS Salidas 09/2019 - 12/2019",
+          "format": "CSV",
+          "updatedAt": "2020-10-06T23:21:12.388Z",
+          "description": "Egresos históricos realizados al Centro de Transferencia de Residuos Secos entre septiembre y diciembre de 2019",
+          "landingUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/centro_transf_residuos_secos_ingreso/archivo/387db336-f3eb-4792-9e64-01d8c5197f10"
+        },
+        {
+          "id": "dfb0ae04-0e08-47f7-ae0e-f1007611842a",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/188c72f4-0746-4f47-9b22-dbc8e0b08509/resource/dfb0ae04-0e08-47f7-ae0e-f1007611842a/download/centro-de-transferencia-de-residuos-secos-ctrs-ingreso.csv",
+          "name": "CTRS Entradas 01/2020 ",
+          "format": "CSV",
+          "updatedAt": "2020-12-11T23:09:42.593Z",
+          "description": "Ingresos históricos al Centro de Transferencia de Residuos Secos en Enero 2020",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-06-09T18:23:40.928Z",
+      "updatedAt": "2023-10-12T18:26:27.266Z",
+      "contact": {
+        "name": "Subsecretaría de Higiene Urbana; Secretaría de Ambiente y Desarrollo sustentable",
+        "email": ""
+      }
+    },
+    {
+      "id": "5dc46c91-3767-4923-bea1-8cb1604072a5",
+      "name": "cloaca-social",
+      "title": "Cloaca social",
+      "keywords": [],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/cloaca-social",
+      "resources": [
+        {
+          "id": "17838fad-6865-4d84-a8d8-d25cd10af1f6",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRIUNfkr_0CWP41-Bro70yIAVaVwlRw-9mEOx7tZnSIAgMtyJq5ai19XHwuCeS-uQ/pub?gid=1393335736&single=true&output=csv",
+          "name": "Cloaca social",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Segmentos de la ciudad que cuentan con cloaca social",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-09-20T06:57:41.234Z",
+      "updatedAt": "2023-10-12T18:02:26.490Z",
+      "contact": {
+        "name": "Secretaría de Infraestructura",
+        "email": ""
+      }
+    },
+    {
+      "id": "3556a13e-d70c-4f9e-8af4-cdeea944be1b",
+      "name": "comisarias",
+      "title": "Comisarías",
+      "keywords": [
+        "comisaria",
+        "policia",
+        "seguridad",
+        "vigilancia"
+      ],
+      "landingPage": "http://www.policiactes.gov.ar/comisarias_c.html",
+      "resources": [
+        {
+          "id": "1cd281f8-a4a5-4b1f-aa44-e1e08a72f683",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTJLs_CqiiCYgrs07nWoxvaEmBDJ_9qnM38WIPnR9-Q_5dmr1H5eEXeLDURcm5U548QmnKZmcumSzP1/pub?gid=0&single=true&output=csv",
+          "name": "Comisarías metropolitanas",
+          "format": "CSV",
+          "updatedAt": "2021-02-22T22:04:52.004Z",
+          "description": "Localización de las comisarías metropolitanas de la Policía de Corrientes",
+          "landingUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTJLs_CqiiCYgrs07nWoxvaEmBDJ_9qnM38WIPnR9-Q_5dmr1H5eEXeLDURcm5U548QmnKZmcumSzP1/pub?gid=0&single=true&output=csv"
+        }
+      ],
+      "createdAt": "2021-02-22T21:57:46.789Z",
+      "updatedAt": "2023-04-13T15:24:38.995Z",
+      "contact": {
+        "name": "Dirección General de Sistemas de Información Geográfica",
+        "email": "dginnovacionpublicaygobiernoabierto@ciudaddecorrientes.gov.ar"
+      }
+    },
+    {
+      "id": "051ad9f9-6ae8-4519-9ed2-96049b132039",
+      "name": "compras-minoristas-en-supermercados",
+      "title": "Compras minoristas en supermercados.",
+      "keywords": [
+        "compras",
+        "consumo",
+        "demanda",
+        "supermercados"
+      ],
+      "landingPage": "https://www.indec.gob.ar/",
+      "resources": [
+        {
+          "id": "daae6e09-6944-45f7-ba8b-b435862bee07",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRjrRow20HyEHxrUADaYD40B-uZa9TZ45MHMMMumfByasSSOahqB4llTUjKpH7RUZaIJao2v-vbNqcb/pub?gid=1985598146&single=true&output=csv",
+          "name": "Compras minoristas en supermercados",
+          "format": "CSV",
+          "updatedAt": "2021-02-26T22:02:14.832Z",
+          "description": "Compras minoristas en supermercados, a valores corrientes. Desde Enero de 2017. Provincia de Corrientes",
+          "landingUrl": ""
+        },
+        {
+          "id": "207afc19-041e-431c-b2e7-3c6ccc3a4adf",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSdD8XhclltIEs8CuKa0zZwkU0qmkMddCzCPnXnetTOhxP7mPybYtjXB_SeF8jkqof1H8s8paoLBoRO/pub?gid=1590362455&single=true&output=csv",
+          "name": "Compras minoristas en supermercados",
+          "format": "CSV",
+          "updatedAt": "2021-02-26T22:32:53.652Z",
+          "description": "Compras minoristas en supermercados, series deflactadas a partir de IPC NEA (diciembre 2016=100). Desde Enero de 2017. Provincia de Corrientes",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-02-26T21:39:15.033Z",
+      "updatedAt": "2021-04-22T22:37:42.630Z",
+      "contact": {
+        "name": "Observatorio Económico",
+        "email": ""
+      }
+    },
+    {
+      "id": "b60d3b6c-5860-4426-9404-4ae5e14b6bfa",
+      "name": "consultas_medicas",
+      "title": "Consultas médicas",
+      "keywords": [
+        "medicina",
+        "salitas",
+        "salud",
+        "saps"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/consultas_medicas",
+      "resources": [
+        {
+          "id": "7fa3fad9-cfde-4428-ab52-18c70e3ebd35",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWUsC5qU22yOzTI_7GQa-dGKbilHRDx62-f4Szm3_QHszAZrl5FzSNvtSl8RBTr6531PMZhu4cyjkn/pub?gid=556463424&single=true&output=csv",
+          "name": "Consultas médicas",
+          "format": "CSV",
+          "updatedAt": "2022-04-01T17:18:58.906Z",
+          "description": "Cantidad histórica de consultas médicas en SAPS desde enero de 2020",
+          "landingUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWUsC5qU22yOzTI_7GQa-dGKbilHRDx62-f4Szm3_QHszAZrl5FzSNvtSl8RBTr6531PMZhu4cyjkn/pub?gid=556463424&single=true&output=csv"
+        }
+      ],
+      "createdAt": "2020-06-10T14:22:20.336Z",
+      "updatedAt": "2023-10-18T15:00:40.863Z",
+      "contact": {
+        "name": "Secretaria de Salud",
+        "email": ""
+      }
+    },
+    {
+      "id": "517135a4-04af-4ff9-b2d2-1cd45ecf9d43",
+      "name": "consultas_odontologica",
+      "title": "Consultas odontológicas",
+      "keywords": [
+        "bucal",
+        "medicina",
+        "odontología",
+        "salud",
+        "saps"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/consultas_odontologica",
+      "resources": [
+        {
+          "id": "104c8fb2-7178-4d87-a781-6bba47feb24a",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSSxzWCKBWYIxZjqOMzJBbj5akkU6I9PJoHzb6IGAZnG3RB3SJGobCHFoJuRpYu2nQkhvsXgBGYXyNL/pub?output=csv",
+          "name": "Consultas odontológicas",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Consultas odontológicas históricas realizadas en SAPS desde febrero 2020",
+          "landingUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSSxzWCKBWYIxZjqOMzJBbj5akkU6I9PJoHzb6IGAZnG3RB3SJGobCHFoJuRpYu2nQkhvsXgBGYXyNL/pub?output=csv"
+        }
+      ],
+      "createdAt": "2020-06-10T14:41:37.079Z",
+      "updatedAt": "2023-10-18T15:01:54.396Z",
+      "contact": {
+        "name": "Secretaria de Salud",
+        "email": ""
+      }
+    },
+    {
+      "id": "83325176-92b1-4f56-8306-513a4688d4ee",
+      "name": "consultas-segun-patologias-medicas",
+      "title": "Consultas según patologías médicas",
+      "keywords": [],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/consultas-segun-patologias-medicas",
+      "resources": [
+        {
+          "id": "164cc0e9-b22c-4579-acbc-5f09a4385df2",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTE7ZSAbn1TFN1FDEjklb24o6c2Up_4VSIYpMYWD3pDkRSLauhWG713fr1YY3vGt8fmZ23SJ08x0EFQ/pub?gid=1111524175&single=true&output=csv",
+          "name": "Consultas según patología",
+          "format": "CSV",
+          "updatedAt": "2022-04-01T18:50:09.541Z",
+          "description": "Cantidad histórica de consultas médicas según patología desde enero de 2020",
+          "landingUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTE7ZSAbn1TFN1FDEjklb24o6c2Up_4VSIYpMYWD3pDkRSLauhWG713fr1YY3vGt8fmZ23SJ08x0EFQ/pub?gid=1111524175&single=true&output=csv"
+        }
+      ],
+      "createdAt": "2020-06-11T15:58:09.189Z",
+      "updatedAt": "2023-10-18T14:59:38.594Z",
+      "contact": {
+        "name": "Secretaria de Salud",
+        "email": ""
+      }
+    },
+    {
+      "id": "ed645cec-fe23-471c-905a-f247201c70d2",
+      "name": "consumo-de-combustible",
+      "title": "Consumo de combustible",
+      "keywords": [
+        "automóviles",
+        "combustible",
+        "nafta",
+        "transporte"
+      ],
+      "landingPage": "http://datos.minem.gob.ar/dataset",
+      "resources": [
+        {
+          "id": "1afdba7e-fc78-4ee3-834d-3141199a150a",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRMQKIeWgHZG3t-1F_2sYZgqiL_4RkxpJ1SwfYVCT1s5h5TBinPV56wCLXtM3RTe43KyYdfd8LDR7U_/pub?gid=1203965173&single=true&output=csv",
+          "name": "Consumo de Combustible",
+          "format": "CSV",
+          "updatedAt": "2021-02-23T21:44:15.841Z",
+          "description": "Cantidad consumida de combustible en la Ciudad de Corrientes, en metros cúbicos, despachados por boca de expendio. Desde Enero de 2017",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-02-23T21:34:36.571Z",
+      "updatedAt": "2021-04-21T23:19:56.517Z",
+      "contact": {
+        "name": "Observatorio Económico",
+        "email": ""
+      }
+    },
+    {
+      "id": "a139b818-b627-445f-8b0f-bed1d46541ef",
+      "name": "cursos_id",
+      "title": "Cursos de Innovación Digital",
+      "keywords": [
+        "capacitación",
+        "cursos",
+        "digital",
+        "educación",
+        "innovacion"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/cursos_id",
+      "resources": [
+        {
+          "id": "2b5337a9-48a0-48e0-9cad-23984bf56571",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8eWdO84eZ-5C4DnzPEkDiojDqTipIdi41wH3mWfOuv0gRCIi2piXhfZ_0XIo-Sw/pub?gid=479211009&single=true&output=csv",
+          "name": "Asistencia y Aprobación a Curso de Innovación Digital - Primera Edición",
+          "format": "CSV",
+          "updatedAt": "2021-03-31T20:46:10.033Z",
+          "description": "Registro de Asistencia y Aprobación a Curso de Innovación Digital - Primera Edición. Realizado en Junio 2020. Vía plataforma Zoom",
+          "landingUrl": ""
+        },
+        {
+          "id": "5dbd6f0b-041e-4c2d-825b-00cf5b2cd877",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTBu3ExOUcjolXhPs7ArRU6TpM--0tshLpb1eh1Ey1w217HgJBORn0N6n_w_UVD_Q/pub?output=csv",
+          "name": "Asistencia y Aprobación a Curso de Innovación Digital - Segunda Edición",
+          "format": "CSV",
+          "updatedAt": "2021-04-13T22:47:24.928Z",
+          "description": "Registro de asistencia y aprobación a curso de Innovación Digital, realizado en Agosto 2020. Vía plataforma Zoom",
+          "landingUrl": ""
+        },
+        {
+          "id": "2bbe85fb-b98f-4b20-a761-6d5bba066e74",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT5aFNIlbMnnJ7M0T49N8mV1coR6uU_LolPGd23wfHOk8OqsmCw9bN43AJhGGPAaA/pub?gid=272744532&single=true&output=csv",
+          "name": "Asistencia y Aprobación a Curso de Innovación Digital - Tercera Edición",
+          "format": "CSV",
+          "updatedAt": "2021-04-12T21:23:00.979Z",
+          "description": "Registro de Asistencia y Aprobación a Curso de Innovación Digital. Tercera Edición. Realizado en Octubre-Noviembre 2020. Vía plataforma Zoom",
+          "landingUrl": ""
+        },
+        {
+          "id": "036eb895-7eaa-4f25-adaa-9143638317c4",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRY74n79dgcl4HVlxj7UAKICMR_BAk2flMUmXvaLUA_RHkEPPjDVtOUl4Gx_Q82Aw/pub?gid=1764953071&single=true&output=csv",
+          "name": "Asistencia y Aprobación a Curso de Innovación Digital - Cuarta Edición",
+          "format": "CSV",
+          "updatedAt": "2021-04-13T22:42:16.206Z",
+          "description": "Registro de Asistencia y Aprobación a Curso de Innovación Digital. Cuarta Edición. Realizado en Marzo 2021. Vía plataforma Zoom",
+          "landingUrl": ""
+        },
+        {
+          "id": "dec9b641-2a21-4f28-a79f-6cfc41cf94a6",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/a139b818-b627-445f-8b0f-bed1d46541ef/resource/dec9b641-2a21-4f28-a79f-6cfc41cf94a6/download/quintaedicion_cursoid.csv",
+          "name": "Asistencia y Aprobación a Curso de Innovación Digital - Quinta Edición",
+          "format": "CSV",
+          "updatedAt": "2021-09-29T18:26:40.878Z",
+          "description": "Registro de Asistencia y Aprobación a Curso de Innovación Digital. Quinta Edición. Realizado en JUNIO -JULIO 2021. Vía Plataforma Zoom",
+          "landingUrl": ""
+        },
+        {
+          "id": "3758a279-8944-44b9-9e1c-bcc650e77000",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/a139b818-b627-445f-8b0f-bed1d46541ef/resource/3758a279-8944-44b9-9e1c-bcc650e77000/download/sextaedicion_cursoid-hoja-1.csv",
+          "name": "Asistencia y Aprobación a Curso de Innovación Digital - Sexta Edición",
+          "format": "CSV",
+          "updatedAt": "2021-12-28T15:07:14.619Z",
+          "description": "Registro de Asistencia y Aprobación a Curso de Innovación Digital. Sexta Edición. Realizado en Octubre 2021. Vía Plataforma Zoom",
+          "landingUrl": ""
+        },
+        {
+          "id": "921750dc-edd8-45b9-8f69-6e8904df1ea3",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQyV3sUbZbEZcsvpgj0wVlDrIKvPBYL1akbnSeAxNt5DuNyU_d-R4GHjlJjWau_aIEWXiI4bEE7oiBx/pub?gid=0&single=true&output=csv",
+          "name": "Asistencia y aprobación a curso de Innovación Digital 2022 - Primera Edición ",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Registro de Asistencia y Aprobación a Curso de Innovación Digital. Primera Edición. Realizado en Abril 2022. Vía Plataforma Zoom\r\n\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "70dcba25-30e1-487c-aaea-d8ac20b53ae3",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT75lW4K1WSb-s2-nf26WA6WdFYcONKcQg-n32fuALCwCLfSsHXH4U9yBgvQ5wOUoYgEu7OKDxmfw96/pub?gid=1689444429&single=true&output=csv",
+          "name": "Asistencia y aprobación a curso de Innovación Digital 2022 - Segunda Edición",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Registro de Asistencia y Aprobación a Curso de Innovación Digital. Segunda Edición. Realizado en Agosto 2022. Vía Plataforma Zoom\r\n\r\n",
+          "landingUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT75lW4K1WSb-s2-nf26WA6WdFYcONKcQg-n32fuALCwCLfSsHXH4U9yBgvQ5wOUoYgEu7OKDxmfw96/pub?gid=1689444429&single=true&output=csv"
+        }
+      ],
+      "createdAt": "2021-03-12T21:59:48.556Z",
+      "updatedAt": "2023-10-12T18:40:39.279Z",
+      "contact": {
+        "name": "Dirección General de Innovación Pública y Gobierno Abierto",
+        "email": "dginnovacionygobiernoabierto@ciudaddecorrientes.gov.ar"
+      }
+    },
+    {
+      "id": "7314834b-0509-4fe0-b3c1-2124cb827dfa",
+      "name": "demanda-de-energia-electrica",
+      "title": "Demanda de Energía Eléctrica",
+      "keywords": [
+        "cammesa",
+        "electricidad",
+        "eléctrica"
+      ],
+      "landingPage": "https://portalweb.cammesa.com/default.aspx",
+      "resources": [
+        {
+          "id": "793b5022-0137-4db6-9253-eaeb07bde1b8",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTS3LYadM_3KeXJXqYSNC3L6EYpDUPRJRexzHWzES1stZ2mR2jx_yhU5CBZIU_EpbNoc3a2IALDNoBO/pub?gid=239347866&single=true&output=csv",
+          "name": "Demanda de Energía Eléctrica",
+          "format": "CSV",
+          "updatedAt": "2021-04-06T00:03:52.367Z",
+          "description": "Demanda de energía eléctrica, en MWh (Megavatio por hora) para la Provincia de Corrientes. Desde Enero 2017. ",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-02-26T20:45:33.044Z",
+      "updatedAt": "2021-04-21T23:32:11.519Z",
+      "contact": {
+        "name": "Observatorio Económico",
+        "email": ""
+      }
+    },
+    {
+      "id": "417cfd5d-db4e-47c0-84d9-c8b45a22370d",
+      "name": "dependencias-municipales",
+      "title": "Dependencias municipales",
+      "keywords": [
+        "dependencias",
+        "municipales",
+        "municipalidad",
+        "oficinas"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/dependencias-municipales",
+      "resources": [
+        {
+          "id": "2f8d0e54-1722-49bf-bc6d-45230293ca05",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRIUNfkr_0CWP41-Bro70yIAVaVwlRw-9mEOx7tZnSIAgMtyJq5ai19XHwuCeS-uQ/pub?gid=102094470&single=true&output=csv",
+          "name": "Dependencias de la Municipalidad",
+          "format": "CSV",
+          "updatedAt": "2021-02-17T20:40:30.514Z",
+          "description": "Ubicación de las dependencias municipales en la ciudad",
+          "landingUrl": ""
+        },
+        {
+          "id": "57b777cb-6ac4-4f51-94d5-0169d83eaea2",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/417cfd5d-db4e-47c0-84d9-c8b45a22370d/resource/57b777cb-6ac4-4f51-94d5-0169d83eaea2/download/vw_delegaciones_municipales.csv",
+          "name": "Delegaciones Municipales",
+          "format": "CSV",
+          "updatedAt": "2020-08-20T23:27:03.545Z",
+          "description": "Localización de las delegaciones municipales en la ciudad",
+          "landingUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/dependencias-municipales/archivo/57b777cb-6ac4-4f51-94d5-0169d83eaea2"
+        }
+      ],
+      "createdAt": "2020-07-03T01:22:13.413Z",
+      "updatedAt": "2023-09-20T19:02:53.026Z",
+      "contact": {
+        "name": "Dirección General de Sistemas de Información Geográfica",
+        "email": ""
+      }
+    },
+    {
+      "id": "1970f815-c7b0-4f65-afaf-927affa5c951",
+      "name": "eco-trueque-por-sube",
+      "title": "Programa Eco-Trueque por SUBE",
+      "keywords": [
+        "ambiente",
+        "ecología",
+        "reciclado",
+        "trueque"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/eco-trueque-por-sube",
+      "resources": [
+        {
+          "id": "fa5e39e5-cc4e-4681-bab3-48ce32d64457",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/1970f815-c7b0-4f65-afaf-927affa5c951/resource/fa5e39e5-cc4e-4681-bab3-48ce32d64457/download/eco_trueque_por_sube_septiembre-diciembre.csv",
+          "name": "Eco Trueque por SUBE",
+          "format": "CSV",
+          "updatedAt": "2022-03-28T16:36:57.632Z",
+          "description": "Cantidad de botellas y  montos canjeados por saldo SUBE desde septiembre hasta diciembre de 2021.",
+          "landingUrl": ""
+        },
+        {
+          "id": "b62759dd-1fed-4772-a361-821c4c6e0f2f",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTtpfAZiZ-IO2vUrY0FrKLPOecSuW1hvffAH2vgTEcjYy2APdUDsKY6KvATqvjulIDo-_LY7EN89tMj/pub?gid=775069263&single=true&output=csv",
+          "name": "Eco Trueque por SUBE",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Cantidad de botellas y montos canjeados por saldo SUBE desde enero hasta Diciembre de 2022",
+          "landingUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTtpfAZiZ-IO2vUrY0FrKLPOecSuW1hvffAH2vgTEcjYy2APdUDsKY6KvATqvjulIDo-_LY7EN89tMj/pub?gid=775069263&single=true&output=csv"
+        }
+      ],
+      "createdAt": "2022-03-17T18:10:04.145Z",
+      "updatedAt": "2023-02-09T17:21:33.146Z",
+      "contact": {
+        "name": "Dirección General de Innovación Pública y Gobierno Abierto",
+        "email": ""
+      }
+    },
+    {
+      "id": "3a0d0757-129f-4c3d-a85f-0cfa975c0674",
+      "name": "edificios-historicos",
+      "title": "Edificios históricos",
+      "keywords": [],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/edificios-historicos",
+      "resources": [
+        {
+          "id": "d522d1a4-dd7e-4bab-8db6-62f966efafbe",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTHZKbLdKfQUKjJxEoE1Ocfq8JjZ0iVKEVYS6G8hg25PhNdQ61QOhY5gv-wxaIdhQ/pub?gid=196327458&single=true&output=csv",
+          "name": "Edificios históricos",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Ubicación de edificios históricos de la ciudad de corrientes",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-09-20T06:53:17.554Z",
+      "updatedAt": "2023-10-12T18:14:19.616Z",
+      "contact": {
+        "name": "Secretaría de Desarrollo Urbano - Subsecretaría de Planificación Urbana - Dirección General de Planificación Dirección de Conservación del Patrimonio",
+        "email": ""
+      }
+    },
+    {
+      "id": "001f55b6-8623-42e0-b02b-4c1e8bd5379f",
+      "name": "espacios-verdes",
+      "title": "Espacios verdes",
+      "keywords": [
+        "aire libre",
+        "esparcimiento",
+        "parque",
+        "paseo",
+        "plaza",
+        "recreación",
+        "verde"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/espacios-verdes",
+      "resources": [
+        {
+          "id": "f1ea7dc2-4b7a-4df3-a236-b4c81f65fe99",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRIUNfkr_0CWP41-Bro70yIAVaVwlRw-9mEOx7tZnSIAgMtyJq5ai19XHwuCeS-uQ/pub?gid=1271539881&single=true&output=csv",
+          "name": "Espacios verdes",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Localización geográfica de los espacios verdes en la ciudad",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-04-08T22:48:29.915Z",
+      "updatedAt": "2023-09-20T18:23:25.138Z",
+      "contact": {
+        "name": "Dirección General de Sistemas de Información Geográfica",
+        "email": ""
+      }
+    },
+    {
+      "id": "792869f4-2866-4c1e-930c-8ca59b1d6a40",
+      "name": "establecimientos-educativos",
+      "title": "Establecimientos Educativos",
+      "keywords": [
+        "alumnos",
+        "cdi",
+        "colegios",
+        "educación",
+        "enseñanza",
+        "escuelas",
+        "establecimientos",
+        "estudiantes",
+        "infantil",
+        "jardin",
+        "jardines"
+      ],
+      "landingPage": "http://mapa.mec.gob.ar/",
+      "resources": [
+        {
+          "id": "b5ccd2d9-7426-48f1-b872-2ce93eb0298b",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/792869f4-2866-4c1e-930c-8ca59b1d6a40/resource/b5ccd2d9-7426-48f1-b872-2ce93eb0298b/download/escuelas-19-1.csv",
+          "name": "Establecimientos Educativos",
+          "format": "CSV",
+          "updatedAt": "2021-02-22T23:55:15.287Z",
+          "description": "Localización de Establecimientos Educativos \r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "50e01d2a-4a66-42d4-b958-f60bac3403ee",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/792869f4-2866-4c1e-930c-8ca59b1d6a40/resource/50e01d2a-4a66-42d4-b958-f60bac3403ee/download/cdi_contacto.csv",
+          "name": "Centros de Desarrollo Infantil",
+          "format": "CSV",
+          "updatedAt": "2021-02-23T21:12:42.289Z",
+          "description": "Localización de los Centros de Desarrollo Infantil (CDI) administrados por la Municipalidad de Corrientes",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-02-22T22:36:50.920Z",
+      "updatedAt": "2021-04-20T17:27:19.961Z",
+      "contact": {
+        "name": "Dirección General de Sistemas de Información Geográfica",
+        "email": ""
+      }
+    },
+    {
+      "id": "7fa1ab74-dae5-44b2-9dae-d63047432c63",
+      "name": "estacionamiento_medido",
+      "title": "Estacionamiento medido",
+      "keywords": [
+        "aparcamiento",
+        "estacionamiento",
+        "permisionarios",
+        "transporte",
+        "tránsito",
+        "vehículos"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/estacionamiento_medido",
+      "resources": [
+        {
+          "id": "f4f2a8da-fd72-43d7-a552-94f082e0737e",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQkHALAQqPFlP1vbWkn840L_zqKt_0V7FQYJ_bAQAzL3ztf_Rg6YYU6Pl7gI72joWHa9u5NwmP_1WYF/pub?gid=1589004904&single=true&output=csv",
+          "name": "Recaudación estacionamiento medido",
+          "format": "CSV",
+          "updatedAt": "2021-04-12T21:35:18.399Z",
+          "description": "Recaudación histórica de estacionamiento medido desde enero de 2019. ",
+          "landingUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQkHALAQqPFlP1vbWkn840L_zqKt_0V7FQYJ_bAQAzL3ztf_Rg6YYU6Pl7gI72joWHa9u5NwmP_1WYF/pub?gid=1589004904&single=true&output=csv"
+        },
+        {
+          "id": "d5e08f26-9581-4f9a-bd67-a30cde67c6a9",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRIUNfkr_0CWP41-Bro70yIAVaVwlRw-9mEOx7tZnSIAgMtyJq5ai19XHwuCeS-uQ/pub?gid=821730049&single=true&output=csv",
+          "name": "Zonas con estacionamiento medido",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Segmentos de la ciudad que cuentan con estacionamiento medido, ubicaciónes disponibles en cada segmento y garages.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-06-09T19:25:11.233Z",
+      "updatedAt": "2023-09-22T23:45:40.465Z",
+      "contact": {
+        "name": "Subsecretaría de Transporte Urbano; Secretaría de Movilidad Urbana y Seguridad ciudadana; Dirección General de Transporte Urbano; Dirección de Estacionamiento Medido",
+        "email": ""
+      }
+    },
+    {
+      "id": "b2844278-cea1-4f97-ae7f-83d4cbb446f1",
+      "name": "estacionamientos-motos",
+      "title": "Estacionamientos motos",
+      "keywords": [
+        "estacionamiento",
+        "estacionamiento motos",
+        "motos",
+        "puntos estacionamiento"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/estacionamientos-motos",
+      "resources": [
+        {
+          "id": "a01b0672-db49-4ac3-b532-a29ce9c5a173",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRIUNfkr_0CWP41-Bro70yIAVaVwlRw-9mEOx7tZnSIAgMtyJq5ai19XHwuCeS-uQ/pub?gid=1217662797&single=true&output=csv",
+          "name": "Puntos de Estacionamiento de Motos",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Ubicaciones de espacios habilitados para el estacionamiento de motos y bicicletas",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-09-22T23:32:36.119Z",
+      "updatedAt": "2023-09-22T23:34:31.713Z",
+      "contact": {
+        "name": "Subsecretaría de Transporte|Dirección General de Transporte Urbano|Dirección de Estacionamiento Medido",
+        "email": ""
+      }
+    },
+    {
+      "id": "a85d323d-8ab0-4dcd-b192-d6d20cb84e4a",
+      "name": "faenas-bovinas-y-porcinas",
+      "title": "Faenas bovinas y porcinas",
+      "keywords": [
+        "bovino",
+        "faena",
+        "ganado",
+        "porcino"
+      ],
+      "landingPage": "https://www.argentina.gob.ar/agricultura",
+      "resources": [
+        {
+          "id": "913ee98e-6fcc-48e8-b190-92212ed90d49",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQvcuMioqzmFsEN9wQH4t3ogOkBFEst704frjwggbg2JLpyCGcPv_ytNezBSJxUtuZqvtH9tZLmDySU/pub?gid=24625728&single=true&output=csv",
+          "name": "Cabezas faenadas de ganado bovino y porcino ",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Cantidad de cabezas bovinas y porcinas faenas por período en la Provincia de Corrientes",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-12-29T15:42:30.929Z",
+      "updatedAt": "2023-10-12T18:44:05.091Z",
+      "contact": {
+        "name": "Observatorio Económico",
+        "email": ""
+      }
+    },
+    {
+      "id": "47a89baf-070c-4b17-ac0a-74b0a79e0396",
+      "name": "habilitaciones",
+      "title": "Habilitaciones",
+      "keywords": [
+        "habilitaciones",
+        "sistemas"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/habilitaciones",
+      "resources": [
+        {
+          "id": "ef9bf5a3-c64b-464b-b358-8c489569e862",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRN-tyPI1qKVZnUEQIcAPHD1SYfUJe3fZ1L2UUXH6_Pm7H45x0vcS72H2j-4Ypc1A/pub?gid=129456172&single=true&output=csv",
+          "name": "Sistema único de habilitaciones",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Registro de habilitaciones y permisos otorgados, a través del sistema único de habilitaciones",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-09-20T00:32:20.606Z",
+      "updatedAt": "2023-09-20T00:34:05.327Z",
+      "contact": {
+        "name": "Equipo de Datos\r\n",
+        "email": ""
+      }
+    },
+    {
+      "id": "4cfa71a3-3d65-436a-807a-440b9f90fc83",
+      "name": "habilitaciones-comerciales",
+      "title": "Comercio",
+      "keywords": [
+        "comercio",
+        "economía",
+        "sociedad"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/habilitaciones-comerciales",
+      "resources": [
+        {
+          "id": "c524f66c-d915-417d-8ff0-b1c9200c8003",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRN-tyPI1qKVZnUEQIcAPHD1SYfUJe3fZ1L2UUXH6_Pm7H45x0vcS72H2j-4Ypc1A/pub?gid=258856556&single=true&output=csv",
+          "name": "Habilitaciones Comerciales",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Comercios habilitados - ubicación, adrema, descripción ",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-09-18T15:35:03.661Z",
+      "updatedAt": "2023-10-12T18:20:18.174Z",
+      "contact": {
+        "name": "Desarrollo Económico ",
+        "email": ""
+      }
+    },
+    {
+      "id": "bbcb23c9-61e2-48e2-bde0-dfbd46759667",
+      "name": "habilitaciones-vehiculos",
+      "title": "Habilitaciones de transporte",
+      "keywords": [
+        "habilitaciones",
+        "licencias",
+        "transporte",
+        "vehículos"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/habilitaciones-vehiculos",
+      "resources": [
+        {
+          "id": "6dd99a71-b20b-4331-af52-de833d2782bb",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSCMC22bmwNxEAcHVHfZ6lxcA9N_i4LlxNXZn7hIUGdnPhCbTGFm-tjtDMyvD8bww/pub?gid=736221257&single=true&output=csv",
+          "name": "Habilitaciones de transporte",
+          "format": "CSV",
+          "updatedAt": "2021-04-12T21:15:09.495Z",
+          "description": "Cantidad histórica de habilitaciones de vehículos emitidas desde enero de 2019",
+          "landingUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/habilitaciones-vehiculos/archivo/6dd99a71-b20b-4331-af52-de833d2782bb"
+        }
+      ],
+      "createdAt": "2020-06-09T19:48:17.642Z",
+      "updatedAt": "2023-10-12T17:57:43.341Z",
+      "contact": {
+        "name": "Subsecretaría de Transporte Urbano; Secretaría de Movilidad Urbana y Seguridad ciudadana",
+        "email": ""
+      }
+    },
+    {
+      "id": "b3727d2d-5c47-42ea-a148-93d64a72f814",
+      "name": "habilitacione-transporte",
+      "title": "Zonas carteleria",
+      "keywords": [
+        "carteles",
+        "habilitaciones",
+        "permitidos",
+        "zonas",
+        "zonas carteleria"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/zonas-carteleria",
+      "resources": [
+        {
+          "id": "2ed29be5-6d6e-4720-980f-bd00f4a8eb03",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRIUNfkr_0CWP41-Bro70yIAVaVwlRw-9mEOx7tZnSIAgMtyJq5ai19XHwuCeS-uQ/pub?gid=1440912553&single=true&output=csv",
+          "name": "Segmentos permitidos para cartelería",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Segmentos permitidos para la colocación de cartelería.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-06-29T15:29:06.020Z",
+      "updatedAt": "2023-10-12T18:05:20.288Z",
+      "contact": {
+        "name": "Secretaría de desarrollo urbano",
+        "email": ""
+      }
+    },
+    {
+      "id": "fe46e198-2a20-41b6-be84-810710902389",
+      "name": "hisopados",
+      "title": "Hisopados",
+      "keywords": [
+        "covid",
+        "hisopados",
+        "saps"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/hisopados",
+      "resources": [
+        {
+          "id": "ac695e0c-3888-4790-bbef-3906f88c95a8",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT7kXu25cVDSfKN_pcY3AMs9Q2lNxE9rvqWCyq1TIM11N6Pw8k054nnySS5UynpLrlzL4dKvr2PZPzY/pub?output=csv",
+          "name": "Hisopados por SAPS",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Registro detallado de hisopados por SAPS",
+          "landingUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT7kXu25cVDSfKN_pcY3AMs9Q2lNxE9rvqWCyq1TIM11N6Pw8k054nnySS5UynpLrlzL4dKvr2PZPzY/pub?output=csv"
+        }
+      ],
+      "createdAt": "2023-02-02T15:20:35.069Z",
+      "updatedAt": "2023-10-18T15:00:18.107Z",
+      "contact": {
+        "name": "Secretaria de Salud",
+        "email": "equipodatos.mcc@gmail.com"
+      }
+    },
+    {
+      "id": "1d7319fa-cd26-4d14-9ecc-4732a8b00648",
+      "name": "id_salud",
+      "title": "Bases de Salud",
+      "keywords": [
+        "cie 10",
+        "cie-10",
+        "clasificador internacional de enfermedades",
+        "enfermedades",
+        "medicina",
+        "nomencladores",
+        "salita",
+        "salud",
+        "saps"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/id_salud",
+      "resources": [
+        {
+          "id": "2f0583e8-68ae-4714-973b-0fbcb4bac215",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS2AwukA-aisw6_kd9RzM9T1s29I_nggq1ZRFAwJJz62HAkHEHVau_gj0qZUKmoWNmVdJLYVQ203lTw/pub?gid=2088434670&single=true&output=csv",
+          "name": "Nomenclador CIE-10",
+          "format": "CSV",
+          "updatedAt": "2022-04-04T16:05:22.568Z",
+          "description": "Clasificador Internacional de Enfermedades (CIE) ",
+          "landingUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS2AwukA-aisw6_kd9RzM9T1s29I_nggq1ZRFAwJJz62HAkHEHVau_gj0qZUKmoWNmVdJLYVQ203lTw/pub?gid=2088434670&single=true&output=csv"
+        },
+        {
+          "id": "9d4ccfa7-1936-482b-b4a4-bac9ff3de001",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRNgDznOQd6ax9E1kA184KK3GmcuXG8DOKuaYujK3wsqw3vHLU7fDwTvxEhvL9ExzOrU1L6XiGan8mM/pub?gid=1223229899&single=true&output=csv",
+          "name": "Listado de SAPS",
+          "format": "CSV",
+          "updatedAt": "2022-04-08T17:28:30.199Z",
+          "description": "Listado de SAPS con ubicación y datos de contacto",
+          "landingUrl": ""
+        },
+        {
+          "id": "21e5c65f-bb31-463a-b249-bbd2e4374c28",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/1d7319fa-cd26-4d14-9ecc-4732a8b00648/resource/21e5c65f-bb31-463a-b249-bbd2e4374c28/download/odontologia_nomenclador.csv",
+          "name": "Nomenclador Odontológico",
+          "format": "CSV",
+          "updatedAt": "2022-04-04T17:14:39.536Z",
+          "description": "Nomenclador de prácticas odontológicas",
+          "landingUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/id_salud/archivo/21e5c65f-bb31-463a-b249-bbd2e4374c28"
+        }
+      ],
+      "createdAt": "2020-06-09T19:13:42.500Z",
+      "updatedAt": "2023-10-18T15:02:12.571Z",
+      "contact": {
+        "name": "Secretaria de Salud",
+        "email": ""
+      }
+    },
+    {
+      "id": "d1237cf5-f0f5-4f29-9dfe-537d65cb4ad7",
+      "name": "indicador-de-necesidades-basicas-insatisfechas",
+      "title": "Necesidades Básicas Insatisfechas",
+      "keywords": [
+        "indigencia",
+        "nbi",
+        "necesidades",
+        "pobreza"
+      ],
+      "landingPage": "https://www.indec.gob.ar/",
+      "resources": [
+        {
+          "id": "04718bfd-b81c-4b01-888f-7fec2d376b56",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQNy_CunLBkmD_6Fdma0AvnfoZg2qI8bghHfvJ55Oh0hsaiLx-uumYfX7czzQuc1vjFrXmqhcT2Kkki/pub?gid=1050134443&single=true&output=csv",
+          "name": "Indicador de Necesidades Básicas Insatisfechas",
+          "format": "CSV",
+          "updatedAt": "2021-04-05T20:49:33.195Z",
+          "description": "Indicador de Necesidades Básicas Insatisfechas de individuos y familias de la ciudad de Corrientes. Elaboración del Observatorio Económico a partir de  Encuesta Permanente de Hogares (EPH INDEC)",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-03-26T21:43:50.176Z",
+      "updatedAt": "2021-04-22T00:14:04.278Z",
+      "contact": {
+        "name": "Observatorio Económico",
+        "email": ""
+      }
+    },
+    {
+      "id": "000ca064-a0f6-4063-a394-36c496c36152",
+      "name": "indice-de-precios-al-consumidor-de-la-region-nordeste",
+      "title": "Índice de Precios al Consumidor de la Región Nordeste",
+      "keywords": [
+        "precios"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/indice-de-precios-al-consumidor-de-la-region-nordeste",
+      "resources": [
+        {
+          "id": "610ae0bf-c9a5-4347-aa03-fe4d5a0fb7d4",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSVQIahSZT7EjD2Y3TIH4UKsHdXxOt9A65KB8kf__QU6v48MDBYtpZ3fo_HQa4GjEWZ4VvmzTyMc-NX/pub?gid=78339115&single=true&output=csv",
+          "name": "Índice de Precios al Consumidor. Región Nordeste",
+          "format": "CSV",
+          "updatedAt": "2021-04-05T23:27:56.871Z",
+          "description": "Serie de índice de Precios al Consumidor. Desde Enero de 2017. Región Nordeste y Ciudad de Buenos Aires.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-04-05T23:08:39.290Z",
+      "updatedAt": "2021-12-29T14:51:27.559Z",
+      "contact": {
+        "name": "Observatorio Económico",
+        "email": ""
+      }
+    },
+    {
+      "id": "62644667-204c-4766-aab3-14ca8c1cd97b",
+      "name": "inmunizaciones",
+      "title": "Inmunizaciones",
+      "keywords": [
+        "inmunizaciones",
+        "inyecciones",
+        "medicina",
+        "salud",
+        "saps",
+        "vacunas"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/inmunizaciones",
+      "resources": [
+        {
+          "id": "89eb2f46-16aa-4c30-b64f-56de239e7eb0",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTEFhAlVfou93nNrWfl-wTr7FEsuR1E7AI8g9Lvzm82i6-g8O6exOCk1DsAto2uZLzGtl6kGp5blD5A/pub?gid=1784038499&single=true&output=csv",
+          "name": "Inmunizaciones ",
+          "format": "CSV",
+          "updatedAt": "2022-04-04T15:35:56.409Z",
+          "description": "Inmunizaciones históricas realizadas por Salas de Atención Primaria de Salud desde enero de 2020",
+          "landingUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTEFhAlVfou93nNrWfl-wTr7FEsuR1E7AI8g9Lvzm82i6-g8O6exOCk1DsAto2uZLzGtl6kGp5blD5A/pub?gid=1784038499&single=true&output=csv"
+        }
+      ],
+      "createdAt": "2020-06-10T15:22:39.745Z",
+      "updatedAt": "2023-10-18T15:01:16.635Z",
+      "contact": {
+        "name": "Secretaria de Salud",
+        "email": ""
+      }
+    },
+    {
+      "id": "d7cc2b98-2600-4358-8369-ca778f217877",
+      "name": "instituto-de-formacion-y-capacitacion-municipal",
+      "title": "Instituto de Formación y Capacitación de la Administración Municipal",
+      "keywords": [
+        "cursos",
+        "educacion"
+      ],
+      "landingPage": "https://ciudaddecorrientes.gov.ar/ciudad-moderna/instituto-de-formacion-y-capacitacion-municipal",
+      "resources": [
+        {
+          "id": "db583193-5d50-41b0-917f-7402af628ec4",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/d7cc2b98-2600-4358-8369-ca778f217877/resource/db583193-5d50-41b0-917f-7402af628ec4/download/datasetaprobados-por-curso-1er-semestre-2021.xlsx-dataset-final-2.csv",
+          "name": "Aprobados de las capacitaciones brindadas por el Instituto de Formación y Capacitación de la Administración Municipal ",
+          "format": "CSV",
+          "updatedAt": "2021-12-23T16:13:55.874Z",
+          "description": "Registro de cursantes aprobados durante el primer semestre del año 2021",
+          "landingUrl": ""
+        },
+        {
+          "id": "159e21e8-7e68-4926-bbdc-f7cfd8401480",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQV9D7KBivqY5gy1aXxljvYCSM-KivWcJgcQCcKPlDnZ7qZcWdt-97I2pxR6VPiSg/pub?gid=756944587&single=true&output=csv",
+          "name": "Aprobados de las capacitaciones brindadas por el Instituto de Formación y Capacitación de la Administración Municipal ",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Registro de cursantes aprobados durante el segundo semestre del año 2021\r\n\r\n",
+          "landingUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQV9D7KBivqY5gy1aXxljvYCSM-KivWcJgcQCcKPlDnZ7qZcWdt-97I2pxR6VPiSg/pub?gid=756944587&single=true&output=csv"
+        }
+      ],
+      "createdAt": "2021-04-29T14:04:26.794Z",
+      "updatedAt": "2023-10-12T18:38:36.437Z",
+      "contact": {
+        "name": "Instituto de Formación y Capacitación Municipal",
+        "email": ""
+      }
+    },
+    {
+      "id": "fb9d6a80-e8b5-49d7-b861-6d0aab893c32",
+      "name": "mascotas_saludables",
+      "title": "Programa de Mascotas Saludables",
+      "keywords": [
+        "caninos",
+        "desparasitaciones",
+        "felinos",
+        "gatos",
+        "mascotas",
+        "perros",
+        "vacunaciones",
+        "zoonosis"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/mascotas_saludables",
+      "resources": [
+        {
+          "id": "77f47d46-5634-4dd9-8bc5-678578d4c59d",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqftmZOSDOI4sPEVJnpTP1NmI9I9gCb5bVrQ5NDoqbqXsOqTKZLz6dx0TeSv9Cex_geeMmAD57G_P/pub?gid=1228381581&single=true&output=csv",
+          "name": "Vacunaciones y desparasitaciones",
+          "format": "CSV",
+          "updatedAt": "2021-04-07T00:02:24.189Z",
+          "description": "Cantidad de vacunaciones y desparasitaciones realizadas desde abril de 2018",
+          "landingUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqftmZOSDOI4sPEVJnpTP1NmI9I9gCb5bVrQ5NDoqbqXsOqTKZLz6dx0TeSv9Cex_geeMmAD57G_P/pub?gid=1228381581&single=true&output=csv"
+        },
+        {
+          "id": "a3751381-5839-4714-a014-a2ce5f953a89",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqftmZOSDOI4sPEVJnpTP1NmI9I9gCb5bVrQ5NDoqbqXsOqTKZLz6dx0TeSv9Cex_geeMmAD57G_P/pub?gid=541784921&single=true&output=csv",
+          "name": "Esterilizaciones",
+          "format": "CSV",
+          "updatedAt": "2021-04-07T00:09:27.501Z",
+          "description": "Cantidad de esterilizaciones realizadas desde febrero de 2019",
+          "landingUrl": ""
+        },
+        {
+          "id": "6aa27a51-575b-432d-a737-0d71bf686047",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqftmZOSDOI4sPEVJnpTP1NmI9I9gCb5bVrQ5NDoqbqXsOqTKZLz6dx0TeSv9Cex_geeMmAD57G_P/pub?gid=264363396&single=true&output=csv",
+          "name": "Mascotas Saludables 2023",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Cantidades de esterilizaciones, vacunaciones y desparasitaciones realizadas a mascotas ordenadas por fecha, barrio, especie y sexo realizadas a partir del año 2023",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-06-09T18:34:11.521Z",
+      "updatedAt": "2023-10-12T18:04:15.049Z",
+      "contact": {
+        "name": "Dirección General de Zoonosis; Subsecretaría de Contralor ambiental; Secretaría de Ambiente y Desarrollo sustentable",
+        "email": ""
+      }
+    },
+    {
+      "id": "448d7d12-af3b-478f-b756-23db03770a6c",
+      "name": "metros-cuadrados-de-construccion",
+      "title": "Sector construcción",
+      "keywords": [
+        "construcción",
+        "obras"
+      ],
+      "landingPage": "https://www.ieric.org.ar/",
+      "resources": [
+        {
+          "id": "6fe29dd7-4d00-4f6d-a832-d9faeb4372c0",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6nlZ0wPK-7gbqurd8ZbctuQ9AvjA9f2hYuMH4WYm7sAnf4UGq340hsQ_JLQyU9yZxZLldrL-mvcMs/pub?gid=727512191&single=true&output=csv",
+          "name": "Metros cuadrados de construcción",
+          "format": "CSV",
+          "updatedAt": "2021-02-23T20:29:42.857Z",
+          "description": "Metros cuadrados de construcción autorizados",
+          "landingUrl": ""
+        },
+        {
+          "id": "4c1aa971-4a5f-43f9-a5de-a51b66201bd6",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQAWklB1XubyaKf-nUP8wL__-Hwlfg0Wqixozcqk7Pw0lCMlK-i-IvrunQrzFSTZ2GpxCkJDY52sG-J/pub?gid=2072767637&single=true&output=csv",
+          "name": "Trabajadores y salarios de la construcción",
+          "format": "CSV",
+          "updatedAt": "2021-04-05T21:51:24.367Z",
+          "description": "Salarios (nominales y deflactados) y puestos de trabajo registrados en la construcción. Elaboración IERIC, en base a OSPECON y Seguro de Vida Obligatorio e IPC NEA (INDEC)",
+          "landingUrl": ""
+        },
+        {
+          "id": "b5b2dc43-e4a7-4744-b062-12c2ad1f6473",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS6i2ckYIzpRO11aKWh15WeEERvuZgi7-mBcX_chinAK6H99YImXVQRPQjeJ4xPDocrNEtP7p2LB2W5/pub?gid=287688840&single=true&output=csv",
+          "name": "Despacho de cemento",
+          "format": "CSV",
+          "updatedAt": "2021-04-08T22:39:05.776Z",
+          "description": "Toneladas de cemento despachados, en bolsa y a granel para la Provincia de Corrientes. Desde Enero 2016. Elaboración de Asociación de Fabricantes de Cemento de Portland - IERIC",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-02-23T20:13:37.485Z",
+      "updatedAt": "2021-04-22T01:28:18.888Z",
+      "contact": {
+        "name": "Observatorio Económico",
+        "email": ""
+      }
+    },
+    {
+      "id": "888ce362-d8d1-4b1f-9d99-5e46cc617058",
+      "name": "numero-de-empresas",
+      "title": "Cantidad de empresas",
+      "keywords": [
+        "comercios",
+        "empresas"
+      ],
+      "landingPage": "https://acor.gob.ar/",
+      "resources": [
+        {
+          "id": "0bfd930b-f6e0-4ccc-9c14-ac835c1e3555",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQwPrIzwWLSysZYay5nYwdZVuDD8Ox42Zmg5GjLqz2dHKjwCvbv5ss11XN-dqCMWy-hF2SY-n-ONpIo/pub?gid=2143115101&single=true&output=csv",
+          "name": "Número de empresas",
+          "format": "CSV",
+          "updatedAt": "2021-04-05T21:12:59.725Z",
+          "description": "Cantidad de empresas activas y formales de la Ciudad de Corrientes. Desde Enero de 2017",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-02-23T20:52:27.176Z",
+      "updatedAt": "2021-04-20T00:12:48.232Z",
+      "contact": {
+        "name": "Observatorio Económico",
+        "email": ""
+      }
+    },
+    {
+      "id": "16c2e288-3fe9-4197-b5c1-e70e91b2e3ae",
+      "name": "nutricion",
+      "title": "Estado nutricional",
+      "keywords": [
+        "desnutición",
+        "malnutrición",
+        "nutrición",
+        "nutrición infantil",
+        "obesidad"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/nutricion",
+      "resources": [
+        {
+          "id": "1e423c7b-8c8a-40ad-bf16-ae265ffd7f35",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/16c2e288-3fe9-4197-b5c1-e70e91b2e3ae/resource/1e423c7b-8c8a-40ad-bf16-ae265ffd7f35/download/nutricion.csv",
+          "name": "Estado nutricional",
+          "format": "CSV",
+          "updatedAt": "2021-04-14T01:29:38.245Z",
+          "description": "Cantidad histórica de relevamientos nutricionales desde enero de 2020",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-06-10T15:11:59.497Z",
+      "updatedAt": "2023-10-18T14:57:16.183Z",
+      "contact": {
+        "name": "Secretaria de Salud",
+        "email": ""
+      }
+    },
+    {
+      "id": "6a34e86d-2b63-4ff3-9049-642e8b89e2cd",
+      "name": "ocupac_hotelera",
+      "title": "Ocupación Hotelera",
+      "keywords": [
+        "estadía",
+        "hoteles",
+        "turismo"
+      ],
+      "landingPage": "https://www.indec.gob.ar",
+      "resources": [
+        {
+          "id": "9377126d-5d20-40f2-8456-51f58f587161",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSw1ydw9Xgdr9Uoaq6Q5eelOrh32xJNVmyIAkpqiFoNrjtEVDRqUD9zzzUTxmyAZOQMgOApYMq3kGVI/pub?gid=766962860&single=true&output=csv",
+          "name": "Ocupación Hotelera",
+          "format": "CSV",
+          "updatedAt": "2021-04-01T01:10:34.059Z",
+          "description": "Porcentaje de ocupación hotelera y estadía promedio. ",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-03-26T20:09:21.834Z",
+      "updatedAt": "2021-04-22T00:48:14.465Z",
+      "contact": {
+        "name": "Observatorio Económico",
+        "email": ""
+      }
+    },
+    {
+      "id": "710d0c84-d749-4b83-887f-e78e79011292",
+      "name": "oferta-alojamiento",
+      "title": "Oferta Alojamiento",
+      "keywords": [
+        "estadía",
+        "hoteles",
+        "turismo"
+      ],
+      "landingPage": "https://www.indec.gob.ar",
+      "resources": [
+        {
+          "id": "15a30cbf-a0d9-489f-9f3b-6820b0f69abc",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vR1PQHci0m4w64JkvH5er2R9yL8W4ofZ9NjG806ooadG2m-N1VzkLi1ZL2UchYceUVFJOIqpu5lYedN/pub?gid=1648851885&single=true&output=csv",
+          "name": "Oferta Alojamiento",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Registros de cantidad de habitaciones disponibles en hoteles y para-hoteles de la Ciudad de Corrientes ",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-12-29T14:47:07.519Z",
+      "updatedAt": "2022-01-04T16:01:00.590Z",
+      "contact": {
+        "name": "Observatorio Económico",
+        "email": ""
+      }
+    },
+    {
+      "id": "30f9dda0-1f61-457c-b336-15ac543743cf",
+      "name": "organigrama",
+      "title": "Organigrama",
+      "keywords": [
+        "administracion publica",
+        "arbol",
+        "autoridades",
+        "estructura",
+        "jerarquia",
+        "organigrama"
+      ],
+      "landingPage": "https://ciudaddecorrientes.gov.ar/organigrama",
+      "resources": [
+        {
+          "id": "926ef08a-2d6a-4921-bde1-efa91c0f6616",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/30f9dda0-1f61-457c-b336-15ac543743cf/resource/926ef08a-2d6a-4921-bde1-efa91c0f6616/download/organigrama-1.csv",
+          "name": "Organigrama",
+          "format": "CSV",
+          "updatedAt": "2021-04-29T15:01:48.531Z",
+          "description": "Estructura orgánica del Estado municipal",
+          "landingUrl": ""
+        },
+        {
+          "id": "5c6ffba1-7199-4b16-a6e7-beae2fc1c7ff",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/30f9dda0-1f61-457c-b336-15ac543743cf/resource/5c6ffba1-7199-4b16-a6e7-beae2fc1c7ff/download/organigrama-unif12-07-18.pdf",
+          "name": "Organigrama",
+          "format": "PDF",
+          "updatedAt": "2021-03-02T01:42:56.419Z",
+          "description": "Estructura orgánica del Estado municipal",
+          "landingUrl": ""
+        },
+        {
+          "id": "3cfcde10-8473-4ff2-b525-392816d010b2",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/30f9dda0-1f61-457c-b336-15ac543743cf/resource/3cfcde10-8473-4ff2-b525-392816d010b2/download/organigrama.txt",
+          "name": "Organigrama",
+          "format": "JSON",
+          "updatedAt": "2021-03-15T23:11:42.032Z",
+          "description": "Estructura orgánica del Estado municipal\r\n\r\n",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-03-02T00:33:56.458Z",
+      "updatedAt": "2021-04-29T15:01:48.593Z",
+      "contact": {
+        "name": "Subsecretaría de Sistemas de Información",
+        "email": ""
+      }
+    },
+    {
+      "id": "75150811-c425-46e8-9c55-badc2c2b3dbc",
+      "name": "patentamientos-de-autos-y-motocicletas",
+      "title": "Patentamientos de autos y motocicletas",
+      "keywords": [
+        "patentamientos",
+        "patentes",
+        "vehículos"
+      ],
+      "landingPage": "https://acor.gob.ar/",
+      "resources": [
+        {
+          "id": "76170d59-aae3-4f5e-bcb9-786b311a7e82",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTf5yunsDUW_7RXvTCn5BBbIouOyLyEbbXSNtaNu8hJPIrP2e20xTVvuaP-AvhIppcSFCdbxUpaHW8r/pub?gid=475430730&single=true&output=csv",
+          "name": "Patentamiento de automóviles y motocicletas",
+          "format": "CSV",
+          "updatedAt": "2021-02-24T20:17:28.574Z",
+          "description": "Cantidad de vehículos patentados. Desde Enero 2016",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-02-23T22:40:53.682Z",
+      "updatedAt": "2023-10-12T18:43:21.531Z",
+      "contact": {
+        "name": "Observatorio Económico",
+        "email": ""
+      }
+    },
+    {
+      "id": "6d9affbb-dd75-4032-b1ea-5dbab395aab6",
+      "name": "planeamiento-urbano",
+      "title": "Planeamiento urbano",
+      "keywords": [],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/planeamiento-urbano",
+      "resources": [
+        {
+          "id": "214dbd9d-0176-4443-b7d2-9f4fca7df400",
+          "downloadUrl": "https://ciudaddecorrientes.gov.ar/sites/default/files/c_digo_de_planeamiento_urbano_2020.pdf",
+          "name": "Código de planeamiento urbano",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Ordenanza que fija normas de uso del suelo, parcelamiento de la tierra, densidad de ocupación, ejido urbano.",
+          "landingUrl": ""
+        },
+        {
+          "id": "25c52b14-38f1-4fb1-946b-1f0a3bb567b8",
+          "downloadUrl": "https://ciudaddecorrientes.gov.ar/sites/default/files/copia_de_codigo_edificacion_2.pdf",
+          "name": "Código de edificación",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Ordenanza que define cómo se puede construir en la Ciudad y establece estándares mínimos de calidad, habitabilidad, seguridad y tecnología de las construcciones.",
+          "landingUrl": ""
+        },
+        {
+          "id": "6300de54-1207-4d32-8906-9969824ce1f8",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTHZKbLdKfQUKjJxEoE1Ocfq8JjZ0iVKEVYS6G8hg25PhNdQ61QOhY5gv-wxaIdhQ/pub?gid=485332319&single=true&output=csv",
+          "name": "Planeamiento urbano",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Zonificación de la ciudad en función al código de planeamiento urbano",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-09-20T06:38:49.693Z",
+      "updatedAt": "2023-10-12T18:14:54.023Z",
+      "contact": {
+        "name": "Secretaría de Desarrollo Urbano",
+        "email": ""
+      }
+    },
+    {
+      "id": "7dafe430-8800-46f8-99ed-932dfba4396d",
+      "name": "precio-de-combustibles",
+      "title": "Precio de Combustibles",
+      "keywords": [
+        "combustible",
+        "nafta",
+        "precio",
+        "transporte"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/precio-de-combustibles",
+      "resources": [
+        {
+          "id": "29a7a2c1-a184-47ac-a9c8-2ef0a723ed38",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRZ8k_k5xj25qqLr5ba4_Ulp-1FM5sKMYfNJ3ohfqVb6zJReaKOtWl3olPeobZfCKrLfLb_XkqHQBf_/pub?gid=21893488&single=true&output=csv",
+          "name": "Precio de combustibles",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Precios en surtidor de naftas, gasoil y GLPA de la Ciudad de Corrientes medidos en pesos argentinos por litro, de combustible desde el año 2017 a la última actualización.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-12-29T17:03:40.874Z",
+      "updatedAt": "2023-10-12T18:44:46.919Z",
+      "contact": {
+        "name": "Observatorio Económico",
+        "email": ""
+      }
+    },
+    {
+      "id": "d3b3c898-d2bc-4c60-9793-1f087c926ded",
+      "name": "puntos-sube",
+      "title": "Puntos SUBE",
+      "keywords": [],
+      "landingPage": "https://gis.ciudaddecorrientes.gov.ar/",
+      "resources": [
+        {
+          "id": "19f8dabd-71dd-435b-bc0b-5ab8520dc833",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRIUNfkr_0CWP41-Bro70yIAVaVwlRw-9mEOx7tZnSIAgMtyJq5ai19XHwuCeS-uQ/pub?gid=1554796659&single=true&output=csv",
+          "name": "Recarga SUBE",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Puntos de recargas de tarjetas SUBE",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-07-01T14:22:45.899Z",
+      "updatedAt": "2023-09-21T15:21:52.091Z",
+      "contact": {
+        "name": "Dirección General de Sistemas de Información Geográfica",
+        "email": ""
+      }
+    },
+    {
+      "id": "eeaa943a-fdc2-4717-85bf-df822f0e5f4c",
+      "name": "puntos_verdes_contenedores",
+      "title": "Puntos verdes",
+      "keywords": [
+        "ambiente",
+        "basura",
+        "fortaleza",
+        "higiene",
+        "punto verde",
+        "reciclaje",
+        "residuos",
+        "ubicacion",
+        "verde"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/puntos_verdes_contenedores",
+      "resources": [
+        {
+          "id": "4c9c4387-8470-43ed-8988-a2ea67f5b071",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRIUNfkr_0CWP41-Bro70yIAVaVwlRw-9mEOx7tZnSIAgMtyJq5ai19XHwuCeS-uQ/pub?gid=2130415019&single=true&output=csv",
+          "name": "Puntos verdes",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Localización de Puntos Verdes en la ciudad",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-06-09T18:10:01.285Z",
+      "updatedAt": "2023-09-20T18:22:07.608Z",
+      "contact": {
+        "name": "Dirección General de Sistemas de Información Geográfica",
+        "email": ""
+      }
+    },
+    {
+      "id": "28745d57-3496-4049-b8f4-0190b4627b62",
+      "name": "puntos-wifi",
+      "title": "Puntos WiFi",
+      "keywords": [
+        "conexión",
+        "datos",
+        "gratis",
+        "internet",
+        "wifi"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/puntos-wifi",
+      "resources": [
+        {
+          "id": "81da7d46-76a8-437f-b830-b2af3ecf72a6",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSyKPRjb_NgkaUsozk_Nt1xTxsiw7ag7_S_LW7bS2dp8HxFk4R1Q6rlp95bvj3uEA/pub?gid=757342738&single=true&output=csv",
+          "name": "Puntos wifi",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Puntos con acceso WiFi gratuitos disponibles en la ciudad.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-07-03T01:08:58.177Z",
+      "updatedAt": "2023-09-20T01:14:58.813Z",
+      "contact": {
+        "name": "Dirección General de Sistemas de Información Geográfica",
+        "email": ""
+      }
+    },
+    {
+      "id": "30114af8-f2f5-4da6-871a-099e56c08e1b",
+      "name": "reciclando_juntos_ruleros",
+      "title": "Programa Reciclando Juntos",
+      "keywords": [
+        "ambiente",
+        "basura",
+        "fortaleza",
+        "higiene",
+        "punto verde",
+        "reciclaje",
+        "residuos",
+        "ruleros",
+        "verde"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/reciclando_juntos_ruleros",
+      "resources": [
+        {
+          "id": "cca8bd86-c3ea-4684-aac6-f32393b294ad",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSkytIqENLF9yP_UVcy9L8daPmCeWZQYoG7RIM7SdxgaVAZIQvQPD4CyCfst0WsDZ2HcPsTKgnjpOO0/pub?gid=2097615465&single=true&output=csv",
+          "name": "Programa Reciclando Juntos",
+          "format": "CSV",
+          "updatedAt": "2021-04-07T23:42:40.257Z",
+          "description": "Programa Reciclando juntos. Recolección histórica de reciclables vía ruleros realizado desde julio de 2018",
+          "landingUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/reciclando_juntos_ruleros/archivo/cca8bd86-c3ea-4684-aac6-f32393b294ad"
+        }
+      ],
+      "createdAt": "2020-06-09T18:15:41.853Z",
+      "updatedAt": "2021-04-23T00:21:46.242Z",
+      "contact": {
+        "name": "Subsecretaría de Planificación ambiental; Secretaría de Ambiente y Desarrollo Sustentable",
+        "email": ""
+      }
+    },
+    {
+      "id": "7e4b4f9d-a1d0-4ca0-a1d9-553dad9b0d5d",
+      "name": "recoleccion-diferenciada",
+      "title": "Recolección diferenciada",
+      "keywords": [
+        "ambiente",
+        "colo",
+        "recoleccion",
+        "sustentabilidad"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/recoleccion-diferenciada",
+      "resources": [
+        {
+          "id": "95ce9fcf-1df7-4fea-abd1-25f6507991ad",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRIUNfkr_0CWP41-Bro70yIAVaVwlRw-9mEOx7tZnSIAgMtyJq5ai19XHwuCeS-uQ/pub?gid=1628902347&single=true&output=csv",
+          "name": "Zonas con recoleccón diferenciada",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Detalle de zonas que cuentan con reccolección diferenciada",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-07-04T15:25:54.855Z",
+      "updatedAt": "2023-10-12T17:54:13.916Z",
+      "contact": {
+        "name": "Subsecretaría planificación ambiental.",
+        "email": ""
+      }
+    },
+    {
+      "id": "a2c34bcb-e44f-462c-b2ef-9be541c3962c",
+      "name": "recoleccion-en-puntos-verdes",
+      "title": "Recolección en Puntos Verdes",
+      "keywords": [
+        "ambiente",
+        "fortaleza",
+        "punto",
+        "reciclaje",
+        "residuos",
+        "verde"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/recoleccion-en-puntos-verdes",
+      "resources": [
+        {
+          "id": "9607a87f-7e2c-4843-a76a-d147fc351879",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSkytIqENLF9yP_UVcy9L8daPmCeWZQYoG7RIM7SdxgaVAZIQvQPD4CyCfst0WsDZ2HcPsTKgnjpOO0/pub?gid=1953717534&single=true&output=csv",
+          "name": "Recolección de Puntos Verdes",
+          "format": "CSV",
+          "updatedAt": "2021-04-07T23:50:08.550Z",
+          "description": "Cantidad de material reciclable recolectado en los Puntos verdes desde enero de 2017",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-04-06T23:46:16.563Z",
+      "updatedAt": "2023-10-12T18:31:22.644Z",
+      "contact": {
+        "name": "Subsecretaría de Planificación Ambiental",
+        "email": ""
+      }
+    },
+    {
+      "id": "764ae0d0-e024-4068-bf07-0128161e29a3",
+      "name": "retiro_via_publica",
+      "title": "Retiros de la vía pública por infracción",
+      "keywords": [
+        "combis",
+        "infracciones",
+        "multa",
+        "remises",
+        "retiros de vehiculos",
+        "secuestros",
+        "taxis",
+        "vehículos"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/retiro_via_publica",
+      "resources": [
+        {
+          "id": "a05f3bd4-f880-4539-89f4-ed5b02613452",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSCMC22bmwNxEAcHVHfZ6lxcA9N_i4LlxNXZn7hIUGdnPhCbTGFm-tjtDMyvD8bww/pub?gid=186093387&single=true&output=csv",
+          "name": "Retiros vía pública",
+          "format": "CSV",
+          "updatedAt": "2021-04-12T22:57:25.080Z",
+          "description": "Retiros de vehículos de la vía pública por infracción y fecha",
+          "landingUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/retiro_via_publica"
+        }
+      ],
+      "createdAt": "2020-06-09T19:45:03.989Z",
+      "updatedAt": "2023-10-12T17:55:41.062Z",
+      "contact": {
+        "name": "Subsecretaría de Transporte; Secretaría de Movilidad Urbana y Seguridad ciudadana",
+        "email": ""
+      }
+    },
+    {
+      "id": "6146383f-ddcf-4160-a831-b415779286d1",
+      "name": "semaforos",
+      "title": "Semáforos",
+      "keywords": [
+        "semáforos",
+        "transporte",
+        "tránsito"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/semaforos",
+      "resources": [
+        {
+          "id": "2855a445-b0a0-418b-89d6-e415bcbf5ce4",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTuBnWg-nmcELFzAvJw1Myd0Ox0CtSFefBx85o4IDIaZ0rgLxXqhCgA09VfJNGfUBzxhAsWtbNZSQOf/pub?gid=738808773&single=true&output=csv",
+          "name": "Semáforos",
+          "format": "CSV",
+          "updatedAt": "2022-04-06T17:14:42.752Z",
+          "description": "Red de semáforos en la ciudad",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-07-03T17:57:16.908Z",
+      "updatedAt": "2023-04-14T15:03:33.067Z",
+      "contact": {
+        "name": "Dirección General de Sistemas de Información Geográfica",
+        "email": ""
+      }
+    },
+    {
+      "id": "ba3a2c81-ab4a-45c0-bee9-b2524809853f",
+      "name": "servicio-corrientes-resistencia-barranqueras",
+      "title": "Servicio Corrientes - Resistencia Barranqueras",
+      "keywords": [
+        "barranqueras",
+        "chaco-corrientes",
+        "colectivos",
+        "interurbano",
+        "paradas"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/servicio-corrientes-resistencia-barranqueras",
+      "resources": [
+        {
+          "id": "82138b0d-49a5-43f6-a3ad-076b133364f1",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ2qt3ZVsEVQANUPZv_L2akh-Isky7FB3DqyyOn7yOh1RKYe4JKAse4Tu4pTi0vbEkK_DhkGu-FxPLA/pub?output=csv",
+          "name": "Paradas Chaco - Corrientes ramal Barranqueras",
+          "format": "CSV",
+          "updatedAt": "2020-07-03T00:45:45.292Z",
+          "description": "Paradas del colectivo Chaco - Corrientes que ingresar por Avenida San Martín en Barranqueras",
+          "landingUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/servicio-corrientes-resistencia-barranqueras/archivo/82138b0d-49a5-43f6-a3ad-076b133364f1"
+        },
+        {
+          "id": "0a4e966d-eaf4-462f-8ea5-ee790a8ea4e8",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/ba3a2c81-ab4a-45c0-bee9-b2524809853f/resource/0a4e966d-eaf4-462f-8ea5-ee790a8ea4e8/download/vw_recorrido_barranqueras.csv",
+          "name": "Recorrido Chaco - Corrientes Ramal Barranqueras",
+          "format": "CSV",
+          "updatedAt": "2020-08-27T23:29:31.173Z",
+          "description": "Recorrido del colectivo Chaco - Corrientes que ingresa por la Avenida San Martín en Barranqueras",
+          "landingUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/servicio-corrientes-resistencia-barranqueras/archivo/0a4e966d-eaf4-462f-8ea5-ee790a8ea4e8"
+        }
+      ],
+      "createdAt": "2020-07-03T00:40:56.618Z",
+      "updatedAt": "2022-04-04T15:10:25.826Z",
+      "contact": {
+        "name": "Dirección General de Sistemas de Información Geográfica",
+        "email": ""
+      }
+    },
+    {
+      "id": "436cc5a1-81e6-4527-89b0-b43aa012e75f",
+      "name": "servicio-corrientes-resistencia-campus",
+      "title": "Servicio Corrientes - Resistencia Campus",
+      "keywords": [
+        "chaco-corrientes",
+        "colectivos",
+        "interurbano",
+        "paradas",
+        "recorrido"
+      ],
+      "landingPage": "https://gis.ciudaddecorrientes.gov.ar/",
+      "resources": [
+        {
+          "id": "befdf3eb-58fe-4552-b1eb-e488b64ad462",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS1r2eEpMXck3-yI0Ljs2Y_NYMezKARyqDIYkgGzW1-DWzhevZUTCGTSvAAOUmahP7ojGgnH_D931ct/pub?output=csv",
+          "name": "Paradas Chaco - Corrientes Ramal Campus",
+          "format": "CSV",
+          "updatedAt": "2020-07-03T01:00:52.184Z",
+          "description": "Paradas Chaco - Corrientes que arriban al campus de la UNNE en Corrientes",
+          "landingUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/servicio-corrientes-resistencia-campus/archivo/befdf3eb-58fe-4552-b1eb-e488b64ad462"
+        },
+        {
+          "id": "c6ff5f8c-ecb7-444c-bb03-8674478490b8",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/436cc5a1-81e6-4527-89b0-b43aa012e75f/resource/c6ff5f8c-ecb7-444c-bb03-8674478490b8/download/vw_recorrido_campus.csv",
+          "name": "Recorrido Chaco - Corrientes Ramal Campus",
+          "format": "CSV",
+          "updatedAt": "2020-08-27T23:25:20.095Z",
+          "description": "Recorrido del colectivo Chaco - Corrientes que arriba al campus de la UNNE en Corrientes",
+          "landingUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/servicio-corrientes-resistencia-campus/archivo/c6ff5f8c-ecb7-444c-bb03-8674478490b8"
+        }
+      ],
+      "createdAt": "2020-07-03T00:57:09.664Z",
+      "updatedAt": "2022-04-04T14:43:32.809Z",
+      "contact": {
+        "name": "Dirección General de Sistemas de Información Geográfica",
+        "email": ""
+      }
+    },
+    {
+      "id": "830dec08-ef58-43ba-bd93-9d74aca56cb5",
+      "name": "servicio-corrientes-resistencia-sarmiento",
+      "title": "Servicio Corrientes - Resistencia Sarmiento",
+      "keywords": [
+        "chaco-corrientes",
+        "colectivos",
+        "garita",
+        "interurbano",
+        "paradas",
+        "recorrido",
+        "sarmiento"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/servicio-corrientes-resistencia-sarmiento",
+      "resources": [
+        {
+          "id": "3db718a6-7688-4510-b852-c49b2f90582d",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRRxVsX7FJain42J9dGODZCm_C48zOgJwpSd2Jg7VTNxiSHKfD4-KQz3KkAn-zCIU2K-o1q7drcHrMu/pub?gid=1113363303&single=true&output=csv",
+          "name": "Paradas Chaco - Corrientes Ramal Sarmiento",
+          "format": "CSV",
+          "updatedAt": "2020-07-03T00:27:42.368Z",
+          "description": "Paradas del colectivo Chaco - Corrientes que ingresan por Avenida Sarmiento en Resistencia",
+          "landingUrl": ""
+        },
+        {
+          "id": "10be1c30-4fad-43d4-ac14-eb7642689dc5",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/830dec08-ef58-43ba-bd93-9d74aca56cb5/resource/10be1c30-4fad-43d4-ac14-eb7642689dc5/download/recorridos_sarmiento.csv",
+          "name": "Recorrido Chaco - Corrientes Ramal Sarmiento",
+          "format": "CSV",
+          "updatedAt": "2020-07-03T00:32:27.011Z",
+          "description": "Recorrido del colectivo Chaco - Corrientes que ingresar por la Avenida Sarmiento en Resistencia",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-07-03T00:19:08.638Z",
+      "updatedAt": "2023-04-13T15:38:00.904Z",
+      "contact": {
+        "name": "Dirección General de Sistemas de Información Geográfica",
+        "email": ""
+      }
+    },
+    {
+      "id": "27299d27-7a4e-4974-9441-9ad10ebb466e",
+      "name": "servicio-de-atencion-al-ciudadano-transporte",
+      "title": "Servicio de Atención al Ciudadano - Transporte",
+      "keywords": [
+        "cercanía",
+        "movilidad",
+        "reclamo",
+        "reclamos",
+        "sac",
+        "servicios",
+        "transporte"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/servicio-de-atencion-al-ciudadano-transporte",
+      "resources": [
+        {
+          "id": "79580f19-4b39-4b68-ac57-a3340f214c9a",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSCMC22bmwNxEAcHVHfZ6lxcA9N_i4LlxNXZn7hIUGdnPhCbTGFm-tjtDMyvD8bww/pub?gid=1366631655&single=true&output=csv",
+          "name": "Servicio de atención al ciudadano - transporte",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Contactos realizados al Servicio de Atención al Ciudadano sobre asuntos de transporte, tipo de contacto, tema, canal y estado.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-09-20T16:27:02.976Z",
+      "updatedAt": "2023-10-12T18:17:13.974Z",
+      "contact": {
+        "name": "Subsecretaria de Transporte",
+        "email": ""
+      }
+    },
+    {
+      "id": "bd941d41-8906-4494-9e31-135d4c309de2",
+      "name": "servicio-de-transporte-urbano",
+      "title": "Servicio de Transporte Urbano",
+      "keywords": [
+        "colectivos",
+        "garita",
+        "movilidad",
+        "parada",
+        "recorrido",
+        "refugio",
+        "transporte",
+        "urbano"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/servicio-de-transporte-urbano",
+      "resources": [
+        {
+          "id": "a8d8893c-4e50-497f-85e8-4e57de960e2c",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTPnRiyEVYH9z0h0m6R7aGSMDwJZiXKW0LHlMxYmQ9JSikMkSLYuycQcSIYdBnKPbJOFNAzk6MexAS4/pub?gid=453473135&single=true&output=csv",
+          "name": "Paradas de colectivos urbanos en Corrientes",
+          "format": "CSV",
+          "updatedAt": "2020-11-30T19:50:02.455Z",
+          "description": "Localizacion de paradas de colectivos integrantes del sistema de transporte urbano de la ciudad",
+          "landingUrl": ""
+        },
+        {
+          "id": "b60f67ef-bf0e-459e-98ff-2cde25c486dc",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRIUNfkr_0CWP41-Bro70yIAVaVwlRw-9mEOx7tZnSIAgMtyJq5ai19XHwuCeS-uQ/pub?gid=1353092748&single=true&output=csv",
+          "name": "Recorridos de colectivos urbanos en Corrientes",
+          "format": "CSV",
+          "updatedAt": "2020-08-20T22:48:28.759Z",
+          "description": "Recorridos de lineas y ramales de colectivos integrantes del sistema de transporte urbano de la ciudad",
+          "landingUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vR2LzK9dkCiTvBSorrQ866mKInyNoxnjYSnYQ0KOsGIX2-EGry3fcS_plcfY6mCT4ArONWc2Mx3aqy3/pub?gid=515040720&single=true&output=csv"
+        }
+      ],
+      "createdAt": "2020-07-03T14:24:55.445Z",
+      "updatedAt": "2023-09-20T19:05:01.626Z",
+      "contact": {
+        "name": "Dirección General de Sistemas de Información Geográfica",
+        "email": ""
+      }
+    },
+    {
+      "id": "2576297a-100c-480d-8e24-064c64a4f5cc",
+      "name": "servicios_enfermeria",
+      "title": "Servicio de enfermería",
+      "keywords": [
+        "enfermería",
+        "medicina",
+        "salitas",
+        "salud",
+        "saps"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/servicios_enfermeria",
+      "resources": [
+        {
+          "id": "5fc0c6d7-5a74-4f48-a455-5d3b7a475435",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS_jjTQpQkeBLOldmvSb6tvInesfluMnoT5FVgw7Z6ReEguuizntXraO4lqYDEuZSsc1o7pfBzypQ90/pub?gid=1551868008&single=true&output=csv",
+          "name": "Prestaciones de enfermería ",
+          "format": "CSV",
+          "updatedAt": "2022-04-01T15:25:18.003Z",
+          "description": "Prestaciones de enfermería histórica realizadas desde enero de 2020.",
+          "landingUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS_jjTQpQkeBLOldmvSb6tvInesfluMnoT5FVgw7Z6ReEguuizntXraO4lqYDEuZSsc1o7pfBzypQ90/pub?gid=1551868008&single=true&output=csv"
+        }
+      ],
+      "createdAt": "2020-06-10T15:17:38.698Z",
+      "updatedAt": "2023-10-18T15:02:38.318Z",
+      "contact": {
+        "name": "Secretaria de Salud",
+        "email": ""
+      }
+    },
+    {
+      "id": "98200999-92ae-4346-ba89-833f340825a2",
+      "name": "sistema-de-atencion-al-ciudadano",
+      "title": "Servicio de Atención al Ciudadano",
+      "keywords": [
+        "arbolado",
+        "atencion ciudadana",
+        "contacto",
+        "denuncia",
+        "denuncias",
+        "impuestos",
+        "luminaria",
+        "mejoras",
+        "modernización",
+        "reclamos",
+        "solicitudes"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/sistema-de-atencion-al-ciudadano",
+      "resources": [
+        {
+          "id": "65a715ad-9ae5-4542-ab17-1497401342aa",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQCdea8QkZDvZMoZr77CQbg5wk0TZv3DWaJdeIk3P9lJQtDD-X6f4Ivcm9PjLMkNQ/pub?output=csv",
+          "name": "Servicio de atención al Ciudadano 2023",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Datos correspondiente al sistema de atención al ciudadano correspondiente al año 2023\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "b489d5a8-8093-4bd4-bc55-7cac48a3e800",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/98200999-92ae-4346-ba89-833f340825a2/resource/b489d5a8-8093-4bd4-bc55-7cac48a3e800/download/servicio-de-atencion-al-ciudadano-2018.csv",
+          "name": "Servicio de atención al Ciudadano 2018",
+          "format": "CSV",
+          "updatedAt": "2023-08-31T17:35:12.026Z",
+          "description": "Datos del sistema de atención al ciudadano correspondiente al 2018",
+          "landingUrl": ""
+        },
+        {
+          "id": "03cf4ef8-8eb9-4f24-8fa7-d3667055a103",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/98200999-92ae-4346-ba89-833f340825a2/resource/03cf4ef8-8eb9-4f24-8fa7-d3667055a103/download/servicio-de-atencion-al-ciudadano-2019.csv",
+          "name": "Servicio de atención al Ciudadano 2019",
+          "format": "CSV",
+          "updatedAt": "2023-08-31T17:36:00.237Z",
+          "description": "Datos del sistema de atención al ciudadano correspondiente al 2019",
+          "landingUrl": ""
+        },
+        {
+          "id": "4e5a82f7-2f5f-41a5-9992-beb342acf4fe",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/98200999-92ae-4346-ba89-833f340825a2/resource/4e5a82f7-2f5f-41a5-9992-beb342acf4fe/download/servicio-de-atencion-al-ciudadano-2020.csv",
+          "name": "Servicio de atención al Ciudadano 2020",
+          "format": "CSV",
+          "updatedAt": "2023-08-31T17:37:11.984Z",
+          "description": "Datos del sistema de atención al ciudadano correspondiente al 2020",
+          "landingUrl": ""
+        },
+        {
+          "id": "5b9a05f9-1cc0-4e7b-9b1c-a1ea6cf5defc",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/98200999-92ae-4346-ba89-833f340825a2/resource/5b9a05f9-1cc0-4e7b-9b1c-a1ea6cf5defc/download/servicio-de-atencion-al-ciudadano-2021.csv",
+          "name": "Servicio de atención al Ciudadano 2021",
+          "format": "CSV",
+          "updatedAt": "2023-08-31T17:38:05.977Z",
+          "description": "Datos del sistema de atención al ciudadano correspondiente al 2021",
+          "landingUrl": ""
+        },
+        {
+          "id": "695079b4-dce8-4aeb-bd5a-6d3d0d75d3c8",
+          "downloadUrl": "https://datos.ciudaddecorrientes.gov.ar/dataset/98200999-92ae-4346-ba89-833f340825a2/resource/695079b4-dce8-4aeb-bd5a-6d3d0d75d3c8/download/servicio-de-atencion-al-ciudadano-2022.csv",
+          "name": "Servicio de atención al Ciudadano 2022",
+          "format": "CSV",
+          "updatedAt": "2023-08-31T17:39:09.591Z",
+          "description": "Datos del sistema de atención al ciudadano correspondiente al 2022",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-08-30T21:07:56.678Z",
+      "updatedAt": "2023-10-12T18:08:24.739Z",
+      "contact": {
+        "name": "Dirección General de Atención y Cercanía Ciudadana",
+        "email": "equipodatos.mcc@gmail.com"
+      }
+    },
+    {
+      "id": "65878cc0-5f88-4632-904b-5d97416f1bc7",
+      "name": "sube-estudiantil",
+      "title": "SUBE estudiantil",
+      "keywords": [
+        "sube",
+        "estudiantil",
+        "esutidantes",
+        "sube estudiantil",
+        "transporte"
+      ],
+      "landingPage": "https://datos.ciudaddecorrientes.gov.ar/dataset/sube-estudiantil",
+      "resources": [
+        {
+          "id": "7b0dc97f-4e53-4842-997b-5a09fdd04677",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSqeiEcZ0ehTqY2DvksyAlTxTBgDxexgBl907wpQCST5lesTuCSkdIaCoii6jEtaw/pub?gid=626957367&single=true&output=csv",
+          "name": "SUBE estudiantil otorgadas",
+          "format": "CSV",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "SUBE estudiantil activas, otorgadas por el municipio.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-09-22T23:42:02.776Z",
+      "updatedAt": "2023-09-22T23:42:54.988Z",
+      "contact": {
+        "name": "SECRETARÍA DE MOVILIDAD URBANA Y SEGURIDAD CIUDADANA|SUBSECRETARÍA DE TRANPORTE|DIRECCIÓN GENERAL TRANSPORTE URBANO| DEPARTAMENTO DE SUBE CONTROL Y GESTION",
+        "email": ""
+      }
+    },
+    {
+      "id": "5a2384d7-42c1-48f5-a892-22d53f00b9d7",
+      "name": "tasas-del-mercado-laboral",
+      "title": "Tasas del Mercado Laboral",
+      "keywords": [
+        "desocupacion",
+        "empleo",
+        "trabajo"
+      ],
+      "landingPage": "https://www.indec.gob.ar/",
+      "resources": [
+        {
+          "id": "28a59fc0-4fc2-4490-b6f1-61c6f617ddc1",
+          "downloadUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSC-6aSM5nUfvZsUJNLjFbTMgxPD0p2y6B3zN8l9jCCL7JFc8x6ejIhEUs14avyYyVWXPY3wuv5rYHM/pub?gid=716892312&single=true&output=csv",
+          "name": "Tasas del Mercado Laboral",
+          "format": "CSV",
+          "updatedAt": "2021-04-01T00:34:03.572Z",
+          "description": "Tasa de Empleo y Desocupación. Calculado por Observatorio Económico en base a Encuesta Permanente de Hogares (EPH-INDEC)",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-03-26T18:59:06.778Z",
+      "updatedAt": "2021-04-22T00:04:20.945Z",
+      "contact": {
+        "name": "Observatorio Económico",
+        "email": ""
+      }
+    }
+  ],
+  "organizations": [],
+  "updatedAt": "2023-12-16T12:25:48.046Z"
+}

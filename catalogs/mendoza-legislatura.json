@@ -1,0 +1,1965 @@
+{
+  "id": "ZvyOBK59yl",
+  "datasets": [
+    {
+      "id": "fa7da3ab-5d89-49a0-95d0-fee7ece3fdf5",
+      "name": "constitucion-provincia-de-mendoza",
+      "title": "Constitución Provincia de Mendoza",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "2a1fede2-31d4-4b72-b9f4-ce47d6a687aa",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/fa7da3ab-5d89-49a0-95d0-fee7ece3fdf5/resource/2a1fede2-31d4-4b72-b9f4-ce47d6a687aa/download/constitucion-de-la-provincia-de-mendoza.pdf",
+          "name": "Constitución de la Provincia de Mendoza.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:37:24.329Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2019-06-06T21:37:11.315Z",
+      "updatedAt": "2019-06-06T21:37:24.712Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "e1b7b093-1db6-4d97-9661-28a69d867859",
+      "name": "convenios-y-contratos-2019",
+      "title": "Convenios y Contratos 2019",
+      "keywords": [
+        "convenios y contratos",
+        "economico",
+        "presupuesto"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "49d1de9f-80fa-4b78-add6-8dda6732b223",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/e1b7b093-1db6-4d97-9661-28a69d867859/resource/49d1de9f-80fa-4b78-add6-8dda6732b223/download/contratos-y-convenios-2019-informacion-publica.pdf",
+          "name": "CONTRATOS Y CONVENIOS 2019 informacion publica.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:08:22.362Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2019-06-06T21:07:56.644Z",
+      "updatedAt": "2019-06-06T21:08:22.793Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "017f98aa-0077-4308-a07b-65d36eb84d9b",
+      "name": "despachos-2019",
+      "title": "Despachos 2019",
+      "keywords": [
+        "actividad legislativa"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "ebab1be9-0741-4d7a-9638-f8e7c0c23611",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/017f98aa-0077-4308-a07b-65d36eb84d9b/resource/ebab1be9-0741-4d7a-9638-f8e7c0c23611/download/d-52611.pdf",
+          "name": "D-52611.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:17:53.460Z",
+          "description": ""
+        },
+        {
+          "id": "bfc337f5-47a4-4d72-8514-fd57bfc19808",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/017f98aa-0077-4308-a07b-65d36eb84d9b/resource/bfc337f5-47a4-4d72-8514-fd57bfc19808/download/d-67772.pdf",
+          "name": "D-67772.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:18:02.592Z",
+          "description": ""
+        },
+        {
+          "id": "bb23b795-5fc5-42bf-85ac-d2ba8c5441e7",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/017f98aa-0077-4308-a07b-65d36eb84d9b/resource/bb23b795-5fc5-42bf-85ac-d2ba8c5441e7/download/d-68136-acum.-71900.pdf",
+          "name": "D-68136 acum. 71900.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:18:11.326Z",
+          "description": ""
+        },
+        {
+          "id": "9a555840-08f3-4687-b9a7-04940464cb84",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/017f98aa-0077-4308-a07b-65d36eb84d9b/resource/9a555840-08f3-4687-b9a7-04940464cb84/download/d-71501.pdf",
+          "name": "D-71501.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:18:27.383Z",
+          "description": ""
+        },
+        {
+          "id": "f89d721e-2676-4a87-9960-89ede8dbbf69",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/017f98aa-0077-4308-a07b-65d36eb84d9b/resource/f89d721e-2676-4a87-9960-89ede8dbbf69/download/d-71630.pdf",
+          "name": "D-71630.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:18:36.354Z",
+          "description": ""
+        },
+        {
+          "id": "dc93b3b2-bc6a-4777-a28b-bba29bc957dc",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/017f98aa-0077-4308-a07b-65d36eb84d9b/resource/dc93b3b2-bc6a-4777-a28b-bba29bc957dc/download/d-73627.pdf",
+          "name": "D-73627.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:18:46.140Z",
+          "description": ""
+        },
+        {
+          "id": "e7a626b7-766b-4eb1-89e0-d964a4ec007d",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/017f98aa-0077-4308-a07b-65d36eb84d9b/resource/e7a626b7-766b-4eb1-89e0-d964a4ec007d/download/d-73952.pdf",
+          "name": "D-73952.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:19:01.541Z",
+          "description": ""
+        },
+        {
+          "id": "3b9bd4b7-c285-42de-a6c3-3eff20b10055",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/017f98aa-0077-4308-a07b-65d36eb84d9b/resource/3b9bd4b7-c285-42de-a6c3-3eff20b10055/download/d-74068.pdf",
+          "name": "D-74068.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:19:16.081Z",
+          "description": ""
+        },
+        {
+          "id": "4375515f-d130-4a8e-925d-39debba2a1ee",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/017f98aa-0077-4308-a07b-65d36eb84d9b/resource/4375515f-d130-4a8e-925d-39debba2a1ee/download/d-74071-acum735137462074937.pdf",
+          "name": "D-74071- acum73513,74620,74937.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:19:23.441Z",
+          "description": ""
+        },
+        {
+          "id": "63f98381-6325-44aa-89f7-1061dcbde9e1",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/017f98aa-0077-4308-a07b-65d36eb84d9b/resource/63f98381-6325-44aa-89f7-1061dcbde9e1/download/d-74259.pdf",
+          "name": "D-74259.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:19:33.232Z",
+          "description": ""
+        },
+        {
+          "id": "3b0ce33d-b40b-4d41-b840-9c1528c669b6",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/017f98aa-0077-4308-a07b-65d36eb84d9b/resource/3b0ce33d-b40b-4d41-b840-9c1528c669b6/download/d-74695.pdf",
+          "name": "D-74695.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:19:41.800Z",
+          "description": ""
+        },
+        {
+          "id": "3813e49a-887a-4e46-915a-225d28ed8f60",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/017f98aa-0077-4308-a07b-65d36eb84d9b/resource/3813e49a-887a-4e46-915a-225d28ed8f60/download/d-74987.pdf",
+          "name": "D-74987.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:19:51.723Z",
+          "description": ""
+        },
+        {
+          "id": "9e105793-c441-4d6d-86ea-f25689278f28",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/017f98aa-0077-4308-a07b-65d36eb84d9b/resource/9e105793-c441-4d6d-86ea-f25689278f28/download/d-75234.pdf",
+          "name": "D-75234.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:19:59.440Z",
+          "description": ""
+        },
+        {
+          "id": "1c140669-f5af-4e37-b0ba-60e49c32fc04",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/017f98aa-0077-4308-a07b-65d36eb84d9b/resource/1c140669-f5af-4e37-b0ba-60e49c32fc04/download/d-75457.pdf",
+          "name": "D-75457.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:20:07.515Z",
+          "description": ""
+        },
+        {
+          "id": "e42bed67-97f2-48bb-8544-1c7395a05866",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/017f98aa-0077-4308-a07b-65d36eb84d9b/resource/e42bed67-97f2-48bb-8544-1c7395a05866/download/d-75637.pdf",
+          "name": "D-75637.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:20:17.088Z",
+          "description": ""
+        },
+        {
+          "id": "73acb27b-99c5-464f-9479-91e23ec23448",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/017f98aa-0077-4308-a07b-65d36eb84d9b/resource/73acb27b-99c5-464f-9479-91e23ec23448/download/d-75702.pdf",
+          "name": "D-75702.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:20:32.106Z",
+          "description": ""
+        },
+        {
+          "id": "362b21dd-7b9d-4e04-995d-9d2cb30be754",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/017f98aa-0077-4308-a07b-65d36eb84d9b/resource/362b21dd-7b9d-4e04-995d-9d2cb30be754/download/d-75704.pdf",
+          "name": "D-75704.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:20:39.931Z",
+          "description": ""
+        },
+        {
+          "id": "722a6cd1-5a66-4765-ab29-1683eec28084",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/017f98aa-0077-4308-a07b-65d36eb84d9b/resource/722a6cd1-5a66-4765-ab29-1683eec28084/download/d-75780.pdf",
+          "name": "D-75780.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:20:46.936Z",
+          "description": ""
+        },
+        {
+          "id": "17afa7ec-0b24-422c-ad24-d73b1abf1630",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/017f98aa-0077-4308-a07b-65d36eb84d9b/resource/17afa7ec-0b24-422c-ad24-d73b1abf1630/download/d-75781.pdf",
+          "name": "D-75781.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:20:54.912Z",
+          "description": ""
+        },
+        {
+          "id": "c04ee061-ea53-4d68-926a-c008a1f57881",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/017f98aa-0077-4308-a07b-65d36eb84d9b/resource/c04ee061-ea53-4d68-926a-c008a1f57881/download/d-75782.pdf",
+          "name": "D-75782.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:21:01.811Z",
+          "description": ""
+        },
+        {
+          "id": "2fe7f0fe-43c1-43ad-91e2-a285660afcff",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/017f98aa-0077-4308-a07b-65d36eb84d9b/resource/2fe7f0fe-43c1-43ad-91e2-a285660afcff/download/d-75931.pdf",
+          "name": "D-75931.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:21:10.015Z",
+          "description": ""
+        },
+        {
+          "id": "e86e6495-8add-42b1-bbbe-a5c7bd393ee0",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/017f98aa-0077-4308-a07b-65d36eb84d9b/resource/e86e6495-8add-42b1-bbbe-a5c7bd393ee0/download/d-75957.pdf",
+          "name": "D-75957.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:21:18.551Z",
+          "description": ""
+        },
+        {
+          "id": "79aa084c-6b3e-4b76-b8db-e0a6b43375ab",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/017f98aa-0077-4308-a07b-65d36eb84d9b/resource/79aa084c-6b3e-4b76-b8db-e0a6b43375ab/download/d-75990.pdf",
+          "name": "D-75990.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:21:27.538Z",
+          "description": ""
+        },
+        {
+          "id": "125bbf94-d9af-4b7a-bf3a-efbdfdc8693c",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/017f98aa-0077-4308-a07b-65d36eb84d9b/resource/125bbf94-d9af-4b7a-bf3a-efbdfdc8693c/download/d-75991.pdf",
+          "name": "D-75991.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:21:36.566Z",
+          "description": ""
+        },
+        {
+          "id": "935e1653-2174-46c4-8eaf-4a63a2828375",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/017f98aa-0077-4308-a07b-65d36eb84d9b/resource/935e1653-2174-46c4-8eaf-4a63a2828375/download/d-76062.pdf",
+          "name": "D-76062.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:21:44.308Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2019-06-06T21:17:37.761Z",
+      "updatedAt": "2019-06-06T21:21:46.279Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "e1ce4ceb-6506-46ea-8240-b0d5f960e43b",
+      "name": "diarios-de-sesiones",
+      "title": "Diarios de Sesiones",
+      "keywords": [
+        "actividad legislativa"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "b34fed72-95e4-43f1-939b-6b2183faa06f",
+          "downloadUrl": "https://www.hcdmza.gob.ar/site/index.php/administracion/diario-de-sesiones",
+          "name": "diario-de-sesiones.html",
+          "format": "HTML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Diarios de Sesiones de la H. Cámara de Diputados "
+        }
+      ],
+      "createdAt": "2019-06-06T21:31:41.908Z",
+      "updatedAt": "2019-11-21T16:25:45.951Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "195c3c2a-0286-48dd-be23-9b35c58bab52",
+      "name": "ejecucion-presupuestaria-2018",
+      "title": "Ejecución Presupuestaria 2018",
+      "keywords": [
+        "economico",
+        "presupuesto"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "33292b42-85b2-4a47-9d17-5b03f59bf621",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/195c3c2a-0286-48dd-be23-9b35c58bab52/resource/33292b42-85b2-4a47-9d17-5b03f59bf621/download/ahorro-presupuestario-2018.pdf",
+          "name": "AHORRO PRESUPUESTARIO 2018.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-07T17:23:18.175Z",
+          "description": "Informe de Ahorro Presupuestario Año 2018"
+        }
+      ],
+      "createdAt": "2019-06-07T17:22:47.809Z",
+      "updatedAt": "2019-06-07T17:23:18.652Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "cb8aeed8-9706-47ff-a0a1-2bae0cb5212c",
+      "name": "ejecucion-presupuestaria-2019",
+      "title": "Ejecución Presupuestaria",
+      "keywords": [
+        "economico",
+        "presupuesto"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "9d896e1f-2deb-4f3e-bb58-3dc2e2f423d0",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/cb8aeed8-9706-47ff-a0a1-2bae0cb5212c/resource/9d896e1f-2deb-4f3e-bb58-3dc2e2f423d0/download/presupuesto-2019.pdf",
+          "name": "PRESUPUESTO 2019.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T20:40:34.549Z",
+          "description": ""
+        },
+        {
+          "id": "b9be0b91-a5b2-4e0f-aaea-a5f5adc9aadd",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/cb8aeed8-9706-47ff-a0a1-2bae0cb5212c/resource/b9be0b91-a5b2-4e0f-aaea-a5f5adc9aadd/download/presupuesto-2019.csv",
+          "name": "PRESUPUESTO 2019.csv",
+          "format": "CSV",
+          "updatedAt": "2019-06-11T18:01:17.343Z",
+          "description": ""
+        },
+        {
+          "id": "586b9f79-cd10-4f5e-b0bf-b3e3f8987823",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/cb8aeed8-9706-47ff-a0a1-2bae0cb5212c/resource/586b9f79-cd10-4f5e-b0bf-b3e3f8987823/download/presupuesto-2019.xls",
+          "name": "PRESUPUESTO 2019.xls",
+          "format": "XLS",
+          "updatedAt": "2019-06-06T20:41:45.702Z",
+          "description": ""
+        },
+        {
+          "id": "e6907222-fabd-4a3c-ae0b-f5d9e38c105d",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/cb8aeed8-9706-47ff-a0a1-2bae0cb5212c/resource/e6907222-fabd-4a3c-ae0b-f5d9e38c105d/download/ejecucion_presupuestaria_2020.xls",
+          "name": "EJECUCION PRESUPUESTARIA 2020",
+          "format": "XLS",
+          "updatedAt": "2021-08-05T15:41:52.932Z",
+          "description": ""
+        },
+        {
+          "id": "138742fb-4f0c-4b9f-8ab4-d5f4ee71361a",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/cb8aeed8-9706-47ff-a0a1-2bae0cb5212c/resource/138742fb-4f0c-4b9f-8ab4-d5f4ee71361a/download/ejecucion_presupuestaria_2020.pdf",
+          "name": "EJECUCION PRESUPUESTARIA 2020",
+          "format": "PDF",
+          "updatedAt": "2021-08-05T06:27:28.994Z",
+          "description": ""
+        },
+        {
+          "id": "e8e33d07-b02b-4a03-8a8f-bfeedd4fd73f",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/cb8aeed8-9706-47ff-a0a1-2bae0cb5212c/resource/e8e33d07-b02b-4a03-8a8f-bfeedd4fd73f/download/ejecucion_presupuestaria_2021.xls",
+          "name": "EJECUCION PRESUPUESTARIA 2021",
+          "format": "XLS",
+          "updatedAt": "2022-07-07T16:08:49.209Z",
+          "description": ""
+        },
+        {
+          "id": "1b70c5ce-ea27-4ba8-8f21-67481d5ca858",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/cb8aeed8-9706-47ff-a0a1-2bae0cb5212c/resource/1b70c5ce-ea27-4ba8-8f21-67481d5ca858/download/ejecucion_presupuestaria_2021.pdf",
+          "name": "EJECUCION PRESUPUESTARIA 2021",
+          "format": "PDF",
+          "updatedAt": "2022-07-07T16:09:16.487Z",
+          "description": ""
+        },
+        {
+          "id": "78a58f26-3f1f-4260-8bdc-a6f077cad23f",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/cb8aeed8-9706-47ff-a0a1-2bae0cb5212c/resource/78a58f26-3f1f-4260-8bdc-a6f077cad23f/download/ejecucion_presupuestaria_2022.xls",
+          "name": "EJECUCION PRESUPUESTARIA 2022",
+          "format": "XLS",
+          "updatedAt": "2022-07-07T16:13:01.301Z",
+          "description": "Al 30/06/22"
+        },
+        {
+          "id": "30459c54-faaf-43c6-a849-c69f5932d650",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/cb8aeed8-9706-47ff-a0a1-2bae0cb5212c/resource/30459c54-faaf-43c6-a849-c69f5932d650/download/ejecucion_presupuestaria_2022.pdf",
+          "name": "EJECUCION PRESUPUESTARIA 2022",
+          "format": "PDF",
+          "updatedAt": "2022-07-07T16:13:58.908Z",
+          "description": "Al 30/06/2022"
+        }
+      ],
+      "createdAt": "2019-06-06T20:39:33.187Z",
+      "updatedAt": "2022-07-07T16:13:58.928Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "d75d4c5d-1827-470d-9c93-94b6afcad592",
+      "name": "estadisticas-legislativas",
+      "title": "Estadísticas Legislativas",
+      "keywords": [
+        "actividad legislativa",
+        "estadística"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "aef4c4ab-9fe8-4b73-8e4f-d06d950a203b",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/d75d4c5d-1827-470d-9c93-94b6afcad592/resource/aef4c4ab-9fe8-4b73-8e4f-d06d950a203b/download/proyectos-anualizados-1983-a-05-2019.csv",
+          "name": "Proyectos anualizados 1983-a-05-2019.csv",
+          "format": "CSV",
+          "updatedAt": "2019-06-07T20:44:14.088Z",
+          "description": "Cantidad de Proyectos de Resolución, Declaración y Ley. Leyes Sancionadas. 1983 a Mayo 2019"
+        },
+        {
+          "id": "8dbbd7ba-ab16-428a-8267-794d96b84195",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/d75d4c5d-1827-470d-9c93-94b6afcad592/resource/8dbbd7ba-ab16-428a-8267-794d96b84195/download/proyectos-por-ano-2019-06.png",
+          "name": "Proyectos-por-Año-2019-06.png",
+          "format": "PNG",
+          "updatedAt": "2019-06-07T20:44:40.359Z",
+          "description": "Gráfico Estadístico Cantidad de Proyectos de Resolución, Declaración y Ley. Leyes Sancionadas. 1983 a Mayo 2019"
+        },
+        {
+          "id": "caf9c013-b03e-4035-aee7-34f87ad8cf3f",
+          "downloadUrl": "https://www.legislaturamendoza.gov.ar/consulta-de-proyectos/",
+          "name": "Búsqueda de Proyectos H.C.S.",
+          "format": "HTML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2019-06-07T20:43:58.532Z",
+      "updatedAt": "2019-06-12T18:34:58.404Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "4ae29f67-209a-46fb-a6ec-baa82077d954",
+      "name": "formulario-de-solicitud-de-informacion",
+      "title": "Formulario de Solicitud de Información",
+      "keywords": [
+        "formulario de solicitud de información",
+        "transparencia"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "80ccf30f-d5ed-4816-a7ba-9a827e1ee525",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/4ae29f67-209a-46fb-a6ec-baa82077d954/resource/80ccf30f-d5ed-4816-a7ba-9a827e1ee525/download/formulario-9070.pdf",
+          "name": "formulario-9070.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:26:24.358Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2019-06-06T21:26:06.726Z",
+      "updatedAt": "2019-06-06T21:26:52.189Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "a9dfc110-3870-4ed4-8852-7573042c9650",
+      "name": "informes-y-fallos-del-tribunal-de-cuentas-de-la-provincia-de-mendoza",
+      "title": "Informes y Fallos del Tribunal de Cuentas de la Provincia de Mendoza",
+      "keywords": [
+        "acuerdo 3949",
+        "economico",
+        "presupuesto",
+        "tribunal de cuentas"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "59b51516-0cd7-489d-9856-c86f53ea8de5",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a9dfc110-3870-4ed4-8852-7573042c9650/resource/59b51516-0cd7-489d-9856-c86f53ea8de5/download/fallo-17096-tribunal-de-cuentas-ejercicio-2017.pdf",
+          "name": "Fallo 17096 Tribunal de Cuentas - Ejercicio 2017.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-07T17:18:43.055Z",
+          "description": "Fallo 17096 Tribunal de Cuentas - Ejercicio 2017"
+        },
+        {
+          "id": "597635d4-578b-4e05-a829-5425151d9c46",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a9dfc110-3870-4ed4-8852-7573042c9650/resource/597635d4-578b-4e05-a829-5425151d9c46/download/informe-ley-5314-4to-trimestre-2018.pdf",
+          "name": "Informe Ley 7.314 - 4to Trimestre 2018.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-07T17:19:10.325Z",
+          "description": "Informe Ley 7314 - 4to Trimestre 2018 Acuerdo 3949"
+        },
+        {
+          "id": "9ad05654-3b92-4f6d-a1b5-d1229e4f238f",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a9dfc110-3870-4ed4-8852-7573042c9650/resource/9ad05654-3b92-4f6d-a1b5-d1229e4f238f/download/fallo-17215-ejercicio-2018-tribunal-de-cuentas-.pdf",
+          "name": "Fallo 17215 - Ejercicio -2018 - TRIBUNAL DE CUENTAS .pdf",
+          "format": "PDF",
+          "updatedAt": "2019-08-12T20:20:56.126Z",
+          "description": "Fallo 17215 Ejercicio 2018 Tribunal de Cuentas Mendoza"
+        },
+        {
+          "id": "309cd4fa-4e51-4c4d-9969-b7966d225db8",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a9dfc110-3870-4ed4-8852-7573042c9650/resource/309cd4fa-4e51-4c4d-9969-b7966d225db8/download/informe-ley-7.314-1-trimestre-2.019.pdf",
+          "name": "Informe ley 7.314 1º Trimestre 2.019.pdf",
+          "format": "PDF",
+          "updatedAt": "2020-01-07T15:51:08.228Z",
+          "description": "Informe ley 7.314 1º Trimestre 2.019"
+        },
+        {
+          "id": "374f004a-cc10-4915-b555-3f30fded2498",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a9dfc110-3870-4ed4-8852-7573042c9650/resource/374f004a-cc10-4915-b555-3f30fded2498/download/informe-ley-7.314-2-trimestre-2.019.pdf",
+          "name": "Informe ley 7.314 2º Trimestre 2.019.pdf",
+          "format": "PDF",
+          "updatedAt": "2020-01-07T15:55:28.396Z",
+          "description": "Informe ley 7.314 2º Trimestre 2.019"
+        },
+        {
+          "id": "1f8dc3db-28cd-4326-873f-4e5c0200a7da",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a9dfc110-3870-4ed4-8852-7573042c9650/resource/1f8dc3db-28cd-4326-873f-4e5c0200a7da/download/informe-ley-7.314-3-trimestre-2.019.pdf",
+          "name": "Informe ley 7.314 3º Trimestre 2.019.pdf",
+          "format": "PDF",
+          "updatedAt": "2020-01-07T15:54:00.827Z",
+          "description": "Informe ley 7.314 3º Trimestre 2.019"
+        },
+        {
+          "id": "a6b55a64-bdaf-416a-8722-6b51304edab8",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a9dfc110-3870-4ed4-8852-7573042c9650/resource/a6b55a64-bdaf-416a-8722-6b51304edab8/download/fallo_nro.17.382_ejercicio_2019.pdf",
+          "name": "FALLO_Nro.17.382_EJERCICIO_2019.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-02-23T20:52:40.347Z",
+          "description": "FALLO_Nro.17.382_EJERCICIO_2019"
+        },
+        {
+          "id": "1c2640a6-bb26-4a1a-a8c7-3d021cb9c834",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a9dfc110-3870-4ed4-8852-7573042c9650/resource/1c2640a6-bb26-4a1a-a8c7-3d021cb9c834/download/fallo_nro.17.572_ejercicio_2020.pdf",
+          "name": "FALLO_Nro.17.572_EJERCICIO_2020.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-02-23T20:54:23.685Z",
+          "description": "FALLO_Nro.17.572_EJERCICIO_2020"
+        }
+      ],
+      "createdAt": "2019-06-07T17:18:08.740Z",
+      "updatedAt": "2022-02-23T20:54:23.712Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "31083e95-ef08-46f8-adf8-eba4a24c62af",
+      "name": "ley-de-responsabilidad-fiscal-acuerdo-3949",
+      "title": "Ley de Responsabilidad Fiscal - Acuerdo 3949 - Histórico -",
+      "keywords": [
+        "acuerdo 3949",
+        "economico",
+        "presupuesto"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "32f10754-2696-408e-bd13-e50aaf239db1",
+          "downloadUrl": "https://www.hcdmza.gob.ar/site/index.php/administracion/acuerdo-3949",
+          "name": "acuerdo-3949.html",
+          "format": "HTML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2019-06-06T21:40:04.758Z",
+      "updatedAt": "2020-01-07T14:29:41.661Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "f4553a72-c98a-47be-bcda-03ffabb01792",
+      "name": "ley-de-responsabilidad-fiscal-acuerdo-3949-2019",
+      "title": "Ley de Responsabilidad Fiscal - Acuerdo 3949",
+      "keywords": [
+        "economico",
+        "presupuesto",
+        "tribunal de cuentas"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "36d19aef-8b23-471b-aaef-6b2782b7c99c",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/f4553a72-c98a-47be-bcda-03ffabb01792/resource/36d19aef-8b23-471b-aaef-6b2782b7c99c/download/1-t-2019-web.xlsx",
+          "name": "1 T 2019 - web.xlsx",
+          "format": "XLSX",
+          "updatedAt": "2020-01-07T14:44:10.608Z",
+          "description": "Primer Trimestre 2019 - Ley de Responsabilidad Fiscal - Acuerdo 3949 -"
+        },
+        {
+          "id": "4ca47701-d26d-4949-9184-768da50d65f3",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/f4553a72-c98a-47be-bcda-03ffabb01792/resource/4ca47701-d26d-4949-9184-768da50d65f3/download/2-t-2019-web.xlsx",
+          "name": "2 T 2019-web.xlsx",
+          "format": "XLSX",
+          "updatedAt": "2020-01-07T14:45:25.225Z",
+          "description": "Segundo Trimestre 2019 - Ley de Responsabilidad Fiscal - Acuerdo 3949 -"
+        },
+        {
+          "id": "ef1a9813-d560-4514-8521-631baa935da1",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/f4553a72-c98a-47be-bcda-03ffabb01792/resource/ef1a9813-d560-4514-8521-631baa935da1/download/3-t-2019-web.xlsx",
+          "name": "3 T 2019 - WEB.xlsx",
+          "format": "XLSX",
+          "updatedAt": "2020-01-07T14:46:36.538Z",
+          "description": "Tercer Trimestre 2019 - Ley de Responsabilidad Fiscal - Acuerdo 3949 -"
+        },
+        {
+          "id": "450c9747-6a1b-4f48-b5b2-1bbc9091dd9a",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/f4553a72-c98a-47be-bcda-03ffabb01792/resource/450c9747-6a1b-4f48-b5b2-1bbc9091dd9a/download/4-t-2019-web.xlsx",
+          "name": "4 T 2019-web.xlsx",
+          "format": "XLSX",
+          "updatedAt": "2020-02-28T16:25:56.358Z",
+          "description": "\r\nCuarto Trimestre 2019 - Ley de Responsabilidad Fiscal - Acuerdo 3949 - "
+        }
+      ],
+      "createdAt": "2020-01-07T14:41:43.732Z",
+      "updatedAt": "2020-02-28T16:28:31.867Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "bbfa3085-d993-4e0e-84d0-cac3a171907e",
+      "name": "licitaciones-publicas-2018",
+      "title": "Licitaciones Públicas 2018",
+      "keywords": [
+        "economico",
+        "licitaciones",
+        "presupuesto"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "64b7b7b0-3552-4e5d-9e8b-5c428a614042",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/bbfa3085-d993-4e0e-84d0-cac3a171907e/resource/64b7b7b0-3552-4e5d-9e8b-5c428a614042/download/licitacion-art-2018-publicacion.pdf",
+          "name": "LICITACION ART 2018 PUBLICACION.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T20:54:59.849Z",
+          "description": "Pliego"
+        },
+        {
+          "id": "80981831-2093-44ed-bc37-180c6fe0ffb9",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/bbfa3085-d993-4e0e-84d0-cac3a171907e/resource/80981831-2093-44ed-bc37-180c6fe0ffb9/download/licitacion-publica-uniformes-2018-publicacion.pdf",
+          "name": "LICITACION PUBLICA UNIFORMES 2018 PUBLICACION.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T20:55:45.347Z",
+          "description": "Pliego"
+        },
+        {
+          "id": "989bbac8-8549-41e5-8c74-51f6fc5d569b",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/bbfa3085-d993-4e0e-84d0-cac3a171907e/resource/989bbac8-8549-41e5-8c74-51f6fc5d569b/download/licitacion-computos-equipos-publicacion.pdf",
+          "name": "LICITACION COMPUTOS EQUIPOS PUBLICACION.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T20:56:36.710Z",
+          "description": "Pliego"
+        },
+        {
+          "id": "572a5fd0-571a-45f7-a998-3b57180e3c13",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/bbfa3085-d993-4e0e-84d0-cac3a171907e/resource/572a5fd0-571a-45f7-a998-3b57180e3c13/download/licitacion-computos-licencias-2018-publicacion.pdf",
+          "name": "LICITACION COMPUTOS LICENCIAS 2018 PUBLICACION.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T20:57:03.098Z",
+          "description": "Pliego"
+        },
+        {
+          "id": "bad11b79-330d-49f2-9435-2bbff663c42a",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/bbfa3085-d993-4e0e-84d0-cac3a171907e/resource/bad11b79-330d-49f2-9435-2bbff663c42a/download/resoluciones-adjudicaciones-licitaciones-2018.pdf",
+          "name": "Resoluciones Adjudicaciones licitaciones  2018.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T20:58:10.152Z",
+          "description": "Resoluciones de Adjudicación de las Licitaciones Año 2018"
+        }
+      ],
+      "createdAt": "2019-06-06T20:53:47.910Z",
+      "updatedAt": "2019-06-06T20:58:10.166Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "9d740178-63df-4f7f-888b-c3047e7e884a",
+      "name": "licitaciones-publicas-2019",
+      "title": "Licitaciones Públicas 2019",
+      "keywords": [
+        "economico",
+        "licitaciones",
+        "presupuesto"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "53fb05ab-7892-4452-88b0-6e2be4b93fb8",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/9d740178-63df-4f7f-888b-c3047e7e884a/resource/53fb05ab-7892-4452-88b0-6e2be4b93fb8/download/licitacion-res.nro.04-2019-uniformes.pdf",
+          "name": "LICITACION Res.Nro.04-2019 UNIFORMES.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-02-24T15:58:21.548Z",
+          "description": ""
+        },
+        {
+          "id": "93a1113a-afc9-4a46-9154-7e9b6d54090f",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/9d740178-63df-4f7f-888b-c3047e7e884a/resource/93a1113a-afc9-4a46-9154-7e9b6d54090f/download/resolucion-nro.006-2019-licitacion-uniformesr-04-2019.pdf",
+          "name": "RESOLUCION Nro.006-2019 licitación uniformes(R-04-2019).pdf",
+          "format": "PDF",
+          "updatedAt": "2022-02-24T15:58:42.816Z",
+          "description": ""
+        },
+        {
+          "id": "efff4a3c-f91e-4c00-a0d1-8ea9981b1617",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/9d740178-63df-4f7f-888b-c3047e7e884a/resource/efff4a3c-f91e-4c00-a0d1-8ea9981b1617/download/licitacion-res.nro.17-2019-licencias.pdf",
+          "name": "LICITACION Res.Nro.17-2019 LICENCIAS.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-02-24T15:58:55.436Z",
+          "description": ""
+        },
+        {
+          "id": "6af74f58-ad8d-4245-961e-2d1b9554827c",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/9d740178-63df-4f7f-888b-c3047e7e884a/resource/6af74f58-ad8d-4245-961e-2d1b9554827c/download/resolucion-nro.23-2019-licitacion-licencia-informaticar-17-2019.pdf",
+          "name": "RESOLUCION Nro.23-2019 licitación licencia informática(R-17-2019).pdf",
+          "format": "PDF",
+          "updatedAt": "2022-02-24T15:59:10.555Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2022-02-24T15:57:49.639Z",
+      "updatedAt": "2022-02-24T15:59:11.311Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "f5b50472-061a-4234-bedc-844bc729fb43",
+      "name": "licitaciones-publicas-2020",
+      "title": "Licitaciones Públicas 2020",
+      "keywords": [
+        "economico",
+        "licitaciones",
+        "presupuesto"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "34c2ddd5-4e25-4145-a2ee-8e5a6bde87eb",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/f5b50472-061a-4234-bedc-844bc729fb43/resource/34c2ddd5-4e25-4145-a2ee-8e5a6bde87eb/download/licitacion-res.nro.45-2020-art.pdf",
+          "name": "LICITACION Res.Nro.45-2020 ART.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-02-24T16:03:00.422Z",
+          "description": "LICITACION Res.Nro.45-2020 ART"
+        },
+        {
+          "id": "38f833a1-06c3-4c9b-afb0-34a6093a9082",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/f5b50472-061a-4234-bedc-844bc729fb43/resource/38f833a1-06c3-4c9b-afb0-34a6093a9082/download/resolucion-nro.71-2020-licitacion-artr-45-2020.pdf",
+          "name": "RESOLUCION Nro.71-2020 licitación ART(R-45-2020)",
+          "format": "PDF",
+          "updatedAt": "2022-02-24T16:03:14.824Z",
+          "description": "RESOLUCION Nro.71-2020 licitación ART(R-45-2020)"
+        },
+        {
+          "id": "06464360-c5e3-453e-9d86-ba8d69681d94",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/f5b50472-061a-4234-bedc-844bc729fb43/resource/06464360-c5e3-453e-9d86-ba8d69681d94/download/licitacion-res.nro.57-2020-licencias.pdf",
+          "name": "LICITACION Res.Nro.57-2020 LICENCIAS.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-02-24T16:03:31.466Z",
+          "description": "LICITACION Res.Nro.57-2020 LICENCIAS"
+        },
+        {
+          "id": "b18c230b-d9f8-4a52-a715-44fe2e811dcf",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/f5b50472-061a-4234-bedc-844bc729fb43/resource/b18c230b-d9f8-4a52-a715-44fe2e811dcf/download/resolucion-nro.67-2020-licitacion-desierta-renovacion-licencia-informaticar-57-2020.pdf",
+          "name": "RESOLUCION Nro.67-2020 licitación DESIERTA renovación licencia informática(R-57-2020).pdf",
+          "format": "PDF",
+          "updatedAt": "2022-02-24T16:03:52.696Z",
+          "description": "RESOLUCION Nro.67-2020 licitación DESIERTA renovación licencia informática(R-57-2020)"
+        },
+        {
+          "id": "5af13a7f-6378-45b0-af32-74a4bdeefdf1",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/f5b50472-061a-4234-bedc-844bc729fb43/resource/5af13a7f-6378-45b0-af32-74a4bdeefdf1/download/resolucion-nro.68-2020-compra-directa-licencia-informaticar-67-2020.pdf",
+          "name": "RESOLUCION Nro.68-2020 compra directa-licencia informática(R-67-2020).pdf",
+          "format": "PDF",
+          "updatedAt": "2022-02-24T16:04:10.823Z",
+          "description": "RESOLUCION Nro.67-2020 licitación DESIERTA renovación licencia informática(R-57-2020)"
+        },
+        {
+          "id": "323fd35f-70f1-47d0-8f35-18cdb2fdb880",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/f5b50472-061a-4234-bedc-844bc729fb43/resource/323fd35f-70f1-47d0-8f35-18cdb2fdb880/download/licitacion-res.nro.59-2020-equipos-informaticos.pdf",
+          "name": "LICITACION Res.Nro.59-2020 EQUIPOS INFORMATICOS.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-02-24T18:38:35.098Z",
+          "description": "LICITACION Res.Nro.59-2020 EQUIPOS INFORMATICOS"
+        },
+        {
+          "id": "ab39a7ad-cbec-4eb6-ab89-4f1f4d3e1e3f",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/f5b50472-061a-4234-bedc-844bc729fb43/resource/ab39a7ad-cbec-4eb6-ab89-4f1f4d3e1e3f/download/resolucion-nro.70-2020-licitacion-equipamiento-informaticor-59-2020.pdf",
+          "name": "RESOLUCION Nro.70-2020 licitación equipamiento informático(R-59-2020).pdf",
+          "format": "PDF",
+          "updatedAt": "2022-02-24T18:39:57.790Z",
+          "description": "RESOLUCION Nro.70-2020 licitación equipamiento informático(R-59-2020)"
+        }
+      ],
+      "createdAt": "2022-02-24T16:01:51.650Z",
+      "updatedAt": "2022-02-24T18:39:57.820Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "c4c85364-cab4-4d5a-8b8e-97396be1b695",
+      "name": "licitaciones-publicas-2021",
+      "title": "Licitaciones Públicas 2021",
+      "keywords": [
+        "economico",
+        "licitaciones",
+        "presupuesto"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "795ae564-5d9f-4180-9850-ae4cee5180f9",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/c4c85364-cab4-4d5a-8b8e-97396be1b695/resource/795ae564-5d9f-4180-9850-ae4cee5180f9/download/resolucion-nro.45-2021-contratacion-directa-aro-magnetico-para-hipoacusicos.pdf",
+          "name": "RESOLUCION Nro.45-2021 contratación directa aro magnético para hipoacúsicos.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-02-24T20:12:34.405Z",
+          "description": "RESOLUCION Nro.45-2021 contratación directa aro magnético para hipoacúsicos"
+        },
+        {
+          "id": "cbd367f0-617b-4095-aced-8f6429cdeb4f",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/c4c85364-cab4-4d5a-8b8e-97396be1b695/resource/cbd367f0-617b-4095-aced-8f6429cdeb4f/download/contratacion-directa-res.nro.45-2021-aro-magnetico.pdf",
+          "name": "CONTRATACION DIRECTA Res.Nro.45-2021 ARO MAGNETICO.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-02-24T20:13:20.984Z",
+          "description": "CONTRATACION DIRECTA Res.Nro.45-2021 ARO MAGNETICO PARA HIPOACUSICOS"
+        },
+        {
+          "id": "cbef684f-48d4-4c66-bb5d-6631a696bf6a",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/c4c85364-cab4-4d5a-8b8e-97396be1b695/resource/cbef684f-48d4-4c66-bb5d-6631a696bf6a/download/licitacion-res.nro.123-2021-licencias-de-software.pdf",
+          "name": "LICITACION Res.Nro.123-2021 LICENCIAS DE SOFTWARE.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-02-24T20:13:51.552Z",
+          "description": "LICITACION Res.Nro.123-2021 LICENCIAS DE SOFTWARE"
+        },
+        {
+          "id": "cbb25de0-2bdd-4b0a-a41b-6ed819902d01",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/c4c85364-cab4-4d5a-8b8e-97396be1b695/resource/cbb25de0-2bdd-4b0a-a41b-6ed819902d01/download/resolucion-nro.142-2021-renovacion-licencia-informaticar-123-21.pdf",
+          "name": "RESOLUCION Nro.142-2021 renovación licencia informática(R-123-21).pdf",
+          "format": "PDF",
+          "updatedAt": "2022-02-24T20:14:09.833Z",
+          "description": "RESOLUCION Nro.142-2021 renovación licencia informática(R-123-21)"
+        },
+        {
+          "id": "2727f73c-b811-46c4-ac3e-24b525782de3",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/c4c85364-cab4-4d5a-8b8e-97396be1b695/resource/2727f73c-b811-46c4-ac3e-24b525782de3/download/licitacion-res.nro.124-2021-equipos-informatica.pdf",
+          "name": "LICITACION Res.Nro.124-2021 EQUIPOS INFORMATICA.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-02-24T20:14:31.620Z",
+          "description": "LICITACION Res.Nro.124-2021 EQUIPOS INFORMATICA"
+        },
+        {
+          "id": "7799d8e0-ac6a-4807-ab3d-20b9c7a5fda6",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/c4c85364-cab4-4d5a-8b8e-97396be1b695/resource/7799d8e0-ac6a-4807-ab3d-20b9c7a5fda6/download/resolucion-nro.151-2021-licitacion-equipamiento-informaticar-124-21.pdf",
+          "name": "RESOLUCION Nro.151-2021 licitación equipamiento informática(R-124-21).pdf",
+          "format": "PDF",
+          "updatedAt": "2022-02-24T20:15:06.475Z",
+          "description": "RESOLUCION Nro.151-2021 licitación equipamiento informática(R-124-21)"
+        },
+        {
+          "id": "e08369b1-b80a-41d0-888a-588dcefd7f6b",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/c4c85364-cab4-4d5a-8b8e-97396be1b695/resource/e08369b1-b80a-41d0-888a-588dcefd7f6b/download/licitacion-res.nro.154-2021-equipos-informatica.pdf",
+          "name": "LICITACION Res.Nro.154-2021 EQUIPOS INFORMATICA.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-02-24T20:17:50.797Z",
+          "description": "LICITACION Res.Nro.154-2021 EQUIPOS INFORMATICA."
+        },
+        {
+          "id": "f99a496a-9fff-414b-88aa-021f916dead0",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/c4c85364-cab4-4d5a-8b8e-97396be1b695/resource/f99a496a-9fff-414b-88aa-021f916dead0/download/resolucion-nro.204-2021-licitacion-equipamiento-informaticor-154-21.pdf",
+          "name": "RESOLUCION Nro.204-2021 licitación equipamiento informático(R-154-21).pdf",
+          "format": "PDF",
+          "updatedAt": "2022-02-24T20:18:25.779Z",
+          "description": "RESOLUCION Nro.204-2021 licitación equipamiento informático(R-154-21)"
+        },
+        {
+          "id": "efab7995-d29c-4a05-9791-bf2f121b2f8b",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/c4c85364-cab4-4d5a-8b8e-97396be1b695/resource/efab7995-d29c-4a05-9791-bf2f121b2f8b/download/contratacion-directa-res.nro.156-2021-equipos-informaticos.pdf",
+          "name": "CONTRATACION DIRECTA Res.Nro.156-2021 EQUIPOS INFORMATICOS.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-02-24T20:19:04.029Z",
+          "description": "CONTRATACION DIRECTA Res.Nro.156-2021 EQUIPOS INFORMATICOS"
+        },
+        {
+          "id": "8d88e48b-094a-46d5-bdb4-1358a6f2c397",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/c4c85364-cab4-4d5a-8b8e-97396be1b695/resource/8d88e48b-094a-46d5-bdb4-1358a6f2c397/download/resolucion-nro.215-2021-contratacion-directa-equipos-informaticar-156-21.pdf",
+          "name": "RESOLUCION Nro.215-2021 contratación directa equipos informática(R-156-21).pdf",
+          "format": "PDF",
+          "updatedAt": "2022-02-24T20:19:33.715Z",
+          "description": "RESOLUCION Nro.215-2021 contratación directa equipos informática(R-156-21)"
+        }
+      ],
+      "createdAt": "2022-02-24T20:11:43.582Z",
+      "updatedAt": "2022-02-24T20:19:34.187Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "22cf6dae-8c16-46c0-a41e-7ba6d111e5a2",
+      "name": "licitaciones-publicas-2022",
+      "title": "Licitaciones Públicas 2022",
+      "keywords": [
+        "economico",
+        "licitaciones",
+        "presupuesto"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "09c4febd-7435-4112-947e-fbb91feed15f",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/22cf6dae-8c16-46c0-a41e-7ba6d111e5a2/resource/09c4febd-7435-4112-947e-fbb91feed15f/download/2022-04-13-licitacion-seguro-equipos-informatica-2022.pdf",
+          "name": "2022-04-13-LICITACION SEGURO EQUIPOS INFORMATICA 2022.pdf",
+          "format": "PDF",
+          "updatedAt": "2023-11-13T23:16:25.206Z",
+          "description": ""
+        },
+        {
+          "id": "27af5f98-daf2-4f8a-85f8-0d64cfcc8ed9",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/22cf6dae-8c16-46c0-a41e-7ba6d111e5a2/resource/27af5f98-daf2-4f8a-85f8-0d64cfcc8ed9/download/2022-08-26-licitacion-expendio-bebidas-calientes.pdf",
+          "name": "2022-08-26-LICITACION  - EXPENDIO BEBIDAS CALIENTES.pdf",
+          "format": "PDF",
+          "updatedAt": "2023-11-13T23:17:03.732Z",
+          "description": ""
+        },
+        {
+          "id": "d5a98994-6b2b-4c76-bcec-ce75e3a30f6b",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/22cf6dae-8c16-46c0-a41e-7ba6d111e5a2/resource/d5a98994-6b2b-4c76-bcec-ce75e3a30f6b/download/2022-11-23-licitacion-art-2022.pdf",
+          "name": "2022-11-23-LICITACION ART 2022.pdf",
+          "format": "PDF",
+          "updatedAt": "2023-11-13T23:18:19.869Z",
+          "description": ""
+        },
+        {
+          "id": "8fe29cf4-f6c7-47d4-ba8d-47d60ee71c4e",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/22cf6dae-8c16-46c0-a41e-7ba6d111e5a2/resource/8fe29cf4-f6c7-47d4-ba8d-47d60ee71c4e/download/2022-12-19-licitacion-licencias-2022.pdf",
+          "name": "2022-12-19-LICITACION LICENCIAS 2022.pdf",
+          "format": "PDF",
+          "updatedAt": "2023-11-13T23:18:50.363Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2023-11-13T23:07:41.592Z",
+      "updatedAt": "2023-11-13T23:18:50.942Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "6bc70669-dfd7-47ef-815e-3f0b789cb65f",
+      "name": "licitaciones-publicas-2023",
+      "title": "Licitaciones Públicas 2023",
+      "keywords": [
+        "economico",
+        "licitaciones",
+        "presupuesto"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "942813de-bd92-42ed-a74c-7afa3c6469b4",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/6bc70669-dfd7-47ef-815e-3f0b789cb65f/resource/942813de-bd92-42ed-a74c-7afa3c6469b4/download/2023-03-13-licitacion-expendio-bebidas-calientes.pdf",
+          "name": "2023-03-13-LICITACION  - EXPENDIO BEBIDAS CALIENTES.pdf",
+          "format": "PDF",
+          "updatedAt": "2023-11-13T23:28:06.302Z",
+          "description": ""
+        },
+        {
+          "id": "9489619f-756f-42b1-8891-ed4e0469a01b",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/6bc70669-dfd7-47ef-815e-3f0b789cb65f/resource/9489619f-756f-42b1-8891-ed4e0469a01b/download/2023-04-12-licitacion-seguro-equipos-informatica.pdf",
+          "name": "2023-04-12-LICITACION SEGURO EQUIPOS INFORMATICA.pdf",
+          "format": "PDF",
+          "updatedAt": "2023-11-13T23:28:23.515Z",
+          "description": ""
+        },
+        {
+          "id": "1d3c3fe7-2823-4402-a90d-d1ce221c38cb",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/6bc70669-dfd7-47ef-815e-3f0b789cb65f/resource/1d3c3fe7-2823-4402-a90d-d1ce221c38cb/download/2023-10-27-licitacion-aires-acondicionados-data-center.pdf",
+          "name": "2023-10-27-LICITACION AIRES ACONDICIONADOS DATA CENTER.pdf",
+          "format": "PDF",
+          "updatedAt": "2023-11-13T23:30:12.811Z",
+          "description": ""
+        },
+        {
+          "id": "f8c4f353-5faa-4639-be05-d4ac528242fb",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/6bc70669-dfd7-47ef-815e-3f0b789cb65f/resource/f8c4f353-5faa-4639-be05-d4ac528242fb/download/2023-11-22-licencias.pdf",
+          "name": "2023-11-22-LICENCIAS.pdf",
+          "format": "PDF",
+          "updatedAt": "2023-11-13T23:32:21.332Z",
+          "description": ""
+        },
+        {
+          "id": "b2d8576a-2aa5-4142-9086-e33dcc5c9e3a",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/6bc70669-dfd7-47ef-815e-3f0b789cb65f/resource/b2d8576a-2aa5-4142-9086-e33dcc5c9e3a/download/r-151-licitacion-licencias.pdf",
+          "name": "R-151-LICITACION-LICENCIAS.pdf",
+          "format": "PDF",
+          "updatedAt": "2023-11-30T17:57:01.697Z",
+          "description": "Resolución Nro.151- de Adjudicacion "
+        }
+      ],
+      "createdAt": "2023-11-13T23:24:14.758Z",
+      "updatedAt": "2023-11-30T17:57:01.789Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "4dd8f630-8c77-4dab-9def-b6dfdf3004e1",
+      "name": "listado-de-declaraciones-juradas",
+      "title": "Listado de Declaraciones Juradas",
+      "keywords": [
+        "ddjj",
+        "organizacional"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "44eba3c0-a5aa-4ac0-bb3c-996f2a9a1be3",
+          "downloadUrl": "https://eticapublica.mendoza.gov.ar/welcome/declaraciones",
+          "name": "DD JJ",
+          "format": "HTML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Sitio Externo"
+        }
+      ],
+      "createdAt": "2019-06-13T19:39:17.579Z",
+      "updatedAt": "2022-02-15T18:02:22.491Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "2f3632e3-30c1-4e48-af27-34743eae091d",
+      "name": "organigrama",
+      "title": "Organigrama",
+      "keywords": [
+        "organigrama",
+        "organizacional"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "eb6eb5e3-8446-45b1-bd67-50f6c416481a",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/2f3632e3-30c1-4e48-af27-34743eae091d/resource/eb6eb5e3-8446-45b1-bd67-50f6c416481a/download/organigrama_hcamara_de_diputados.pdf",
+          "name": "ORGANIGRAMA_HCamara_de_Diputados.pdf",
+          "format": "PDF",
+          "updatedAt": "2021-03-01T17:34:13.303Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2019-06-07T15:57:37.779Z",
+      "updatedAt": "2021-03-01T17:34:13.340Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "20779fd5-6278-4eb3-9210-c036e4e3c43e",
+      "name": "plan-de-accion-institucional",
+      "title": "Plan de Acción Institucional",
+      "keywords": [
+        "organizacional"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "e6f9ef92-7fb1-4b93-bbb7-6ef7a9239912",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/20779fd5-6278-4eb3-9210-c036e4e3c43e/resource/e6f9ef92-7fb1-4b93-bbb7-6ef7a9239912/download/plan_de_accion_institucional.pdf",
+          "name": "Plan_de_Accion_Institucional 2015 -2019",
+          "format": "PDF",
+          "updatedAt": "2019-08-27T18:20:49.635Z",
+          "description": "Plan_de_Accion_Institucional 2015 -2019"
+        }
+      ],
+      "createdAt": "2019-08-27T18:20:06.031Z",
+      "updatedAt": "2019-08-27T18:20:50.463Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "a3a55c7f-6b28-49f2-8896-5a1a69c24943",
+      "name": "publicidad-y-propaganda",
+      "title": "Publicidad y Propaganda",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "c3a8e1d0-e2ac-4be4-b3ea-c5c8c311a020",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a3a55c7f-6b28-49f2-8896-5a1a69c24943/resource/c3a8e1d0-e2ac-4be4-b3ea-c5c8c311a020/download/informe-ejercicio-2014-2015-2016.xlsx",
+          "name": "INFORME EJERCICIO 2014-2015-2016.xlsx",
+          "format": "XLSX",
+          "updatedAt": "2021-04-27T18:17:32.266Z",
+          "description": ""
+        },
+        {
+          "id": "a3c48d0b-4d41-4663-babd-1af96f554d1d",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a3a55c7f-6b28-49f2-8896-5a1a69c24943/resource/a3c48d0b-4d41-4663-babd-1af96f554d1d/download/informe-ejercicio-2017.xlsx",
+          "name": "INFORME EJERCICIO 2017.xlsx",
+          "format": "XLSX",
+          "updatedAt": "2021-04-27T18:18:14.025Z",
+          "description": ""
+        },
+        {
+          "id": "dce10b5e-0918-41fb-9e45-96375a74d130",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a3a55c7f-6b28-49f2-8896-5a1a69c24943/resource/dce10b5e-0918-41fb-9e45-96375a74d130/download/informe-ejercicio-2018.xlsx",
+          "name": "INFORME EJERCICIO 2018.xlsx",
+          "format": "XLSX",
+          "updatedAt": "2021-04-27T18:19:57.302Z",
+          "description": ""
+        },
+        {
+          "id": "3caba06d-c27e-4399-86b3-1472b8477b9c",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a3a55c7f-6b28-49f2-8896-5a1a69c24943/resource/3caba06d-c27e-4399-86b3-1472b8477b9c/download/informe-contaduria-2018.pdf",
+          "name": "INFORME EJERCICIO 2018 CONTADURIA GENERAL DE LA PROVINCIA.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-09-19T18:28:00.304Z",
+          "description": "PUBLICIDAD Y PROPAGANDA 2018 Ley 9033 art.84 - Dec 155/2014\r\nEjercicio 2018"
+        },
+        {
+          "id": "04ea27e6-a3e2-4944-ab1d-75e2f1ce1212",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a3a55c7f-6b28-49f2-8896-5a1a69c24943/resource/04ea27e6-a3e2-4944-ab1d-75e2f1ce1212/download/informe-contaduria-1er-cuatrimestre-2019.pdf",
+          "name": "INFORME EJERCICIO 2019 PRIMER CUATRIMESTRE CONTADURIA GENERAL DE LA PROVINCIA.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-09-19T18:29:03.364Z",
+          "description": "PUBLICIDAD Y PROPAGANDA art.84 Ley 9033 y art.43 Ley 9122\r\nEjercicio 2019 - Primer Cuatrimestre"
+        },
+        {
+          "id": "d8fe065d-0093-4752-bf25-ca946d862da5",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a3a55c7f-6b28-49f2-8896-5a1a69c24943/resource/d8fe065d-0093-4752-bf25-ca946d862da5/download/informe-contaduria-2do-cuatrimestre-2019.pdf",
+          "name": "INFORME 2019 SEGUNDO CUATRIMESTRE CONTADURIA GENERAL DE LA PROVINCIA.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-09-19T18:29:57.327Z",
+          "description": "PUBLICIDAD Y PROPAGANDA art.84 Ley 9033 y art.43 Ley 9122\r\nEjercicio 2019 - Acumulado al Segundo Cuatrimestre"
+        },
+        {
+          "id": "9559a8ac-f3bd-4fd7-be0f-a8bbd84d4eee",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a3a55c7f-6b28-49f2-8896-5a1a69c24943/resource/9559a8ac-f3bd-4fd7-be0f-a8bbd84d4eee/download/informe-tercer-cuatrimestre-2019-primer-cuatrimestre-2020.pdf",
+          "name": "INFORME TERCER CUATRIMESTRE 2019 PRIMER CUATRIMESTRE 2020.pdf",
+          "format": "PDF",
+          "updatedAt": "2021-04-27T18:19:16.364Z",
+          "description": ""
+        },
+        {
+          "id": "361da236-cfca-48c6-862f-80db632862a6",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a3a55c7f-6b28-49f2-8896-5a1a69c24943/resource/361da236-cfca-48c6-862f-80db632862a6/download/publicidad-y-propaganda-2do-cuatrimestre-2020.pdf",
+          "name": "Publicidad y Propaganda 2do Cuatrimestre 2020.pdf",
+          "format": "PDF",
+          "updatedAt": "2021-05-11T15:45:04.124Z",
+          "description": ""
+        },
+        {
+          "id": "6616a0d9-113b-4c91-bbe0-e89edb859ed0",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a3a55c7f-6b28-49f2-8896-5a1a69c24943/resource/6616a0d9-113b-4c91-bbe0-e89edb859ed0/download/publicidad-y-propaganda-3er-cuatrimestre-2020.pdf",
+          "name": "publicidad y propaganda 3er cuatrimestre 2020.pdf",
+          "format": "PDF",
+          "updatedAt": "2021-05-11T15:46:32.128Z",
+          "description": ""
+        },
+        {
+          "id": "2d298b03-fdec-431c-bf30-3fd731c19482",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a3a55c7f-6b28-49f2-8896-5a1a69c24943/resource/2d298b03-fdec-431c-bf30-3fd731c19482/download/publicidad-y-propaganda-1er-cuatrimestre-2021.pdf",
+          "name": "Publicidad y Propaganda 1er Cuatrimestre 2021.pdf",
+          "format": "PDF",
+          "updatedAt": "2021-05-11T15:47:49.144Z",
+          "description": ""
+        },
+        {
+          "id": "23af95a2-6344-4e3c-a8d9-c7c306e12c2c",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a3a55c7f-6b28-49f2-8896-5a1a69c24943/resource/23af95a2-6344-4e3c-a8d9-c7c306e12c2c/download/publicidad-y-propaganda-2do-cuatrimestre-2021.pdf",
+          "name": "Publicidad y Propaganda 2do Cuatrimestre 2021.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-07-26T16:23:49.699Z",
+          "description": ""
+        },
+        {
+          "id": "e0461db9-7c19-4457-b415-e1f4ed4877f4",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a3a55c7f-6b28-49f2-8896-5a1a69c24943/resource/e0461db9-7c19-4457-b415-e1f4ed4877f4/download/publicidad-y-propaganda-3er-cuatrimestre-2021.pdf",
+          "name": "Publicidad y Propaganda 3er cuatrimestre 2021.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-05-10T17:06:31.858Z",
+          "description": "Publicidad y Propaganda 3er cuatrimestre 2021"
+        },
+        {
+          "id": "6451d1d7-412e-4634-b88b-d2ff58428c37",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a3a55c7f-6b28-49f2-8896-5a1a69c24943/resource/6451d1d7-412e-4634-b88b-d2ff58428c37/download/publicidad-y-propaganda-1er-cuatrimestre-2022-.pdf",
+          "name": "Publicidad y Propaganda 1er cuatrimestre 2022 .pdf",
+          "format": "PDF",
+          "updatedAt": "2022-05-10T17:07:37.616Z",
+          "description": "Publicidad y Propaganda 1er cuatrimestre 2022"
+        },
+        {
+          "id": "8e61c32e-b63a-4d92-9a56-d3bfef3ec1a5",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a3a55c7f-6b28-49f2-8896-5a1a69c24943/resource/8e61c32e-b63a-4d92-9a56-d3bfef3ec1a5/download/publicidad-y-propaganda-2do-cuatrimestre-2022.pdf",
+          "name": "Publicidad y Propaganda 2do cuatrimestre 2022.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-09-08T15:34:10.108Z",
+          "description": "Publicidad y Propaganda 2do cuatrimestre 2022."
+        },
+        {
+          "id": "e06394c2-b628-49b0-be12-1f428a17ad79",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a3a55c7f-6b28-49f2-8896-5a1a69c24943/resource/e06394c2-b628-49b0-be12-1f428a17ad79/download/publicidad-y-propaganda-3er-cuatrimestre-2022-definitivo.pdf",
+          "name": "Publicidad y Propaganda 3er cuatrimestre 2022-DEFINITIVO.pdf",
+          "format": "PDF",
+          "updatedAt": "2023-05-08T17:29:11.346Z",
+          "description": "Publicidad y Propaganda 3er cuatrimestre 2022 - DEFINITIVO"
+        },
+        {
+          "id": "e4d335ca-f78e-4770-9b35-8ee4973afc02",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a3a55c7f-6b28-49f2-8896-5a1a69c24943/resource/e4d335ca-f78e-4770-9b35-8ee4973afc02/download/publicidad-y-propaganda-1er-cuatrimestre-2023.pdf",
+          "name": "Publicidad y Propaganda 1er cuatrimestre 2023.pdf",
+          "format": "PDF",
+          "updatedAt": "2023-05-08T17:30:54.426Z",
+          "description": "Publicidad y Propaganda 1er cuatrimestre 2023"
+        },
+        {
+          "id": "5d535bb1-0b20-4268-af27-fe21e38f7fbe",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a3a55c7f-6b28-49f2-8896-5a1a69c24943/resource/5d535bb1-0b20-4268-af27-fe21e38f7fbe/download/publicidad-y-propaganda-2do-cuatrimestre-2023.pdf",
+          "name": "Publicidad y Propaganda 2do cuatrimestre 2023.pdf",
+          "format": "PDF",
+          "updatedAt": "2023-09-05T18:29:58.474Z",
+          "description": "Publicidad y Propaganda 2do cuatrimestre 2023"
+        }
+      ],
+      "createdAt": "2019-09-19T18:25:58.940Z",
+      "updatedAt": "2023-09-05T18:30:25.960Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "0f940c0e-ae2c-4f08-83f2-4a3e5d82a9db",
+      "name": "reglamento-interno-honorable-camara-de-diputados",
+      "title": "Reglamento Interno Honorable Cámara de Diputados",
+      "keywords": [
+        "actividad legislativa"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "0cdf61b2-263a-41ab-b8ea-cb3da20e7fcb",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/0f940c0e-ae2c-4f08-83f2-4a3e5d82a9db/resource/0cdf61b2-263a-41ab-b8ea-cb3da20e7fcb/download/reglamento_interno_2016_hcdiputados.pdf",
+          "name": "Reglamento_interno_2016_HCDiputados.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:38:29.244Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2019-06-06T21:38:14.566Z",
+      "updatedAt": "2019-06-06T21:38:29.685Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "7dccd069-2050-4f0c-923c-56a8944960ee",
+      "name": "resumen-de-actividad-de-comisiones-2020",
+      "title": "Resumen de Actividad de Comisiones 2020",
+      "keywords": [
+        "actividad legislativa",
+        "actividad de comisiones"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "6dfb527b-84bb-434c-8a09-f1ddcb8ae1f2",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/7dccd069-2050-4f0c-923c-56a8944960ee/resource/6dfb527b-84bb-434c-8a09-f1ddcb8ae1f2/download/comisiones-informe-anual-2020.pdf",
+          "name": "COMISIONES INFORME ANUAL 2020.pdf",
+          "format": "PDF",
+          "updatedAt": "2021-12-30T19:27:04.092Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2021-12-30T19:26:27.873Z",
+      "updatedAt": "2021-12-30T19:35:49.171Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "f138fc8f-c0cc-4b5a-a2c2-e176d3c0d6bd",
+      "name": "resumen-de-actividad-de-comisiones-2021",
+      "title": "Resumen de Actividad de Comisiones 2021",
+      "keywords": [
+        "actividad legislativa",
+        "actividad de comisiones"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "4acca590-74aa-4630-be63-90d44004c8c6",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/f138fc8f-c0cc-4b5a-a2c2-e176d3c0d6bd/resource/4acca590-74aa-4630-be63-90d44004c8c6/download/comisiones-informe-anual-2021.pdf",
+          "name": "COMISIONES INFORME ANUAL 2021.pdf",
+          "format": "PDF",
+          "updatedAt": "2021-12-30T19:32:00.171Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2021-12-30T19:30:08.488Z",
+      "updatedAt": "2021-12-30T19:36:15.532Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "a7b577f9-dfb4-4ac7-8ce5-3ed039f12084",
+      "name": "resumen-de-actividad-de-comisiones-2022",
+      "title": "Resumen de Actividad de Comisiones 2022",
+      "keywords": [
+        "actividad legislativa",
+        "actividad de comisiones"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "db0d11b5-075f-4ba5-9447-a3a0df8f88bc",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a7b577f9-dfb4-4ac7-8ce5-3ed039f12084/resource/db0d11b5-075f-4ba5-9447-a3a0df8f88bc/download/resumen-de-actividad-de-comisiones-2022.pdf",
+          "name": "Resumen de Actividad de Comisiones 2022.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-12-29T23:27:52.530Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2022-12-29T23:27:08.841Z",
+      "updatedAt": "2022-12-29T23:27:53.313Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "13c16f3a-010c-4f32-a71a-c073ed26f0ac",
+      "name": "resumen-de-sesiones-2019",
+      "title": "Resumen de Sesiones 2019",
+      "keywords": [
+        "actividad legislativa"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "004dbf1f-413c-4c3f-aff9-ae4cf1291eed",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/13c16f3a-010c-4f32-a71a-c073ed26f0ac/resource/004dbf1f-413c-4c3f-aff9-ae4cf1291eed/download/resumen-sesiones-al-05-2019.docx",
+          "name": "RESUMEN SESIONES al 05-2019.docx",
+          "format": "DOCX",
+          "updatedAt": "2019-06-06T21:16:18.777Z",
+          "description": ""
+        },
+        {
+          "id": "d5bd1a5c-668d-41b9-86d6-3c7f2bcfca0a",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/13c16f3a-010c-4f32-a71a-c073ed26f0ac/resource/d5bd1a5c-668d-41b9-86d6-3c7f2bcfca0a/download/resumen-sesiones-al-05-2019.pdf",
+          "name": "RESUMEN SESIONES al 05-2019.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-06-06T21:16:38.697Z",
+          "description": ""
+        },
+        {
+          "id": "a7725815-f1b4-47f6-a426-01ace84e3793",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/13c16f3a-010c-4f32-a71a-c073ed26f0ac/resource/a7725815-f1b4-47f6-a426-01ace84e3793/download/resumen-sesiones-junio-2019.docx",
+          "name": "RESUMEN SESIONES JUNIO 2019.docx",
+          "format": "DOCX",
+          "updatedAt": "2019-07-02T19:45:54.243Z",
+          "description": "Resumen de Sesiones Junio 2019"
+        },
+        {
+          "id": "160d295c-fa95-4e9c-8fbd-fdba81fe7b59",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/13c16f3a-010c-4f32-a71a-c073ed26f0ac/resource/160d295c-fa95-4e9c-8fbd-fdba81fe7b59/download/resumen-sesiones-junio-2019.pdf",
+          "name": "RESUMEN SESIONES JUNIO 2019.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-07-02T19:46:16.998Z",
+          "description": "Resumen de Sesiones Junio 2019"
+        },
+        {
+          "id": "418eb447-6dc4-4830-a6d3-85de1af7596e",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/13c16f3a-010c-4f32-a71a-c073ed26f0ac/resource/418eb447-6dc4-4830-a6d3-85de1af7596e/download/resumen-sesiones-julio-2019.docx",
+          "name": "RESUMEN SESIONES JULIO 2019.docx",
+          "format": "DOCX",
+          "updatedAt": "2019-08-07T14:54:08.773Z",
+          "description": "RESUMEN SESIONES JULIO 2019"
+        },
+        {
+          "id": "6c79ada7-950e-40c9-a8ac-db1ec8c6d67d",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/13c16f3a-010c-4f32-a71a-c073ed26f0ac/resource/6c79ada7-950e-40c9-a8ac-db1ec8c6d67d/download/resumen-sesiones-julio-2019.pdf",
+          "name": "RESUMEN SESIONES JULIO 2019.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-08-07T14:54:42.321Z",
+          "description": "RESUMEN SESIONES JULIO 2019"
+        },
+        {
+          "id": "2c224810-e9c4-462e-b317-19827278025b",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/13c16f3a-010c-4f32-a71a-c073ed26f0ac/resource/2c224810-e9c4-462e-b317-19827278025b/download/resumen-sesiones-agosto-2019.docx",
+          "name": "RESUMEN SESIONES AGOSTO 2019.docx",
+          "format": "DOCX",
+          "updatedAt": "2019-09-03T16:24:45.818Z",
+          "description": ""
+        },
+        {
+          "id": "676db52d-6928-4e69-8635-67f5ab92716d",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/13c16f3a-010c-4f32-a71a-c073ed26f0ac/resource/676db52d-6928-4e69-8635-67f5ab92716d/download/resumen-sesiones-agosto-2019.pdf",
+          "name": "RESUMEN SESIONES AGOSTO 2019.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-09-03T16:25:17.271Z",
+          "description": ""
+        },
+        {
+          "id": "803ad2be-1d0b-4c91-8bd0-8fe9a8aa06ea",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/13c16f3a-010c-4f32-a71a-c073ed26f0ac/resource/803ad2be-1d0b-4c91-8bd0-8fe9a8aa06ea/download/resumen-sesiones-setiembre-2019.pdf",
+          "name": "RESUMEN SESIONES SETIEMBRE 2019.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-10-10T18:19:21.763Z",
+          "description": "RESUMEN SESIONES SETIEMBRE 2019"
+        },
+        {
+          "id": "8e32cdd1-39ca-4235-84de-6f16ebb4dfc9",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/13c16f3a-010c-4f32-a71a-c073ed26f0ac/resource/8e32cdd1-39ca-4235-84de-6f16ebb4dfc9/download/resumen-sesiones-octubre-2019.pdf",
+          "name": "RESUMEN SESIONES OCTUBRE 2019.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-11-11T19:08:45.309Z",
+          "description": ""
+        },
+        {
+          "id": "a417a9e9-e256-4320-8fc3-3eaf68be0931",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/13c16f3a-010c-4f32-a71a-c073ed26f0ac/resource/a417a9e9-e256-4320-8fc3-3eaf68be0931/download/resumen-sesiones-noviembre-2019.pdf",
+          "name": "RESUMEN SESIONES NOVIEMBRE 2019.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-12-10T15:01:44.903Z",
+          "description": "RESUMEN SESIONES NOVIEMBRE 2019"
+        },
+        {
+          "id": "01a655d0-3137-4481-b793-9d6cb7f19964",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/13c16f3a-010c-4f32-a71a-c073ed26f0ac/resource/01a655d0-3137-4481-b793-9d6cb7f19964/download/resumen-sesiones-diciembre.pdf",
+          "name": "RESUMEN SESIONES DICIEMBRE 2019.pdf",
+          "format": "PDF",
+          "updatedAt": "2020-01-08T15:42:47.580Z",
+          "description": "RESUMEN  SESIONES  DICIEMBRE DE 2019"
+        }
+      ],
+      "createdAt": "2019-06-06T21:15:32.688Z",
+      "updatedAt": "2020-01-08T15:44:39.358Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "7eb79b8e-926d-45e0-b07e-349368c790f3",
+      "name": "resumen-de-sesiones-2020",
+      "title": "Resumen de Sesiones 2020",
+      "keywords": [
+        "actividad legislativa"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "9c7f8e5a-1a13-4cfa-a8d6-1caaad427759",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/7eb79b8e-926d-45e0-b07e-349368c790f3/resource/9c7f8e5a-1a13-4cfa-a8d6-1caaad427759/download/resumen-sesiones-enero-2020.pdf",
+          "name": "RESUMEN SESIONES ENERO 2020.pdf",
+          "format": "PDF",
+          "updatedAt": "2020-07-06T20:16:51.062Z",
+          "description": ""
+        },
+        {
+          "id": "07bcda0f-b36b-4cb1-9287-cce92d06f6d0",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/7eb79b8e-926d-45e0-b07e-349368c790f3/resource/07bcda0f-b36b-4cb1-9287-cce92d06f6d0/download/resumen-sesiones-febrero-2020.pdf",
+          "name": "RESUMEN SESIONES FEBRERO 2020.pdf",
+          "format": "PDF",
+          "updatedAt": "2020-07-06T20:17:01.188Z",
+          "description": ""
+        },
+        {
+          "id": "e8dd9c40-ab0a-441c-8d11-be7d53a63afa",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/7eb79b8e-926d-45e0-b07e-349368c790f3/resource/e8dd9c40-ab0a-441c-8d11-be7d53a63afa/download/resumen-sesiones-marzo-2020.pdf",
+          "name": "RESUMEN SESIONES MARZO 2020.pdf",
+          "format": "PDF",
+          "updatedAt": "2020-07-06T20:17:15.587Z",
+          "description": ""
+        },
+        {
+          "id": "57a1fedb-5a30-40da-b4b5-8d5d5d682a49",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/7eb79b8e-926d-45e0-b07e-349368c790f3/resource/57a1fedb-5a30-40da-b4b5-8d5d5d682a49/download/resumen-sesiones-abril-2020.pdf",
+          "name": "RESUMEN SESIONES ABRIL 2020.pdf",
+          "format": "PDF",
+          "updatedAt": "2020-07-06T20:17:30.123Z",
+          "description": ""
+        },
+        {
+          "id": "85da285f-5e67-433f-88ad-8d5fb90f421a",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/7eb79b8e-926d-45e0-b07e-349368c790f3/resource/85da285f-5e67-433f-88ad-8d5fb90f421a/download/resumen-sesiones-mayo-2020.pdf",
+          "name": "RESUMEN SESIONES MAYO 2020.pdf",
+          "format": "PDF",
+          "updatedAt": "2020-07-06T20:18:09.667Z",
+          "description": ""
+        },
+        {
+          "id": "019aec4c-fa81-4a95-8305-04857fd1fb9c",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/7eb79b8e-926d-45e0-b07e-349368c790f3/resource/019aec4c-fa81-4a95-8305-04857fd1fb9c/download/resumen-sesiones-junio-2020.pdf",
+          "name": "RESUMEN SESIONES JUNIO 2020.pdf",
+          "format": "PDF",
+          "updatedAt": "2020-07-06T20:18:47.614Z",
+          "description": ""
+        },
+        {
+          "id": "df93a037-1ccf-45c0-a47b-6657dbf291b9",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/7eb79b8e-926d-45e0-b07e-349368c790f3/resource/df93a037-1ccf-45c0-a47b-6657dbf291b9/download/resumen-sesiones-julio-2020.pdf",
+          "name": "RESUMEN SESIONES JULIO 2020.pdf",
+          "format": "PDF",
+          "updatedAt": "2021-02-24T21:50:41.037Z",
+          "description": ""
+        },
+        {
+          "id": "6b68fbb9-1599-4364-a0bc-7e65f6c1a0c5",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/7eb79b8e-926d-45e0-b07e-349368c790f3/resource/6b68fbb9-1599-4364-a0bc-7e65f6c1a0c5/download/resumen-sesiones-agosto-2020.pdf",
+          "name": "RESUMEN SESIONES AGOSTO 2020.pdf",
+          "format": "PDF",
+          "updatedAt": "2021-02-24T21:51:56.568Z",
+          "description": ""
+        },
+        {
+          "id": "f4c4a896-2d8d-45c6-9601-7cbd01a94694",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/7eb79b8e-926d-45e0-b07e-349368c790f3/resource/f4c4a896-2d8d-45c6-9601-7cbd01a94694/download/resumen-sesiones-septiembre-2020.pdf",
+          "name": "RESUMEN SESIONES SEPTIEMBRE 2020.pdf",
+          "format": "PDF",
+          "updatedAt": "2021-02-24T21:52:29.478Z",
+          "description": ""
+        },
+        {
+          "id": "7a976cb8-fd90-4f10-a4de-58aa4ec58ac7",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/7eb79b8e-926d-45e0-b07e-349368c790f3/resource/7a976cb8-fd90-4f10-a4de-58aa4ec58ac7/download/resumen-sesiones-octubre-2020.pdf",
+          "name": "RESUMEN SESIONES OCTUBRE 2020.pdf",
+          "format": "PDF",
+          "updatedAt": "2021-02-24T21:52:51.456Z",
+          "description": ""
+        },
+        {
+          "id": "62f8f856-4e67-4b43-9f33-e5e9b42ec402",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/7eb79b8e-926d-45e0-b07e-349368c790f3/resource/62f8f856-4e67-4b43-9f33-e5e9b42ec402/download/resumen-sesiones-noviembre-2020.pdf",
+          "name": "RESUMEN SESIONES NOVIEMBRE 2020.pdf",
+          "format": "PDF",
+          "updatedAt": "2021-02-24T21:53:10.481Z",
+          "description": ""
+        },
+        {
+          "id": "171644e5-33b5-421f-a1e8-4fcced7f5e98",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/7eb79b8e-926d-45e0-b07e-349368c790f3/resource/171644e5-33b5-421f-a1e8-4fcced7f5e98/download/resumen-sesiones-diciembre-2020.pdf",
+          "name": "RESUMEN SESIONES DICIEMBRE 2020.pdf",
+          "format": "PDF",
+          "updatedAt": "2021-02-24T21:53:27.199Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2020-07-06T20:09:59.620Z",
+      "updatedAt": "2021-02-24T21:53:27.214Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "0b33d07d-d886-4e9a-9e24-80dedce49943",
+      "name": "resumen-de-sesiones-2021",
+      "title": "Resumen de Sesiones 2021",
+      "keywords": [
+        "actividad legislativa"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "7c45407d-3b6b-403b-a32f-d1441e313c34",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/0b33d07d-d886-4e9a-9e24-80dedce49943/resource/7c45407d-3b6b-403b-a32f-d1441e313c34/download/resumen-sesiones-enero-2021.pdf",
+          "name": "RESUMEN SESIONES ENERO 2021.pdf",
+          "format": "PDF",
+          "updatedAt": "2021-02-24T21:56:55.329Z",
+          "description": ""
+        },
+        {
+          "id": "b685f38c-135f-4956-9dea-adfd0f942d60",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/0b33d07d-d886-4e9a-9e24-80dedce49943/resource/b685f38c-135f-4956-9dea-adfd0f942d60/download/resumen-sesiones-febrero-2021.pdf",
+          "name": "RESUMEN SESIONES FEBRERO 2021.pdf",
+          "format": "PDF",
+          "updatedAt": "2021-05-11T15:49:10.759Z",
+          "description": ""
+        },
+        {
+          "id": "59d816c9-0bbb-4ff0-a4f2-7806d621f7f0",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/0b33d07d-d886-4e9a-9e24-80dedce49943/resource/59d816c9-0bbb-4ff0-a4f2-7806d621f7f0/download/resumen-sesiones-marzo-2021.pdf",
+          "name": "RESUMEN SESIONES MARZO 2021.pdf",
+          "format": "PDF",
+          "updatedAt": "2021-05-11T15:49:47.470Z",
+          "description": ""
+        },
+        {
+          "id": "60bb9b0d-b7e3-4386-9f73-8ba6d714fa81",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/0b33d07d-d886-4e9a-9e24-80dedce49943/resource/60bb9b0d-b7e3-4386-9f73-8ba6d714fa81/download/resumen-sesiones-abril-2021.pdf",
+          "name": "RESUMEN SESIONES ABRIL 2021.pdf",
+          "format": "PDF",
+          "updatedAt": "2021-05-11T15:50:26.139Z",
+          "description": ""
+        },
+        {
+          "id": "8401fe58-32b0-4f7f-bba5-c703b5e6f442",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/0b33d07d-d886-4e9a-9e24-80dedce49943/resource/8401fe58-32b0-4f7f-bba5-c703b5e6f442/download/resumen-sesiones-mayo-2021.pdf",
+          "name": "RESUMEN SESIONES MAYO 2021.pdf",
+          "format": "PDF",
+          "updatedAt": "2021-08-06T21:26:43.425Z",
+          "description": ""
+        },
+        {
+          "id": "f85216da-b1d1-4d4c-a258-4bf90fc0b68d",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/0b33d07d-d886-4e9a-9e24-80dedce49943/resource/f85216da-b1d1-4d4c-a258-4bf90fc0b68d/download/resumen-sesiones-junio-2021.pdf",
+          "name": "RESUMEN SESIONES JUNIO 2021.pdf",
+          "format": "PDF",
+          "updatedAt": "2021-08-06T21:27:12.079Z",
+          "description": ""
+        },
+        {
+          "id": "dfc2665d-7703-4f80-8614-a919a2bc263e",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/0b33d07d-d886-4e9a-9e24-80dedce49943/resource/dfc2665d-7703-4f80-8614-a919a2bc263e/download/resumen-sesiones-julio-2021.pdf",
+          "name": "RESUMEN SESIONES JULIO 2021.pdf",
+          "format": "PDF",
+          "updatedAt": "2021-08-06T21:27:31.680Z",
+          "description": ""
+        },
+        {
+          "id": "313ed965-0321-49f4-97e1-7821666226e6",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/0b33d07d-d886-4e9a-9e24-80dedce49943/resource/313ed965-0321-49f4-97e1-7821666226e6/download/resumen-sesiones-agosto-2021.pdf",
+          "name": "RESUMEN SESIONES AGOSTO 2021.pdf",
+          "format": "PDF",
+          "updatedAt": "2021-10-18T18:52:26.989Z",
+          "description": ""
+        },
+        {
+          "id": "dbd7c3bc-76bd-49f8-81b4-e2377b8e8f2d",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/0b33d07d-d886-4e9a-9e24-80dedce49943/resource/dbd7c3bc-76bd-49f8-81b4-e2377b8e8f2d/download/resumen-sesiones-setiembre-2021.pdf",
+          "name": "RESUMEN SESIONES SETIEMBRE 2021.pdf",
+          "format": "PDF",
+          "updatedAt": "2021-10-18T18:55:34.928Z",
+          "description": ""
+        },
+        {
+          "id": "1bd494f9-436c-48fb-aae3-9904280b4069",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/0b33d07d-d886-4e9a-9e24-80dedce49943/resource/1bd494f9-436c-48fb-aae3-9904280b4069/download/resumen-sesiones-octubre-2021.pdf",
+          "name": "RESUMEN SESIONES OCTUBRE 2021.PDF",
+          "format": "PDF",
+          "updatedAt": "2021-12-14T13:07:38.158Z",
+          "description": ""
+        },
+        {
+          "id": "9605aaf2-eecb-4555-96ee-6449225a0a3e",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/0b33d07d-d886-4e9a-9e24-80dedce49943/resource/9605aaf2-eecb-4555-96ee-6449225a0a3e/download/resumen-sesiones-noviembre-2021.pdf",
+          "name": "RESUMEN SESIONES NOVIEMBRE 2021.pdf",
+          "format": "PDF",
+          "updatedAt": "2021-12-28T16:31:17.480Z",
+          "description": ""
+        },
+        {
+          "id": "a0dd0d68-32bd-49b3-bdb1-fbedfc8f6589",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/0b33d07d-d886-4e9a-9e24-80dedce49943/resource/a0dd0d68-32bd-49b3-bdb1-fbedfc8f6589/download/resumen-sesiones-diciembre-2021.pdf",
+          "name": "RESUMEN SESIONES DICIEMBRE 2021.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-02-15T19:40:07.368Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2021-02-24T21:56:32.407Z",
+      "updatedAt": "2022-02-15T19:40:07.424Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "0bdbc07c-a1cb-46d8-ab0e-7dcbed53224f",
+      "name": "resumen-de-sesiones-2022",
+      "title": "Resumen de Sesiones 2022",
+      "keywords": [
+        "actividad legislativa"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "9ed441a5-647d-4e3c-808a-1ebfa6e55806",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/0bdbc07c-a1cb-46d8-ab0e-7dcbed53224f/resource/9ed441a5-647d-4e3c-808a-1ebfa6e55806/download/resumen-sesiones-febrero-2022.pdf",
+          "name": "RESUMEN SESIONES FEBRERO 2022",
+          "format": "PDF",
+          "updatedAt": "2022-06-24T15:36:09.415Z",
+          "description": ""
+        },
+        {
+          "id": "d8463da8-8367-4448-a5d6-ebbb21bf58a6",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/0bdbc07c-a1cb-46d8-ab0e-7dcbed53224f/resource/d8463da8-8367-4448-a5d6-ebbb21bf58a6/download/resumen-sesiones-marzo-2022.pdf",
+          "name": "RESUMEN SESIONES MARZO 2022",
+          "format": "PDF",
+          "updatedAt": "2022-06-24T15:36:30.185Z",
+          "description": ""
+        },
+        {
+          "id": "17e5ed74-771e-44e1-aaf2-b14d3f7086fd",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/0bdbc07c-a1cb-46d8-ab0e-7dcbed53224f/resource/17e5ed74-771e-44e1-aaf2-b14d3f7086fd/download/resumen-sesiones-abril-2022.pdf",
+          "name": "RESUMEN SESIONES ABRIL 2022",
+          "format": "PDF",
+          "updatedAt": "2022-06-24T15:36:49.301Z",
+          "description": ""
+        },
+        {
+          "id": "13e3bac7-5876-41e1-bed2-af7166629b07",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/0bdbc07c-a1cb-46d8-ab0e-7dcbed53224f/resource/13e3bac7-5876-41e1-bed2-af7166629b07/download/resumen-sesiones-mayo-2022.pdf",
+          "name": "RESUMEN SESIONES MAYO 2022",
+          "format": "PDF",
+          "updatedAt": "2022-06-24T15:37:20.624Z",
+          "description": ""
+        },
+        {
+          "id": "382c2f48-2e1e-48c6-8150-156fd916f730",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/0bdbc07c-a1cb-46d8-ab0e-7dcbed53224f/resource/382c2f48-2e1e-48c6-8150-156fd916f730/download/resumen-sesiones-junio-2022.pdf",
+          "name": "RESUMEN SESIONES JUNIO 2022.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-10-18T18:06:02.687Z",
+          "description": ""
+        },
+        {
+          "id": "0313022d-7770-4260-b5be-f8ca3a30c71b",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/0bdbc07c-a1cb-46d8-ab0e-7dcbed53224f/resource/0313022d-7770-4260-b5be-f8ca3a30c71b/download/resumen-sesiones-julio-2022.pdf",
+          "name": "RESUMEN SESIONES JULIO 2022.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-10-18T18:06:28.201Z",
+          "description": ""
+        },
+        {
+          "id": "5672aa91-c7f0-4da6-a257-4dea071fc126",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/0bdbc07c-a1cb-46d8-ab0e-7dcbed53224f/resource/5672aa91-c7f0-4da6-a257-4dea071fc126/download/resumen-sesiones-agosto-2022.pdf",
+          "name": "RESUMEN SESIONES AGOSTO 2022.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-10-18T18:06:54.811Z",
+          "description": ""
+        },
+        {
+          "id": "181eb728-d7e9-4e2c-8bdd-fc2b952408d6",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/0bdbc07c-a1cb-46d8-ab0e-7dcbed53224f/resource/181eb728-d7e9-4e2c-8bdd-fc2b952408d6/download/resumen-sesiones-setiembre-2022.pdf",
+          "name": "RESUMEN SESIONES SETIEMBRE 2022.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-10-18T18:07:21.800Z",
+          "description": ""
+        },
+        {
+          "id": "68290464-79ae-4846-833a-01e80a2081a1",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/0bdbc07c-a1cb-46d8-ab0e-7dcbed53224f/resource/68290464-79ae-4846-833a-01e80a2081a1/download/resumen-sesiones-octubre-2022.pdf",
+          "name": "RESUMEN SESIONES OCTUBRE 2022.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-12-16T18:24:48.780Z",
+          "description": ""
+        },
+        {
+          "id": "99371c58-58cf-4c2e-a70f-e1732e0019e3",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/0bdbc07c-a1cb-46d8-ab0e-7dcbed53224f/resource/99371c58-58cf-4c2e-a70f-e1732e0019e3/download/resumen-sesiones-noviembre-2022.pdf",
+          "name": "RESUMEN SESIONES NOVIEMBRE 2022.pdf",
+          "format": "PDF",
+          "updatedAt": "2022-12-16T18:25:13.786Z",
+          "description": ""
+        },
+        {
+          "id": "371b2f72-7f22-415a-b566-2d931bbf8589",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/0bdbc07c-a1cb-46d8-ab0e-7dcbed53224f/resource/371b2f72-7f22-415a-b566-2d931bbf8589/download/resumen-sesiones-diciembre-2022.pdf",
+          "name": "RESUMEN SESIONES DICIEMBRE 2022.pdf",
+          "format": "PDF",
+          "updatedAt": "2023-01-03T20:41:57.790Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2022-06-24T15:35:20.428Z",
+      "updatedAt": "2023-01-03T20:41:57.829Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "a12bf461-bc23-40b5-8496-211382a012b7",
+      "name": "resumen-de-sesiones-2023",
+      "title": "Resumen de Sesiones 2023",
+      "keywords": [
+        "actividad legislativa"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "fb11b65d-408b-4856-8e02-afd7d895280c",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a12bf461-bc23-40b5-8496-211382a012b7/resource/fb11b65d-408b-4856-8e02-afd7d895280c/download/resumen-sesiones-febrero-2023.pdf",
+          "name": "RESUMEN SESIONES FEBRERO 2023.pdf",
+          "format": "PDF",
+          "updatedAt": "2023-03-01T15:05:18.776Z",
+          "description": ""
+        },
+        {
+          "id": "8af4fce0-f429-419a-8bd6-276380514c4e",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a12bf461-bc23-40b5-8496-211382a012b7/resource/8af4fce0-f429-419a-8bd6-276380514c4e/download/resumen-sesiones-marzo-2023.pdf",
+          "name": "RESUMEN SESIONES MARZO 2023.pdf",
+          "format": "PDF",
+          "updatedAt": "2023-09-05T18:41:58.530Z",
+          "description": ""
+        },
+        {
+          "id": "204b2a1e-0e5b-462e-adfa-ade161db7a0a",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a12bf461-bc23-40b5-8496-211382a012b7/resource/204b2a1e-0e5b-462e-adfa-ade161db7a0a/download/resumen-sesiones-abril-2023.pdf",
+          "name": "RESUMEN SESIONES ABRIL 2023.pdf",
+          "format": "PDF",
+          "updatedAt": "2023-09-05T18:42:52.244Z",
+          "description": ""
+        },
+        {
+          "id": "81a0a9f5-5101-4946-98ae-b9d10c50b7f5",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a12bf461-bc23-40b5-8496-211382a012b7/resource/81a0a9f5-5101-4946-98ae-b9d10c50b7f5/download/resumen-sesiones-mayo-2023.pdf",
+          "name": "RESUMEN SESIONES MAYO 2023.pdf",
+          "format": "PDF",
+          "updatedAt": "2023-09-05T18:43:25.170Z",
+          "description": ""
+        },
+        {
+          "id": "3e9c2d1f-9ac3-46a6-9534-653afdf12cad",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a12bf461-bc23-40b5-8496-211382a012b7/resource/3e9c2d1f-9ac3-46a6-9534-653afdf12cad/download/resumen-sesiones-junio-2023.pdf",
+          "name": "RESUMEN SESIONES JUNIO 2023.pdf",
+          "format": "PDF",
+          "updatedAt": "2023-09-05T18:44:00.412Z",
+          "description": ""
+        },
+        {
+          "id": "f829da59-d2b4-4410-95dd-80d757e6f8a2",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/a12bf461-bc23-40b5-8496-211382a012b7/resource/f829da59-d2b4-4410-95dd-80d757e6f8a2/download/resumen-sesiones-julio-2023.pdf",
+          "name": "RESUMEN SESIONES JULIO 2023.pdf",
+          "format": "PDF",
+          "updatedAt": "2023-09-05T18:44:25.090Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2023-03-01T15:02:49.378Z",
+      "updatedAt": "2023-09-05T18:44:25.117Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "93abe28a-468a-444e-b018-b77d28e30ddc",
+      "name": "tratamiento-sobre-tablas",
+      "title": "Sobre Tablas y Asuntos Entrados",
+      "keywords": [
+        "diputados",
+        "sesion",
+        "tratamiento"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "6c6753c2-a699-49ce-8954-0228587a36e1",
+          "downloadUrl": "https://www.hcdmza.gob.ar/site/index.php/administracion/asuntos-entrados",
+          "name": "Asuntos Entrados",
+          "format": "HTML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Asuntos Entrados de la H. Cámara de Diputados de Mendoza"
+        },
+        {
+          "id": "20fb778d-d13c-4c48-a1ae-8d158a32d647",
+          "downloadUrl": "https://www.hcdmza.gob.ar/site/index.php/administracion/sobre-tablas",
+          "name": "Sobre Tablas",
+          "format": "HTML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Sobre Tablas de la H. Cámara de Diputados de Mendoza"
+        }
+      ],
+      "createdAt": "2020-06-24T18:58:28.089Z",
+      "updatedAt": "2020-07-08T21:13:39.687Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "ee71b4ca-e218-4969-80bb-30837e257c3b",
+      "name": "viaticos-y-pasajes",
+      "title": "Viaticos y Pasajes",
+      "keywords": [
+        "economico",
+        "presupuesto",
+        "viáticos y pasajes"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "a93adc31-efa9-4503-9390-616c8a9ff5cf",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/ee71b4ca-e218-4969-80bb-30837e257c3b/resource/a93adc31-efa9-4503-9390-616c8a9ff5cf/download/viaticos_y_pasajes_2019.pdf",
+          "name": "viaticos y pasajes 2019.pdf",
+          "format": "PDF",
+          "updatedAt": "2023-11-21T16:25:28.778Z",
+          "description": ""
+        },
+        {
+          "id": "b4173b3f-3909-47f8-b04b-617100b7381e",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/ee71b4ca-e218-4969-80bb-30837e257c3b/resource/b4173b3f-3909-47f8-b04b-617100b7381e/download/viaticos_y_pasajes_2020.pdf",
+          "name": "Viaticos_y_pasajes_2020.pdf",
+          "format": "PDF",
+          "updatedAt": "2023-11-17T19:16:07.289Z",
+          "description": ""
+        },
+        {
+          "id": "f8323c4a-9f1d-4aa4-b562-9937b8a724c9",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/ee71b4ca-e218-4969-80bb-30837e257c3b/resource/f8323c4a-9f1d-4aa4-b562-9937b8a724c9/download/viaticos_y_pasajes_2021.pdf",
+          "name": "Viaticos_y_pasajes_2021.pdf",
+          "format": "PDF",
+          "updatedAt": "2023-11-17T19:16:33.122Z",
+          "description": ""
+        },
+        {
+          "id": "f41f5315-c445-475d-bb1a-e3dc7c6e2402",
+          "downloadUrl": "http://datosabiertos.hcdmza.gob.ar/dataset/ee71b4ca-e218-4969-80bb-30837e257c3b/resource/f41f5315-c445-475d-bb1a-e3dc7c6e2402/download/viaticos_y_pasajes_2022.pdf",
+          "name": "Viaticos_y_pasajes_2022.pdf",
+          "format": "PDF",
+          "updatedAt": "2023-11-17T19:22:05.464Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2019-06-06T21:02:41.640Z",
+      "updatedAt": "2023-11-21T16:25:28.802Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    }
+  ],
+  "organizations": [],
+  "updatedAt": "2023-12-16T11:36:18.819Z"
+}

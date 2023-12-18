@@ -1,0 +1,230 @@
+{
+  "id": "MAr8i7lfYO",
+  "datasets": [
+    {
+      "id": "9d144f18-1e45-498c-999b-8bbaddb480f9",
+      "name": "boletin-oficial",
+      "title": "Boletín Oficial",
+      "keywords": [
+        "boletín oficial"
+      ],
+      "landingPage": "http://slu-slu-datos.paisdigital.modernizacion.gob.ar/dataset/boletin-oficial",
+      "resources": [
+        {
+          "id": "55a6cf06-70e3-4385-8ea6-0c918f12f171",
+          "downloadUrl": "https://www.ciudaddesanluis.gov.ar/?q=boletin-oficial",
+          "name": "Boletín Oficial",
+          "format": "",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Publicación del Boletín Oficial de la Municipalidad"
+        }
+      ],
+      "createdAt": "2018-09-17T18:51:19.237Z",
+      "updatedAt": "2018-09-17T18:53:52.819Z",
+      "contact": {
+        "name": "Secretaría Legal y Técnica. Dirección de Despacho y Boletín Oficial",
+        "email": "boletinoficial@ciudaddesanluis.gov.ar"
+      }
+    },
+    {
+      "id": "33f6742e-686e-48ee-80b8-7759db59ef6b",
+      "name": "compras-y-contrataciones",
+      "title": "Compras y Contrataciones",
+      "keywords": [
+        "compras y contrataciones"
+      ],
+      "landingPage": "http://slu-slu-datos.paisdigital.modernizacion.gob.ar/dataset/compras-y-contrataciones",
+      "resources": [
+        {
+          "id": "e0d4fa7a-e437-4dd2-a7d2-6bb390442217",
+          "downloadUrl": "https://www.ciudaddesanluis.gov.ar/?q=Licitaciones%20Abiertas",
+          "name": "Listado de Licitaciones Públicas y Privadas Abiertas",
+          "format": "XML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "El municipio pone a disposición de manera gratuita los Pliegos para la participación en Licitaciones Públicas y Privadas"
+        }
+      ],
+      "createdAt": "2018-09-17T16:17:36.719Z",
+      "updatedAt": "2018-09-17T17:55:47.078Z",
+      "contact": {
+        "name": "Dirección de Compras y Contrataciones",
+        "email": "comprasycontrataciones@ciudaddesanluis.gov.ar"
+      }
+    },
+    {
+      "id": "17274f5f-55b4-4c1d-85c9-a96dac832ebe",
+      "name": "datos-geograficos",
+      "title": "Datos Geográficos",
+      "keywords": [],
+      "landingPage": "http://slu-slu-datos.paisdigital.modernizacion.gob.ar/dataset/datos-geograficos",
+      "resources": [
+        {
+          "id": "8fc2c59a-1aec-4a4d-85bb-ef14e52c7c88",
+          "downloadUrl": "http://slu-slu-datos.paisdigital.modernizacion.gob.ar/dataset/datos-geograficos",
+          "name": "Datos Geográficos de la Ciudad de San Luis",
+          "format": "",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "La ciudad de San Luis es la capital de la provincia homónima y cabecera del departamento Juan Martín de Pueyrredón. Se encuentra en el centro- norte de la provincia y abarca una superficie de 13.120 k"
+        }
+      ],
+      "createdAt": "2018-07-12T18:34:06.426Z",
+      "updatedAt": "2018-09-17T16:10:08.593Z",
+      "contact": {
+        "name": "Dirección de Obras Privadas  y Catastro",
+        "email": "obrasprivadas@ciudaddesanluis.gov.ar"
+      }
+    },
+    {
+      "id": "9847c55a-1146-452c-8eff-574c62ccdb1f",
+      "name": "estructura-organica-y-autoridades-del-poder-ejecutivo-municipal",
+      "title": "Estructura Orgánica y Autoridades del Poder Ejecutivo Municipal",
+      "keywords": [],
+      "landingPage": "http://slu-slu-datos.paisdigital.modernizacion.gob.ar/dataset/estructura-organica-y-autoridades-del-poder-ejecutivo-municipal",
+      "resources": [
+        {
+          "id": "f23cfd2f-1d21-426e-a644-bb0ab407626f",
+          "downloadUrl": "https://www.ciudaddesanluis.gov.ar/sites/default/files/dec_899_desginacion.pdf",
+          "name": "Designación de Funcionarios",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Ver Decreto N° 899-SLyT-2018 - Designación Funcionarios"
+        },
+        {
+          "id": "c64429c0-be91-4b5c-a5d3-58e53169ec8d",
+          "downloadUrl": "https://www.ciudaddesanluis.gov.ar/sites/default/files/dec_898_estruc_organica.pdf",
+          "name": "Estructura Orgánica",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Decreto N° 898-SLyT-2018 - Estructura Orgánica Administrativa"
+        }
+      ],
+      "createdAt": "2018-09-17T14:55:41.583Z",
+      "updatedAt": "2018-09-17T15:10:02.572Z",
+      "contact": {
+        "name": "Secretaría Legal y Técnica",
+        "email": "legalytecnica@ciudaddesanluis.gov.ar"
+      }
+    },
+    {
+      "id": "ae80e3cb-14af-4b35-98ca-082c82a34f45",
+      "name": "informacion-medioambiental-y-urbanistica",
+      "title": "Información Medioambiental y Urbanística",
+      "keywords": [
+        "medioambiente"
+      ],
+      "landingPage": "http://slu-slu-datos.paisdigital.modernizacion.gob.ar/dataset/informacion-medioambiental-y-urbanistica",
+      "resources": [
+        {
+          "id": "3161b555-cccf-4d74-bd80-1cabdf2d673a",
+          "downloadUrl": "https://www.ciudaddesanluis.gov.ar/?q=informacion-medioambiental-y-urbanistica",
+          "name": "Ordenanzas - Medio Ambiente",
+          "format": "",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Ordenanzas que regulan en materia de: DESINFECCIÓN Y DESRATIZACIÓN, RESIDUOS PELIGROSOS, RESIDUOS  PATOLÓGICOS y EVALUACIONES DE IMPACTO AMBIENTAL"
+        }
+      ],
+      "createdAt": "2018-06-27T16:53:26.418Z",
+      "updatedAt": "2018-09-17T23:40:00.580Z",
+      "contact": {
+        "name": "Secretaría de Servicios Públicos. Dirección de Medioambiente",
+        "email": "mediambiente@ciudaddesanluis.gov.ar"
+      }
+    },
+    {
+      "id": "01eaae45-5da0-4bae-a8bd-113a49256770",
+      "name": "porcentaje-de-cobertura-de-servicios-de-barrido-y-limpieza",
+      "title": "Porcentaje de cobertura de servicios de barrido y limpieza",
+      "keywords": [],
+      "landingPage": "http://slu-slu-datos.paisdigital.modernizacion.gob.ar/dataset/porcentaje-de-cobertura-de-servicios-de-barrido-y-limpieza",
+      "resources": [
+        {
+          "id": "dfbd9a0a-87ff-4e0d-a664-191e7188bda5",
+          "downloadUrl": "http://slu-slu-datos.paisdigital.modernizacion.gob.ar/dataset/edit/porcentaje-de-cobertura-de-servicios-de-barrido-y-limpieza",
+          "name": "Cobertura de servicios de barrido y limpieza",
+          "format": "http://slu-slu-datos.paisdigital.modernizacion.gob.ar/dataset/edit/porcentaje-de-cobertura-de-servicios-de-barrido-y-limpieza",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Año 2017"
+        }
+      ],
+      "createdAt": "2018-07-05T18:49:47.422Z",
+      "updatedAt": "2018-08-09T17:22:30.526Z",
+      "contact": {
+        "name": "Dirección General de Barrido y Limpieza",
+        "email": "mariadelapazgodoy@ciudaddesanluis.gov.ar"
+      }
+    },
+    {
+      "id": "88394587-c890-44ad-b451-33b53a8ee473",
+      "name": "proyecto-de-ordenanza-sistema-integral-de-transparencia",
+      "title": "Proyecto de Ordenanza Sistema Integral de Transparencia",
+      "keywords": [
+        "ordenanza"
+      ],
+      "landingPage": "http://slu-slu-datos.paisdigital.modernizacion.gob.ar/dataset/proyecto-de-ordenanza-sistema-integral-de-transparencia",
+      "resources": [
+        {
+          "id": "c0d55780-0484-4982-8870-c7da24c28eb6",
+          "downloadUrl": "https://www.ciudaddesanluis.gov.ar/sites/default/files/proyecto_ord.sist_integral_de_transparencia_y_participacion_ciudadana.pdf",
+          "name": "Proyecto de Ordenanza",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Proyecto de Ordenanza de Transparencia"
+        }
+      ],
+      "createdAt": "2018-09-17T15:37:56.780Z",
+      "updatedAt": "2018-09-17T16:09:36.347Z",
+      "contact": {
+        "name": "Poder Ejecutivo Municipal",
+        "email": "legalytecnica@ciudaddesanluis.gov.ar"
+      }
+    },
+    {
+      "id": "b6e25081-0dd8-4f13-bdda-00fe3dc7d335",
+      "name": "secretaria-de-servicios-publicos",
+      "title": "Servicio de Recolección de Residuos",
+      "keywords": [],
+      "landingPage": "http://slu-slu-datos.paisdigital.modernizacion.gob.ar/dataset/secretaria-de-servicios-publicos",
+      "resources": [
+        {
+          "id": "3585d186-1c8f-468e-bd30-df9b3f9371fe",
+          "downloadUrl": "http://slu-slu-datos.paisdigital.modernizacion.gob.ar/dataset/b6e25081-0dd8-4f13-bdda-00fe3dc7d335/resource/3585d186-1c8f-468e-bd30-df9b3f9371fe/download/gobierno-abierto.doc",
+          "name": "Recolección de Residuos",
+          "format": "DOC",
+          "updatedAt": "2018-07-26T16:12:43.223Z",
+          "description": "Año 2017"
+        }
+      ],
+      "createdAt": "2018-07-06T17:19:30.563Z",
+      "updatedAt": "2018-09-17T15:07:29.490Z",
+      "contact": {
+        "name": "Dirección General de Recolección de Residuos",
+        "email": "recoleccion@ciudaddesanluis.gov.ar"
+      }
+    },
+    {
+      "id": "16ad9310-cf3f-4077-9afb-faa397d4d661",
+      "name": "sistema-de-expediente-digital",
+      "title": "Sistema de Expediente Digital",
+      "keywords": [],
+      "landingPage": "http://slu-slu-datos.paisdigital.modernizacion.gob.ar/dataset/sistema-de-expediente-digital",
+      "resources": [
+        {
+          "id": "995bad11-941c-4c33-8d0d-2ea5218e2b69",
+          "downloadUrl": "http://consultaexpedientesanluis.gob.ar/",
+          "name": "Consulta al Sistema de Expediente Digital",
+          "format": "XML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Sistema de Expediente Digital. Consulta on-line de los expedientes a fin de que todos los vecinos puedan acceder sin mayores trámites a este tipo de consultas"
+        }
+      ],
+      "createdAt": "2018-08-08T18:39:46.036Z",
+      "updatedAt": "2018-09-17T18:45:42.836Z",
+      "contact": {
+        "name": "Dirección General de Sistemas",
+        "email": "sistemas@ciudaddesanluis.gov.ar"
+      }
+    }
+  ],
+  "organizations": [],
+  "updatedAt": "2023-12-16T12:34:20.903Z"
+}

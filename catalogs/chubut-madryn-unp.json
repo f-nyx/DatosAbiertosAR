@@ -1,0 +1,294 @@
+{
+  "id": "9fZ4NZw6E0",
+  "datasets": [
+    {
+      "id": "514aa5b9-c6b0-4df2-94fd-3ec3da60d177",
+      "name": "arribos-de-viajeres",
+      "title": "Arribos de viajeres",
+      "keywords": [
+        "puerto madryn",
+        "arribo",
+        "covid-19",
+        "pandemia",
+        "viaje",
+        "viajero"
+      ],
+      "landingPage": "http://pdts.mdn.unp.edu.ar/dataset/arribos-de-viajeres",
+      "resources": [
+        {
+          "id": "8f8af47c-ac46-4104-b0c3-dbd8343b467b",
+          "downloadUrl": "http://pdts.mdn.unp.edu.ar/dataset/514aa5b9-c6b0-4df2-94fd-3ec3da60d177/resource/8f8af47c-ac46-4104-b0c3-dbd8343b467b/download/viajeros_p_pdts.csv",
+          "name": "Arribo de viajeros y viajeras a Puerto Madryn",
+          "format": "CSV",
+          "updatedAt": "2022-04-13T00:31:13.795Z",
+          "description": "Detalle de los arribos por tierra de mayo a septiembre de 2020",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-04-13T00:23:41.715Z",
+      "updatedAt": "2023-09-08T01:39:46.619Z",
+      "contact": {
+        "name": "Grupo de proyecto de investigación",
+        "email": ""
+      }
+    },
+    {
+      "id": "c0b12b52-9d18-4888-ab64-3be5eabb22b1",
+      "name": "canasta-basica-septiembre-2020",
+      "title": "Canasta Básica Alimentaria Puerto Madryn",
+      "keywords": [
+        "canasta básica alimentaria",
+        "alimentos",
+        "indigencia",
+        "pobreza"
+      ],
+      "landingPage": "http://pdts.mdn.unp.edu.ar/dataset/canasta-basica-septiembre-2020",
+      "resources": [
+        {
+          "id": "6d5bc250-ddaf-4d1a-8f68-12590a9da9f4",
+          "downloadUrl": "http://pdts.mdn.unp.edu.ar/dataset/c0b12b52-9d18-4888-ab64-3be5eabb22b1/resource/6d5bc250-ddaf-4d1a-8f68-12590a9da9f4/download/informe-septiembre-2020.pdf",
+          "name": "Canasta Básica Alimentaria Septiembre 2020",
+          "format": "PDF",
+          "updatedAt": "2022-04-25T13:38:40.310Z",
+          "description": "Valorización mensual de la Canasta Básica Alimentaria y Canasta Básica Total Puerto Madryn Septiembre 2020",
+          "landingUrl": ""
+        },
+        {
+          "id": "ec4897f9-ad6d-4f04-a557-92c2d971641a",
+          "downloadUrl": "http://pdts.mdn.unp.edu.ar/dataset/c0b12b52-9d18-4888-ab64-3be5eabb22b1/resource/ec4897f9-ad6d-4f04-a557-92c2d971641a/download/informe-octubre-2020.pdf",
+          "name": "Canasta Básica Alimentaria Octubre 2020",
+          "format": "PDF",
+          "updatedAt": "2022-04-25T13:40:03.355Z",
+          "description": "Valorización mensual de la Canasta Básica Alimentaria y Canasta Básica Total Puerto Madryn Octubre 2020",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-04-25T13:37:13.073Z",
+      "updatedAt": "2023-09-07T23:48:14.280Z",
+      "contact": {
+        "name": "Estadística Municipalidad de Puerto Madryn",
+        "email": ""
+      }
+    },
+    {
+      "id": "5fa449ba-404b-4072-8819-d75f30f9bb90",
+      "name": "casos-confirmados-covid-19-en-sistema-rastrear",
+      "title": "Casos Confirmados COVID-19 en Sistema RastreAR",
+      "keywords": [
+        "rastrear",
+        "covid-19"
+      ],
+      "landingPage": "http://pdts.mdn.unp.edu.ar/dataset/casos-confirmados-covid-19-en-sistema-rastrear",
+      "resources": [
+        {
+          "id": "78759aa7-e352-4863-9c95-bfe12e4fe9f4",
+          "downloadUrl": "http://pdts.mdn.unp.edu.ar/dataset/5fa449ba-404b-4072-8819-d75f30f9bb90/resource/78759aa7-e352-4863-9c95-bfe12e4fe9f4/download/casos-confirmados-2021.xlsx",
+          "name": "Casos Confirmados Covid-19 RastreAR 2021",
+          "format": "XLSX",
+          "updatedAt": "2022-04-21T17:46:33.442Z",
+          "description": "Casos Confirmados Covid-19 registrados en Sistema RastreAR en año 2021",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-04-21T17:43:05.146Z",
+      "updatedAt": "2023-09-07T23:48:53.546Z",
+      "contact": {
+        "name": "Administradores de Datos del Sistema RastreAR",
+        "email": ""
+      }
+    },
+    {
+      "id": "60d6e41d-e8d0-4231-90cf-99a2587117ba",
+      "name": "demanda-de-alojamientos-puerto-madryn-2009-y-2010",
+      "title": "Demanda de Prestaciones Turísticas entre 2000 y 2010",
+      "keywords": [
+        "aereos",
+        "aeropuerto",
+        "alojamientos",
+        "buceo",
+        "nautica",
+        "puerto madryn",
+        "turismo"
+      ],
+      "landingPage": "http://pdts.mdn.unp.edu.ar/dataset/demanda-de-alojamientos-puerto-madryn-2009-y-2010",
+      "resources": [
+        {
+          "id": "fe2ba09e-3837-4b3d-9650-1f0ef326eca4",
+          "downloadUrl": "http://pdts.mdn.unp.edu.ar/dataset/60d6e41d-e8d0-4231-90cf-99a2587117ba/resource/fe2ba09e-3837-4b3d-9650-1f0ef326eca4/download/demanda-turismo-2009-2010-alojamientos.xls",
+          "name": "Demanda de Alojamientos mensual Puerto Madryn 2009-2010",
+          "format": "XLS",
+          "updatedAt": "2022-04-21T15:37:46.368Z",
+          "description": "Demanda de Alojamientos expresada mensualmente en la Ciudad de Puerto Madryn Años 2009 y 2010",
+          "landingUrl": ""
+        },
+        {
+          "id": "445a14c2-d62f-4558-95a1-42bc89bd3b4c",
+          "downloadUrl": "http://pdts.mdn.unp.edu.ar/dataset/60d6e41d-e8d0-4231-90cf-99a2587117ba/resource/445a14c2-d62f-4558-95a1-42bc89bd3b4c/download/demanda-turismo-2005-2010-aeropuerto.xls",
+          "name": "Demanda de Pasajes Aéreos, Puerto Madryn, 2005-2010",
+          "format": "XLS",
+          "updatedAt": "2022-04-21T15:43:25.036Z",
+          "description": "Demanda de pasajes aéreos en Aeropuerto El Tehuelche de Puerto Madryn entre 2005 y 2010",
+          "landingUrl": ""
+        },
+        {
+          "id": "2bdfe9d6-e3a7-496b-9874-a1d2a1ae8e5a",
+          "downloadUrl": "http://pdts.mdn.unp.edu.ar/dataset/60d6e41d-e8d0-4231-90cf-99a2587117ba/resource/2bdfe9d6-e3a7-496b-9874-a1d2a1ae8e5a/download/demanda-turismo-2000-2010-cruceros.xls",
+          "name": "Demanda de cruceros entre 2000 y 2010 en Puerto Madryn",
+          "format": "XLS",
+          "updatedAt": "2022-04-21T15:53:11.143Z",
+          "description": "Cantidad de pasajeros por cada temporada y mes ",
+          "landingUrl": ""
+        },
+        {
+          "id": "f4b73314-3d04-4b80-a972-dd4dfd0f6063",
+          "downloadUrl": "http://pdts.mdn.unp.edu.ar/dataset/60d6e41d-e8d0-4231-90cf-99a2587117ba/resource/f4b73314-3d04-4b80-a972-dd4dfd0f6063/download/demanda-turismo-2009-2010-paseosnauticos.xls",
+          "name": "Demanda de paseos náuticos en Puerto Madryn 2009 y 2010",
+          "format": "XLS",
+          "updatedAt": "2022-04-21T15:56:16.755Z",
+          "description": "Cantidad de personas que realizaron paseos náuticos, por mes, en los años 2009 y 2010",
+          "landingUrl": ""
+        },
+        {
+          "id": "5e09db2f-7e03-4dfd-8015-a6f6f0688aab",
+          "downloadUrl": "http://pdts.mdn.unp.edu.ar/dataset/60d6e41d-e8d0-4231-90cf-99a2587117ba/resource/5e09db2f-7e03-4dfd-8015-a6f6f0688aab/download/demanda-turismo-2009-buceo.xls",
+          "name": "Demanda de Buceo turístico en Puerto Madryn año 2009",
+          "format": "XLS",
+          "updatedAt": "2022-04-21T15:58:04.549Z",
+          "description": "Cantidad de personas que realizaron buceos turísticos en cada mes del año 2009",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-04-21T15:33:59.412Z",
+      "updatedAt": "2023-09-07T23:49:11.766Z",
+      "contact": {
+        "name": "Secretaría de Turismo Municipalidad de Puerto Madryn",
+        "email": ""
+      }
+    },
+    {
+      "id": "684ffb95-90f1-4125-9022-375075a014b5",
+      "name": "factibilidad-de-movilidad-ciclista-en-puerto-madryn",
+      "title": "Movilidad ciclista en Puerto Madryn",
+      "keywords": [
+        "puerto madryn",
+        "ciclista",
+        "movilidad",
+        "transporte"
+      ],
+      "landingPage": "http://pdts.mdn.unp.edu.ar/dataset/factibilidad-de-movilidad-ciclista-en-puerto-madryn",
+      "resources": [
+        {
+          "id": "fc317065-8f55-4db9-97e3-74407ea99947",
+          "downloadUrl": "http://pdts.mdn.unp.edu.ar/dataset/684ffb95-90f1-4125-9022-375075a014b5/resource/fc317065-8f55-4db9-97e3-74407ea99947/download/main.pdf",
+          "name": "Assessing cycling social feasibility in a medium-size Patagonian city",
+          "format": "PDF",
+          "updatedAt": "2022-04-13T01:38:39.999Z",
+          "description": "Artículo científico",
+          "landingUrl": ""
+        },
+        {
+          "id": "613fcec1-e181-4681-a7c4-4d12dcc2a0df",
+          "downloadUrl": "http://pdts.mdn.unp.edu.ar/dataset/684ffb95-90f1-4125-9022-375075a014b5/resource/613fcec1-e181-4681-a7c4-4d12dcc2a0df/download/1-157.csv",
+          "name": "Recorrido ciclista 157",
+          "format": "CSV",
+          "updatedAt": "2022-05-05T18:06:56.250Z",
+          "description": "Recorrido de un ciclista",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-04-13T01:37:34.651Z",
+      "updatedAt": "2023-09-07T23:47:11.290Z",
+      "contact": {
+        "name": "LINVI",
+        "email": ""
+      }
+    },
+    {
+      "id": "4f13d0de-e6d7-4fb0-b1dd-56f5bfa6f4d0",
+      "name": "inmuebles-en-venta-en-puerto-madryn-2019",
+      "title": "Inmuebles en venta en Puerto Madryn 2019",
+      "keywords": [
+        "inmuebles",
+        "precio",
+        "propiedades",
+        "ubicación",
+        "venta"
+      ],
+      "landingPage": "http://pdts.mdn.unp.edu.ar/dataset/inmuebles-en-venta-en-puerto-madryn-2019",
+      "resources": [
+        {
+          "id": "30e05574-b904-4f48-84bd-b93c59198e7c",
+          "downloadUrl": "http://pdts.mdn.unp.edu.ar/dataset/4f13d0de-e6d7-4fb0-b1dd-56f5bfa6f4d0/resource/30e05574-b904-4f48-84bd-b93c59198e7c/download/propiedades_venta.csv",
+          "name": "Propiedades en venta durante 2019 en Puerto Madryn",
+          "format": "CSV",
+          "updatedAt": "2022-04-25T13:45:54.381Z",
+          "description": "Propiedades con su ubicación",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-04-25T13:37:51.413Z",
+      "updatedAt": "2023-09-07T23:47:46.163Z",
+      "contact": {
+        "name": "Laboratorio de Investigación en Informática",
+        "email": ""
+      }
+    },
+    {
+      "id": "84a8e8e6-31d9-443e-aa3c-df4f42fe0f5f",
+      "name": "socios-camad",
+      "title": "Socios CAMAD",
+      "keywords": [
+        "comercios",
+        "socios",
+        "ubicacion"
+      ],
+      "landingPage": "http://pdts.mdn.unp.edu.ar/dataset/socios-camad",
+      "resources": [
+        {
+          "id": "a7483f9d-e385-46fb-8f03-2eb966397900",
+          "downloadUrl": "http://pdts.mdn.unp.edu.ar/dataset/84a8e8e6-31d9-443e-aa3c-df4f42fe0f5f/resource/a7483f9d-e385-46fb-8f03-2eb966397900/download/socios_activos_camad_05_2022.csv",
+          "name": "Socios Activos",
+          "format": "CSV",
+          "updatedAt": "2022-05-17T21:07:36.533Z",
+          "description": "Socios de la CAMAD en estado activo",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-05-17T21:01:46.741Z",
+      "updatedAt": "2023-09-07T23:49:58.821Z",
+      "contact": {
+        "name": "CAMAD",
+        "email": ""
+      }
+    },
+    {
+      "id": "a2598c38-57a1-4e31-b5d3-f7c37697725d",
+      "name": "socios-cima",
+      "title": "Socios CIMA",
+      "keywords": [
+        "cima",
+        "industria"
+      ],
+      "landingPage": "http://pdts.mdn.unp.edu.ar/dataset/socios-cima",
+      "resources": [
+        {
+          "id": "54348508-fcbe-4962-a228-ca532f871723",
+          "downloadUrl": "http://pdts.mdn.unp.edu.ar/dataset/a2598c38-57a1-4e31-b5d3-f7c37697725d/resource/54348508-fcbe-4962-a228-ca532f871723/download/socios_cima_py.xlsx",
+          "name": "Socios CIMA",
+          "format": "CSV",
+          "updatedAt": "2023-09-08T00:04:15.466Z",
+          "description": "Dataset socios CIMA",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-09-07T23:59:20.688Z",
+      "updatedAt": "2023-09-08T00:04:18.857Z",
+      "contact": {
+        "name": "Camara Industrial de Puerto Madryn",
+        "email": ""
+      }
+    }
+  ],
+  "organizations": [],
+  "updatedAt": "2023-12-16T11:42:45.529Z"
+}

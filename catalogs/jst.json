@@ -1,0 +1,235 @@
+{
+  "id": "Mmn1hyJdG4",
+  "datasets": [
+    {
+      "id": "7c0b35dc-4d32-499b-a6c8-0e585595d51c",
+      "name": "productos-de-seguridad-operacional",
+      "title": "Productos de Seguridad Operacional",
+      "keywords": [],
+      "landingPage": "https://datos.jst.gob.ar/dataset/productos-de-seguridad-operacional",
+      "resources": [
+        {
+          "id": "0dedb7ae-ddf2-43a9-9a86-ac35510c94e8",
+          "downloadUrl": "https://datos.jst.gob.ar/dataset/7c0b35dc-4d32-499b-a6c8-0e585595d51c/resource/0dedb7ae-ddf2-43a9-9a86-ac35510c94e8/download/productos-seguridad-operacional.csv",
+          "name": "Productos de Seguridad Operacional",
+          "format": "CSV",
+          "updatedAt": "2023-09-25T17:24:50.344Z",
+          "description": "Recomendaciones, acciones y notas de Seguridad Operacional",
+          "landingUrl": ""
+        },
+        {
+          "id": "d08a1710-7d2c-4ffc-93d8-3738932f57fc",
+          "downloadUrl": "https://datos.jst.gob.ar/dataset/7c0b35dc-4d32-499b-a6c8-0e585595d51c/resource/d08a1710-7d2c-4ffc-93d8-3738932f57fc/download/productos-seguridad-operacional.json",
+          "name": "Productos de Seguridad Operacional",
+          "format": "JSON",
+          "updatedAt": "2023-07-03T17:11:34.090Z",
+          "description": "Recomendaciones, acciones y notas de Seguridad Operacional",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-07-03T17:09:09.435Z",
+      "updatedAt": "2023-09-25T17:24:50.363Z",
+      "contact": {
+        "name": "Junta de Seguridad en el Transporte",
+        "email": ""
+      }
+    },
+    {
+      "id": "d169e884-2205-4d6f-acb0-5a2ba8c50ef2",
+      "name": "sucesos-aeronauticos",
+      "title": "Sucesos Aeronáuticos",
+      "keywords": [
+        "accidentes",
+        "expedientes",
+        "incidentes",
+        "intervenciones",
+        "sucesos"
+      ],
+      "landingPage": "https://datos.jst.gob.ar/dataset/sucesos-aeronauticos",
+      "resources": [
+        {
+          "id": "5658d49a-f398-46f2-a08c-23021bde5cd2",
+          "downloadUrl": "https://datos.jst.gob.ar/dataset/d169e884-2205-4d6f-acb0-5a2ba8c50ef2/resource/5658d49a-f398-46f2-a08c-23021bde5cd2/download/sucesos-aeronautico.json",
+          "name": "Sucesos Aeronáuticos",
+          "format": "JSON",
+          "updatedAt": "2023-06-29T20:21:42.464Z",
+          "description": "Sucesos de investigación aeronáutica de la JST",
+          "landingUrl": ""
+        },
+        {
+          "id": "e9a7fcc2-f206-4487-9f12-b56b66decec6",
+          "downloadUrl": "https://datos.jst.gob.ar/dataset/d169e884-2205-4d6f-acb0-5a2ba8c50ef2/resource/e9a7fcc2-f206-4487-9f12-b56b66decec6/download/sucesos-aeronautico.csv",
+          "name": "Sucesos Aeronáuticos",
+          "format": "CSV",
+          "updatedAt": "2023-06-29T20:22:42.191Z",
+          "description": "Sucesos de investigación aeronáuticas de la JST",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-03-29T20:39:57.228Z",
+      "updatedAt": "2023-06-29T20:22:42.211Z",
+      "contact": {
+        "name": "Junta de Seguridad en el Transporte",
+        "email": "vgodoy@jst.gob.ar"
+      }
+    },
+    {
+      "id": "c9570efb-05c5-4aea-88b1-94258b1d3018",
+      "name": "sucesos-automotores",
+      "title": "Sucesos Automotores",
+      "keywords": [
+        "accidentes",
+        "expedientes",
+        "incidentes",
+        "intervenciones",
+        "sucesos"
+      ],
+      "landingPage": "https://datos.jst.gob.ar/dataset/sucesos-automotores",
+      "resources": [
+        {
+          "id": "e60e133e-6cf2-401f-aa53-866db909a375",
+          "downloadUrl": "https://datos.jst.gob.ar/dataset/c9570efb-05c5-4aea-88b1-94258b1d3018/resource/e60e133e-6cf2-401f-aa53-866db909a375/download/sucesos-automotor.json",
+          "name": "Sucesos Automotores",
+          "format": "JSON",
+          "updatedAt": "2023-06-29T20:20:36.204Z",
+          "description": "Sucesos de investigación Automotores de la JST",
+          "landingUrl": ""
+        },
+        {
+          "id": "89bea5e3-d7fc-4354-92e7-ae1409d0e168",
+          "downloadUrl": "https://datos.jst.gob.ar/dataset/c9570efb-05c5-4aea-88b1-94258b1d3018/resource/89bea5e3-d7fc-4354-92e7-ae1409d0e168/download/sucesos-automotor.csv",
+          "name": "Suceso Automotores",
+          "format": "CSV",
+          "updatedAt": "2023-06-29T20:21:00.165Z",
+          "description": "Sucesos de investigación Automotores de la JST",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-09-26T18:27:58.534Z",
+      "updatedAt": "2023-06-29T20:21:00.187Z",
+      "contact": {
+        "name": "Junta de Seguridad en el Transporte",
+        "email": "vgodoy@jst.gob.ar"
+      }
+    },
+    {
+      "id": "a7702a46-1f79-46ba-8ebf-b0898a54b767",
+      "name": "sucesos-ferroviarios",
+      "title": "Sucesos Ferroviarios",
+      "keywords": [
+        "accidentes",
+        "expedientes",
+        "incidentes",
+        "intervenciones",
+        "sucesos"
+      ],
+      "landingPage": "https://datos.jst.gob.ar/dataset/sucesos-ferroviarios",
+      "resources": [
+        {
+          "id": "0af5cefc-60b9-4142-9217-b7ea45441051",
+          "downloadUrl": "https://datos.jst.gob.ar/dataset/a7702a46-1f79-46ba-8ebf-b0898a54b767/resource/0af5cefc-60b9-4142-9217-b7ea45441051/download/sucesos-ferroviario.json",
+          "name": "Sucesos Ferroviarios",
+          "format": "JSON",
+          "updatedAt": "2023-06-29T20:24:42.321Z",
+          "description": "Sucesos de investigación ferroviaria de la JST",
+          "landingUrl": ""
+        },
+        {
+          "id": "e35f82c3-2eb5-4fb3-864a-b4f1cb05f156",
+          "downloadUrl": "https://datos.jst.gob.ar/dataset/a7702a46-1f79-46ba-8ebf-b0898a54b767/resource/e35f82c3-2eb5-4fb3-864a-b4f1cb05f156/download/sucesos-ferroviario.csv",
+          "name": "Sucesos Ferroviarios",
+          "format": "CSV",
+          "updatedAt": "2023-06-29T20:25:05.326Z",
+          "description": "Sucesos de investigación ferroviaria de la JST",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-09-26T20:43:48.206Z",
+      "updatedAt": "2023-06-29T20:25:05.346Z",
+      "contact": {
+        "name": "Junta de Seguridad en el Transporte",
+        "email": "vgodoy@jst.gob.ar"
+      }
+    },
+    {
+      "id": "1806747d-aec7-4917-bc96-6248b7aa1430",
+      "name": "sucesos-maritimos",
+      "title": "Sucesos Marítimos",
+      "keywords": [
+        "accidentes",
+        "expedientes",
+        "incidentes",
+        "intervenciones",
+        "sucesos"
+      ],
+      "landingPage": "https://datos.jst.gob.ar/dataset/sucesos-maritimos",
+      "resources": [
+        {
+          "id": "375dc1d4-f1f4-4bf7-b9f1-60b7cb2b342b",
+          "downloadUrl": "https://datos.jst.gob.ar/dataset/1806747d-aec7-4917-bc96-6248b7aa1430/resource/375dc1d4-f1f4-4bf7-b9f1-60b7cb2b342b/download/sucesos-maritimo.json",
+          "name": "Sucesos Marítimos",
+          "format": "JSON",
+          "updatedAt": "2023-06-29T20:23:54.996Z",
+          "description": "Sucesos de investigación marítima de la JST",
+          "landingUrl": ""
+        },
+        {
+          "id": "02e41680-0f22-4204-b40a-aca432d6ffd7",
+          "downloadUrl": "https://datos.jst.gob.ar/dataset/1806747d-aec7-4917-bc96-6248b7aa1430/resource/02e41680-0f22-4204-b40a-aca432d6ffd7/download/sucesos-maritimo.csv",
+          "name": "Sucesos Marítimos",
+          "format": "CSV",
+          "updatedAt": "2023-06-29T20:24:12.501Z",
+          "description": "Sucesos de investigación marítima de la JST",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-09-26T20:50:26.345Z",
+      "updatedAt": "2023-06-29T20:24:12.526Z",
+      "contact": {
+        "name": "Junta de Seguridad en el Transporte",
+        "email": "vgodoy@jst.gob.ar"
+      }
+    },
+    {
+      "id": "f92e6e32-709b-4d2d-90d1-c894ca7fcc6e",
+      "name": "sucesos-multimodales",
+      "title": "Sucesos Multimodales",
+      "keywords": [
+        "accidentes",
+        "expedientes",
+        "incidentes",
+        "intervenciones",
+        "sucesos"
+      ],
+      "landingPage": "https://datos.jst.gob.ar/dataset/sucesos-multimodales",
+      "resources": [
+        {
+          "id": "fd7afaeb-c744-40dc-a282-693ee5e57507",
+          "downloadUrl": "https://datos.jst.gob.ar/dataset/f92e6e32-709b-4d2d-90d1-c894ca7fcc6e/resource/fd7afaeb-c744-40dc-a282-693ee5e57507/download/sucesos-multimodal.json",
+          "name": "Sucesos Multimodales",
+          "format": "JSON",
+          "updatedAt": "2023-06-29T20:23:11.461Z",
+          "description": "Sucesos de investigación multimodal de la JST",
+          "landingUrl": ""
+        },
+        {
+          "id": "f589c0dd-2a63-4ed1-b450-173679244596",
+          "downloadUrl": "https://datos.jst.gob.ar/dataset/f92e6e32-709b-4d2d-90d1-c894ca7fcc6e/resource/f589c0dd-2a63-4ed1-b450-173679244596/download/sucesos-multimodal.csv",
+          "name": "Sucesos Multimodales",
+          "format": "CSV",
+          "updatedAt": "2023-06-29T20:23:29.054Z",
+          "description": "Sucesos de investigación multimodal de la JST",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-09-26T20:55:39.142Z",
+      "updatedAt": "2023-06-29T20:23:29.074Z",
+      "contact": {
+        "name": "Junta de Seguridad en el Transporte",
+        "email": "vgodoy@jst.gob.ar"
+      }
+    }
+  ],
+  "organizations": [],
+  "updatedAt": "2023-12-16T11:36:10.301Z"
+}
