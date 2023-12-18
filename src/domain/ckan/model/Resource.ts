@@ -39,4 +39,8 @@ export class Resource {
     /** URL of the resource landing page, if any. */
     readonly landingUrl?: string
   ) {}
+
+  get fileName(): string {
+    return this.downloadUrl.substring(this.downloadUrl.lastIndexOf('/') + 1)
+  }
 }

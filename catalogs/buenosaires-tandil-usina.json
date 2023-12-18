@@ -1,0 +1,249 @@
+{
+  "id": "TbHu2Z2F2J",
+  "datasets": [
+    {
+      "id": "409aa49b-7d1f-40b6-8ed5-e0e30442236f",
+      "name": "actividades-afip",
+      "title": "Actividades AFIP",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "a625c728-6bdb-4c7f-91a5-e03185e9cabe",
+          "downloadUrl": "https://datos.usinatandil.com.ar/dataset/409aa49b-7d1f-40b6-8ed5-e0e30442236f/resource/a625c728-6bdb-4c7f-91a5-e03185e9cabe/download/ind_actividades.csv",
+          "name": "ind_actividades.csv",
+          "format": "CSV",
+          "updatedAt": "2019-08-14T19:48:50.770Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2019-08-14T19:47:38.767Z",
+      "updatedAt": "2019-08-14T19:51:45.869Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "008b066d-f647-453d-97e6-ef49002eeeee",
+      "name": "conexiones-nuevas",
+      "title": "Conexiones de Servicio",
+      "keywords": [
+        "economia",
+        "energia"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "5ca560ae-3a6c-46a1-8cab-870cd9da955b",
+          "downloadUrl": "https://datos.usinatandil.com.ar/dataset/008b066d-f647-453d-97e6-ef49002eeeee/resource/5ca560ae-3a6c-46a1-8cab-870cd9da955b/download/5ca560ae-3a6c-46a1-8cab-870cd9da955b.csv",
+          "name": "Suministros.csv",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T12:00:02.811Z",
+          "description": ""
+        },
+        {
+          "id": "e16e7748-cff2-4579-b44a-1563f01d7605",
+          "downloadUrl": "https://datos.usinatandil.com.ar/dataset/008b066d-f647-453d-97e6-ef49002eeeee/resource/e16e7748-cff2-4579-b44a-1563f01d7605/download/conexiones.pdf",
+          "name": "Conexiones.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-08-14T19:36:58.996Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2019-07-15T19:42:59.185Z",
+      "updatedAt": "2023-12-07T12:00:02.829Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "7a142519-ba41-40c8-af9e-7f62873af94c",
+      "name": "consumos",
+      "title": "Consumos",
+      "keywords": [
+        "energia"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "1ccbdbc1-15f7-44a8-9e0d-27d456810d11",
+          "downloadUrl": "https://datos.usinatandil.com.ar/dataset/7a142519-ba41-40c8-af9e-7f62873af94c/resource/1ccbdbc1-15f7-44a8-9e0d-27d456810d11/download/1ccbdbc1-15f7-44a8-9e0d-27d456810d11.csv",
+          "name": "ind_consumos.csv",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T12:00:01.505Z",
+          "description": ""
+        },
+        {
+          "id": "94ab3782-0dd0-4853-99a8-aefc218e21e2",
+          "downloadUrl": "https://datos.usinatandil.com.ar/dataset/7a142519-ba41-40c8-af9e-7f62873af94c/resource/94ab3782-0dd0-4853-99a8-aefc218e21e2/download/consumos.pdf",
+          "name": "Consumos.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-08-15T18:59:54.722Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2019-07-15T19:33:29.015Z",
+      "updatedAt": "2023-12-07T12:00:01.558Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "92e856e3-55cb-4344-bba2-b4b824c40a9e",
+      "name": "desconexiones",
+      "title": "Desconexiones de Servicio",
+      "keywords": [
+        "economia",
+        "energia"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "212808c5-38af-4608-b34c-31b42a97c8ac",
+          "downloadUrl": "https://datos.usinatandil.com.ar/dataset/92e856e3-55cb-4344-bba2-b4b824c40a9e/resource/212808c5-38af-4608-b34c-31b42a97c8ac/download/212808c5-38af-4608-b34c-31b42a97c8ac.csv",
+          "name": "SuministrosDesc.csv",
+          "format": "CSV",
+          "updatedAt": "2023-12-07T12:00:02.188Z",
+          "description": ""
+        },
+        {
+          "id": "a280a5c0-9c91-4b1f-9eba-b51e9b94e5e4",
+          "downloadUrl": "https://datos.usinatandil.com.ar/dataset/92e856e3-55cb-4344-bba2-b4b824c40a9e/resource/a280a5c0-9c91-4b1f-9eba-b51e9b94e5e4/download/desconexiones.pdf",
+          "name": "Desconexiones.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-08-14T19:36:08.464Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2019-07-16T14:54:24.609Z",
+      "updatedAt": "2023-12-07T12:00:02.208Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "eb8a629d-eacf-4149-931c-ff7d9c63602d",
+      "name": "energia-facturada",
+      "title": "Energia Facturada",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "9420886e-e19f-43f4-a954-c01a39bae5ce",
+          "downloadUrl": "https://datos.usinatandil.com.ar/dataset/eb8a629d-eacf-4149-931c-ff7d9c63602d/resource/9420886e-e19f-43f4-a954-c01a39bae5ce/download/energiafacturada.pdf",
+          "name": "EnergiaFacturada.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-12-10T19:17:36.713Z",
+          "description": ""
+        },
+        {
+          "id": "77849cb7-817a-491c-96fb-882b9aeac1fc",
+          "downloadUrl": "https://datos.usinatandil.com.ar/dataset/eb8a629d-eacf-4149-931c-ff7d9c63602d/resource/77849cb7-817a-491c-96fb-882b9aeac1fc/download/accesoinformacionpublica_energiafacturada.csv",
+          "name": "EnergiaFacturada.csv",
+          "format": "CSV",
+          "updatedAt": "2022-02-23T16:30:06.692Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2019-12-10T19:15:50.989Z",
+      "updatedAt": "2022-02-23T16:30:06.701Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "14cd3939-9f2e-4346-a4a1-24322e71efc4",
+      "name": "energia-operada",
+      "title": "Energia Operada - Potencias Maximas",
+      "keywords": [
+        "energia"
+      ],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "2e421f7b-af70-4420-a08b-fb2f87bf54be",
+          "downloadUrl": "https://datos.usinatandil.com.ar/dataset/14cd3939-9f2e-4346-a4a1-24322e71efc4/resource/2e421f7b-af70-4420-a08b-fb2f87bf54be/download/energaypotencia.pdf",
+          "name": "EnergíayPotencia.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-12-11T15:35:58.156Z",
+          "description": ""
+        },
+        {
+          "id": "eb2a1011-1429-45a6-b999-843bf5c9bb18",
+          "downloadUrl": "https://datos.usinatandil.com.ar/dataset/14cd3939-9f2e-4346-a4a1-24322e71efc4/resource/eb2a1011-1429-45a6-b999-843bf5c9bb18/download/accesoinformacionpublica_energiaoperadaypotencia.csv",
+          "name": "EnergiayPotencia.csv",
+          "format": "CSV",
+          "updatedAt": "2022-02-23T16:28:00.599Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2019-07-12T16:32:47.219Z",
+      "updatedAt": "2022-02-23T16:28:00.622Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "1fa2efa1-9c5d-47de-880d-8d407dbb66f7",
+      "name": "tarifas",
+      "title": "Tarifas",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "cae9a738-c636-4018-b732-5e2c45b126a9",
+          "downloadUrl": "https://datos.usinatandil.com.ar/dataset/1fa2efa1-9c5d-47de-880d-8d407dbb66f7/resource/cae9a738-c636-4018-b732-5e2c45b126a9/download/ind_tarifas.csv",
+          "name": "ind_tarifas.csv",
+          "format": "CSV",
+          "updatedAt": "2019-07-15T19:32:01.191Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2019-07-15T19:31:53.535Z",
+      "updatedAt": "2019-07-15T19:32:01.505Z",
+      "contact": {
+        "name": "",
+        "email": ""
+      }
+    },
+    {
+      "id": "19c0d45b-a94c-49dd-a596-da3ba5511fbd",
+      "name": "usuarios",
+      "title": "Usuarios",
+      "keywords": [],
+      "landingPage": "",
+      "resources": [
+        {
+          "id": "43d7f9fd-7038-42f0-be15-6b78247b87d8",
+          "downloadUrl": "https://datos.usinatandil.com.ar/dataset/19c0d45b-a94c-49dd-a596-da3ba5511fbd/resource/43d7f9fd-7038-42f0-be15-6b78247b87d8/download/accesoinformacionpublica_usuarios.csv",
+          "name": "Usuarios.csv",
+          "format": "CSV",
+          "updatedAt": "2022-02-23T16:30:31.191Z",
+          "description": ""
+        },
+        {
+          "id": "cc766e07-ab01-4749-b785-86763b9f3f7a",
+          "downloadUrl": "https://datos.usinatandil.com.ar/dataset/19c0d45b-a94c-49dd-a596-da3ba5511fbd/resource/cc766e07-ab01-4749-b785-86763b9f3f7a/download/usuarios.pdf",
+          "name": "Usuarios.pdf",
+          "format": "PDF",
+          "updatedAt": "2019-07-18T16:12:01.386Z",
+          "description": ""
+        }
+      ],
+      "createdAt": "2019-07-12T16:30:09.858Z",
+      "updatedAt": "2022-02-23T16:30:31.201Z",
+      "contact": {
+        "name": "",
+        "email": "datosabiertos@usinatandil.com.ar"
+      }
+    }
+  ],
+  "organizations": [],
+  "updatedAt": "2023-12-16T11:31:06.927Z"
+}

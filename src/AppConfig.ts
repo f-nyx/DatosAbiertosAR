@@ -1,7 +1,4 @@
 import * as fs from 'fs'
-import { CkanConfig } from '@datosar/src/domain/ckan/CkanConfig'
-import * as path from 'path'
-import { ImporterConfig } from '@datosar/src/domain/import/ImporterConfig'
 import { ProviderConfig } from '@datosar/src/domain/import/ProviderConfig'
 
 export class AppConfig {
@@ -9,10 +6,12 @@ export class AppConfig {
 
   static initFromFile(jsonFile: string): AppConfig {
     const jsonConfig = JSON.parse(fs.readFileSync(jsonFile).toString())
-    const outputDir = AppConfig.requireNotNull('outputDir', jsonConfig.outputDir)
     AppConfig.instance = new AppConfig(
       AppConfig.requireNotNull('projectName', jsonConfig.projectName),
-      outputDir,
+      AppConfig.requireNotNull('indexDir', jsonConfig.indexDir),
+      AppConfig.requireNotNull('storageDir', jsonConfig.storageDir),
+      AppConfig.requireNotNull('dataDir', jsonConfig.dataDir),
+      AppConfig.requireNotNull('collectionsFile', jsonConfig.collectionsFile),
       jsonConfig.logLevel || 'info',
       jsonConfig.providers.map((providersConfig: any) => ProviderConfig.restore(providersConfig))
     )
@@ -35,8 +34,14 @@ export class AppConfig {
   private constructor(
     /** A name for this project. */
     readonly projectName: string,
-    /** Data output directory. */
-    readonly outputDir: string,
+    /** Index output directory. */
+    readonly indexDir: string,
+    /** Files output directory. */
+    readonly storageDir: string,
+    /** Directory to store the datasets. */
+    readonly dataDir: string,
+    /** File to store the collections DB. */
+    readonly collectionsFile: string,
     /** Application log level, default is INFO. */
     readonly logLevel: string,
     /** List of all the supported providers. */

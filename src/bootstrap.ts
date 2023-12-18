@@ -5,50 +5,58 @@ import { AppConfig } from '@datosar/src/AppConfig'
 import { ApplicationContext } from '@datosar/src/ApplicationContext'
 import * as path from 'path'
 import { ImportRepository } from '@datosar/src/domain/import/ImportRepository'
-import { FileIndexManager } from '@datosar/src/domain/import/FileIndexManager'
 import { CkanConfig } from '@datosar/src/domain/ckan/CkanConfig'
 import { CatalogReader } from '@datosar/src/domain/ckan/CatalogReader'
-import { FileStore } from '@datosar/src/utils/FileStore'
-import { ProjectRepository } from '@datosar/src/domain/import/ProjectRepository'
+import { IndexManager } from '@datosar/src/domain/index/IndexManager'
+import { DatasetManager } from '@datosar/src/domain/ckan/DatasetManager'
+import { FileSystemStore } from '@datosar/src/domain/store/FileSystemStore'
+import { CollectionStore } from '@datosar/src/domain/store/CollectionStore'
 
 const logger = createLogger('bootstrap')
+const FLUSH_INTERVAL_MS = 20000
 
 export async function createContext(config: AppConfig): Promise<ApplicationContext> {
-  const { outputDir, providers } = config
-  logger.info(`creating output dir if not exists: outputFile=${outputDir}`)
-  await fs.mkdir(outputDir, { recursive: true })
+  const { providers, indexDir, storageDir, dataDir, collectionsFile } = config
+  logger.info(`creating index dir if not exists: outputFile=${indexDir}`)
+  await fs.mkdir(path.join(indexDir), { recursive: true })
+  logger.info(`creating storage dir if not exists: outputFile=${storageDir}`)
+  await fs.mkdir(path.join(storageDir), { recursive: true })
 
-  const importerDbFile = path.join(outputDir, 'importer.db')
-  logger.info(`opening importer database: ${importerDbFile}`)
-
-  const fileStore = new FileStore(path.join(outputDir, 'db.json'), 20000)
-  const fileIndexManager = new FileIndexManager()
-  const importRepository = new ImportRepository(fileStore)
-  const projectRepository = new ProjectRepository(fileStore)
+  const collectionStore = new CollectionStore(collectionsFile, FLUSH_INTERVAL_MS)
+  const importRepository = new ImportRepository(collectionStore)
+  const indexManager = new IndexManager({
+    indexDir,
+    flushIntervalMs: FLUSH_INTERVAL_MS,
+    memoryLimit: 3000 * 1024 * 1024,
+    numberOfPartitions: 3
+  })
+  const fileSystemStore = new FileSystemStore(storageDir)
+  const datasetManager = new DatasetManager(indexManager, fileSystemStore)
   const context = new ApplicationContext(
-    projectRepository,
     importRepository,
-    fileStore,
-    fileIndexManager
+    collectionStore,
+    indexManager,
+    datasetManager,
+    fileSystemStore
   )
 
   await Promise.all(
     providers
-      .filter((datasetConfig) => datasetConfig.type === 'ckan')
-      .map(async (datasetConfig) => {
-        const datasetOutputDir = path.join(outputDir, datasetConfig.name)
-        await fs.mkdir(datasetOutputDir, { recursive: true })
+      .filter((providerConfig) => providerConfig.type === 'ckan')
+      .map(async (providerConfig) => {
+        const providerOutputDir = path.join(dataDir, providerConfig.outputDir)
+        await fs.mkdir(providerOutputDir, { recursive: true })
 
-        logger.info(`creating ckan importer: name=${datasetConfig.name},outputDir=${datasetOutputDir}`)
+        logger.info(`creating ckan importer: name=${providerConfig.name},outputDir=${providerOutputDir}`)
 
         const options = {
-          ...datasetConfig.options,
-          outputDir: datasetOutputDir,
+          ...providerConfig.options,
+          outputDir: providerOutputDir,
         } as CkanConfig
 
         context.ckanImporters.push(
           new CkanImporter(
-            `ckan-${datasetConfig.name}`,
+            `ckan-${providerConfig.name}`,
             options,
             new CatalogReader(),
             context

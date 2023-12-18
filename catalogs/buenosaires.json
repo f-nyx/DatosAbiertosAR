@@ -1,0 +1,3221 @@
+{
+  "id": "zQdQb18fwi",
+  "datasets": [
+    {
+      "id": "348dddc1-9578-4fad-9349-6b8bb72630dc",
+      "name": "agrupamientos-industriales",
+      "title": "Agrupamientos Industriales",
+      "keywords": [],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/agrupamientos-industriales",
+      "resources": [
+        {
+          "id": "0945236f-6aea-4ff3-8899-41c347c2b0f9",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/348dddc1-9578-4fad-9349-6b8bb72630dc/resource/0945236f-6aea-4ff3-8899-41c347c2b0f9/download/agrupamientos-industriales.csv",
+          "name": "Agrupamientos Industriales",
+          "format": "CSV",
+          "updatedAt": "2019-11-14T21:22:47.916Z",
+          "description": "Descripción y localización de Agrupamientos Industriales (Parques y Sectores Industriales Planificados) o cualquier otra forma de concentración de industrias, que permitan el desarrollo económico.",
+          "landingUrl": ""
+        },
+        {
+          "id": "909b7b7a-ba03-4446-afa6-bae277e17e14",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/348dddc1-9578-4fad-9349-6b8bb72630dc/resource/909b7b7a-ba03-4446-afa6-bae277e17e14/download/agrupamientos-industriales.xlsx",
+          "name": "Agrupamientos Industriales",
+          "format": "XLS",
+          "updatedAt": "2019-11-14T20:36:53.533Z",
+          "description": "Descripción y localización de Agrupamientos Industriales (Parques y Sectores Industriales Planificados) o cualquier otra forma de concentración de industrias, que permitan el desarrollo económico.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-02-22T16:48:39.541Z",
+      "updatedAt": "2020-10-01T17:20:15.439Z",
+      "contact": {
+        "name": "Ministerio de Producción Ciencia e Innovación Tecnológica",
+        "email": ""
+      }
+    },
+    {
+      "id": "1650e0a6-ca82-40ac-95bd-6e7771f8efe2",
+      "name": "atencion-en-violencia-de-genero",
+      "title": "Atención en violencia de género",
+      "keywords": [
+        "género",
+        "justicia",
+        "salud",
+        "seguridad"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/atencion-en-violencia-de-genero",
+      "resources": [
+        {
+          "id": "257dffeb-25e0-474a-be41-4f942d2fcd0d",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/1650e0a6-ca82-40ac-95bd-6e7771f8efe2/resource/257dffeb-25e0-474a-be41-4f942d2fcd0d/download/atencion_violencia_genero.xlsx",
+          "name": "Atención en violencia de género",
+          "format": "XLS",
+          "updatedAt": "2019-05-22T22:38:28.872Z",
+          "description": "Información de los establecimientos en formato .xlsx",
+          "landingUrl": ""
+        },
+        {
+          "id": "e22416aa-a3af-440f-9f0a-eedefff00ff5",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/1650e0a6-ca82-40ac-95bd-6e7771f8efe2/resource/e22416aa-a3af-440f-9f0a-eedefff00ff5/download/atencion_violencia_genero.csv",
+          "name": "Atención en violencia de género",
+          "format": "CSV",
+          "updatedAt": "2019-05-22T22:38:54.806Z",
+          "description": "Información de los establecimientos en formato .csv",
+          "landingUrl": ""
+        },
+        {
+          "id": "1804974b-f276-4d8d-8fea-07c856cba302",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/1650e0a6-ca82-40ac-95bd-6e7771f8efe2/resource/1804974b-f276-4d8d-8fea-07c856cba302/download/metadatos_atencion_violencia_genero.xlsx",
+          "name": "Meta-datos atención en violencia de género",
+          "format": "XLS",
+          "updatedAt": "2019-05-22T22:39:45.666Z",
+          "description": "Meta-datos de los recursos en formato .xlsx",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-05-22T22:37:38.918Z",
+      "updatedAt": "2022-11-28T16:45:59.645Z",
+      "contact": {
+        "name": "Ministerio de las Mujeres, Políticas de Géneros y Diversidad Sexual. Subsecretaría de Políticas de Género y Diversidad Sexual.",
+        "email": ""
+      }
+    },
+    {
+      "id": "e2d58a92-9db7-4e65-b108-aa285d485f06",
+      "name": "base-saij-de-normativa-provincial",
+      "title": "Base SAIJ de Normativa Provincial",
+      "keywords": [
+        "boletín oficial",
+        "decretos",
+        "legislación",
+        "leyes"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/base-saij-de-normativa-provincial",
+      "resources": [
+        {
+          "id": "5a2468ff-bb81-44e4-94ed-67e30546d30c",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/e2d58a92-9db7-4e65-b108-aa285d485f06/resource/5a2468ff-bb81-44e4-94ed-67e30546d30c/download/base-saij-normativa.csv",
+          "name": "Base SAIJ de Normativa Provincial",
+          "format": "CSV",
+          "updatedAt": "2021-05-27T18:57:54.769Z",
+          "description": "Base de documentos digitales normativos provinciales publicados en el Boletín Oficial de la Provincia de Buenos Aires. Fecha de actualización: abril 31 de 2021.",
+          "landingUrl": ""
+        },
+        {
+          "id": "40d8e995-c71c-4cde-864d-2a7bde2d6ede",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/e2d58a92-9db7-4e65-b108-aa285d485f06/resource/40d8e995-c71c-4cde-864d-2a7bde2d6ede/download/base-saij-normativa.xlsx",
+          "name": "Base SAIJ de Normativa Provincial",
+          "format": "XLS",
+          "updatedAt": "2021-05-27T18:56:20.699Z",
+          "description": "Base de documentos digitales normativos provinciales publicados en el Boletín Oficial de la Provincia de Buenos Aires. Fecha de actualización: abril 31 de 2021.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-01-14T17:45:16.357Z",
+      "updatedAt": "2021-05-27T20:28:52.459Z",
+      "contact": {
+        "name": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Dirección Nacional del Sistema Argentino de Información Jurídica.",
+        "email": ""
+      }
+    },
+    {
+      "id": "b1b190b5-1068-475e-95fe-3ba5e8613a47",
+      "name": "beneficiarios-ips",
+      "title": "Beneficiarios IPS",
+      "keywords": [
+        "jubilaciones",
+        "pensiones"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/beneficiarios-ips",
+      "resources": [
+        {
+          "id": "fd4ea029-467d-4465-aa8b-1856f26200ad",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/b1b190b5-1068-475e-95fe-3ba5e8613a47/resource/fd4ea029-467d-4465-aa8b-1856f26200ad/download/beneficiarios-ips.csv",
+          "name": "Beneficiarios IPS 2017",
+          "format": "CSV",
+          "updatedAt": "2018-12-12T19:30:37.911Z",
+          "description": "Detalle de la cantidad de beneficiarios del IPS por partido, beneficio, sección, tipo de beneficio y sexo. Datos actualizados al mes de noviembre de 2017.",
+          "landingUrl": ""
+        },
+        {
+          "id": "d5926714-fbcd-44a9-82b7-380d98bf219d",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/b1b190b5-1068-475e-95fe-3ba5e8613a47/resource/d5926714-fbcd-44a9-82b7-380d98bf219d/download/beneficiarios_ips.csv",
+          "name": "Beneficiarios IPS 2023",
+          "format": "CSV",
+          "updatedAt": "2023-02-07T21:15:08.838Z",
+          "description": "Detalle de la cantidad de beneficiarios del IPS por partido, beneficio, sección, tipo de beneficio y sexo. Datos actualizados al mes de enero de 2023.",
+          "landingUrl": ""
+        },
+        {
+          "id": "79f47fa8-2c61-4fe4-a801-de5a1d77ea37",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/b1b190b5-1068-475e-95fe-3ba5e8613a47/resource/79f47fa8-2c61-4fe4-a801-de5a1d77ea37/download/beneficiarios_ips.xlsx",
+          "name": "Beneficiarios IPS 2023",
+          "format": "XLS",
+          "updatedAt": "2023-02-07T21:27:36.536Z",
+          "description": "Detalle de la cantidad de beneficiarios del IPS por municipio, beneficio, sección, tipo de beneficio y sexo. Datos actualizados al mes de enero de 2023.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-12-05T18:33:59.586Z",
+      "updatedAt": "2023-02-07T21:27:36.553Z",
+      "contact": {
+        "name": "Instituto de Previsión Social",
+        "email": ""
+      }
+    },
+    {
+      "id": "f3cf1025-b253-4627-b546-9c83457618f9",
+      "name": "bomberos-voluntarios",
+      "title": "Bomberos Voluntarios",
+      "keywords": [
+        "información geográfica"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/bomberos-voluntarios",
+      "resources": [
+        {
+          "id": "d868273c-9718-4a93-b29a-651be32c33d7",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/f3cf1025-b253-4627-b546-9c83457618f9/resource/d868273c-9718-4a93-b29a-651be32c33d7/download/cuarteles.zip",
+          "name": "Cuarteles",
+          "format": "ZIP",
+          "updatedAt": "2019-01-02T21:54:28.733Z",
+          "description": "Formatos .shp, .geojson y kml (EPSG:4326. Proyección WGS 84). Detalle de las asociaciones y federaciones de asociaciones de bomberos voluntarios en la Provincia.",
+          "landingUrl": ""
+        },
+        {
+          "id": "9d601310-6bf9-4d82-b809-65fed2f3f63a",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/f3cf1025-b253-4627-b546-9c83457618f9/resource/9d601310-6bf9-4d82-b809-65fed2f3f63a/download/cuarteles.csv",
+          "name": "Cuarteles",
+          "format": "CSV",
+          "updatedAt": "2019-01-02T21:49:21.410Z",
+          "description": "Detalle de las asociaciones y federaciones de asociaciones de bomberos voluntarios en la Provincia",
+          "landingUrl": "https://www.argentina.gob.ar/seguridad/bomberosvoluntarios"
+        }
+      ],
+      "createdAt": "2019-01-02T18:25:20.730Z",
+      "updatedAt": "2019-10-03T20:52:37.611Z",
+      "contact": {
+        "name": "Ministerio de Seguridad de la Nación",
+        "email": ""
+      }
+    },
+    {
+      "id": "338be580-5f9c-443a-aeb5-86c533ae5bfe",
+      "name": "camas",
+      "title": "Camas agudas y crónicas",
+      "keywords": [],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/camas",
+      "resources": [
+        {
+          "id": "6f3f60d3-699d-43fd-b2c4-09072c97c162",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/338be580-5f9c-443a-aeb5-86c533ae5bfe/resource/6f3f60d3-699d-43fd-b2c4-09072c97c162/download/camas-agudas-cronicas.csv",
+          "name": "Camas agudas y crónicas 2014-2017",
+          "format": "CSV",
+          "updatedAt": "2019-10-24T22:44:41.184Z",
+          "description": "Promedio de camas por año, dependencia, región sanitaria y tipo de cama. Periodo 2014 - 2017.",
+          "landingUrl": ""
+        },
+        {
+          "id": "884f9740-e923-4835-9c7a-63ceafbcfeec",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/338be580-5f9c-443a-aeb5-86c533ae5bfe/resource/884f9740-e923-4835-9c7a-63ceafbcfeec/download/camas-agudas-cronicas-establecimiento-2017-2019.xlsx",
+          "name": "Camas agudas y crónicas 2014-2017",
+          "format": "XLS",
+          "updatedAt": "2021-04-26T21:23:24.787Z",
+          "description": "Promedio de camas por año, dependencia, región sanitaria y tipo de cama. Periodo 2014 - 2017.\r\n\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "5c417408-b8b7-495f-b00b-3ce336be38cc",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/338be580-5f9c-443a-aeb5-86c533ae5bfe/resource/5c417408-b8b7-495f-b00b-3ce336be38cc/download/camas-agudas-cronicas-establecimiento_2018-2022.csv",
+          "name": "Camas agudas y crónicas 2018-2022",
+          "format": "CSV",
+          "updatedAt": "2023-07-20T16:28:31.703Z",
+          "description": "Promedio de camas por año, dependencia, región sanitaria y tipo de cama. Periodo 2018 - 2022.",
+          "landingUrl": ""
+        },
+        {
+          "id": "57f969ad-d252-4f46-a429-a9414533a3db",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/338be580-5f9c-443a-aeb5-86c533ae5bfe/resource/57f969ad-d252-4f46-a429-a9414533a3db/download/camas-agudas-cronicas-establecimiento_2018-2022.xlsx",
+          "name": "Camas agudas y crónicas 2018-2022",
+          "format": "XLS",
+          "updatedAt": "2023-07-20T16:29:08.372Z",
+          "description": "Promedio de camas por año, dependencia, región sanitaria y tipo de cama. Periodo 2018 - 2022.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-16T17:50:39.642Z",
+      "updatedAt": "2023-07-20T16:29:08.464Z",
+      "contact": {
+        "name": "Ministerio de Salud de la provincia de Buenos Aires. Subsecretaría de Gestión de la Información, Educación Permanente y Fiscalización. Dirección Provincial de Estadística y Salud Digital.",
+        "email": "datosabiertos.minsal.pba@gmail.com"
+      }
+    },
+    {
+      "id": "b60257fb-a914-4a27-a54c-6f2a91b3154d",
+      "name": "camas-criticas",
+      "title": "Camas críticas",
+      "keywords": [],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/camas-criticas",
+      "resources": [
+        {
+          "id": "72b62bd4-aef0-4a05-a67d-c4b92d07e660",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/b60257fb-a914-4a27-a54c-6f2a91b3154d/resource/72b62bd4-aef0-4a05-a67d-c4b92d07e660/download/camas-criticas.csv",
+          "name": "Camas críticas 2009-2017",
+          "format": "CSV",
+          "updatedAt": "2019-10-25T22:47:03.884Z",
+          "description": "Promedio de camas por año, dependencia, región sanitaria,  municipio, nombre de establecimiento y su especialidad. Periodo 2009 - 2017.",
+          "landingUrl": ""
+        },
+        {
+          "id": "b7c0ca79-f970-4adb-b281-960a6a8877cd",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/b60257fb-a914-4a27-a54c-6f2a91b3154d/resource/b7c0ca79-f970-4adb-b281-960a6a8877cd/download/camas-criticas.xlsx",
+          "name": "Camas críticas 2009-2017",
+          "format": "XLS",
+          "updatedAt": "2019-10-25T22:50:02.095Z",
+          "description": "Promedio de camas por año, dependencia, región sanitaria, municipio, nombre de establecimiento y su especialidad. Periodo 2009 - 2017.",
+          "landingUrl": ""
+        },
+        {
+          "id": "f89ab59e-3d2f-4e33-b8e8-bf52c3a8d108",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/b60257fb-a914-4a27-a54c-6f2a91b3154d/resource/f89ab59e-3d2f-4e33-b8e8-bf52c3a8d108/download/camas-criticas-establecimiento_2018-2022.csv",
+          "name": "Camas críticas 2018-2022",
+          "format": "CSV",
+          "updatedAt": "2023-07-19T17:47:19.787Z",
+          "description": "Promedio de camas por año, dependencia, región sanitaria, municipio, nombre de establecimiento y su especialidad. Periodo 2018 - 2022.",
+          "landingUrl": ""
+        },
+        {
+          "id": "19c47e83-4d85-4d3a-8b30-bdcd9ea5d748",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/b60257fb-a914-4a27-a54c-6f2a91b3154d/resource/19c47e83-4d85-4d3a-8b30-bdcd9ea5d748/download/camas-criticas-establecimiento_2018-2022.xlsx",
+          "name": "Camas críticas 2018-2022",
+          "format": "XLS",
+          "updatedAt": "2023-07-19T17:47:48.049Z",
+          "description": "Promedio de camas por año, dependencia, región sanitaria, municipio, nombre de establecimiento y su especialidad. Periodo 2018 - 2022.\r\n\r\n",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-10-25T22:36:14.291Z",
+      "updatedAt": "2023-07-19T17:47:48.098Z",
+      "contact": {
+        "name": "Ministerio de Salud de la provincia de Buenos Aires. Subsecretaría de Gestión de la Información, Educación Permanente y Fiscalización. Dirección Provincial de Estadística y Salud Digital.",
+        "email": "datosabiertos.minsal.pba@gmail.com"
+      }
+    },
+    {
+      "id": "b660ad42-e13c-462e-aa52-dc44b326aaa9",
+      "name": "capturas-maritimas-especies",
+      "title": "Capturas marítimas",
+      "keywords": [
+        "capturas maritimas especies"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/capturas-maritimas-especies",
+      "resources": [
+        {
+          "id": "c2a0a05d-601a-4b91-96ca-63045dca7a85",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/b660ad42-e13c-462e-aa52-dc44b326aaa9/resource/c2a0a05d-601a-4b91-96ca-63045dca7a85/download/capturas-maritimas-principales-especies-capturas-2010-2019.xls",
+          "name": "Capturas marítimas por principales especies",
+          "format": "XLS",
+          "updatedAt": "2021-04-26T21:49:27.912Z",
+          "description": "Detalle de las capturas marítimas anuales provinciales desagregado por especie. Se consideran los puertos de Mar del Plata, Necochea y Bahía Blanca. Periodo 2010-2019.",
+          "landingUrl": ""
+        },
+        {
+          "id": "41b51e3d-7f4b-456e-af96-4805031b7be9",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/b660ad42-e13c-462e-aa52-dc44b326aaa9/resource/41b51e3d-7f4b-456e-af96-4805031b7be9/download/capturas-maritimas-principales-puertos-2010_2019.xls",
+          "name": "Capturas marítimas por principales puertos",
+          "format": "XLS",
+          "updatedAt": "2021-04-26T22:03:03.035Z",
+          "description": "Detalle de las capturas marítimas anuales provinciales desagregado por puertos. Periodo 2010-2019.",
+          "landingUrl": ""
+        },
+        {
+          "id": "918ed282-5414-4fb3-a013-51e40792dfae",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/b660ad42-e13c-462e-aa52-dc44b326aaa9/resource/918ed282-5414-4fb3-a013-51e40792dfae/download/capturas-maritimas-por-principales-especies-2010-2019.csv",
+          "name": "Capturas marítimas por principales especies",
+          "format": "CSV",
+          "updatedAt": "2021-04-28T22:04:11.981Z",
+          "description": "Detalle de las capturas marítimas anuales provinciales desagregado por especie. Se consideran los puertos de Mar del Plata, Necochea y Bahía Blanca. Periodo 2010-2019.",
+          "landingUrl": ""
+        },
+        {
+          "id": "98e46c99-edd6-4a88-9997-9de9e38bbe28",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/b660ad42-e13c-462e-aa52-dc44b326aaa9/resource/98e46c99-edd6-4a88-9997-9de9e38bbe28/download/pesca-capturas-principales-puertos-2010-2019.csv",
+          "name": "Capturas marítimas por principales puertos",
+          "format": "CSV",
+          "updatedAt": "2021-04-28T21:57:47.336Z",
+          "description": "Detalle de las capturas marítimas anuales provinciales desagregado por puertos. Periodo 2010-2019.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-10T20:20:11.732Z",
+      "updatedAt": "2022-12-05T19:45:37.037Z",
+      "contact": {
+        "name": "Ministerio de Hacienda y Finanzas. Subsecretaría de Coordinación Económica y Estadística. Dirección Provincial de Estadística.",
+        "email": ""
+      }
+    },
+    {
+      "id": "01472488-bccb-4435-8190-0ca50e579122",
+      "name": "carreras-enfermeria",
+      "title": "Carreras de enfermería",
+      "keywords": [],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/carreras-enfermeria",
+      "resources": [
+        {
+          "id": "6feef6ae-ceec-458a-8226-183c3eaf5efd",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/01472488-bccb-4435-8190-0ca50e579122/resource/6feef6ae-ceec-458a-8226-183c3eaf5efd/download/carreras_enfermeria.csv",
+          "name": "Carreras de enfermería 2018",
+          "format": "CSV",
+          "updatedAt": "2018-10-16T18:00:41.096Z",
+          "description": "Información correspondiente a las carreras de enfermería por región sanitaria, carrera, disposición, sede.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-16T17:57:37.759Z",
+      "updatedAt": "2018-11-29T16:22:49.488Z",
+      "contact": {
+        "name": "Ministerio de Salud",
+        "email": ""
+      }
+    },
+    {
+      "id": "aab1ccc5-d4ff-414a-ad49-65bfc52ad859",
+      "name": "cavaj",
+      "title": "Centros de asistencia a víctimas y acceso a justicia (CAVAJ)",
+      "keywords": [
+        "dependencias",
+        "información geográfica"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/cavaj",
+      "resources": [
+        {
+          "id": "46c15e9a-45af-4269-b48f-5c5b6006ddbf",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/aab1ccc5-d4ff-414a-ad49-65bfc52ad859/resource/46c15e9a-45af-4269-b48f-5c5b6006ddbf/download/centros-de-asistencia-a-victimas.csv",
+          "name": "CAVAJ",
+          "format": "CSV",
+          "updatedAt": "2019-03-13T22:00:26.661Z",
+          "description": "Centros de asistencia georreferenciados que contienen los campos:  Dependencia, Organismo, Nombre, Dirección, Partido, Teléfono, Representa, Horario y Contacto.",
+          "landingUrl": ""
+        },
+        {
+          "id": "11cf3ab7-1f56-4413-81e9-b3c3c775b409",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/aab1ccc5-d4ff-414a-ad49-65bfc52ad859/resource/11cf3ab7-1f56-4413-81e9-b3c3c775b409/download/centros-de-asistencia-a-victimas.zip",
+          "name": "CAVAJ",
+          "format": "ZIP",
+          "updatedAt": "2019-03-13T21:50:33.674Z",
+          "description": "Formatos .shp, .geojson y kml (EPSG:4326. Proyección WGS 84). Contienen los campos: Dependencia, Organismo, Nombre, Dirección, Partido, Teléfono, Representa, Horario y Contacto. ",
+          "landingUrl": "http://www.mjus.gba.gov.ar/asistvictimas"
+        }
+      ],
+      "createdAt": "2018-10-16T20:47:30.365Z",
+      "updatedAt": "2020-10-01T17:48:40.538Z",
+      "contact": {
+        "name": "Ministerio de Justicia y Derechos Humanos.",
+        "email": ""
+      }
+    },
+    {
+      "id": "b5365f64-4104-4266-a797-1122ce4e0a05",
+      "name": "centros-arba",
+      "title": "Centros de Servicio ARBA",
+      "keywords": [
+        "dependencias",
+        "información geográfica"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/centros-arba",
+      "resources": [
+        {
+          "id": "48d182fe-0c8b-41b2-bdac-e3bc5323d8cf",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/b5365f64-4104-4266-a797-1122ce4e0a05/resource/48d182fe-0c8b-41b2-bdac-e3bc5323d8cf/download/centros_servicio_arba.csv",
+          "name": "Centros de Servicio ARBA",
+          "format": "CSV",
+          "updatedAt": "2018-12-12T21:09:18.245Z",
+          "description": "Centros de atención georreferenciados que contienen los campos: Dependencia, Organismo, Nombre, Dirección, Partido, Telefono, Representa, Contacto, Turnos web.",
+          "landingUrl": ""
+        },
+        {
+          "id": "fa573152-9907-4b6b-9e43-457d78ff4abc",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/b5365f64-4104-4266-a797-1122ce4e0a05/resource/fa573152-9907-4b6b-9e43-457d78ff4abc/download/centros_servicio_arba.zip",
+          "name": "Centros de Servicio ARBA",
+          "format": "ZIP",
+          "updatedAt": "2019-03-13T22:49:49.086Z",
+          "description": "Formatos .shp, .geojson y kml. Centros de atención georreferenciados que contienen los campos: Dependencia, Organismo, Nombre, Dirección, Partido, Teléfono, Representa, Contacto, Turnos web.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-11T20:23:23.201Z",
+      "updatedAt": "2022-09-05T18:10:17.689Z",
+      "contact": {
+        "name": "ARBA",
+        "email": ""
+      }
+    },
+    {
+      "id": "d03c6f7b-55d7-49b9-b0d1-89bb16c84969",
+      "name": "centros-de-almacenamiento-transitorio-de-envases-fitosanitarios",
+      "title": "Centros de almacenamiento transitorio de envases de productos fitosanitarios",
+      "keywords": [
+        "rsu",
+        "almacenamientos",
+        "envases",
+        "fitosanitarios",
+        "residuos sólidos"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/centros-de-almacenamiento-transitorio-de-envases-fitosanitarios",
+      "resources": [
+        {
+          "id": "2d53b1de-d2c6-41f5-b454-93a7e47ccb0a",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/d03c6f7b-55d7-49b9-b0d1-89bb16c84969/resource/2d53b1de-d2c6-41f5-b454-93a7e47ccb0a/download/centros-almacenamiento-transitorio-envases-fitosanitarios.xlsx",
+          "name": "Centros de almacenamiento transitorio de envases de productos fitosanitarios",
+          "format": "XLS",
+          "updatedAt": "2023-01-02T16:39:13.967Z",
+          "description": "Se presentan los centros de almacenamiento transitorio de envases de productos fitosanitarios. Actualizado a noviembre a 2021.",
+          "landingUrl": ""
+        },
+        {
+          "id": "bbd68501-255f-40ca-81fe-e336f7bf2bed",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/d03c6f7b-55d7-49b9-b0d1-89bb16c84969/resource/bbd68501-255f-40ca-81fe-e336f7bf2bed/download/centros-almacenamiento-transitorio-envases-fitosanitarios.csv",
+          "name": "Centros de almacenamiento transitorio de envases de productos fitosanitarios",
+          "format": "CSV",
+          "updatedAt": "2023-01-02T16:46:10.814Z",
+          "description": "Se presentan los centros de almacenamiento transitorio de envases de productos fitosanitarios. Actualización a noviembre de 2021.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-11-12T23:34:53.041Z",
+      "updatedAt": "2023-01-02T16:46:10.831Z",
+      "contact": {
+        "name": "Ministerio de Ambiente",
+        "email": ""
+      }
+    },
+    {
+      "id": "cf76eafd-c292-4dc5-8d3f-65f747237dbf",
+      "name": "centros-ips",
+      "title": "Centros de atención IPS",
+      "keywords": [
+        "dependencias",
+        "información geográfica",
+        "ips"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/centros-ips",
+      "resources": [
+        {
+          "id": "4eb8067a-bb19-46a2-9623-14a0e84c5f32",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/cf76eafd-c292-4dc5-8d3f-65f747237dbf/resource/4eb8067a-bb19-46a2-9623-14a0e84c5f32/download/centros_atencion_ips.csv",
+          "name": "Centros de Atención IPS",
+          "format": "CSV",
+          "updatedAt": "2023-02-01T20:05:30.613Z",
+          "description": "Centros georreferenciados que contienen los campos: dependencia, organismo, nombre, dirección, municipio, teléfono, contacto, horario. Fecha de actualización: febrero de 2023.",
+          "landingUrl": ""
+        },
+        {
+          "id": "f46938bd-586b-4c34-a2b9-3182d2310f35",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/cf76eafd-c292-4dc5-8d3f-65f747237dbf/resource/f46938bd-586b-4c34-a2b9-3182d2310f35/download/centros_atencion_ips.xlsx",
+          "name": "Centros de Atención IPS",
+          "format": "XLS",
+          "updatedAt": "2023-02-01T20:06:14.840Z",
+          "description": "Centros georreferenciados que contienen los campos: dependencia, organismo, nombre, dirección, municipio, teléfono, contacto, horario. Fecha de actualización: febrero de 2023.",
+          "landingUrl": ""
+        },
+        {
+          "id": "b19a9f35-044e-488b-be3d-cbafe9d89b24",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/cf76eafd-c292-4dc5-8d3f-65f747237dbf/resource/b19a9f35-044e-488b-be3d-cbafe9d89b24/download/centros_atencion_ips.geojson",
+          "name": "Centros de Atención IPS",
+          "format": "GeoJSON",
+          "updatedAt": "2023-02-01T20:31:02.310Z",
+          "description": "Formato .geojson (EPSG:4326. Proyección WGS 84).Contienen los campos: Dependencia, Organismo, Nombre, Dirección, Partido, Teléfono, Contacto, Horario.",
+          "landingUrl": ""
+        },
+        {
+          "id": "a9b3e02d-4651-4cf6-a926-609da165cc51",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/cf76eafd-c292-4dc5-8d3f-65f747237dbf/resource/a9b3e02d-4651-4cf6-a926-609da165cc51/download/centros_atencion_ips.kml",
+          "name": "Centros de Atención IPS",
+          "format": "KML",
+          "updatedAt": "2023-02-01T20:45:13.641Z",
+          "description": "Formato .kml (EPSG:4326. Proyección WGS 84). Contienen los campos: Dependencia, Organismo, Nombre, Dirección, Partido, Teléfono, Contacto, Horario.",
+          "landingUrl": ""
+        },
+        {
+          "id": "904c85ae-6e68-48bd-bbf9-8db15917c448",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/cf76eafd-c292-4dc5-8d3f-65f747237dbf/resource/904c85ae-6e68-48bd-bbf9-8db15917c448/download/centros-atencion-ips.zip",
+          "name": "Centros de Atención IPS",
+          "format": "ZIP",
+          "updatedAt": "2023-02-01T20:47:32.961Z",
+          "description": "Formato shapefile (EPSG:4326. Proyección WGS 84). Contienen los campos: Dependencia, Organismo, Nombre, Dirección, Partido, Teléfono, Contacto, Horario.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-10T20:11:34.934Z",
+      "updatedAt": "2023-02-01T20:48:13.469Z",
+      "contact": {
+        "name": "Instituto de Previsión Social",
+        "email": ""
+      }
+    },
+    {
+      "id": "4fe68b69-c788-4c06-ac67-26e4ebc7416b",
+      "name": "circuitos-electorales",
+      "title": "Circuitos electorales",
+      "keywords": [
+        "elecciones"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/circuitos-electorales",
+      "resources": [
+        {
+          "id": "43d4314f-c540-4b00-8c41-1104141bda19",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/4fe68b69-c788-4c06-ac67-26e4ebc7416b/resource/43d4314f-c540-4b00-8c41-1104141bda19/download/circuitos-electorales.csv",
+          "name": "Circuitos de Buenos Aires",
+          "format": "CSV",
+          "updatedAt": "2019-10-01T21:12:13.635Z",
+          "description": "Circuitos electorales de la provincia de Buenos Aires con su descripción y ubicación.",
+          "landingUrl": ""
+        },
+        {
+          "id": "65244d7f-d0d8-40bf-ad6b-98e9738de3a9",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/4fe68b69-c788-4c06-ac67-26e4ebc7416b/resource/65244d7f-d0d8-40bf-ad6b-98e9738de3a9/download/circuitos-electorales.xlsx",
+          "name": "Circuitos de Buenos Aires",
+          "format": "XLS",
+          "updatedAt": "2019-10-04T17:52:01.897Z",
+          "description": "Circuitos electorales de la provincia de Buenos Aires con su descripción y ubicación.",
+          "landingUrl": ""
+        },
+        {
+          "id": "37bd466c-4a80-4e2e-be11-a68cfe60aa1e",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/4fe68b69-c788-4c06-ac67-26e4ebc7416b/resource/37bd466c-4a80-4e2e-be11-a68cfe60aa1e/download/circuitos-electorales.zip",
+          "name": "Circuitos de Buenos Aires (SHP)",
+          "format": "ZIP",
+          "updatedAt": "2019-10-01T21:48:12.958Z",
+          "description": "Archivo shapefile de los circuitos electorales de la provincia de Buenos Aires con su descripción y ubicación.",
+          "landingUrl": ""
+        },
+        {
+          "id": "35322bb6-72f5-44ae-81eb-1686ca473e06",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/4fe68b69-c788-4c06-ac67-26e4ebc7416b/resource/35322bb6-72f5-44ae-81eb-1686ca473e06/download/circuitos-electorales.geojson",
+          "name": "Circuitos de Buenos Aires (GeoJson)",
+          "format": "GeoJSON",
+          "updatedAt": "2019-10-01T21:50:42.592Z",
+          "description": "Archivo GeoJSON de los circuitos electorales de la provincia de Buenos Aires con su descripción y ubicación.",
+          "landingUrl": ""
+        },
+        {
+          "id": "0e5cfe96-85e0-4bfa-8011-b6709faef7cb",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/4fe68b69-c788-4c06-ac67-26e4ebc7416b/resource/0e5cfe96-85e0-4bfa-8011-b6709faef7cb/download/circuitos-electorales.kml",
+          "name": "Circuitos de Buenos Aires (KML)",
+          "format": "KML",
+          "updatedAt": "2019-10-01T21:55:02.489Z",
+          "description": "Archivo KML de los circuitos electorales de la provincia de Buenos Aires con su descripción y ubicación.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-01-15T22:58:21.198Z",
+      "updatedAt": "2023-02-01T21:30:41.328Z",
+      "contact": {
+        "name": "Poder Judicial de la Nación. Justicia Nacional Electoral. Cámara Nacional Electoral.",
+        "email": ""
+      }
+    },
+    {
+      "id": "bf79faeb-cb8a-4444-bbbe-5dc39479aa4a",
+      "name": "comisarias",
+      "title": "Comisarías",
+      "keywords": [
+        "dependencias",
+        "información geográfica"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/comisarias",
+      "resources": [
+        {
+          "id": "8d31bb16-3489-4ede-9e63-072f7f17383d",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/bf79faeb-cb8a-4444-bbbe-5dc39479aa4a/resource/8d31bb16-3489-4ede-9e63-072f7f17383d/download/comisarias.csv",
+          "name": "Comisarías",
+          "format": "CSV",
+          "updatedAt": "2018-10-16T20:51:44.475Z",
+          "description": "Comisarías georreferenciadas que contienen los campos: Dependencia, Organismo, Nombre, Dirección, Partido, Teléfono, Representa.",
+          "landingUrl": ""
+        },
+        {
+          "id": "cad9f012-ab72-405f-b85d-41f79e54e1d1",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/bf79faeb-cb8a-4444-bbbe-5dc39479aa4a/resource/cad9f012-ab72-405f-b85d-41f79e54e1d1/download/comisarias-de-la-mujer.csv",
+          "name": "Comisarías de la mujer",
+          "format": "CSV",
+          "updatedAt": "2018-10-16T20:52:44.849Z",
+          "description": "Comisarías de la mujer georreferenciadas que contienen los campos: Dependencia, Organismo, Nombre, Dirección, Partido, Teléfono, Representa.",
+          "landingUrl": ""
+        },
+        {
+          "id": "162d3166-0990-43f9-87b7-4ab01b1cc8b9",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/bf79faeb-cb8a-4444-bbbe-5dc39479aa4a/resource/162d3166-0990-43f9-87b7-4ab01b1cc8b9/download/comisarias.zip",
+          "name": "Comisarías",
+          "format": "ZIP",
+          "updatedAt": "2018-12-26T17:57:13.740Z",
+          "description": "Formatos .shp, .geojson y kml (EPSG:4326. Proyección WGS 84). Contienen los campos: Dependencia, Organismo, Nombre, Dirección, Partido, Teléfono, Representa.",
+          "landingUrl": "https://seguridad.gba.gob.ar/#!/mapa/comisarias"
+        },
+        {
+          "id": "1627bf0a-18ae-469c-8151-34061a6828c7",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/bf79faeb-cb8a-4444-bbbe-5dc39479aa4a/resource/1627bf0a-18ae-469c-8151-34061a6828c7/download/comisarias-de-la-mujer.zip",
+          "name": "Comisarías de la mujer",
+          "format": "ZIP",
+          "updatedAt": "2018-12-26T18:04:56.925Z",
+          "description": "Formatos .shp, .geojson y kml (EPSG:4326. Proyección WGS 84). Contienen los campos: Dependencia, Organismo, Nombre, Dirección, Partido, Teléfono, Representa.",
+          "landingUrl": "https://seguridad.gba.gob.ar/#!/mapa/dependencias"
+        }
+      ],
+      "createdAt": "2018-10-16T20:51:17.429Z",
+      "updatedAt": "2018-12-26T18:06:07.567Z",
+      "contact": {
+        "name": "Ministerio de Seguridad",
+        "email": ""
+      }
+    },
+    {
+      "id": "ac32d97b-d626-412d-a052-33cc52c71ee8",
+      "name": "comunidades-indigenas",
+      "title": "Comunidades Indígenas",
+      "keywords": [
+        "indigenas",
+        "información geográfica"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/comunidades-indigenas",
+      "resources": [
+        {
+          "id": "2abc9abf-17f5-4e72-ab75-1304ca2d09fd",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/ac32d97b-d626-412d-a052-33cc52c71ee8/resource/2abc9abf-17f5-4e72-ab75-1304ca2d09fd/download/comunidades-pba-personeria-juridica.csv",
+          "name": "Comunidades indígenas con personería jurídica",
+          "format": "CSV",
+          "updatedAt": "2022-08-29T22:29:14.866Z",
+          "description": "Detalle y ubicación de las comunidades indígenas con información de personería jurídica. Fecha de actualización: 13 de mayo de 2022.",
+          "landingUrl": ""
+        },
+        {
+          "id": "3895f5cb-c07f-475b-9dba-12e97ff475b1",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/ac32d97b-d626-412d-a052-33cc52c71ee8/resource/3895f5cb-c07f-475b-9dba-12e97ff475b1/download/comunidades-pba-personeria-juridica.xlsx",
+          "name": "Comunidades indígenas con personería jurídica",
+          "format": "XLS",
+          "updatedAt": "2022-08-29T22:48:18.416Z",
+          "description": "Detalle y ubicación de las comunidades indígenas con información de personería jurídica. Fecha de actualización: 13 de mayo de 2022.",
+          "landingUrl": ""
+        },
+        {
+          "id": "2461ee1f-6f15-4629-8eeb-5db00a9ffdd9",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/ac32d97b-d626-412d-a052-33cc52c71ee8/resource/2461ee1f-6f15-4629-8eeb-5db00a9ffdd9/download/comunidades-pba-personeria-juridica.zip",
+          "name": "Comunidades indígenas con personería jurídica (SHP)",
+          "format": "ZIP",
+          "updatedAt": "2022-09-06T18:55:22.257Z",
+          "description": "Archivo shapefile (EPSG:4326. Proyección WGS 84. Codificación: UTF8) con detalle y ubicación de las comunidades indígenas. Fecha de actualización: 13 de mayo de 2022.",
+          "landingUrl": ""
+        },
+        {
+          "id": "d7292651-4069-421c-a20f-e09148ed5581",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/ac32d97b-d626-412d-a052-33cc52c71ee8/resource/d7292651-4069-421c-a20f-e09148ed5581/download/comunidades-pba-personeria-juridica.geojson",
+          "name": "Comunidades indígenas con personería jurídica (GeoJSON)",
+          "format": "GeoJSON",
+          "updatedAt": "2022-09-07T22:18:29.756Z",
+          "description": "Archivo GeoJSON (EPSG:4326. Proyección WGS 84. Codificación: UTF8) con detalle y ubicación de las comunidades indígenas. Fecha de actualización: 13 de mayo de 2022.",
+          "landingUrl": ""
+        },
+        {
+          "id": "6dc0d565-3a42-45d3-a045-b6af889e8ed5",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/ac32d97b-d626-412d-a052-33cc52c71ee8/resource/6dc0d565-3a42-45d3-a045-b6af889e8ed5/download/comunidades-pba-personeria-juridica.kml",
+          "name": "Comunidades indígenas con personería jurídica (kml)",
+          "format": "KML",
+          "updatedAt": "2022-09-07T22:25:19.107Z",
+          "description": "Archivo kml (EPSG:4326. Proyección WGS 84. Codificación: UTF8) con detalle y ubicación de las comunidades indígenas. Fecha de actualización: 13 de mayo de 2022.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-11T17:30:15.350Z",
+      "updatedAt": "2022-11-28T16:21:06.887Z",
+      "contact": {
+        "name": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Derechos Humanos. Consejo Provincial de Asuntos Indígenas.",
+        "email": ""
+      }
+    },
+    {
+      "id": "9095e911-e78a-4cc4-a6bd-86119a785d2a",
+      "name": "consultas-obstetricas",
+      "title": "Consultas obstétricas",
+      "keywords": [
+        "consultas",
+        "obstetricia"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/consultas-obstetricas",
+      "resources": [
+        {
+          "id": "f92c33d5-4e7b-440b-a160-ac2ee9986aef",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/9095e911-e78a-4cc4-a6bd-86119a785d2a/resource/f92c33d5-4e7b-440b-a160-ac2ee9986aef/download/consultas-obstetricas-2018_2021.xlsx",
+          "name": "Consultas obstétricas",
+          "format": "XLS",
+          "updatedAt": "2023-04-12T20:57:38.932Z",
+          "description": "Datos anuales de las consultas obstétricas por región sanitaria, establecimiento, municipio y dependencia. Periodo 2018-2021.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "ffc1bfa3-9415-466f-abe3-1f8fd28c5e71",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/9095e911-e78a-4cc4-a6bd-86119a785d2a/resource/ffc1bfa3-9415-466f-abe3-1f8fd28c5e71/download/consultas-obstetricas-2018_2021.csv",
+          "name": "Consultas obstétricas",
+          "format": "CSV",
+          "updatedAt": "2023-04-12T20:59:20.707Z",
+          "description": "Datos anuales de las consultas obstétricas por región sanitaria, establecimiento, municipio y dependencia. Periodo 2018-2021.\r\n",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-01-05T16:55:06.684Z",
+      "updatedAt": "2023-04-12T20:59:20.739Z",
+      "contact": {
+        "name": "Ministerio de Salud de la provincia de Buenos Aires. Subsecretaría de Gestión de la Información, Educación Permanente y Fiscalización. Dirección Provincial de Estadística y Salud Digital.",
+        "email": "datosabiertos.minsal.pba@gmail.com"
+      }
+    },
+    {
+      "id": "0896dec3-5fd6-42c9-b395-b0ff5caf3096",
+      "name": "cuerpos-agua",
+      "title": "Cuerpos de agua",
+      "keywords": [
+        "agua",
+        "información geográfica"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/cuerpos-agua",
+      "resources": [
+        {
+          "id": "64342111-894a-4f7a-9ee2-a084b75495a0",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/0896dec3-5fd6-42c9-b395-b0ff5caf3096/resource/64342111-894a-4f7a-9ee2-a084b75495a0/download/cuerpos-agua-2.csv",
+          "name": "Cuerpos de agua",
+          "format": "CSV",
+          "updatedAt": "2018-10-10T20:58:29.655Z",
+          "description": "Ubicación y detalle de los cuerpos de agua de la Provincia con información de tipo, nombre, régimen y navegabilidad.",
+          "landingUrl": ""
+        },
+        {
+          "id": "87215d91-0218-442d-9909-81232860c036",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/0896dec3-5fd6-42c9-b395-b0ff5caf3096/resource/87215d91-0218-442d-9909-81232860c036/download/cuerpos-agua.zip",
+          "name": "Cuerpos de agua",
+          "format": "ZIP",
+          "updatedAt": "2019-04-17T15:12:12.519Z",
+          "description": "Formatos .shp, .geojson y kml (EPSG:4326. Proyección WGS 84). Ubicación y detalle de los cuerpos de agua de la Provincia con información de tipo, nombre, régimen y navegabilidad.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-10T20:57:06.138Z",
+      "updatedAt": "2019-04-17T15:12:12.548Z",
+      "contact": {
+        "name": "IGN",
+        "email": ""
+      }
+    },
+    {
+      "id": "4ac7ad19-2fc5-490f-82a2-6bd06fdc6251",
+      "name": "cursos-agua",
+      "title": "Cursos de agua",
+      "keywords": [
+        "agua",
+        "información geográfica"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/cursos-agua",
+      "resources": [
+        {
+          "id": "7235d0b8-ee47-4ab8-a643-9a8bd3818028",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/4ac7ad19-2fc5-490f-82a2-6bd06fdc6251/resource/7235d0b8-ee47-4ab8-a643-9a8bd3818028/download/cursos-agua-1.csv",
+          "name": "Cursos de agua",
+          "format": "CSV",
+          "updatedAt": "2018-10-10T21:06:03.343Z",
+          "description": "Ubicación y detalle de los cursos de agua de la Provincia con información de unión, tipo, nombre, régimen, navegabilidad, observación, hoja y fuente.",
+          "landingUrl": ""
+        },
+        {
+          "id": "cd7ca981-c8d9-43c3-a4b5-93d18b217b53",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/4ac7ad19-2fc5-490f-82a2-6bd06fdc6251/resource/cd7ca981-c8d9-43c3-a4b5-93d18b217b53/download/cursos-agua.zip",
+          "name": "Cursos de agua",
+          "format": "ZIP",
+          "updatedAt": "2019-04-17T15:13:01.356Z",
+          "description": "Formatos .shp, .geojson y kml (EPSG:4326. Proyección WGS 84).Ubicación y detalle de los cursos de agua de la Provincia con información de unión, tipo, nombre, régimen, navegabilidad, entre otros.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-10T21:00:02.059Z",
+      "updatedAt": "2019-04-17T15:13:01.370Z",
+      "contact": {
+        "name": "IGN",
+        "email": ""
+      }
+    },
+    {
+      "id": "0f0e47ed-a4d4-446b-936d-2db84a6c2a00",
+      "name": "curvas-nivel",
+      "title": "Curvas de nivel",
+      "keywords": [
+        "información geográfica"
+      ],
+      "landingPage": "http://www.ign.gob.ar/NuestrasActividades/InformacionGeoespacial/CapasSIG",
+      "resources": [
+        {
+          "id": "d6d3ad40-1030-4bce-80f0-8ca46a02c0e1",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/0f0e47ed-a4d4-446b-936d-2db84a6c2a00/resource/d6d3ad40-1030-4bce-80f0-8ca46a02c0e1/download/curvas-de-nivel.csv",
+          "name": "Curvas de nivel",
+          "format": "CSV",
+          "updatedAt": "2022-05-30T21:55:18.858Z",
+          "description": "Ubicación y detalle de las curvas de nivel de la Provincia con información de cota, hoja y fuente. Actualización: Agosto de 2015",
+          "landingUrl": "http://www.ign.gob.ar/NuestrasActividades/InformacionGeoespacial/CapasSIG"
+        },
+        {
+          "id": "dc7c60ff-15a7-411b-9071-088c0e827b38",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/0f0e47ed-a4d4-446b-936d-2db84a6c2a00/resource/dc7c60ff-15a7-411b-9071-088c0e827b38/download/curvas-de-nivel.zip",
+          "name": "Curvas de nivel",
+          "format": "ZIP",
+          "updatedAt": "2020-10-09T17:57:25.835Z",
+          "description": "Formatos .shp, .geojson y kml (EPSG:4326. Proyección WGS 84). Ubicación y detalle de las curvas de nivel de la Provincia con información de cota, hoja y fuente. Actualización: Agosto de 2015",
+          "landingUrl": "http://www.ign.gob.ar/NuestrasActividades/InformacionGeoespacial/CapasSIG"
+        }
+      ],
+      "createdAt": "2018-10-10T21:03:25.394Z",
+      "updatedAt": "2022-05-30T21:55:18.908Z",
+      "contact": {
+        "name": "IGN",
+        "email": ""
+      }
+    },
+    {
+      "id": "194f8b8c-d936-44dc-87a0-cfedf4563422",
+      "name": "defunciones",
+      "title": "Inscripción de defunciones",
+      "keywords": [
+        "defunciones",
+        "mortalidad"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/defunciones",
+      "resources": [
+        {
+          "id": "bf36c4e2-3bc0-474d-a60e-a85441462e3e",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/194f8b8c-d936-44dc-87a0-cfedf4563422/resource/bf36c4e2-3bc0-474d-a60e-a85441462e3e/download/defunciones-012018_122022.csv",
+          "name": "Registro mensual de defunciones",
+          "format": "CSV",
+          "updatedAt": "2023-03-27T18:06:00.020Z",
+          "description": "Defunciones registradas mensualmente por el Registro Provincial de las Personas con información de municipio y delegación. Periodo: 2018-2022",
+          "landingUrl": ""
+        },
+        {
+          "id": "fc66c19b-8021-494d-aea9-b70eeaf8f0d5",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/194f8b8c-d936-44dc-87a0-cfedf4563422/resource/fc66c19b-8021-494d-aea9-b70eeaf8f0d5/download/defunciones-012018_122022.xlsx",
+          "name": "Registro mesual de defunciones",
+          "format": "XLS",
+          "updatedAt": "2023-03-27T18:05:37.110Z",
+          "description": "Defunciones registradas mensualmente por el Registro Provincial de las Personas con información de municipio y delegación. Periodo: 2018-2022",
+          "landingUrl": ""
+        },
+        {
+          "id": "b0f9615b-a157-436b-9592-7903ee243d4f",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/194f8b8c-d936-44dc-87a0-cfedf4563422/resource/b0f9615b-a157-436b-9592-7903ee243d4f/download/defunciones-2016_2022.csv",
+          "name": "Registro anual de defunciones",
+          "format": "CSV",
+          "updatedAt": "2023-03-27T18:06:19.635Z",
+          "description": "Defunciones anuales registradas por el Registro Provincial de las Personas con información de municipio y delegación. Periodo: 2016-2022",
+          "landingUrl": ""
+        },
+        {
+          "id": "081f2ecc-81bd-4ba2-88a9-0663399d4b9d",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/194f8b8c-d936-44dc-87a0-cfedf4563422/resource/081f2ecc-81bd-4ba2-88a9-0663399d4b9d/download/defunciones-2016_2022.xlsx",
+          "name": "Registro anual de defunciones",
+          "format": "XLS",
+          "updatedAt": "2023-03-27T18:06:35.064Z",
+          "description": "Defunciones anuales registradas por el Registro Provincial de las Personas con información de municipio y delegación. Periodo: 2016-2022",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-02-15T18:07:10.351Z",
+      "updatedAt": "2023-03-27T18:06:35.092Z",
+      "contact": {
+        "name": "Ministerio de Gobierno. Subsecretaría de Gestión Operativa. Dirección Provincial del Registro de las Personas.",
+        "email": ""
+      }
+    },
+    {
+      "id": "cda5515f-f986-4daf-a6cc-cb1695e30a73",
+      "name": "defunciones-fetales",
+      "title": "Defunciones fetales",
+      "keywords": [
+        "fallecidos",
+        "mortalidad",
+        "vitales"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/defunciones-fetales",
+      "resources": [
+        {
+          "id": "4a7aea9b-2667-48aa-a380-19a737d6f42a",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/cda5515f-f986-4daf-a6cc-cb1695e30a73/resource/4a7aea9b-2667-48aa-a380-19a737d6f42a/download/defunciones-fetales-2017-2020.csv",
+          "name": "Defunciones fetales",
+          "format": "CSV",
+          "updatedAt": "2022-11-09T20:20:21.292Z",
+          "description": "Datos de defunciones fetales por municipio de residencia. Periodo 2017 - 2020",
+          "landingUrl": ""
+        },
+        {
+          "id": "5e8d6dab-0a20-4c09-b177-27ff26891143",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/cda5515f-f986-4daf-a6cc-cb1695e30a73/resource/5e8d6dab-0a20-4c09-b177-27ff26891143/download/defunciones-fetales-2017-2020.xlsx",
+          "name": "Defunciones fetales",
+          "format": "XLS",
+          "updatedAt": "2022-11-09T20:16:05.837Z",
+          "description": "Datos de defunciones fetales por municipio de residencia. Periodo 2017 - 2020",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-05-28T16:50:33.678Z",
+      "updatedAt": "2022-11-09T20:20:21.326Z",
+      "contact": {
+        "name": "Ministerio de Salud de la provincia de Buenos Aires. Subsecretaría de Gestión de la Información, Educación Permanente y Fiscalización. Dirección Provincial de Estadística y Salud Digital.",
+        "email": "datosabiertos.minsal.pba@gmail.com"
+      }
+    },
+    {
+      "id": "e5ef0945-c5f5-4924-83d4-d5ceceea4c0a",
+      "name": "defunciones-generales",
+      "title": "Defunciones generales",
+      "keywords": [
+        "fallecidos",
+        "mortalidad"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/defunciones-generales",
+      "resources": [
+        {
+          "id": "30bfd60b-91ca-4b29-84ce-4e0e5e356c86",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/e5ef0945-c5f5-4924-83d4-d5ceceea4c0a/resource/30bfd60b-91ca-4b29-84ce-4e0e5e356c86/download/defunciones-grupo-edad-2009-2021.zip",
+          "name": "Defunciones generales",
+          "format": "XLS",
+          "updatedAt": "2023-03-07T16:55:23.338Z",
+          "description": "Datos de defunciones generales por año, región sanitaria, partido de residencia, grupo de edad, sexo y causa de muerte. Periodo 2009-2021.",
+          "landingUrl": ""
+        },
+        {
+          "id": "b5f240c5-8a84-4912-abb3-a63f9eb433ab",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/e5ef0945-c5f5-4924-83d4-d5ceceea4c0a/resource/b5f240c5-8a84-4912-abb3-a63f9eb433ab/download/defunciones-grupo-edad-2009-2021-csv.zip",
+          "name": "Defunciones generales",
+          "format": "CSV",
+          "updatedAt": "2023-03-07T16:57:40.947Z",
+          "description": "Datos de defunciones generales por año, región sanitaria, partido de residencia, grupo de edad, sexo y causa de muerte. Periodo 2009-2021.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2022-03-02T22:28:07.498Z",
+      "updatedAt": "2023-03-07T16:57:40.976Z",
+      "contact": {
+        "name": "Ministerio de Salud de la provincia de Buenos Aires. Subsecretaría de Gestión de la Información, Educación Permanente y Fiscalización. Dirección Provincial de Estadística y Salud Digital.",
+        "email": "datosabiertos.minsal.pba@gmail.com"
+      }
+    },
+    {
+      "id": "f2440af7-42c7-426f-806f-e611fb622dd5",
+      "name": "defunciones-infantiles",
+      "title": "Defunciones infantiles",
+      "keywords": [
+        "fallecidos",
+        "mortalidad"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/defunciones-infantiles",
+      "resources": [
+        {
+          "id": "f06c823e-b44a-4e76-b478-a2216c090141",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/f2440af7-42c7-426f-806f-e611fb622dd5/resource/f06c823e-b44a-4e76-b478-a2216c090141/download/defunciones-nacer-peso-2009-2021.xlsx",
+          "name": "Defunciones por peso al nacer",
+          "format": "XLS",
+          "updatedAt": "2023-02-22T21:53:10.444Z",
+          "description": "Datos anuales de las defunciones por peso al nacer, región sanitaria y municipio.  Periodo 2009-2021.",
+          "landingUrl": ""
+        },
+        {
+          "id": "7370c905-3af2-46a5-a64d-3161a5f6af32",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/f2440af7-42c7-426f-806f-e611fb622dd5/resource/7370c905-3af2-46a5-a64d-3161a5f6af32/download/defunciones-nacer-peso-2009-2021.csv",
+          "name": "Defunciones por peso al nacer",
+          "format": "CSV",
+          "updatedAt": "2023-02-22T21:54:31.525Z",
+          "description": "Datos anuales de las defunciones por peso al nacer, región sanitaria y municipio.  Periodo 2009-2021.",
+          "landingUrl": ""
+        },
+        {
+          "id": "87d2e98b-3867-45b1-a687-ae4ac575445c",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/f2440af7-42c7-426f-806f-e611fb622dd5/resource/87d2e98b-3867-45b1-a687-ae4ac575445c/download/defunciones-neonatal-posneonatal-2009-2021.xlsx",
+          "name": "Defunciones neonatal y posneonatal",
+          "format": "XLS",
+          "updatedAt": "2023-02-22T21:44:24.181Z",
+          "description": "Datos anuales de las defunciones neonatal y posneonatal  por región sanitaria y municipio.  Periodo 2009-2021.",
+          "landingUrl": ""
+        },
+        {
+          "id": "04d7b08f-3647-4031-8149-40aabb52e41a",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/f2440af7-42c7-426f-806f-e611fb622dd5/resource/04d7b08f-3647-4031-8149-40aabb52e41a/download/defunciones-neonatal-posneonatal-2009-2021.csv",
+          "name": "Defunciones neonatal y posneonatal",
+          "format": "CSV",
+          "updatedAt": "2023-02-22T21:55:20.011Z",
+          "description": "Datos anuales de las defunciones neonatal y posneonatal  por región sanitaria y municipio.  Periodo 2009-2021.",
+          "landingUrl": ""
+        },
+        {
+          "id": "dce3260a-3cc7-4641-83f2-234352f02256",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/f2440af7-42c7-426f-806f-e611fb622dd5/resource/dce3260a-3cc7-4641-83f2-234352f02256/download/defunciones-infantiles-edad-madre-2009-2021.xlsx",
+          "name": "Defunciones infantiles según edad de la madre",
+          "format": "XLS",
+          "updatedAt": "2023-02-22T21:31:30.040Z",
+          "description": "Datos de defunciones infantiles según edad de la madre por año, región sanitaria y municipio de residencia. Periodo 2009-2021.",
+          "landingUrl": ""
+        },
+        {
+          "id": "c6e88364-dd65-4d23-ac55-390032710f11",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/f2440af7-42c7-426f-806f-e611fb622dd5/resource/c6e88364-dd65-4d23-ac55-390032710f11/download/defunciones-infantiles-edad-madre-2009-2021.csv",
+          "name": "Defunciones infantiles según edad de la madre",
+          "format": "CSV",
+          "updatedAt": "2023-02-22T21:32:55.656Z",
+          "description": "Datos de defunciones infantiles según edad de la madre por año, región sanitaria y municipio de residencia. Periodo 2009-2021.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2021-11-29T19:19:17.827Z",
+      "updatedAt": "2023-02-22T21:55:20.034Z",
+      "contact": {
+        "name": "Ministerio de Salud de la provincia de Buenos Aires. Subsecretaría de Gestión de la Información, Educación Permanente y Fiscalización. Dirección Provincial de Estadística y Salud Digital.",
+        "email": "datosabiertos.minsal.pba@gmail.com"
+      }
+    },
+    {
+      "id": "a9384c8f-5b36-494a-9301-1bebdd3f5d8d",
+      "name": "defunciones-maternas",
+      "title": "Defunciones maternas",
+      "keywords": [
+        "fallecidos",
+        "madres",
+        "mortalidad"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/defunciones-maternas",
+      "resources": [
+        {
+          "id": "197861c0-4c3b-41f2-8e48-39c4da3df4a4",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/a9384c8f-5b36-494a-9301-1bebdd3f5d8d/resource/197861c0-4c3b-41f2-8e48-39c4da3df4a4/download/defunciones-maternas-2009-2021.xlsx",
+          "name": "Defunciones maternas por causa",
+          "format": "XLS",
+          "updatedAt": "2023-04-05T20:35:20.708Z",
+          "description": "Datos anuales de defunciones maternas por causa, municipio y región sanitaria. Periodo 2009-2021.",
+          "landingUrl": ""
+        },
+        {
+          "id": "d100f776-5796-4095-a60f-96e2da5ff6cb",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/a9384c8f-5b36-494a-9301-1bebdd3f5d8d/resource/d100f776-5796-4095-a60f-96e2da5ff6cb/download/defunciones-maternas-2009-2021.csv",
+          "name": "Defunciones maternas por causa",
+          "format": "CSV",
+          "updatedAt": "2023-04-05T20:35:40.462Z",
+          "description": "Datos anuales de defunciones maternas por causa, municipio y región sanitaria. Periodo 2009-2021.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-10-10T22:31:38.252Z",
+      "updatedAt": "2023-04-05T20:35:40.491Z",
+      "contact": {
+        "name": "Ministerio de Salud de la provincia de Buenos Aires. Subsecretaría de Gestión de la Información, Educación Permanente y Fiscalización. Dirección Provincial de Estadística y Salud Digital.",
+        "email": "datosabiertos.minsal.pba@gmail.com"
+      }
+    },
+    {
+      "id": "ee21ecec-fab3-4880-b4e2-e4470775baed",
+      "name": "defunciones-por-incidentes-viales",
+      "title": "Defunciones por incidentes viales",
+      "keywords": [
+        "accidentes",
+        "fallecidos",
+        "mortalidad",
+        "transito"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/defunciones-por-incidentes-viales",
+      "resources": [
+        {
+          "id": "ed84adc8-bcd9-4377-998e-8bd5ef4044d0",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/ee21ecec-fab3-4880-b4e2-e4470775baed/resource/ed84adc8-bcd9-4377-998e-8bd5ef4044d0/download/defunciones-incidentes-viales-2017.xlsx",
+          "name": "Defunciones por incidentes viales",
+          "format": "XLS",
+          "updatedAt": "2019-10-01T21:09:18.916Z",
+          "description": "Detalles de los fallecidos en incidentes viales y caracterización del hecho. Año 2017.",
+          "landingUrl": ""
+        },
+        {
+          "id": "1fd1caf3-affd-47e6-8e1f-85f24e1cf925",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/ee21ecec-fab3-4880-b4e2-e4470775baed/resource/1fd1caf3-affd-47e6-8e1f-85f24e1cf925/download/defunciones-incidentes-viales-2017.csv",
+          "name": "Defunciones por incidentes viales",
+          "format": "CSV",
+          "updatedAt": "2019-10-01T21:33:25.726Z",
+          "description": "Detalles de los fallecidos en incidentes viales y caracterización del hecho. Año 2017.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-10-01T20:32:40.652Z",
+      "updatedAt": "2022-11-28T16:16:54.762Z",
+      "contact": {
+        "name": "Ministerio de Transporte. Subsecretaría de Política y Seguridad Vial. Dirección Provincial de Observatorio Vial. Dirección de Estadística Vial.",
+        "email": ""
+      }
+    },
+    {
+      "id": "6a8e9603-2ed7-4b19-816b-3957f78eac88",
+      "name": "delegaciones-rpp",
+      "title": "Delegaciones del Registro Provincial de las Personas",
+      "keywords": [
+        "dependencias",
+        "información geográfica"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/delegaciones-rpp",
+      "resources": [
+        {
+          "id": "4879175a-30e1-4d1a-a34d-8a0cee926cd2",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/6a8e9603-2ed7-4b19-816b-3957f78eac88/resource/4879175a-30e1-4d1a-a34d-8a0cee926cd2/download/delegaciones-registro-personas.csv",
+          "name": "Delegaciones del Registro Provincial de las Personas",
+          "format": "CSV",
+          "updatedAt": "2023-03-01T17:20:45.766Z",
+          "description": "Delegaciones georreferenciadas que contienen los campos: zona, municipio, delegación, oficina, horario, teléfono, dirección, contacto. Fecha de actualización: 16 de enero de 2023. ",
+          "landingUrl": ""
+        },
+        {
+          "id": "84277a5e-aef4-43f7-8b25-1a7c0cc1de2d",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/6a8e9603-2ed7-4b19-816b-3957f78eac88/resource/84277a5e-aef4-43f7-8b25-1a7c0cc1de2d/download/delegaciones-registro-personas.xlsx",
+          "name": "Delegaciones del Registro Provincial de las Personas",
+          "format": "XLS",
+          "updatedAt": "2023-03-01T17:21:06.328Z",
+          "description": "Delegaciones georreferenciadas que contienen los campos: zona, municipio, delegación, oficina, horario, teléfono, dirección, contacto. Fecha de actualización: 16 de enero de 2023.\r\n\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "56236cd3-fd58-4c35-b904-6132beb9ae30",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/6a8e9603-2ed7-4b19-816b-3957f78eac88/resource/56236cd3-fd58-4c35-b904-6132beb9ae30/download/shp.zip",
+          "name": "Delegaciones del Registro Provincial de las Personas",
+          "format": "ZIP",
+          "updatedAt": "2023-03-01T17:34:45.877Z",
+          "description": "Formatos .shp. Delegaciones georreferenciadas que contienen los campos: zona, municipio, delegación, oficina, horario, teléfono, dirección, contacto. Fecha de actualización: 16 de enero de 2023.",
+          "landingUrl": ""
+        },
+        {
+          "id": "06727432-be9e-430e-90b9-77f1a5a1cca6",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/6a8e9603-2ed7-4b19-816b-3957f78eac88/resource/06727432-be9e-430e-90b9-77f1a5a1cca6/download/delegaciones-registro-personas.geojson",
+          "name": "Delegaciones del Registro Provincial de las Personas",
+          "format": "GeoJSON",
+          "updatedAt": "2023-03-01T17:33:43.595Z",
+          "description": "Formatos .geojson. Delegaciones georreferenciadas que contienen los campos: zona, municipio, delegación, oficina, horario, teléfono, dirección, contacto. Fecha de actualización: 16 de enero de 2023.",
+          "landingUrl": ""
+        },
+        {
+          "id": "535e344d-5c33-4c7f-b690-22541cd6f4fb",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/6a8e9603-2ed7-4b19-816b-3957f78eac88/resource/535e344d-5c33-4c7f-b690-22541cd6f4fb/download/delegaciones-registro-personas.kml",
+          "name": "Delegaciones del Registro Provincial de las Personas",
+          "format": "KML",
+          "updatedAt": "2023-03-01T17:34:00.743Z",
+          "description": "Formatos .kml. Delegaciones georreferenciadas que contienen los campos: zona, municipio, delegación, oficina, horario, teléfono, dirección, contacto. Fecha de actualización: 16 de enero de 2023.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-10T20:14:09.864Z",
+      "updatedAt": "2023-03-01T17:34:45.901Z",
+      "contact": {
+        "name": "Ministerio de Gobierno. Subsecretaría de Gestión Operativa. Dirección Provincial del Registro de las Personas.",
+        "email": ""
+      }
+    },
+    {
+      "id": "ba228852-af25-4e7e-b602-7d67696bcf22",
+      "name": "destinos-sustentables",
+      "title": "Destinos Sustentables",
+      "keywords": [
+        "girsu",
+        "rsu",
+        "centros de tratamiento",
+        "reciclabes",
+        "reciclables",
+        "residuos",
+        "tratamiento"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/destinos-sustentables",
+      "resources": [
+        {
+          "id": "474d8344-bd26-4ce5-b122-b991624aad8a",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/ba228852-af25-4e7e-b602-7d67696bcf22/resource/474d8344-bd26-4ce5-b122-b991624aad8a/download/destinos-sustentables.xlsx",
+          "name": "Destinos sustentables",
+          "format": "XLS",
+          "updatedAt": "2023-01-03T18:09:03.122Z",
+          "description": "Se presentan los destinos sustentables según establecido en: Resolución N° 137/13, Resolución N° 138/13 y Resolución N° 139/13",
+          "landingUrl": ""
+        },
+        {
+          "id": "ecdd1e8c-179d-4620-8433-04a19eee7a20",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/ba228852-af25-4e7e-b602-7d67696bcf22/resource/ecdd1e8c-179d-4620-8433-04a19eee7a20/download/destinos-sustentables.csv",
+          "name": "Destinos sustentables",
+          "format": "CSV",
+          "updatedAt": "2023-01-03T18:18:06.850Z",
+          "description": "Se presentan los destinos sustentables según establecido en: Resolución N° 137/13, Resolución N° 138/13 y Resolución N° 139/13",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-11-13T01:04:06.975Z",
+      "updatedAt": "2023-01-03T18:20:08.774Z",
+      "contact": {
+        "name": "Ministerio de Ambiente",
+        "email": ""
+      }
+    },
+    {
+      "id": "baf07a7a-8cd2-47ad-bae0-52c6f3b45bb7",
+      "name": "egresos-hospitalarios",
+      "title": "Egresos hospitalarios",
+      "keywords": [],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/egresos-hospitalarios",
+      "resources": [
+        {
+          "id": "4392308a-30f6-4395-b25d-4c16c6e2bdb8",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/baf07a7a-8cd2-47ad-bae0-52c6f3b45bb7/resource/4392308a-30f6-4395-b25d-4c16c6e2bdb8/download/egresos-2016.xlsx",
+          "name": "Egresos hospitalarios 2016",
+          "format": "XLS",
+          "updatedAt": "2021-12-15T18:21:26.051Z",
+          "description": "Cantidad de egresos hospitalarios por región, municipio, causa y tipo. Periodo 2016.",
+          "landingUrl": ""
+        },
+        {
+          "id": "66e005f4-d88b-4abf-9797-5809def5131e",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/baf07a7a-8cd2-47ad-bae0-52c6f3b45bb7/resource/66e005f4-d88b-4abf-9797-5809def5131e/download/egresos-2016.csv",
+          "name": "Egresos hospitalarios 2016",
+          "format": "CSV",
+          "updatedAt": "2021-12-15T18:22:35.041Z",
+          "description": "Cantidad de egresos hospitalarios por región, municipio, causa y tipo. Periodo 2016",
+          "landingUrl": ""
+        },
+        {
+          "id": "9567453a-1288-4351-9432-0d713f2cc3b8",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/baf07a7a-8cd2-47ad-bae0-52c6f3b45bb7/resource/9567453a-1288-4351-9432-0d713f2cc3b8/download/egresos-2017.xlsx",
+          "name": "Egresos hospitalarios 2017",
+          "format": "XLS",
+          "updatedAt": "2021-12-15T18:32:28.535Z",
+          "description": "Cantidad de egresos hospitalarios por región, municipio, causa y tipo. Periodo 2017.",
+          "landingUrl": ""
+        },
+        {
+          "id": "3f9fd7e0-5d92-4b8c-a87b-951607637e89",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/baf07a7a-8cd2-47ad-bae0-52c6f3b45bb7/resource/3f9fd7e0-5d92-4b8c-a87b-951607637e89/download/egresos-2017.csv",
+          "name": "Egresos hospitalarios 2017",
+          "format": "CSV",
+          "updatedAt": "2022-11-07T21:43:37.271Z",
+          "description": "Cantidad de egresos hospitalarios por región, municipio, causa y tipo. Periodo 2017",
+          "landingUrl": ""
+        },
+        {
+          "id": "adcda6de-f161-499b-9fca-2d92e526a753",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/baf07a7a-8cd2-47ad-bae0-52c6f3b45bb7/resource/adcda6de-f161-499b-9fca-2d92e526a753/download/egresos-2018.xlsx",
+          "name": "Egresos hospitalarios 2018",
+          "format": "XLS",
+          "updatedAt": "2022-11-07T21:45:50.148Z",
+          "description": "Cantidad de egresos hospitalarios por región, municipio, causa y tipo. Periodo 2018",
+          "landingUrl": ""
+        },
+        {
+          "id": "ddf7a32f-bc60-45b0-ad91-d3acd6813cd0",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/baf07a7a-8cd2-47ad-bae0-52c6f3b45bb7/resource/ddf7a32f-bc60-45b0-ad91-d3acd6813cd0/download/egresos-2018.csv",
+          "name": "Egresos hospitalarios 2018",
+          "format": "CSV",
+          "updatedAt": "2022-11-07T21:46:47.897Z",
+          "description": "Cantidad de egresos hospitalarios por región, municipio, causa y tipo. Periodo 2018",
+          "landingUrl": ""
+        },
+        {
+          "id": "25d3e355-f698-4450-8ece-b6e637ee7668",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/baf07a7a-8cd2-47ad-bae0-52c6f3b45bb7/resource/25d3e355-f698-4450-8ece-b6e637ee7668/download/egresos-2019.xlsx",
+          "name": "Egresos hospitalarios 2019",
+          "format": "XLS",
+          "updatedAt": "2022-11-07T21:47:48.864Z",
+          "description": "Cantidad de egresos hospitalarios por región, municipio, causa y tipo. Periodo 2019",
+          "landingUrl": ""
+        },
+        {
+          "id": "6a839c98-9cbb-475a-840f-4b0e29c378e0",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/baf07a7a-8cd2-47ad-bae0-52c6f3b45bb7/resource/6a839c98-9cbb-475a-840f-4b0e29c378e0/download/egresos-2019.csv",
+          "name": "Egresos hospitalarios 2019",
+          "format": "CSV",
+          "updatedAt": "2022-11-07T21:48:38.707Z",
+          "description": "Cantidad de egresos hospitalarios por región, municipio, causa y tipo. Periodo 2019",
+          "landingUrl": ""
+        },
+        {
+          "id": "69fb1ac5-ab8c-4998-b35f-1bfc8721bdfb",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/baf07a7a-8cd2-47ad-bae0-52c6f3b45bb7/resource/69fb1ac5-ab8c-4998-b35f-1bfc8721bdfb/download/egresos-2020.xlsx",
+          "name": "Egresos hospitalarios 2020",
+          "format": "XLS",
+          "updatedAt": "2022-11-07T21:49:22.056Z",
+          "description": "Cantidad de egresos hospitalarios por región, municipio, causa y tipo. Periodo 2020",
+          "landingUrl": ""
+        },
+        {
+          "id": "06d4b138-11cb-4b72-a87b-bff09f6af07d",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/baf07a7a-8cd2-47ad-bae0-52c6f3b45bb7/resource/06d4b138-11cb-4b72-a87b-bff09f6af07d/download/egresos-2020.csv",
+          "name": "Egresos hospitalarios 2020",
+          "format": "CSV",
+          "updatedAt": "2022-11-07T21:50:58.571Z",
+          "description": "Cantidad de egresos hospitalarios por región, municipio, causa y tipo. Periodo 2020.",
+          "landingUrl": ""
+        },
+        {
+          "id": "af100ed1-8030-4543-9582-7233f5f68548",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/baf07a7a-8cd2-47ad-bae0-52c6f3b45bb7/resource/af100ed1-8030-4543-9582-7233f5f68548/download/egresos_2016-2020.rar",
+          "name": "Egresos hospitalarios 2016-2020",
+          "format": "ZIP",
+          "updatedAt": "2022-01-03T18:02:53.860Z",
+          "description": "Cantidad de egresos hospitalarios por año, región, municipio, causa y tipo. Periodo 2016-2020. Archivo en formato csv.\r\n\r\n",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-16T18:06:07.330Z",
+      "updatedAt": "2022-11-07T21:53:36.482Z",
+      "contact": {
+        "name": "Ministerio de Salud de la provincia de Buenos Aires. Subsecretaría de Gestión de la Información, Educación Permanente y Fiscalización. Dirección Provincial de Estadística y Salud Digital.",
+        "email": "datosabiertos.minsal.pba@gmail.com"
+      }
+    },
+    {
+      "id": "9e0c4e52-2687-4f4a-b48d-25cf717a4c24",
+      "name": "empresas",
+      "title": "Empresas por sector de actividad",
+      "keywords": [],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/empresas",
+      "resources": [
+        {
+          "id": "e44e2a5d-7776-4743-9a41-4709bf46bd66",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/9e0c4e52-2687-4f4a-b48d-25cf717a4c24/resource/e44e2a5d-7776-4743-9a41-4709bf46bd66/download/empresas-actividad-tamano.csv",
+          "name": "Empresas por sector de actividad y tamaño",
+          "format": "CSV",
+          "updatedAt": "2018-12-12T18:27:28.765Z",
+          "description": "Serie anual de la cantidad de empresas por sector de actividad y tamaño",
+          "landingUrl": "http://datos.gob.ar/dataset/siep-gps-empresas/archivo/siep_3.39"
+        },
+        {
+          "id": "ee269022-0769-402b-a921-d0da8d1c8937",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/9e0c4e52-2687-4f4a-b48d-25cf717a4c24/resource/ee269022-0769-402b-a921-d0da8d1c8937/download/empresas-actividad-departamento-v2.csv",
+          "name": "Empresas por sector de actividad y partido",
+          "format": "CSV",
+          "updatedAt": "2018-12-12T18:18:42.732Z",
+          "description": "Serie anual de la cantidad de empresas por sector de actividad y partido",
+          "landingUrl": "http://datos.gob.ar/dataset/siep-gps-empresas/archivo/siep_3.41"
+        }
+      ],
+      "createdAt": "2018-10-22T17:50:39.746Z",
+      "updatedAt": "2020-10-01T17:36:18.199Z",
+      "contact": {
+        "name": "Ministerio de Desarrollo Productivo, Nación.",
+        "email": ""
+      }
+    },
+    {
+      "id": "4becb4b7-0a21-4fef-8f2c-30df7f345a01",
+      "name": "establecimientos-educativos",
+      "title": "Establecimientos educativos",
+      "keywords": [
+        "dependencias",
+        "escuelas",
+        "información geográfica"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/establecimientos-educativos",
+      "resources": [
+        {
+          "id": "3951210e-7e0e-4fed-bbf1-0183e704c9ae",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/4becb4b7-0a21-4fef-8f2c-30df7f345a01/resource/3951210e-7e0e-4fed-bbf1-0183e704c9ae/download/establecimientos-educativos_13112023.csv",
+          "name": "Establecimientos educativos por modalidad y nivel",
+          "format": "CSV",
+          "updatedAt": "2023-11-13T16:40:01.869Z",
+          "description": "Información correspondiente a los establecimientos educativos por modalidad y nivel. Fecha de actualización: 13 de noviembre de 2023.",
+          "landingUrl": ""
+        },
+        {
+          "id": "f6828799-e80d-4e18-9d5a-f9dc641bb86a",
+          "downloadUrl": "https://github.com/datos-provincia-abierta/metadatos/blob/master/Educaci%C3%B3n/definiciones_conceptuales.md",
+          "name": "Definiciones conceptuales operativas",
+          "format": "XML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Documentación correspondiente a los establecimientos educativos.",
+          "landingUrl": ""
+        },
+        {
+          "id": "08a49256-620d-4d75-9a40-6f57df3be830",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/4becb4b7-0a21-4fef-8f2c-30df7f345a01/resource/08a49256-620d-4d75-9a40-6f57df3be830/download/establecimientos-educativos_07092023.zip",
+          "name": "Establecimientos educativos por modalidad y nivel",
+          "format": "ZIP",
+          "updatedAt": "2023-09-07T16:59:10.769Z",
+          "description": "Formatos .shp, .geojson y kml (EPSG:4326. Proyección WGS 84). Información correspondiente a los establecimientos educativos por modalidad y nivel. Fecha de actualización: 13 de noviembre de 2023",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-03T17:42:13.254Z",
+      "updatedAt": "2023-11-13T16:41:17.921Z",
+      "contact": {
+        "name": "Dirección General de Cultura y Educación. Subsecretaría de Planeamiento. Dirección de Información y Estadística.",
+        "email": ""
+      }
+    },
+    {
+      "id": "91743f68-bc82-4475-baca-7d5d6908eee8",
+      "name": "establecimientos-salud",
+      "title": "Establecimientos de salud",
+      "keywords": [
+        "cap",
+        "cpa",
+        "dependencias",
+        "hospitales",
+        "información geográfica"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/establecimientos-salud",
+      "resources": [
+        {
+          "id": "716c84ba-6ed7-490b-81f7-e3e97d746d44",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/91743f68-bc82-4475-baca-7d5d6908eee8/resource/716c84ba-6ed7-490b-81f7-e3e97d746d44/download/establecimientos_salud_publicos.rar",
+          "name": "Establecimientos de salud públicos",
+          "format": "RAR",
+          "updatedAt": "2022-07-25T19:11:59.726Z",
+          "description": "Formatos .shp y .geojson (EPSG:4326. Proyección WGS 84). Información de los establecimientos de salud públicos (nacionales, provinciales y municipales). Año 2022.",
+          "landingUrl": ""
+        },
+        {
+          "id": "c2d51824-c61d-4374-a014-cca5b76b082a",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/91743f68-bc82-4475-baca-7d5d6908eee8/resource/c2d51824-c61d-4374-a014-cca5b76b082a/download/establecimientos-salud-publicos.csv",
+          "name": "Establecimientos de salud públicos",
+          "format": "CSV",
+          "updatedAt": "2022-07-25T18:34:23.642Z",
+          "description": "Información de los establecimientos de salud públicos (nacionales, provinciales y municipales). Año 2022.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-16T19:57:21.196Z",
+      "updatedAt": "2022-11-07T18:07:11.645Z",
+      "contact": {
+        "name": "Ministerio de Salud de la provincia de Buenos Aires. Subsecretaría de Gestión de la Información, Educación Permanente y Fiscalización. Dirección Provincial de Estadística y Salud Digital.",
+        "email": "datosabiertos.minsal.pba@gmail.com"
+      }
+    },
+    {
+      "id": "007e56d4-9123-485c-83e0-4556b6c75784",
+      "name": "estaciones-ferroviario",
+      "title": "Estaciones del sistema ferroviario en la provincia",
+      "keywords": [
+        "información geográfica",
+        "trenes"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/estaciones-ferroviario",
+      "resources": [
+        {
+          "id": "dc2d7c3e-96ba-4fe6-b18c-9becd9643e87",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/007e56d4-9123-485c-83e0-4556b6c75784/resource/dc2d7c3e-96ba-4fe6-b18c-9becd9643e87/download/estaciones-ferrocarril-provincia.csv",
+          "name": "Estaciones de ferrocarriles en la provincia",
+          "format": "CSV",
+          "updatedAt": "2019-09-17T17:17:27.189Z",
+          "description": "Datos de la ubicación y descripción de las estaciones de ferrocarril en territorio provincial.",
+          "landingUrl": ""
+        },
+        {
+          "id": "dcfb1ebb-5ed1-40cf-a55c-bf5cf721e4ea",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/007e56d4-9123-485c-83e0-4556b6c75784/resource/dcfb1ebb-5ed1-40cf-a55c-bf5cf721e4ea/download/estaciones-ferrocarril-provincia.xlsx",
+          "name": "Estaciones de ferrocarriles en la provincia",
+          "format": "XLS",
+          "updatedAt": "2019-09-17T17:05:45.958Z",
+          "description": "Datos de la ubicación y descripción de las estaciones de ferrocarril en territorio provincial.",
+          "landingUrl": ""
+        },
+        {
+          "id": "f92951e4-5231-4bb4-bac6-3c9147119b05",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/007e56d4-9123-485c-83e0-4556b6c75784/resource/f92951e4-5231-4bb4-bac6-3c9147119b05/download/estaciones-ferrocarril-provincia.zip",
+          "name": "Estaciones de ferrocarriles en la provincia (SHP)",
+          "format": "ZIP",
+          "updatedAt": "2019-09-17T17:25:26.929Z",
+          "description": "Archivo shapefile de las estaciones de ferrocarril en territorio provincial con su descripción y ubicación.",
+          "landingUrl": ""
+        },
+        {
+          "id": "b38da11b-cf0a-4193-a4fa-7aa4e5ecaa0d",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/007e56d4-9123-485c-83e0-4556b6c75784/resource/b38da11b-cf0a-4193-a4fa-7aa4e5ecaa0d/download/estaciones-ferrocarril-provincia.geojson",
+          "name": "Estaciones de ferrocarriles en la provincia (GeoJson)",
+          "format": "GeoJSON",
+          "updatedAt": "2019-09-17T17:27:03.788Z",
+          "description": "Archivo GeoJSON de las estaciones de ferrocarril en territorio provincial con su descripción y ubicación.",
+          "landingUrl": ""
+        },
+        {
+          "id": "9305edae-1ddf-4ddd-817c-8aa218e82e40",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/007e56d4-9123-485c-83e0-4556b6c75784/resource/9305edae-1ddf-4ddd-817c-8aa218e82e40/download/estaciones-ferrocarril-provincia.kml",
+          "name": "Estaciones de ferrocarriles en la provincia (KML)",
+          "format": "KML",
+          "updatedAt": "2019-09-17T17:27:56.798Z",
+          "description": "Archivo KML de las estaciones de ferrocarril en territorio provincial con su descripción y ubicación.",
+          "landingUrl": ""
+        },
+        {
+          "id": "f01259b2-ad3d-4d53-8f89-7c39468c8c49",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/007e56d4-9123-485c-83e0-4556b6c75784/resource/f01259b2-ad3d-4d53-8f89-7c39468c8c49/download/documentacion-estaciones-ferrocarril-provincia.pdf",
+          "name": "Documentación Estaciones de ferrocarriles en la provincia",
+          "format": "PDF",
+          "updatedAt": "2019-09-17T20:31:19.443Z",
+          "description": "Detalle para la interpretación de los recursos Estaciones del sistema ferroviario en la provincia.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-09-17T16:53:59.212Z",
+      "updatedAt": "2022-11-07T18:34:23.920Z",
+      "contact": {
+        "name": "Instituto Geográfico Nacional. Dirección Nacional de Servicios Geográficos. Dirección de Información Geoespacial.",
+        "email": ""
+      }
+    },
+    {
+      "id": "4ee50a8f-6866-4191-9bf8-aebb30b0d718",
+      "name": "estimaciones-agro",
+      "title": "Estimaciones agrícolas",
+      "keywords": [
+        "agricultura",
+        "agro",
+        "cosecha",
+        "cultivo",
+        "rendimiento",
+        "siembra"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/estimaciones-agro",
+      "resources": [
+        {
+          "id": "d3e23031-164a-43e0-b104-01ced63e4abd",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/4ee50a8f-6866-4191-9bf8-aebb30b0d718/resource/d3e23031-164a-43e0-b104-01ced63e4abd/download/estimaciones-agricolas.csv",
+          "name": "Estimaciones agrícolas",
+          "format": "CSV",
+          "updatedAt": "2023-03-14T19:43:06.539Z",
+          "description": "Serie histórica de cultivos por campaña y partido de la provincia. Campañas 1969/1970 - 2022/2023.  Fecha de actualización: marzo 7 de 2023.",
+          "landingUrl": ""
+        },
+        {
+          "id": "1b7ec558-1488-4620-89f6-1289e2f11d72",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/4ee50a8f-6866-4191-9bf8-aebb30b0d718/resource/1b7ec558-1488-4620-89f6-1289e2f11d72/download/estimaciones-agricolas.xlsx",
+          "name": "Estimaciones agrícolas",
+          "format": "XLS",
+          "updatedAt": "2023-03-14T19:43:40.148Z",
+          "description": "Serie histórica de cultivos por campaña y partido de la Provincia. Campañas 1969/1970 - 2021/2023. Fecha de actualización: marzo 7 de 2023.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-09-24T21:06:51.406Z",
+      "updatedAt": "2023-08-03T18:11:50.288Z",
+      "contact": {
+        "name": "Ministerio de Economía. Secretaría de Agricultura, Ganadería y Pesca. Subsecretaría de Agricultura. Dirección Nacional de Agricultura. Dirección de Estimaciones Agrícolas.",
+        "email": ""
+      }
+    },
+    {
+      "id": "82879d66-d708-48b5-877e-1f26a38965db",
+      "name": "ex-centros-clandestinos-de-detencion",
+      "title": "Ex Centros Clandestinos de Detención",
+      "keywords": [
+        "cdd",
+        "centros clandestinos",
+        "centros de detención",
+        "derechos humanos",
+        "dictadura"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/ex-centros-clandestinos-de-detencion",
+      "resources": [
+        {
+          "id": "376b062a-c2c5-48c1-b618-7412bb084bed",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/82879d66-d708-48b5-877e-1f26a38965db/resource/376b062a-c2c5-48c1-b618-7412bb084bed/download/centrosclandestinos.csv",
+          "name": "Ex Centros Clandestinos de Detención",
+          "format": "CSV",
+          "updatedAt": "2019-03-24T19:00:15.677Z",
+          "description": "Ex Centros Clandestinos de Detención",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-03-24T18:59:33.869Z",
+      "updatedAt": "2022-09-06T15:28:04.299Z",
+      "contact": {
+        "name": "Ministerio de Justicia y Derechos Humanos",
+        "email": ""
+      }
+    },
+    {
+      "id": "46b85203-17fe-42bd-b13f-1d3e150c06cd",
+      "name": "exportaciones",
+      "title": "Exportaciones",
+      "keywords": [
+        "balanza comercial",
+        "comercio exterior",
+        "exportaciones"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/exportaciones",
+      "resources": [
+        {
+          "id": "3eb20f55-7dc0-4671-a039-cf2e4b71c3db",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/46b85203-17fe-42bd-b13f-1d3e150c06cd/resource/3eb20f55-7dc0-4671-a039-cf2e4b71c3db/download/expo_2016_2017.xlsx-expo.csv",
+          "name": "Serie anual de exportaciones provinciales",
+          "format": "CSV",
+          "updatedAt": "2018-10-11T18:26:31.379Z",
+          "description": "Detalle de monto y peso de las exportaciones provinciales realizadas en 2016 y 2017 con información de rubro y país destino.",
+          "landingUrl": ""
+        },
+        {
+          "id": "448b0528-5b4d-49df-a7e1-b71a08c9701d",
+          "downloadUrl": "https://github.com/datos-provincia-abierta/metadatos/blob/master/Econom%C3%ADa/definiciones_exportaciones.md",
+          "name": "Definiciones conceptuales",
+          "format": "XML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Documentación correspondiente a las exportaciones.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-11T18:13:38.123Z",
+      "updatedAt": "2022-12-19T20:32:30.588Z",
+      "contact": {
+        "name": "Ministerio de Hacienda y Finanzas. Subsecretaría de Coordinación Económica y Estadística. Dirección Provincial de Estadística.",
+        "email": ""
+      }
+    },
+    {
+      "id": "343789d2-9cc9-4c4c-b19c-627a79f0e8d9",
+      "name": "ferroviario",
+      "title": "Sistema ferroviario en la provincia",
+      "keywords": [
+        "información geográfica",
+        "trenes"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/ferroviario",
+      "resources": [
+        {
+          "id": "0754bd17-7086-4ed7-9667-6da83c3477d0",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/343789d2-9cc9-4c4c-b19c-627a79f0e8d9/resource/0754bd17-7086-4ed7-9667-6da83c3477d0/download/ferrocarril-provincia.csv",
+          "name": "Ferrocarriles en la provincia",
+          "format": "CSV",
+          "updatedAt": "2019-08-30T22:16:54.788Z",
+          "description": "Datos de la ubicación y descripción de las vías férreas sobre territorio provincial.",
+          "landingUrl": ""
+        },
+        {
+          "id": "3da95299-c70a-4ce5-83ef-1e9fd5ac50fd",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/343789d2-9cc9-4c4c-b19c-627a79f0e8d9/resource/3da95299-c70a-4ce5-83ef-1e9fd5ac50fd/download/ferrocarril-provincia.xlsx",
+          "name": "Ferrocarriles en la provincia",
+          "format": "XLS",
+          "updatedAt": "2019-08-30T22:17:23.188Z",
+          "description": "Datos de la ubicación y descripción de las vías férreas sobre territorio provincial.",
+          "landingUrl": ""
+        },
+        {
+          "id": "50b8dbf6-6632-46b6-84f3-a33c590938ac",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/343789d2-9cc9-4c4c-b19c-627a79f0e8d9/resource/50b8dbf6-6632-46b6-84f3-a33c590938ac/download/ferrocarril-provincia.zip",
+          "name": "Ferrocarriles en la provincia (SHP)",
+          "format": "ZIP",
+          "updatedAt": "2019-08-30T22:31:03.665Z",
+          "description": "Archivo shapefile de datos de la ubicación y descripción de las vías férreas sobre territorio provincial.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "d724ec26-6d81-4e22-a1f2-94b215d32083",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/343789d2-9cc9-4c4c-b19c-627a79f0e8d9/resource/d724ec26-6d81-4e22-a1f2-94b215d32083/download/ferrocarril-provincia.geojson",
+          "name": "Ferrocarriles en la provincia (GeoJson)",
+          "format": "GeoJSON",
+          "updatedAt": "2019-08-30T22:33:18.115Z",
+          "description": "Archivo GeoJSON de datos de la ubicación y descripción de las vías férreas sobre territorio provincial.",
+          "landingUrl": ""
+        },
+        {
+          "id": "0dbbd00d-f0d8-43d0-8b8a-d990eea74dbf",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/343789d2-9cc9-4c4c-b19c-627a79f0e8d9/resource/0dbbd00d-f0d8-43d0-8b8a-d990eea74dbf/download/ferrocarril-provincia.kml",
+          "name": "Ferrocarriles en la provincia (KML)",
+          "format": "KML",
+          "updatedAt": "2019-08-30T22:34:06.061Z",
+          "description": "Archivo KML de datos de la ubicación y descripción de las vías férreas sobre territorio provincial.",
+          "landingUrl": ""
+        },
+        {
+          "id": "cc3d417c-19d2-4000-a7f5-0a15f28f9fa0",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/343789d2-9cc9-4c4c-b19c-627a79f0e8d9/resource/cc3d417c-19d2-4000-a7f5-0a15f28f9fa0/download/documentacion-ferrocarril-provincia.pdf",
+          "name": "Documentación Ferrocarriles en la provincia",
+          "format": "PDF",
+          "updatedAt": "2019-09-17T20:18:13.997Z",
+          "description": "Detalle para la interpretación de los recursos Ferrocarriles en la provincia. ",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-12T19:15:57.114Z",
+      "updatedAt": "2022-11-07T18:34:51.719Z",
+      "contact": {
+        "name": "Instituto Geográfico Nacional. Dirección Nacional de Servicios Geográficos. Dirección de Información Geoespacial.",
+        "email": ""
+      }
+    },
+    {
+      "id": "3894f67d-b8b0-4cbc-96e5-25bd73438e95",
+      "name": "ganado",
+      "title": "Existencias de ganado",
+      "keywords": [],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/ganado",
+      "resources": [
+        {
+          "id": "3c1d59ca-3285-4e88-a4c2-9915bd39debb",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/3894f67d-b8b0-4cbc-96e5-25bd73438e95/resource/3c1d59ca-3285-4e88-a4c2-9915bd39debb/download/stock-ganadero-bovino-por-municipio-31032010-31032020.csv",
+          "name": "Existencias de ganado bovino por partido",
+          "format": "CSV",
+          "updatedAt": "2023-06-15T17:23:29.402Z",
+          "description": "Estimaciones anuales del stock provincial bovino en cabezas por partido de la provincial, correspondiente al 31 de marzo de cada año. Periodo 2010-2020.",
+          "landingUrl": ""
+        },
+        {
+          "id": "598dcc09-4e9e-45c8-bf24-0a3db703e416",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/3894f67d-b8b0-4cbc-96e5-25bd73438e95/resource/598dcc09-4e9e-45c8-bf24-0a3db703e416/download/stock-ganadero-bovino-por-municipio-31032010-31032020.xlsx",
+          "name": "Existencias de ganado bovino por partido",
+          "format": "XLS",
+          "updatedAt": "2023-06-15T18:13:18.420Z",
+          "description": "Estimaciones anuales del stock provincial bovino en cabezas por partido de la provincial, correspondiente al 31 de marzo de cada año. Periodo 2010-2020.",
+          "landingUrl": ""
+        },
+        {
+          "id": "13636ff0-ca3e-47dd-ae89-85e74143fb33",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/3894f67d-b8b0-4cbc-96e5-25bd73438e95/resource/13636ff0-ca3e-47dd-ae89-85e74143fb33/download/stock-ganadero-ovino-por-municipio-31032010-31032022.csv",
+          "name": "Existencias de ganado ovino por partido",
+          "format": "CSV",
+          "updatedAt": "2023-06-15T17:40:49.998Z",
+          "description": "Estimaciones anuales del stock provincial ovino en cabezas por partido de la provincial, correspondiente al 31 de marzo de cada año. Periodo 2010-2022.",
+          "landingUrl": ""
+        },
+        {
+          "id": "b95452bc-956a-4def-a1d5-ab92730ca428",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/3894f67d-b8b0-4cbc-96e5-25bd73438e95/resource/b95452bc-956a-4def-a1d5-ab92730ca428/download/stock-ganadero-ovino-por-municipio-31032010-31032022.xlsx",
+          "name": "Existencias de ganado ovino por partido",
+          "format": "XLS",
+          "updatedAt": "2023-06-15T18:13:39.285Z",
+          "description": "Estimaciones anuales del stock provincial ovino en cabezas por partido de la provincial, correspondiente al 31 de marzo de cada año. Periodo 2010-2022.",
+          "landingUrl": ""
+        },
+        {
+          "id": "f236e638-d81f-40cb-aff0-d0a9c45aed61",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/3894f67d-b8b0-4cbc-96e5-25bd73438e95/resource/f236e638-d81f-40cb-aff0-d0a9c45aed61/download/stock-ganadero-porcino-por-municipio-31032010-31032022.csv",
+          "name": "Existencias de ganado porcino por partido",
+          "format": "CSV",
+          "updatedAt": "2023-06-15T18:01:39.865Z",
+          "description": "Estimaciones anuales del stock provincial porcino en cabezas por partido de la provincial, correspondiente al 31 de marzo de cada año. Periodo 2010-2022.",
+          "landingUrl": ""
+        },
+        {
+          "id": "3ca66ff1-b9ed-4a13-a9e7-cb7cb5dd25a4",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/3894f67d-b8b0-4cbc-96e5-25bd73438e95/resource/3ca66ff1-b9ed-4a13-a9e7-cb7cb5dd25a4/download/stock-ganadero-porcino-por-municipio-31032010-31032022.xlsx",
+          "name": "Existencias de ganado porcino por partido",
+          "format": "XLS",
+          "updatedAt": "2023-06-15T18:14:56.242Z",
+          "description": "Estimaciones anuales del stock provincial porcino en cabezas por partido de la provincial, correspondiente al 31 de marzo de cada año. Periodo 2010-2022.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-10T20:33:17.584Z",
+      "updatedAt": "2023-06-22T17:47:55.414Z",
+      "contact": {
+        "name": "Ministerio de Hacienda y Finanzas. Subsecretaría de Coordinación Económica y Estadística. Dirección Provincial de Estadística.",
+        "email": ""
+      }
+    },
+    {
+      "id": "dc5caf33-090c-43c8-bb57-219ab0ec101d",
+      "name": "juzgados-seguridad-vial",
+      "title": "Juzgados de seguridad vial",
+      "keywords": [
+        "dependencias",
+        "información geográfica"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/juzgados-seguridad-vial",
+      "resources": [
+        {
+          "id": "400bead6-2916-4202-92d0-e9b79e8d0b42",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/dc5caf33-090c-43c8-bb57-219ab0ec101d/resource/400bead6-2916-4202-92d0-e9b79e8d0b42/download/juzgados-seguridad-vial.csv",
+          "name": "Juzgados de seguridad vial",
+          "format": "CSV",
+          "updatedAt": "2018-10-12T19:35:00.093Z",
+          "description": "Juzgados georreferenciados que contienen los campos: Dependencia, Organismo, Nombre, Dirección, Partido, Teléfono, Horario.",
+          "landingUrl": ""
+        },
+        {
+          "id": "3e183c11-4ac6-4cb4-be4c-f14cd601970f",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/dc5caf33-090c-43c8-bb57-219ab0ec101d/resource/3e183c11-4ac6-4cb4-be4c-f14cd601970f/download/juzgados-seguridad-vial.zip",
+          "name": "Juzgados de seguridad vial",
+          "format": "ZIP",
+          "updatedAt": "2018-12-21T17:19:40.657Z",
+          "description": "Formatos .shp, .geojson y kml (EPSG:4326. Proyección WGS 84). Contienen los campos: Dependencia, Organismo, Nombre, Dirección, Partido, Teléfono, Horario.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-12T19:33:12.283Z",
+      "updatedAt": "2022-11-07T17:53:08.575Z",
+      "contact": {
+        "name": "Ministerio de Transporte. Subsecretaría de  Política y Seguridad Vial. Juzgados Administrativos de Infracciones de Tránsito Provincial.",
+        "email": ""
+      }
+    },
+    {
+      "id": "dd42cba7-1ff3-4f23-a135-4b21d0566efe",
+      "name": "mapa-judicial",
+      "title": "Mapa Judicial",
+      "keywords": [
+        "dependencias",
+        "información geográfica"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/mapa-judicial",
+      "resources": [
+        {
+          "id": "c25d1063-2792-4029-b6c5-46e2d40e24d1",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/dd42cba7-1ff3-4f23-a135-4b21d0566efe/resource/c25d1063-2792-4029-b6c5-46e2d40e24d1/download/mapa-judicial.csv",
+          "name": "Mapa Judicial",
+          "format": "CSV",
+          "updatedAt": "2018-10-16T21:02:34.821Z",
+          "description": "Dependencias judiciales georreferenciadas que contiene los campos: Número, Fuero, Nombre, Tipo de ente, Dirección, Localidad, Departamento judicial, Teléfono, Latitud, Longitud",
+          "landingUrl": ""
+        },
+        {
+          "id": "155f4005-d5bb-4d55-9857-d1e862c3da93",
+          "downloadUrl": "https://github.com/datos-provincia-abierta/metadatos/blob/master/Justicia/Definiciones%20%C3%B3rganos%20judiciales.pdf",
+          "name": "Definiciones conceptuales",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Documentación correspondiente al Mapa Judicial.",
+          "landingUrl": ""
+        },
+        {
+          "id": "1515aeb9-bba6-45b4-9570-e75ff1a65717",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/dd42cba7-1ff3-4f23-a135-4b21d0566efe/resource/1515aeb9-bba6-45b4-9570-e75ff1a65717/download/mapa_judicial.zip",
+          "name": "Mapa Judicial",
+          "format": "ZIP",
+          "updatedAt": "2018-12-26T20:26:58.437Z",
+          "description": "Formatos .shp, .geojson y kml (EPSG:4326. Proyección WGS 84). Contiene los campos: Número, Fuero, Nombre, Tipo de ente, Dirección, Localidad, Departamento judicial, Teléfono.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-16T21:02:04.247Z",
+      "updatedAt": "2020-10-01T17:48:59.730Z",
+      "contact": {
+        "name": "Ministerio de Justicia y Derechos Humanos.",
+        "email": ""
+      }
+    },
+    {
+      "id": "2e29c7d5-aadc-4cbb-90bd-c2aed5906449",
+      "name": "matrimonios",
+      "title": "Matrimonios",
+      "keywords": [
+        "casamientos",
+        "género",
+        "matrimonios",
+        "personas",
+        "registro"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/matrimonios",
+      "resources": [
+        {
+          "id": "bf0709fe-db4f-4214-a92e-f75a967d73cc",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/2e29c7d5-aadc-4cbb-90bd-c2aed5906449/resource/bf0709fe-db4f-4214-a92e-f75a967d73cc/download/matrimonios-2016_2022.csv",
+          "name": "Registro mensual de matrimonios",
+          "format": "CSV",
+          "updatedAt": "2023-03-01T20:51:22.584Z",
+          "description": "Matrimonios registrados por el Registro Provincial de las Personas con información de municipio, delegación y tipo de matrimonio. Periodo: 2016-2022.",
+          "landingUrl": ""
+        },
+        {
+          "id": "fe0b5ca8-30d4-417d-b00b-898aa08fc96b",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/2e29c7d5-aadc-4cbb-90bd-c2aed5906449/resource/fe0b5ca8-30d4-417d-b00b-898aa08fc96b/download/matrimonios-2016_2022.xlsx",
+          "name": "Registro mensual de matrimonios",
+          "format": "XLS",
+          "updatedAt": "2023-03-01T20:51:43.859Z",
+          "description": "Matrimonios registrados por el Registro Provincial de las Personas con información de municipio, delegación y tipo de matrimonio. Periodo: entre 2016-2022.",
+          "landingUrl": ""
+        },
+        {
+          "id": "abb411b3-059a-46cb-9500-3a5c674412fc",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/2e29c7d5-aadc-4cbb-90bd-c2aed5906449/resource/abb411b3-059a-46cb-9500-3a5c674412fc/download/matrimonios-anual-1996_2022.csv",
+          "name": "Registro anual de matrimonios",
+          "format": "CSV",
+          "updatedAt": "2023-04-03T20:51:45.040Z",
+          "description": "Matrimonios registrados por el Registro Provincial de las Personas con información de municipio y tipo de matrimonio. Periodo: 1996-2022.",
+          "landingUrl": ""
+        },
+        {
+          "id": "ef00b8e7-b884-4039-b2be-3d16310160be",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/2e29c7d5-aadc-4cbb-90bd-c2aed5906449/resource/ef00b8e7-b884-4039-b2be-3d16310160be/download/matrimonios-anual-1996_2022.xlsx",
+          "name": "Registro anual de matrimonios",
+          "format": "XLS",
+          "updatedAt": "2023-04-03T20:54:39.476Z",
+          "description": "Matrimonios registrados por el Registro Provincial de las Personas con información de municipio y tipo de matrimonio. Periodo: 1996-2022.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-09-25T18:44:22.103Z",
+      "updatedAt": "2023-04-10T16:13:00.463Z",
+      "contact": {
+        "name": "Ministerio de Gobierno. Subsecretaría de Gestión Operativa. Dirección Provincial del Registro de las Personas.",
+        "email": ""
+      }
+    },
+    {
+      "id": "d9f91f41-ab87-4adf-ad19-6c6e5849ab56",
+      "name": "museos",
+      "title": "Museos",
+      "keywords": [
+        "cultura",
+        "dependencias",
+        "información geográfica",
+        "museo"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/museos",
+      "resources": [
+        {
+          "id": "732d6010-5468-4270-a78e-708815c07592",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/d9f91f41-ab87-4adf-ad19-6c6e5849ab56/resource/732d6010-5468-4270-a78e-708815c07592/download/museos.csv",
+          "name": "Museos",
+          "format": "CSV",
+          "updatedAt": "2023-08-07T19:49:24.131Z",
+          "description": "Museos de la provincia georreferenciados que contienen los campos: Dependencia, Organismo, Nombre, Dirección, Horario, Contacto, Información adicional, Web.",
+          "landingUrl": ""
+        },
+        {
+          "id": "42375ca5-5dc6-4287-ab9d-fe2c59dced49",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/d9f91f41-ab87-4adf-ad19-6c6e5849ab56/resource/42375ca5-5dc6-4287-ab9d-fe2c59dced49/download/museos.zip",
+          "name": "Museos",
+          "format": "ZIP",
+          "updatedAt": "2023-08-07T19:50:18.021Z",
+          "description": "Formatos .shp, .geojson y kml. Contienen los campos: Dependencia, Organismo, Nombre, Dirección, Horario, Contacto, Información adicional, Web.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-08-07T19:42:26.215Z",
+      "updatedAt": "2023-08-07T19:50:18.055Z",
+      "contact": {
+        "name": "Instituto Cultural de la Provincia de Buenos Aires.",
+        "email": ""
+      }
+    },
+    {
+      "id": "667cbaa0-f603-48ba-9e27-97d9047ee839",
+      "name": "nacidos-vivos",
+      "title": "Nacidos vivos",
+      "keywords": [
+        "demográfico",
+        "vitales"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/nacidos-vivos",
+      "resources": [
+        {
+          "id": "39f8d072-14ba-4eac-bbc3-c3a368c57f6d",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/667cbaa0-f603-48ba-9e27-97d9047ee839/resource/39f8d072-14ba-4eac-bbc3-c3a368c57f6d/download/nacidos-intervalo-peso-2005-2021.csv",
+          "name": "Nacidos vivos",
+          "format": "CSV",
+          "updatedAt": "2023-03-06T20:40:52.618Z",
+          "description": "Detalle de los nacidos vivos por año, municipio, sexo e intervalo de peso al nacer. Periodo 2005 - 2021.",
+          "landingUrl": ""
+        },
+        {
+          "id": "b22be977-3ad4-4e43-a074-375494dfa34e",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/667cbaa0-f603-48ba-9e27-97d9047ee839/resource/b22be977-3ad4-4e43-a074-375494dfa34e/download/nacidos-intervalo-peso-2005-2021.csv",
+          "name": "Nacidos vivos",
+          "format": "XLS",
+          "updatedAt": "2023-03-06T20:41:18.121Z",
+          "description": "Detalle de los nacidos vivos por año, municipio, sexo e intervalo de peso al nacer. Periodo 2005 - 2021.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-16T20:17:51.884Z",
+      "updatedAt": "2023-04-10T17:17:23.875Z",
+      "contact": {
+        "name": "Ministerio de Salud de la provincia de Buenos Aires. Subsecretaría de Gestión de la Información, Educación Permanente y Fiscalización. Dirección Provincial de Estadística y Salud Digital.",
+        "email": "datosabiertos.minsal.pba@gmail.com"
+      }
+    },
+    {
+      "id": "940fc93f-a2c3-431b-ac51-ca84507bc50d",
+      "name": "nacimientos",
+      "title": "Nacimientos",
+      "keywords": [
+        "nacimientos"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/nacimientos",
+      "resources": [
+        {
+          "id": "30be44e7-a114-41f4-ba19-43cf67507fff",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/940fc93f-a2c3-431b-ac51-ca84507bc50d/resource/30be44e7-a114-41f4-ba19-43cf67507fff/download/nacimientos-012016_012022.csv",
+          "name": "Registro mensual de nacimientos",
+          "format": "CSV",
+          "updatedAt": "2023-03-29T22:23:31.147Z",
+          "description": "Nacimientos registrados mensualmente por el Registro Provincial de las Personas con información de municipio y delegación. Periodo: 2016-2022",
+          "landingUrl": ""
+        },
+        {
+          "id": "748f3fb6-7069-4ece-8bb9-1eae40dbdd4a",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/940fc93f-a2c3-431b-ac51-ca84507bc50d/resource/748f3fb6-7069-4ece-8bb9-1eae40dbdd4a/download/nacimientos-012016_012022.xlsx",
+          "name": "Registro mensual de nacimientos",
+          "format": "XLS",
+          "updatedAt": "2023-03-29T22:24:29.810Z",
+          "description": "Nacimientos registrados mensualmente por el Registro Provincial de las Personas con información de municipio y delegación. Periodo: 2016-2022",
+          "landingUrl": ""
+        },
+        {
+          "id": "3383d1b4-1081-40cb-bcae-8d6e2f5a98da",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/940fc93f-a2c3-431b-ac51-ca84507bc50d/resource/3383d1b4-1081-40cb-bcae-8d6e2f5a98da/download/nacimientos-anual-municipio-1996_2022.csv",
+          "name": "Registro anual de nacimientos",
+          "format": "CSV",
+          "updatedAt": "2023-03-29T22:25:42.838Z",
+          "description": "Nacimientos registrados anualmente por el Registro Provincial de las Personas con información de municipio y género. Periodo: 1996-2022",
+          "landingUrl": ""
+        },
+        {
+          "id": "ad463fca-eb66-4cbb-95fb-0904c9400522",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/940fc93f-a2c3-431b-ac51-ca84507bc50d/resource/ad463fca-eb66-4cbb-95fb-0904c9400522/download/nacimientos-anual-municipio-1996_2022.xlsx",
+          "name": "Registro anual de nacimientos",
+          "format": "XLS",
+          "updatedAt": "2023-03-29T22:27:02.639Z",
+          "description": "Nacimientos registrados anualmente por el Registro Provincial de las Personas con información de municipio y género. Periodo: 1996-2022\r\n",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-02T18:16:37.667Z",
+      "updatedAt": "2023-04-10T17:11:41.758Z",
+      "contact": {
+        "name": "Ministerio de Gobierno. Subsecretaría de Gestión Operativa. Dirección Provincial del Registro de las Personas.",
+        "email": ""
+      }
+    },
+    {
+      "id": "3fffcf9e-e8df-49a3-b8cd-a4cce2425d50",
+      "name": "oficinas-ioma",
+      "title": "Oficinas de atención IOMA",
+      "keywords": [
+        "dependencias",
+        "información geográfica"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/oficinas-ioma",
+      "resources": [
+        {
+          "id": "95b5670b-df27-4a8b-a3af-1ed8f64cf056",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/3fffcf9e-e8df-49a3-b8cd-a4cce2425d50/resource/95b5670b-df27-4a8b-a3af-1ed8f64cf056/download/oficinas-de-atencion-ioma.csv",
+          "name": "Oficinas de Atención IOMA",
+          "format": "CSV",
+          "updatedAt": "2022-12-07T20:23:52.804Z",
+          "description": "Oficinas de atención georreferenciadas que contienen los campos: WKT, Dependencia, Organismo, Nombre, Dirección, Partido, Teléfono, Horario. Año 2022.",
+          "landingUrl": ""
+        },
+        {
+          "id": "79789dba-7374-4c5f-8291-c88c168a0d69",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/3fffcf9e-e8df-49a3-b8cd-a4cce2425d50/resource/79789dba-7374-4c5f-8291-c88c168a0d69/download/oficinas-de-atencion-ioma.zip",
+          "name": "Oficinas de Atención IOMA",
+          "format": "ZIP",
+          "updatedAt": "2022-12-07T20:34:34.327Z",
+          "description": "Formatos .shp, .geojson y kml (EPSG:4326. Proyección WGS 84). Contienen los campos: Dependencia, Organismo, Nombre, Dirección, Partido, Teléfono, Horario. Año 2022.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-16T20:40:49.725Z",
+      "updatedAt": "2022-12-07T20:34:34.364Z",
+      "contact": {
+        "name": "IOMA",
+        "email": ""
+      }
+    },
+    {
+      "id": "274c7340-28f5-4f12-9bbb-0b8ce17cb6d5",
+      "name": "oficinas-patronato",
+      "title": "Oficinas Patronato de Liberados",
+      "keywords": [
+        "dependencias",
+        "información geográfica"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/oficinas-patronato",
+      "resources": [
+        {
+          "id": "44b2342a-19a4-452f-80b0-d4dc5362df10",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/274c7340-28f5-4f12-9bbb-0b8ce17cb6d5/resource/44b2342a-19a4-452f-80b0-d4dc5362df10/download/oficinas-patronato-de-liberados.csv",
+          "name": "Oficinas Patronato de Liberados",
+          "format": "CSV",
+          "updatedAt": "2018-10-16T20:58:33.227Z",
+          "description": "Oficinas georreferenciadas que contienen los campos: Dependencia, Organismo, Nombre, Dirección, Partido, Teléfono, Representa, Horario.",
+          "landingUrl": ""
+        },
+        {
+          "id": "c06248fd-ea61-4ad1-9dca-ae3d00e5f4fa",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/274c7340-28f5-4f12-9bbb-0b8ce17cb6d5/resource/c06248fd-ea61-4ad1-9dca-ae3d00e5f4fa/download/oficinas_patronato_de_liberados.zip",
+          "name": "Oficinas Patronato de Liberados",
+          "format": "ZIP",
+          "updatedAt": "2018-12-17T22:51:31.945Z",
+          "description": "Formatos .shp, .geojson y kml. Contienen los campos: Dependencia, Organismo, Nombre, Dirección, Partido, Teléfono, Representa, Horario.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-16T20:58:11.973Z",
+      "updatedAt": "2020-09-30T18:24:35.041Z",
+      "contact": {
+        "name": "Patronato de Liberados",
+        "email": ""
+      }
+    },
+    {
+      "id": "627f65de-2510-4bf4-976b-16035828b5ae",
+      "name": "partidos",
+      "title": "Límites de los partidos",
+      "keywords": [
+        "información geográfica",
+        "limite",
+        "municipio",
+        "partido"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/partidos",
+      "resources": [
+        {
+          "id": "99645069-8128-4433-845c-7a9ae6482f0f",
+          "downloadUrl": "https://github.com/datos-provincia-abierta/metadatos/blob/master/Partidos/catalogo_objetos_partidos.jpg",
+          "name": "Definiciones conceptuales",
+          "format": "JPEG",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Documentación correspondiente a los partidos.",
+          "landingUrl": ""
+        },
+        {
+          "id": "6cd47ea4-37af-4fdb-9d38-678c1067b7e9",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/627f65de-2510-4bf4-976b-16035828b5ae/resource/6cd47ea4-37af-4fdb-9d38-678c1067b7e9/download/partidos.csv",
+          "name": "Partidos",
+          "format": "CSV",
+          "updatedAt": "2022-11-28T20:28:30.033Z",
+          "description": "Detalle de los polígonos que representan la división político administrativa en la Provincia con información de nomenclatura catastral, código de departamento y área.",
+          "landingUrl": ""
+        },
+        {
+          "id": "2cc73f96-98f7-42fa-a180-e56c755cf59a",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/627f65de-2510-4bf4-976b-16035828b5ae/resource/2cc73f96-98f7-42fa-a180-e56c755cf59a/download/limite_partidos.zip",
+          "name": "Límites de los partidos",
+          "format": "ZIP",
+          "updatedAt": "2022-11-28T20:33:28.720Z",
+          "description": "Formatos .shp, .geojson y kml. Detalle de los polígonos que representan la división político administrativa en la Provincia con información de nomenclatura catastral, código de departamento y área.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-11T17:19:44.897Z",
+      "updatedAt": "2022-11-28T20:33:28.736Z",
+      "contact": {
+        "name": "ARBA",
+        "email": ""
+      }
+    },
+    {
+      "id": "0b6323b4-5165-4839-926f-c61440b5aea3",
+      "name": "partos-cesareas",
+      "title": "Partos y cesáreas",
+      "keywords": [],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/partos-cesareas",
+      "resources": [
+        {
+          "id": "f7c637a9-9b9d-4278-b375-685b7e734305",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/0b6323b4-5165-4839-926f-c61440b5aea3/resource/f7c637a9-9b9d-4278-b375-685b7e734305/download/partos-cesareas.csv",
+          "name": "Partos y cesáreas 2014-2017",
+          "format": "CSV",
+          "updatedAt": "2019-10-23T22:52:31.830Z",
+          "description": "Detalle de los partos y cesáreas por año, región sanitaria, establecimiento, partido y dependencia. ",
+          "landingUrl": ""
+        },
+        {
+          "id": "5a4f1126-ce9e-4b0b-b00d-d7a2c8039f82",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/0b6323b4-5165-4839-926f-c61440b5aea3/resource/5a4f1126-ce9e-4b0b-b00d-d7a2c8039f82/download/partos-cesareas.xlsx",
+          "name": "Partos y cesáreas 2014-2017",
+          "format": "XLS",
+          "updatedAt": "2019-10-23T22:55:43.986Z",
+          "description": "Detalle de los partos y cesáreas por año, región sanitaria, establecimiento, partido y dependencia. ",
+          "landingUrl": ""
+        },
+        {
+          "id": "bda5b000-f674-4de6-a7c3-249e6bade79d",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/0b6323b4-5165-4839-926f-c61440b5aea3/resource/bda5b000-f674-4de6-a7c3-249e6bade79d/download/partos-cesareas-2018_2022.csv",
+          "name": "Partos y cesáreas 2018-2022",
+          "format": "CSV",
+          "updatedAt": "2023-07-26T17:46:37.836Z",
+          "description": "Detalle de los partos y cesáreas por año, región sanitaria, establecimiento, partido y dependencia. Periodo 2018-2022",
+          "landingUrl": ""
+        },
+        {
+          "id": "ae4d8b57-8038-4461-affa-679f30dbeaeb",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/0b6323b4-5165-4839-926f-c61440b5aea3/resource/ae4d8b57-8038-4461-affa-679f30dbeaeb/download/partos-cesareas-2018_2022.xlsx",
+          "name": "Partos y cesáreas 2018-2022",
+          "format": "XLS",
+          "updatedAt": "2023-07-26T17:47:16.174Z",
+          "description": "Detalle de los partos y cesáreas por año, región sanitaria, establecimiento, partido y dependencia.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-16T20:29:25.397Z",
+      "updatedAt": "2023-07-26T17:47:16.212Z",
+      "contact": {
+        "name": "Ministerio de Salud de la provincia de Buenos Aires. Subsecretaría de Gestión de la Información, Educación Permanente y Fiscalización. Dirección Provincial de Estadística y Salud Digital.",
+        "email": "datosabiertos.minsal.pba@gmail.com"
+      }
+    },
+    {
+      "id": "be0b7549-98f8-4d26-95da-b9ad8951b134",
+      "name": "pbg",
+      "title": "Producto Bruto Geográfico (PBG)",
+      "keywords": [
+        "pbg",
+        "valor agregado"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/pbg",
+      "resources": [
+        {
+          "id": "b69fd038-c836-49a0-b609-22553add14f2",
+          "downloadUrl": "https://github.com/datos-provincia-abierta/metadatos/blob/master/Econom%C3%ADa/definiciones_pbg.md",
+          "name": "Definiciones conceptuales",
+          "format": "XML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Documentación correspondiente al PBG.",
+          "landingUrl": ""
+        },
+        {
+          "id": "5f5dc963-e04b-46ea-ae0e-4ee044c2ab6e",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/be0b7549-98f8-4d26-95da-b9ad8951b134/resource/5f5dc963-e04b-46ea-ae0e-4ee044c2ab6e/download/pbg-base-2004-serie-31122004-31122021.xlsx",
+          "name": "Serie anual del PBG",
+          "format": "XLS",
+          "updatedAt": "2022-12-19T21:36:14.630Z",
+          "description": "Detalle de PBG según sector de actividad económica, en millones de pesos a precios corrientes y constantes de 2004. Serie 2004-2021. (Año 2019 datos provisorios y  años 2020 y 2021 datos preliminares)",
+          "landingUrl": ""
+        },
+        {
+          "id": "36e0965c-c72e-414e-acae-061d8c40d815",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/be0b7549-98f8-4d26-95da-b9ad8951b134/resource/36e0965c-c72e-414e-acae-061d8c40d815/download/pbg-base-2004-serie-31122004-31122021.csv",
+          "name": "Serie anual del PBG",
+          "format": "CSV",
+          "updatedAt": "2022-12-19T21:41:46.215Z",
+          "description": "Detalle de PBG según sector de actividad económica, en millones de pesos a precios corrientes y constantes de 2004. Serie 2004-2021. (Año 2019 datos provisorios y  años 2020 y 2021 datos preliminares)",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-11T18:29:40.849Z",
+      "updatedAt": "2022-12-19T21:41:46.232Z",
+      "contact": {
+        "name": "Ministerio de Hacienda y Finanzas. Subsecretaría de Coordinación Económica y Estadística. Dirección Provincial de Estadística.",
+        "email": ""
+      }
+    },
+    {
+      "id": "27710611-03b8-4278-bf92-5b083f84afc9",
+      "name": "personas-condenadas-por-delitos-de-lesa-humanidad",
+      "title": "Personas condenadas por delitos de Lesa Humanidad",
+      "keywords": [
+        "condenados",
+        "desaparecidos",
+        "dictadura",
+        "lesa humanidad",
+        "memoria"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/personas-condenadas-por-delitos-de-lesa-humanidad",
+      "resources": [
+        {
+          "id": "fa6f57e8-b344-4392-98a0-4fce36c59d45",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/27710611-03b8-4278-bf92-5b083f84afc9/resource/fa6f57e8-b344-4392-98a0-4fce36c59d45/download/condenados.csv",
+          "name": "Condenados por delitos de lesa humanidad",
+          "format": "CSV",
+          "updatedAt": "2019-03-24T18:57:27.100Z",
+          "description": "Personas condenadas por delitos de lesa humanidad.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-03-24T18:56:43.557Z",
+      "updatedAt": "2022-09-06T15:25:40.050Z",
+      "contact": {
+        "name": "Ministerio de Justicia y Derechos Humanos",
+        "email": ""
+      }
+    },
+    {
+      "id": "260a5b30-f7ee-4f3f-b115-bca701820070",
+      "name": "personas-detenidas-desaparecidas-de-la-provincia-de-buenos-aires",
+      "title": "Personas Detenidas Desaparecidas de la Provincia de Buenos Aires",
+      "keywords": [
+        "desaparecidos",
+        "memoria"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/personas-detenidas-desaparecidas-de-la-provincia-de-buenos-aires",
+      "resources": [
+        {
+          "id": "d5559c99-f86c-465f-84a8-788231b47dff",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/260a5b30-f7ee-4f3f-b115-bca701820070/resource/d5559c99-f86c-465f-84a8-788231b47dff/download/desaparecidos.csv",
+          "name": "Personas Detenidas Desaparecidas",
+          "format": "CSV",
+          "updatedAt": "2019-03-24T18:53:08.374Z",
+          "description": "Detalle de las Personas Detenidas Desaparecidas de la Provincia de Buenos Aires entre el 24 de marzo de 1976 y el 10 de diciembre de 1983.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-03-24T18:50:43.442Z",
+      "updatedAt": "2022-09-06T15:36:04.037Z",
+      "contact": {
+        "name": "Ministerio de Justicia y Derechos Humanos",
+        "email": ""
+      }
+    },
+    {
+      "id": "cc6d2010-6f67-4c98-8d89-af39703f46fb",
+      "name": "poblacion",
+      "title": "Población",
+      "keywords": [
+        "censo 2010",
+        "proyección poblacional"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/poblacion",
+      "resources": [
+        {
+          "id": "09d57241-8437-454a-b4ff-88330d65d60e",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/cc6d2010-6f67-4c98-8d89-af39703f46fb/resource/09d57241-8437-454a-b4ff-88330d65d60e/download/proyecciones-densidad-poblacion.csv",
+          "name": "Población Censo 2010 y proyecciones",
+          "format": "CSV",
+          "updatedAt": "2018-12-10T19:54:32.742Z",
+          "description": "Detalle de la población por municipio. Serie: 2010 - 2025.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-11-20T20:21:23.618Z",
+      "updatedAt": "2022-12-19T21:58:39.931Z",
+      "contact": {
+        "name": "Ministerio de Hacienda y Finanzas. Subsecretaría de Coordinación Económica y Estadística. Dirección Provincial de Estadística.",
+        "email": ""
+      }
+    },
+    {
+      "id": "97709b04-eb2e-45ee-8c97-4b21c1dc6c20",
+      "name": "presupuesto",
+      "title": "Presupuesto",
+      "keywords": [
+        "presupuesto"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/presupuesto",
+      "resources": [
+        {
+          "id": "ffba7f9e-34eb-42f3-96cf-e5e26edb4b6c",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/97709b04-eb2e-45ee-8c97-4b21c1dc6c20/resource/ffba7f9e-34eb-42f3-96cf-e5e26edb4b6c/download/base-ppto2018-1.csv",
+          "name": "Presupuesto 2018",
+          "format": "CSV",
+          "updatedAt": "2019-02-20T18:12:23.983Z",
+          "description": "Detalle del presupuesto provincial aprobado por Ley 14.982.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-11T18:37:23.656Z",
+      "updatedAt": "2020-10-01T16:43:17.434Z",
+      "contact": {
+        "name": "Ministerio de Hacienda y Finanzas.",
+        "email": ""
+      }
+    },
+    {
+      "id": "876ab5d9-8f9d-4707-bfb6-6b49f7bebd88",
+      "name": "puertos",
+      "title": "Puertos públicos",
+      "keywords": [
+        "dependencias",
+        "información geográfica"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/puertos",
+      "resources": [
+        {
+          "id": "8a75ff19-f419-4f8a-a57a-9ae94675325d",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/876ab5d9-8f9d-4707-bfb6-6b49f7bebd88/resource/8a75ff19-f419-4f8a-a57a-9ae94675325d/download/puertos-publicos.csv",
+          "name": "Puerto públicos",
+          "format": "CSV",
+          "updatedAt": "2018-10-12T17:02:15.455Z",
+          "description": "Puertos georreferenciados que contienen los campos: WKT, Dependencia, Organismo, Nombre, Representa, Dirección, Partido, Teléfono, Horario, Contacto, Web.",
+          "landingUrl": ""
+        },
+        {
+          "id": "80afa2e7-ff96-4a51-bc91-1550d0ac1f41",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/876ab5d9-8f9d-4707-bfb6-6b49f7bebd88/resource/80afa2e7-ff96-4a51-bc91-1550d0ac1f41/download/puertos_publicos.zip",
+          "name": "Puerto públicos",
+          "format": "ZIP",
+          "updatedAt": "2018-12-21T17:37:38.892Z",
+          "description": "Formatos .shp, .geojson y kml (EPSG:4326. Proyección WGS 84). Contienen los campos: Dependencia, Organismo, Nombre, Representa, Dirección, Partido, Teléfono, Horario, Contacto, Web.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-12T17:01:11.748Z",
+      "updatedAt": "2020-10-01T17:27:34.886Z",
+      "contact": {
+        "name": "Ministerio de Producción Ciencia e Innovación Tecnológica.",
+        "email": ""
+      }
+    },
+    {
+      "id": "33b080d2-e369-4076-acd4-511db0e9bffb",
+      "name": "radios-censales",
+      "title": "Radios censales",
+      "keywords": [
+        "información geográfica",
+        "radios censo"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/radios-censales",
+      "resources": [
+        {
+          "id": "b08fd634-a011-42db-b3c5-3788ce57e234",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/33b080d2-e369-4076-acd4-511db0e9bffb/resource/b08fd634-a011-42db-b3c5-3788ce57e234/download/radios-censales.csv",
+          "name": "Radios censales del Censo 2010",
+          "format": "CSV",
+          "updatedAt": "2018-11-20T20:42:22.660Z",
+          "description": "Representa la ubicación de las unidades geográficas empleadas en el censo, acompañadas con su código, nombre e información estadística básica.",
+          "landingUrl": ""
+        },
+        {
+          "id": "48871123-03eb-4f52-adb1-71986e512e58",
+          "downloadUrl": "https://github.com/datos-provincia-abierta/metadatos/blob/master/Econom%C3%ADa/notas_aclaratorias_pba.pdf",
+          "name": "Definiciones conceptuales",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Documentación correspondiente a los radios censales.",
+          "landingUrl": ""
+        },
+        {
+          "id": "a8bed3ca-2746-4ab1-a390-56f1788431b1",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/33b080d2-e369-4076-acd4-511db0e9bffb/resource/a8bed3ca-2746-4ab1-a390-56f1788431b1/download/radios_censales.zip",
+          "name": "Radios censales del Censo 2010",
+          "format": "ZIP",
+          "updatedAt": "2023-01-02T22:08:57.061Z",
+          "description": "Formato .shp (EPSG:4326. Proyección WGS 84). Representa la ubicación de las unidades geográficas empleadas en el censo, acompañadas con su código, nombre e información estadística básica.",
+          "landingUrl": ""
+        },
+        {
+          "id": "97b854f7-3390-442e-a167-a55960d6ebca",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/33b080d2-e369-4076-acd4-511db0e9bffb/resource/97b854f7-3390-442e-a167-a55960d6ebca/download/radios_censales.zip",
+          "name": "Radios censales del Censo 2010",
+          "format": "ZIP",
+          "updatedAt": "2023-01-02T22:04:12.427Z",
+          "description": "Formato .geojson (EPSG:4326. Proyección WGS 84). Representa la ubicación de las unidades geográficas empleadas en el censo, acompañadas con su código, nombre e información estadística básica.",
+          "landingUrl": ""
+        },
+        {
+          "id": "c2de60cc-52af-4059-88ec-7e096a8c51be",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/33b080d2-e369-4076-acd4-511db0e9bffb/resource/c2de60cc-52af-4059-88ec-7e096a8c51be/download/radios_censales.zip",
+          "name": "Radios censales del Censo 2010",
+          "format": "ZIP",
+          "updatedAt": "2023-01-02T21:53:59.943Z",
+          "description": "Formato .kml (EPSG:4326. Proyección WGS 84). Representa la ubicación de las unidades geográficas empleadas en el censo, acompañadas con su código, nombre e información estadística básica.\r\n",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-03T17:30:59.347Z",
+      "updatedAt": "2023-01-02T22:13:02.286Z",
+      "contact": {
+        "name": "INDEC",
+        "email": ""
+      }
+    },
+    {
+      "id": "7d0829ed-91e8-4ee2-b33c-1480bc9dad0b",
+      "name": "recaudacion",
+      "title": "Recaudación provincial",
+      "keywords": [
+        "impuestos",
+        "recaudación",
+        "recursos"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/recaudacion",
+      "resources": [
+        {
+          "id": "db9f9ca6-b90d-497c-92c7-9fad39dd6e80",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/7d0829ed-91e8-4ee2-b33c-1480bc9dad0b/resource/db9f9ca6-b90d-497c-92c7-9fad39dd6e80/download/recaudacion-tributaria_011999-092023.csv",
+          "name": "Serie mensual de recaudación provincial",
+          "format": "CSV",
+          "updatedAt": "2023-11-13T15:58:49.646Z",
+          "description": "Detalle mensual de la recaudación provincial por concepto y periodo (en miles de pesos). Periodo enero 1999 - septiembre 2023.",
+          "landingUrl": ""
+        },
+        {
+          "id": "5384f942-fd0c-46df-a60e-aaff5b2106e5",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/7d0829ed-91e8-4ee2-b33c-1480bc9dad0b/resource/5384f942-fd0c-46df-a60e-aaff5b2106e5/download/recaudacion-tributaria_011999-082023.xlsx",
+          "name": "Serie mensual de recaudación provincial",
+          "format": "XLS",
+          "updatedAt": "2023-10-09T17:30:01.897Z",
+          "description": "Detalle mensual de la recaudación provincial por concepto y periodo (en miles de pesos). Periodo enero 1999 - agosto 2023.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-11T18:47:02.601Z",
+      "updatedAt": "2023-11-13T15:58:50.411Z",
+      "contact": {
+        "name": "Ministerio de Hacienda y Finanzas. Subsecretaría de Hacienda. Dirección Provincial de Política Tributaria.",
+        "email": ""
+      }
+    },
+    {
+      "id": "a04bdcae-3197-466b-b10c-dd5447f72bd5",
+      "name": "recorrido-colectivos",
+      "title": "Recorrido de colectivos",
+      "keywords": [
+        "información geográfica"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/recorrido-colectivos",
+      "resources": [
+        {
+          "id": "038b29e0-5b46-4c5c-889d-fc7b780e9393",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/a04bdcae-3197-466b-b10c-dd5447f72bd5/resource/038b29e0-5b46-4c5c-889d-fc7b780e9393/download/lineas-provinciales.csv",
+          "name": "Recorrido de colectivos de líneas provinciales",
+          "format": "CSV",
+          "updatedAt": "2018-10-12T19:13:04.145Z",
+          "description": "Datos del recorrido de los colectivos de líneas provinciales con información de nombre de la empresa y número de línea.",
+          "landingUrl": ""
+        },
+        {
+          "id": "7ba7d9af-054b-47c8-8fb4-c3091d431e7f",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/a04bdcae-3197-466b-b10c-dd5447f72bd5/resource/7ba7d9af-054b-47c8-8fb4-c3091d431e7f/download/recorrido-colectivo-de-lineas-provinciales.zip",
+          "name": "Recorrido de colectivos de líneas provinciales",
+          "format": "ZIP",
+          "updatedAt": "2018-12-27T21:25:07.001Z",
+          "description": "Formatos .shp, .geojson y kml (EPSG:4326. Proyección WGS 84). Datos del recorrido de los colectivos de líneas provinciales con información de nombre de la empresa y número de línea.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-12T19:11:13.157Z",
+      "updatedAt": "2022-11-07T17:53:54.454Z",
+      "contact": {
+        "name": "Ministerio de Transporte.",
+        "email": ""
+      }
+    },
+    {
+      "id": "ce9bead9-878f-4a97-b2e0-d66ea6d12395",
+      "name": "red-vial",
+      "title": "Red vial",
+      "keywords": [
+        "información geográfica"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/red-vial",
+      "resources": [
+        {
+          "id": "11d68729-6a98-4031-a73e-39987d3ed282",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/ce9bead9-878f-4a97-b2e0-d66ea6d12395/resource/11d68729-6a98-4031-a73e-39987d3ed282/download/red-vial.csv",
+          "name": "Red vial",
+          "format": "CSV",
+          "updatedAt": "2019-09-25T21:45:58.759Z",
+          "description": "Datos de la ubicación  y descripción de la red vial provincial.",
+          "landingUrl": ""
+        },
+        {
+          "id": "70b35164-39ec-4842-a19d-fad945dc19d4",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/ce9bead9-878f-4a97-b2e0-d66ea6d12395/resource/70b35164-39ec-4842-a19d-fad945dc19d4/download/red-vial.xlsx",
+          "name": "Red vial",
+          "format": "XLS",
+          "updatedAt": "2019-09-25T21:58:51.528Z",
+          "description": "Datos de la ubicación  y descripción de la red vial provincial.",
+          "landingUrl": ""
+        },
+        {
+          "id": "c66015c7-9dae-4770-ae6d-44c615771230",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/ce9bead9-878f-4a97-b2e0-d66ea6d12395/resource/c66015c7-9dae-4770-ae6d-44c615771230/download/red-vial.zip",
+          "name": "Red vial (SHP)",
+          "format": "ZIP",
+          "updatedAt": "2019-09-25T22:00:11.612Z",
+          "description": "Archivo shapefile de datos de la ubicación y descripción de la red vial provincial.",
+          "landingUrl": ""
+        },
+        {
+          "id": "eb4aa330-027d-46b7-b62c-999fab29365c",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/ce9bead9-878f-4a97-b2e0-d66ea6d12395/resource/eb4aa330-027d-46b7-b62c-999fab29365c/download/red-vial.zip",
+          "name": "Red vial (GeoJSON)",
+          "format": "GeoJSON",
+          "updatedAt": "2019-09-26T21:31:18.982Z",
+          "description": "Archivo GeoJSON de datos de la ubicación y descripción de la red vial provincial.",
+          "landingUrl": ""
+        },
+        {
+          "id": "7f923183-8d83-4b2a-8b1c-386fb8ef5d36",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/ce9bead9-878f-4a97-b2e0-d66ea6d12395/resource/7f923183-8d83-4b2a-8b1c-386fb8ef5d36/download/red-vial.zip",
+          "name": "Red vial (KML)",
+          "format": "KML",
+          "updatedAt": "2019-10-21T22:20:24.765Z",
+          "description": "Archivo KML de datos de la ubicación y descripción de la red vial provincial.",
+          "landingUrl": ""
+        },
+        {
+          "id": "a2777478-dcef-4db3-89fc-f7652bcebad7",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/ce9bead9-878f-4a97-b2e0-d66ea6d12395/resource/a2777478-dcef-4db3-89fc-f7652bcebad7/download/documentacion-red-vial.pdf",
+          "name": "Documentación Red vial",
+          "format": "PDF",
+          "updatedAt": "2019-10-21T22:23:09.277Z",
+          "description": "Detalle para la interpretación de los recursos de Red Vial.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-12-28T21:09:01.365Z",
+      "updatedAt": "2022-11-07T18:34:00.515Z",
+      "contact": {
+        "name": "Instituto Geográfico Nacional. Dirección Nacional de Servicios Geográficos. Dirección de Información Geoespacial.",
+        "email": ""
+      }
+    },
+    {
+      "id": "c0769cd0-f69e-4eab-9900-8a72a5f99933",
+      "name": "registro-expulsados",
+      "title": "Registro de expulsados",
+      "keywords": [
+        "expulsados",
+        "policía"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/registro-expulsados",
+      "resources": [
+        {
+          "id": "816b743b-a448-40bf-95a3-59f7d1631c02",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/c0769cd0-f69e-4eab-9900-8a72a5f99933/resource/816b743b-a448-40bf-95a3-59f7d1631c02/download/registro-expulsados-122022.csv",
+          "name": "Registro de expulsados",
+          "format": "CSV",
+          "updatedAt": "2023-07-17T19:22:17.334Z",
+          "description": "Detalles del Registro de Expulsados. Periodo 1966-2021. Fecha de actualización: diciembre de 2022.",
+          "landingUrl": ""
+        },
+        {
+          "id": "8ad9ac3e-79d1-41d9-987a-b80bcf1d50f4",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/c0769cd0-f69e-4eab-9900-8a72a5f99933/resource/8ad9ac3e-79d1-41d9-987a-b80bcf1d50f4/download/definiciones-conceptuales.pdf",
+          "name": "Definiciones conceptuales",
+          "format": "PDF",
+          "updatedAt": "2021-12-21T17:09:46.557Z",
+          "description": "Documentación correspondiente al registro de expulsados.",
+          "landingUrl": ""
+        },
+        {
+          "id": "67382e12-ca99-418d-95c8-2d08a4588a7d",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/c0769cd0-f69e-4eab-9900-8a72a5f99933/resource/67382e12-ca99-418d-95c8-2d08a4588a7d/download/registro-expulsados-122022.xlsx",
+          "name": "Registro de expulsados",
+          "format": "XLS",
+          "updatedAt": "2023-07-17T19:23:22.597Z",
+          "description": "Detalles del Registro de Expulsados. Periodo 1966-2021. Fecha de actualización: diciembre de 2022.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-11-20T20:38:24.862Z",
+      "updatedAt": "2023-07-17T19:45:08.449Z",
+      "contact": {
+        "name": "Ministerio de Seguridad de la Provincia de Buenos Aires. Auditoría General de Asuntos Internos.",
+        "email": ""
+      }
+    },
+    {
+      "id": "219d6b32-2e34-40cb-913d-b05c47cab75f",
+      "name": "rendimientos-establecimientos-salud",
+      "title": "Rendimiento de establecimientos de salud",
+      "keywords": [],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/rendimientos-establecimientos-salud",
+      "resources": [
+        {
+          "id": "8c3130cb-61ad-4014-b829-503b214ba3c0",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/219d6b32-2e34-40cb-913d-b05c47cab75f/resource/8c3130cb-61ad-4014-b829-503b214ba3c0/download/rendimientos-hospitalarios_2005-2022.csv",
+          "name": "Rendimiento de establecimientos de salud 2005-2022",
+          "format": "CSV",
+          "updatedAt": "2023-07-31T20:50:36.364Z",
+          "description": "Detalle de rendimiento con información de cantidad de consultas odontológicas, médicas y paramédicas, interconsultas, egresos, camas disponibles, días de estadía, etc. Periodo 2005 - 2022.",
+          "landingUrl": ""
+        },
+        {
+          "id": "0ea15d62-146c-458a-9301-f7464e0b586c",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/219d6b32-2e34-40cb-913d-b05c47cab75f/resource/0ea15d62-146c-458a-9301-f7464e0b586c/download/rendimientos-hospitalarios_2005-2022.xlsx",
+          "name": "Rendimiento de establecimientos de salud 2005-2022",
+          "format": "XLS",
+          "updatedAt": "2023-07-31T20:55:43.795Z",
+          "description": "Detalle de rendimiento con información de cantidad de consultas odontológicas, médicas y paramédicas, interconsultas, egresos, camas disponibles, días de estadía, etc. Periodo 2005 - 2022.",
+          "landingUrl": ""
+        },
+        {
+          "id": "52d5fc8d-75a1-4e63-853d-92f8e938e584",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/219d6b32-2e34-40cb-913d-b05c47cab75f/resource/52d5fc8d-75a1-4e63-853d-92f8e938e584/download/definiciones-rendimientos-hospitalarios.pdf",
+          "name": "Definiciones conceptuales",
+          "format": "PDF",
+          "updatedAt": "2023-07-03T20:27:08.560Z",
+          "description": "Documentación correspondiente a los rendimientos de los establecimientos de salud.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-16T20:33:05.879Z",
+      "updatedAt": "2023-07-31T20:55:43.813Z",
+      "contact": {
+        "name": "Ministerio de Salud de la provincia de Buenos Aires. Subsecretaría de Gestión de la Información, Educación Permanente y Fiscalización. Dirección Provincial de Estadística y Salud Digital.",
+        "email": "datosabiertos.minsal.pba@gmail.com"
+      }
+    },
+    {
+      "id": "874e4f10-8b3b-45ec-835b-a89678b44ae8",
+      "name": "resultados-aprender",
+      "title": "Resultados Aprender",
+      "keywords": [
+        "aprender",
+        "evaluacion educativa"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/resultados-aprender",
+      "resources": [
+        {
+          "id": "85aee62b-48ed-4d1f-aa41-1072dcf9a71a",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/874e4f10-8b3b-45ec-835b-a89678b44ae8/resource/85aee62b-48ed-4d1f-aa41-1072dcf9a71a/download/resultados-aprender-resultados_aprender.csv",
+          "name": "Resultados Aprender 2016 y 2017",
+          "format": "CSV",
+          "updatedAt": "2020-02-04T19:46:08.538Z",
+          "description": "Detalle de los resultados aprender por partido y materia.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-11T21:53:22.075Z",
+      "updatedAt": "2020-02-04T19:46:08.845Z",
+      "contact": {
+        "name": "Dirección General de Cultura y Educación de Provincia de Buenos Aires",
+        "email": ""
+      }
+    },
+    {
+      "id": "1ae289f8-532c-4f69-a3c8-0268fe0ee390",
+      "name": "resultados-electorales",
+      "title": "Resultados Electorales",
+      "keywords": [
+        "elecciones"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/resultados-electorales",
+      "resources": [
+        {
+          "id": "31fc03ea-cd3f-4969-9a34-9cf957f03eae",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/1ae289f8-532c-4f69-a3c8-0268fe0ee390/resource/31fc03ea-cd3f-4969-9a34-9cf957f03eae/download/paso-2017.csv",
+          "name": "Resultados de las PASO 2017",
+          "format": "CSV",
+          "updatedAt": "2018-10-16T21:10:54.103Z",
+          "description": "Resultados definitivos de las PASO 2017 desagregados por partido.",
+          "landingUrl": ""
+        },
+        {
+          "id": "f8168491-4c38-4b03-82f1-b05fe43f8349",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/1ae289f8-532c-4f69-a3c8-0268fe0ee390/resource/f8168491-4c38-4b03-82f1-b05fe43f8349/download/generales-2017.csv",
+          "name": "Resultados de las Generales 2017",
+          "format": "CSV",
+          "updatedAt": "2018-10-16T21:11:55.066Z",
+          "description": "Resultados definitivos de las Elecciones Generales 2017, desagregados por partido.",
+          "landingUrl": ""
+        },
+        {
+          "id": "e3a19844-dc7d-4b8d-93e4-2d6f3131ca1d",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/1ae289f8-532c-4f69-a3c8-0268fe0ee390/resource/e3a19844-dc7d-4b8d-93e4-2d6f3131ca1d/download/generales-2019.csv",
+          "name": "Resultados de las Generales 2019",
+          "format": "CSV",
+          "updatedAt": "2023-01-16T19:47:54.868Z",
+          "description": "Resultados definitivos de las Elecciones Generales 2019, desagregados por partido.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-16T21:09:48.558Z",
+      "updatedAt": "2023-01-16T19:51:17.277Z",
+      "contact": {
+        "name": "Ministerio de Gobierno",
+        "email": ""
+      }
+    },
+    {
+      "id": "015aac76-3a1a-4f4d-a796-a55d2cbd315a",
+      "name": "secciones-electorales",
+      "title": "Secciones electorales",
+      "keywords": [
+        "elecciones"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/secciones-electorales",
+      "resources": [
+        {
+          "id": "8f3acc5e-a6ed-43eb-bba0-0c1dea304941",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/015aac76-3a1a-4f4d-a796-a55d2cbd315a/resource/8f3acc5e-a6ed-43eb-bba0-0c1dea304941/download/secciones_electorales.zip",
+          "name": "Secciones Electorales",
+          "format": "ZIP",
+          "updatedAt": "2023-02-01T21:25:13.442Z",
+          "description": "Formato shapefile (EPSG:4326. Proyección WGS 84). Contienen la ubicación de las secciones electorales de la provincia de Buenos Aires. ",
+          "landingUrl": ""
+        },
+        {
+          "id": "3676795c-d005-4dc4-b48a-c58f3942c5fd",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/015aac76-3a1a-4f4d-a796-a55d2cbd315a/resource/3676795c-d005-4dc4-b48a-c58f3942c5fd/download/secciones_electorales.geojson",
+          "name": "Secciones Electorales",
+          "format": "GeoJSON",
+          "updatedAt": "2023-02-01T21:27:06.901Z",
+          "description": "Formato geojson (EPSG:4326. Proyección WGS 84). Contienen la ubicación de las secciones electorales de la provincia de Buenos Aires.",
+          "landingUrl": ""
+        },
+        {
+          "id": "32f32b87-79fa-4350-ae02-cbf2a94adff2",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/015aac76-3a1a-4f4d-a796-a55d2cbd315a/resource/32f32b87-79fa-4350-ae02-cbf2a94adff2/download/secciones_electorales.kml",
+          "name": "Secciones Electorales",
+          "format": "KML",
+          "updatedAt": "2023-02-01T21:27:45.713Z",
+          "description": "Formato kml (EPSG:4326. Proyección WGS 84). Contienen la ubicación de las secciones electorales de la provincia de Buenos Aires.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-02-01T21:14:30.938Z",
+      "updatedAt": "2023-02-01T21:33:05.698Z",
+      "contact": {
+        "name": "Junta Electoral de la provincia de Buenos Aires",
+        "email": ""
+      }
+    },
+    {
+      "id": "1c9d679f-88fc-4bd2-81cf-8fb1a28ce8a9",
+      "name": "teatros-museos",
+      "title": "Teatros",
+      "keywords": [
+        "cultura",
+        "dependencias",
+        "información geográfica",
+        "teatro"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/teatros-museos",
+      "resources": [
+        {
+          "id": "c0c9bcf9-e98d-459a-89a8-67eec0848e44",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/1c9d679f-88fc-4bd2-81cf-8fb1a28ce8a9/resource/c0c9bcf9-e98d-459a-89a8-67eec0848e44/download/teatros.csv",
+          "name": "Teatros georeferenciados",
+          "format": "CSV",
+          "updatedAt": "2022-05-16T20:50:25.881Z",
+          "description": "Teatros de la provincia georreferenciados que contienen los campos: Dependencia, Organismo, Nombre, Dirección, Partido, Teléfono, Horario, Contacto, Web.",
+          "landingUrl": ""
+        },
+        {
+          "id": "54d68ce9-23ba-4b22-a6db-0906295e545d",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/1c9d679f-88fc-4bd2-81cf-8fb1a28ce8a9/resource/54d68ce9-23ba-4b22-a6db-0906295e545d/download/teatros.zip",
+          "name": "Teatros ",
+          "format": "ZIP",
+          "updatedAt": "2018-12-17T22:10:19.021Z",
+          "description": "Formatos .shp, .geojson y kml. Contienen los campos: Dependencia, Organismo, Nombre, Dirección, Partido, Teléfono, Horario, Contacto, Web.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-10T20:37:57.587Z",
+      "updatedAt": "2023-08-07T19:51:05.067Z",
+      "contact": {
+        "name": "Instituto Cultural de la Provincia de Buenos Aires.",
+        "email": ""
+      }
+    },
+    {
+      "id": "189062f0-a447-4f75-8a28-f2d20af17a40",
+      "name": "tramites-registro-provincial-de-las-personas",
+      "title": "Trámites del Registro Provincial de las Personas",
+      "keywords": [
+        "certificados",
+        "defunciones",
+        "dni",
+        "partidas",
+        "reconocimientos",
+        "trámites",
+        "uniones"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/tramites-registro-provincial-de-las-personas",
+      "resources": [
+        {
+          "id": "3ad2e511-82f3-41cf-8e6e-bc2904e1582f",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/189062f0-a447-4f75-8a28-f2d20af17a40/resource/3ad2e511-82f3-41cf-8e6e-bc2904e1582f/download/tramites-anuales-2016-2017.csv",
+          "name": "Registro de trámites 2016-2017",
+          "format": "CSV",
+          "updatedAt": "2023-03-28T16:39:24.142Z",
+          "description": "Registro anual de trámites realizados en el Registro Provincial de las Personas.",
+          "landingUrl": ""
+        },
+        {
+          "id": "127a2a9f-637b-4cf4-a610-089465c19a47",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/189062f0-a447-4f75-8a28-f2d20af17a40/resource/127a2a9f-637b-4cf4-a610-089465c19a47/download/tramites-anuales-2016-2017.xlsx",
+          "name": "Registro de trámites 2016-2017",
+          "format": "XLS",
+          "updatedAt": "2023-03-28T16:39:43.074Z",
+          "description": "Registro anual de trámites realizados en el Registro Provincial de las Personas.",
+          "landingUrl": ""
+        },
+        {
+          "id": "66bd592f-76ff-4520-8708-608296be18f9",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/189062f0-a447-4f75-8a28-f2d20af17a40/resource/66bd592f-76ff-4520-8708-608296be18f9/download/tramites-documentarios-especiales-012018_122022.csv",
+          "name": "Trámites documentarios, certificaciones y especiales de delegaciones 2018-2022 (mensual)",
+          "format": "CSV",
+          "updatedAt": "2023-03-28T16:41:55.143Z",
+          "description": "Trámites de DNI (nuevo, renovación o duplicado) y pasaporte; certificaciones de exposición de extravío, DDJJ de domicilio y certificado de supervivencia; expedición de partidas presenciales y online.",
+          "landingUrl": ""
+        },
+        {
+          "id": "95f0cc0b-7a3e-4ac2-888e-def30b287368",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/189062f0-a447-4f75-8a28-f2d20af17a40/resource/95f0cc0b-7a3e-4ac2-888e-def30b287368/download/tramites-documentarios-especiales-012018_122022.xlsx",
+          "name": "Trámites documentarios, certificaciones y especiales de delegaciones 2018-2022  (mensual)",
+          "format": "XLS",
+          "updatedAt": "2023-03-28T16:44:27.937Z",
+          "description": "Trámites de DNI (nuevo, renovación o duplicado) y pasaporte; certificaciones de exposición de extravío, DDJJ de domicilio y certificado de supervivencia; expedición de partidas presenciales y online.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-02T18:48:48.436Z",
+      "updatedAt": "2023-03-28T16:44:27.960Z",
+      "contact": {
+        "name": "Ministerio de Gobierno. Subsecretaría de Gestión Operativa. Dirección Provincial del Registro de las Personas.",
+        "email": ""
+      }
+    },
+    {
+      "id": "7ba97df9-a2dc-4ac2-9a37-d741e138812f",
+      "name": "tranferencias-consejos-escolares",
+      "title": "Transferencias a Consejos Escolares",
+      "keywords": [
+        "consejos escolares",
+        "tranferencias"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/tranferencias-consejos-escolares",
+      "resources": [
+        {
+          "id": "22a5dcbf-be01-4ee9-891a-2a0c8bbae7d2",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/7ba97df9-a2dc-4ac2-9a37-d741e138812f/resource/22a5dcbf-be01-4ee9-891a-2a0c8bbae7d2/download/transferencias-consejos-escolares-012010_092023.csv",
+          "name": "Serie mensual de transferencias a Consejos Escolares",
+          "format": "CSV",
+          "updatedAt": "2023-11-13T17:25:25.530Z",
+          "description": "Detalle de las transferencias mensuales realizadas a los consejos escolares por municipio. Periodo enero 2010 - septiembre 2023.",
+          "landingUrl": ""
+        },
+        {
+          "id": "7f694208-c425-4f7a-a322-8216a98dc5b3",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/7ba97df9-a2dc-4ac2-9a37-d741e138812f/resource/7f694208-c425-4f7a-a322-8216a98dc5b3/download/transferencias-consejos-escolares-012010_092023.xlsx",
+          "name": "Serie mensual de transferencias a Consejos Escolares",
+          "format": "XLS",
+          "updatedAt": "2023-11-13T17:26:18.351Z",
+          "description": "Detalle de las transferencias mensuales realizadas a los consejos escolares por municipio. Periodo enero 2010 - septiembre 2023.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-11T20:13:07.070Z",
+      "updatedAt": "2023-11-13T17:26:18.380Z",
+      "contact": {
+        "name": "Ministerio de Hacienda y Finanzas. Subsecretaría de Coordinación Económica y Estadística. Dirección Provincial de Coordinación Municipal y Programas de Desarrollo.",
+        "email": ""
+      }
+    },
+    {
+      "id": "96ee21b4-b116-4b83-9228-ba664af1b480",
+      "name": "transferencias-municipios",
+      "title": "Transferencias a municipios",
+      "keywords": [],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/transferencias-municipios",
+      "resources": [
+        {
+          "id": "d13acdb6-bd59-4c09-b954-8f3258a65e8a",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/96ee21b4-b116-4b83-9228-ba664af1b480/resource/d13acdb6-bd59-4c09-b954-8f3258a65e8a/download/transferencias-municipios-012010-092023.csv",
+          "name": "Serie mensual de transferencias a municipios",
+          "format": "CSV",
+          "updatedAt": "2023-11-13T17:45:07.222Z",
+          "description": "Detalle de las transferencias mensuales realizadas a los municipios por concepto. Periodo enero 2010 - septiembre 2023.",
+          "landingUrl": ""
+        },
+        {
+          "id": "2fbba4bc-8133-401c-be85-083b85ac02f9",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/96ee21b4-b116-4b83-9228-ba664af1b480/resource/2fbba4bc-8133-401c-be85-083b85ac02f9/download/transferencias-municipios-012010-092023.xlsx",
+          "name": "Serie mensual de transferencias a municipios",
+          "format": "XLS",
+          "updatedAt": "2023-11-13T17:45:56.338Z",
+          "description": "Detalle de las transferencias mensuales realizadas a los municipios por concepto. Periodo enero 2010 - septiembre 2023.",
+          "landingUrl": ""
+        },
+        {
+          "id": "c588d20c-0ce5-4596-b8b1-441155381a70",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/96ee21b4-b116-4b83-9228-ba664af1b480/resource/c588d20c-0ce5-4596-b8b1-441155381a70/download/serie-anual-tributos-descentralizados-2003_2022.csv",
+          "name": "Serie anual de tributos desentralizados ",
+          "format": "CSV",
+          "updatedAt": "2023-04-25T18:18:27.624Z",
+          "description": "Datos anuales de descentralización administrativa tributaria por concepto (Ley 13.010 y modificatorias) Periodo: 2003-2022.",
+          "landingUrl": ""
+        },
+        {
+          "id": "1e67fae4-534c-4c7e-9d08-6267ca390419",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/96ee21b4-b116-4b83-9228-ba664af1b480/resource/1e67fae4-534c-4c7e-9d08-6267ca390419/download/serie-anual-tributos-descentralizados-2003_2022.xlsx",
+          "name": "Serie anual de tributos desentralizados",
+          "format": "XLS",
+          "updatedAt": "2023-04-25T18:18:03.755Z",
+          "description": "Datos anuales de descentralización administrativa tributaria por concepto (Ley 13.010 y modificatorias) Periodo: 2003-2022.\r\n\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "362194db-8eaf-456e-8ff1-7d8b9cfc89c7",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/96ee21b4-b116-4b83-9228-ba664af1b480/resource/362194db-8eaf-456e-8ff1-7d8b9cfc89c7/download/serie-mensual-tributos-descentralizados-012018_092023.csv",
+          "name": "Serie mensual de tributos desentralizados",
+          "format": "CSV",
+          "updatedAt": "2023-11-13T18:12:03.905Z",
+          "description": "Datos mensuales de descentralización administrativa tributaria por concepto (Ley 13.010 y modificatorias) Periodo: enero 2016 - septiembre 2023.",
+          "landingUrl": ""
+        },
+        {
+          "id": "1aa16a3b-de13-47e2-b397-284e38b44ef8",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/96ee21b4-b116-4b83-9228-ba664af1b480/resource/1aa16a3b-de13-47e2-b397-284e38b44ef8/download/serie-mensual-tributos-descentralizados-012018_092023.xlsx",
+          "name": "Serie mensual de tributos desentralizados",
+          "format": "XLS",
+          "updatedAt": "2023-11-13T18:12:43.659Z",
+          "description": "Datos mensuales de descentralización administrativa tributaria por concepto (Ley 13.010 y modificatorias) Periodo: enero 2016- septiembre 2023.\r\n\r\n\r\n",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-11T20:19:42.563Z",
+      "updatedAt": "2023-11-13T18:12:43.711Z",
+      "contact": {
+        "name": "Ministerio de Hacienda y Finanzas. Subsecretaría de Coordinación Económica y Estadística. Dirección Provincial de Coordinación Municipal y Programas de Desarrollo.",
+        "email": ""
+      }
+    },
+    {
+      "id": "7df47d10-7fb9-49e4-ab0d-ea1300278988",
+      "name": "unidades-penitenciarias",
+      "title": "Unidades Penitenciarias",
+      "keywords": [
+        "carceles",
+        "dependencias",
+        "información geográfica"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/unidades-penitenciarias",
+      "resources": [
+        {
+          "id": "d38d10d9-2b60-45eb-8fbd-84c07702cd1c",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/7df47d10-7fb9-49e4-ab0d-ea1300278988/resource/d38d10d9-2b60-45eb-8fbd-84c07702cd1c/download/unidades-penitenciarias.csv",
+          "name": "Unidades Penitenciarias",
+          "format": "CSV",
+          "updatedAt": "2018-10-16T21:00:45.169Z",
+          "description": "Unidades georreferenciadas que contienen los campos: Dependencia, Organismo, Nombre, Dirección, Partido, Teléfono.",
+          "landingUrl": ""
+        },
+        {
+          "id": "c85619ec-4cd4-47ec-892b-541ecfd59c68",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/7df47d10-7fb9-49e4-ab0d-ea1300278988/resource/c85619ec-4cd4-47ec-892b-541ecfd59c68/download/unidades_penitenciarias.zip",
+          "name": "Unidades Penitenciarias",
+          "format": "ZIP",
+          "updatedAt": "2018-12-17T22:43:53.808Z",
+          "description": "Formatos .shp, .geojson y kml. Contienen los campos: Dependencia, Organismo, Nombre, Dirección, Partido, Teléfono.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-16T21:00:25.540Z",
+      "updatedAt": "2020-10-01T17:49:58.555Z",
+      "contact": {
+        "name": "Ministerio de Justicia y Derechos Humanos.",
+        "email": ""
+      }
+    },
+    {
+      "id": "0c613bc0-2cb0-4404-a6a6-36e9ccab8327",
+      "name": "uniones-convivenciales",
+      "title": "Uniones convivenciales",
+      "keywords": [
+        "género",
+        "trámite"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/uniones-convivenciales",
+      "resources": [
+        {
+          "id": "1aa2bba7-e007-432b-a018-e58a5d106d48",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/0c613bc0-2cb0-4404-a6a6-36e9ccab8327/resource/1aa2bba7-e007-432b-a018-e58a5d106d48/download/uniones-convivenciales-mensual-012018_122022.csv",
+          "name": "Registro mensual de uniones convivenciales",
+          "format": "CSV",
+          "updatedAt": "2023-03-22T22:30:47.446Z",
+          "description": "Uniones convivenciales celebradas por el Registro Provincial de las Personas con información de año, mes, municipio, delegación y tipo de matrimonio. Periodo: 2018-2022.\r\n",
+          "landingUrl": ""
+        },
+        {
+          "id": "0e2737dc-1c95-41ba-a41a-23f8a1e2fc1b",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/0c613bc0-2cb0-4404-a6a6-36e9ccab8327/resource/0e2737dc-1c95-41ba-a41a-23f8a1e2fc1b/download/uniones-convivenciales-mensual-012018_122022.xlsx",
+          "name": "Registro mensual de uniones convivenciales",
+          "format": "XLS",
+          "updatedAt": "2023-03-22T22:31:04.718Z",
+          "description": "Uniones convivenciales celebradas por el Registro Provincial de las Personas con información de año, mes, municipio, delegación y tipo de matrimonio. Periodo: 2018-2022.",
+          "landingUrl": ""
+        },
+        {
+          "id": "3832dcdc-281a-4efe-89ab-ad2077af2528",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/0c613bc0-2cb0-4404-a6a6-36e9ccab8327/resource/3832dcdc-281a-4efe-89ab-ad2077af2528/download/uniones-convivenciales-anual.csv",
+          "name": "Registro anual de uniones convivenciales",
+          "format": "CSV",
+          "updatedAt": "2023-03-22T22:31:23.680Z",
+          "description": "Uniones convivenciales celebradas anualmente por el Registro Provincial de las Personas con información de municipio y delegación. Periodo: 2016-2022.",
+          "landingUrl": ""
+        },
+        {
+          "id": "bd79b8b3-bf18-44e4-8948-f57c430e6a76",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/0c613bc0-2cb0-4404-a6a6-36e9ccab8327/resource/bd79b8b3-bf18-44e4-8948-f57c430e6a76/download/uniones-convivenciales-anual.xlsx",
+          "name": "Registro anual de uniones convivenciales",
+          "format": "XLS",
+          "updatedAt": "2023-03-22T22:31:43.771Z",
+          "description": "Uniones convivenciales celebradas anualmente por el Registro Provincial de las Personas con información de municipio y delegación. Periodo: 2016-2022.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2023-02-27T21:05:22.709Z",
+      "updatedAt": "2023-03-22T22:31:43.788Z",
+      "contact": {
+        "name": "Ministerio de Gobierno. Subsecretaría de Gestión Operativa. Dirección Provincial del Registro de las Personas.",
+        "email": ""
+      }
+    },
+    {
+      "id": "4981052a-b261-426f-bdd9-08d2c9afcb84",
+      "name": "universidades-provinciales",
+      "title": "Universidades provinciales",
+      "keywords": [
+        "dependencias",
+        "información geográfica",
+        "universidades"
+      ],
+      "landingPage": "https://catalogo.datos.gba.gob.ar/dataset/universidades-provinciales",
+      "resources": [
+        {
+          "id": "4279f9f4-365b-4ce2-997c-5b83823f316b",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/4981052a-b261-426f-bdd9-08d2c9afcb84/resource/4279f9f4-365b-4ce2-997c-5b83823f316b/download/universidadesc2a0publicasc2a0provinciales.csv",
+          "name": "Universidades provinciales",
+          "format": "CSV",
+          "updatedAt": "2018-10-22T17:57:36.646Z",
+          "description": "Sedes de Universidades provinciales georreferenciadas con los campos: Dependencia, Organismo, Nombre, Facultad, Dirección, Partido, Teléfono, Contacto, Web.",
+          "landingUrl": ""
+        },
+        {
+          "id": "f148ee41-1490-4a7c-8255-01be57afb1d1",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/4981052a-b261-426f-bdd9-08d2c9afcb84/resource/f148ee41-1490-4a7c-8255-01be57afb1d1/download/universidades-publicas-provinciales.zip",
+          "name": "Universidades provinciales",
+          "format": "ZIP",
+          "updatedAt": "2018-12-21T17:07:44.098Z",
+          "description": "Formatos .shp, .geojson y kml (EPSG:4326. Proyección WGS 84). Sedes de Universidades provinciales  con los campos: Dependencia, Organismo, Nombre, Facultad, Dirección, Partido, Teléfono, Contacto, Web",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2018-10-11T22:04:15.001Z",
+      "updatedAt": "2022-11-09T20:36:03.281Z",
+      "contact": {
+        "name": "Ministerio de Educación, Nación.",
+        "email": ""
+      }
+    },
+    {
+      "id": "609b1c2a-b303-4f8c-bc15-998614bae07b",
+      "name": "vias-circulacion",
+      "title": "Vías de circulación",
+      "keywords": [
+        "callejero",
+        "información geográfica",
+        "vias"
+      ],
+      "landingPage": "https://geoservicios.indec.gov.ar/nomenclador-vias-de-circulacion/?contenido=descargas",
+      "resources": [
+        {
+          "id": "8b2884ed-3945-4cbb-ac7d-f6ef9032b79e",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/609b1c2a-b303-4f8c-bc15-998614bae07b/resource/8b2884ed-3945-4cbb-ac7d-f6ef9032b79e/download/vias_circulacion.zip",
+          "name": "Vías de circulación",
+          "format": "ZIP",
+          "updatedAt": "2018-12-18T21:37:25.299Z",
+          "description": "Formato .geojson. Representa la ubicación, con nombre y códigos, de las vías de circulación de las localidades censales de la Provincia.",
+          "landingUrl": ""
+        },
+        {
+          "id": "9f3cf541-b6c8-4ef4-a3c0-ac25f76202cc",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/609b1c2a-b303-4f8c-bc15-998614bae07b/resource/9f3cf541-b6c8-4ef4-a3c0-ac25f76202cc/download/vias_circulacion.zip",
+          "name": "Vías de circulación",
+          "format": "ZIP",
+          "updatedAt": "2018-12-18T21:53:43.274Z",
+          "description": "Formatos kml. Representa la ubicación, con nombre y códigos, de las vías de circulación de las localidades censales de la Provincia.",
+          "landingUrl": ""
+        },
+        {
+          "id": "e4c2596e-cb22-4847-805e-b355d5529e97",
+          "downloadUrl": "https://catalogo.datos.gba.gob.ar/dataset/609b1c2a-b303-4f8c-bc15-998614bae07b/resource/e4c2596e-cb22-4847-805e-b355d5529e97/download/vias-circulacion.zip",
+          "name": "Vías de circulación",
+          "format": "ZIP",
+          "updatedAt": "2019-01-30T17:05:15.905Z",
+          "description": "Formato .shp. Representa la ubicación, con nombre y códigos, de las vías de circulación de las localidades censales de la Provincia.",
+          "landingUrl": "http://geoservicios.indec.gov.ar/geoserver/sig/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=sig:vias&outputFormat=SHAPE-ZIP&CQL_FILTER=link+like+%2706%25%27"
+        }
+      ],
+      "createdAt": "2018-10-11T17:46:01.235Z",
+      "updatedAt": "2019-01-30T17:05:15.920Z",
+      "contact": {
+        "name": "INDEC",
+        "email": ""
+      }
+    }
+  ],
+  "organizations": [],
+  "updatedAt": "2023-12-14T15:10:43.344Z"
+}

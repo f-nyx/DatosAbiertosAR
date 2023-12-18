@@ -1,94 +1,53 @@
 import { ImporterConfig } from '@datosar/src/domain/import/ImporterConfig'
 import { ImportRepository } from '@datosar/src/domain/import/ImportRepository'
 import { Process } from '@datosar/src/domain/import/model/Process'
-import { ProcessStatus } from '@datosar/src/domain/import/model/ProcessStatus'
-import { FileIndexManager } from '@datosar/src/domain/import/FileIndexManager'
-import { FileRef } from '@datosar/src/domain/import/model/FileRef'
-import { Optional } from '@datosar/src/utils/Optional'
-import { Project } from '@datosar/src/domain/import/model/Project'
-import { IdManager } from '@datosar/src/utils/IdManager'
-import fs from 'node:fs/promises'
-import path from 'path'
-import { ProjectRepository } from '@datosar/src/domain/import/ProjectRepository'
 import { ApplicationContext } from '@datosar/src/ApplicationContext'
 
 export abstract class Importer {
   abstract get config(): ImporterConfig
   abstract get name(): string
   protected abstract get applicationContext(): ApplicationContext
-  protected abstract run(): Promise<void>
+  protected abstract run(process: Process): Promise<void>
 
-  private activeProcessInternal?: Process
-  activeProject?: Project
+  private processId?: string
+  private cancelled: boolean = false
 
-  async importData(project?: Project) {
-    this.activeProject =
-      project ??
-      (await this.projectRepository.saveOrUpdate(Project.create(IdManager.randomId(), this.config.outputDir)))
-
+  async importData() {
+    let process
     if (this.config.resume) {
-      this.activeProcessInternal =
-        (await this.importRepository.findByStatus(this.name, ProcessStatus.RUNNING)) ??
-        (await this.importRepository.findByStatus(this.name, ProcessStatus.ERROR)) ??
+      process =
+        (await this.importRepository.findByName(this.name)) ??
         (await this.importRepository.saveOrUpdate(Process.create(this.name, {}).run()))
     } else {
-      this.activeProcessInternal = await this.importRepository.saveOrUpdate(Process.create(this.name, {}).run())
+      process = await this.importRepository.saveOrUpdate(Process.create(this.name, {}).run())
     }
+    this.processId = process.id
 
-    if (this.config.syncFiles) {
-      const nextIndex = await this.fileIndexManager.updateIndex(this.config.outputDir, this.activeProcessInternal.files)
-      await this.saveProcess(this.activeProcessInternal.addFiles([...nextIndex.values()]))
-    }
-
-    await this.run()
+    await this.run(process)
   }
 
-  async runJobs(callback: () => Promise<void>) {
+  async close(): Promise<void> {
+    this.cancelled = true
+  }
+
+  protected async runJobs(callback: () => Promise<void>) {
     await Promise.all(new Array(this.config.jobs).fill(0).map(callback))
-    await this.applicationContext.fileStore.flush()
   }
 
-  protected get activeProcess(): Process {
-    if (!this.activeProcessInternal) {
-      throw new Error('process for this importer is not loaded, please start the import using importData()')
+  protected get isCancelled(): boolean {
+    return this.cancelled
+  }
+
+  protected async saveProcess(updateCallback: (process: Process) => Promise<Process>): Promise<Process> {
+    const process = await this.importRepository.findById(this.processId!!)
+    if (!process) {
+      throw new Error('process not found')
     }
-    return this.activeProcessInternal
-  }
-
-  findFileByPath(path: string): Optional<FileRef> {
-    return this.activeProcess.files.find((file) => file.path === path)
-  }
-
-  protected async saveProcess(process: Process): Promise<Process> {
-    await this.importRepository.saveOrUpdate(process)
-    this.activeProcessInternal = process
-    return process
-  }
-
-  protected hasResource(resourceId: string): boolean {
-    return this.activeProject?.hasResource(resourceId) ?? false
-  }
-
-  protected addResource(resourceId: string) {
-    return this.activeProject?.addResource(resourceId)
-  }
-
-  protected async saveProject() {
-    if (!this.activeProject) {
-      throw new Error('no active project found')
-    }
-    await this.projectRepository.saveOrUpdate(this.activeProject)
-  }
-
-  private get projectRepository(): ProjectRepository {
-    return this.applicationContext.projectRepository
+    const nextProcess = await updateCallback(process)
+    return await this.importRepository.saveOrUpdate(nextProcess)
   }
 
   private get importRepository(): ImportRepository {
     return this.applicationContext.importRepository
-  }
-
-  private get fileIndexManager(): FileIndexManager {
-    return this.applicationContext.fileIndexManager
   }
 }

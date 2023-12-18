@@ -1,10 +1,24 @@
 {
   "projectName": "salv.ar",
-  "outputDir": "./out",
+  "indexDir": "./out/meta/index",
+  "storageDir": "./out/meta/files",
+  "dataDir": "./out/data",
+  "collectionsFile": "./out/meta/collections.json",
   "providers": [
+    {
+      "name": "produccion",
+      "type": "ckan",
+      "outputDir": "./nacion/produccion",
+      "options": {
+        "apiUrl": "https://datos.produccion.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
     {
       "name": "enargas",
       "type": "ckan",
+      "outputDir": "./nacion/enargas",
       "options": {
         "apiUrl": "https://transparencia.enargas.gov.ar",
         "jobs": 3,
@@ -14,6 +28,7 @@
     {
       "name": "energia",
       "type": "ckan",
+      "outputDir": "./nacion/energia",
       "options": {
         "apiUrl": "http://datos.energia.gob.ar",
         "jobs": 3,
@@ -23,6 +38,7 @@
     {
       "name": "interior",
       "type": "ckan",
+      "outputDir": "./nacion/interior",
       "options": {
         "apiUrl": "https://datos.mininterior.gob.ar",
         "jobs": 3,
@@ -32,6 +48,7 @@
     {
       "name": "justicia",
       "type": "ckan",
+      "outputDir": "./nacion/justicia",
       "options": {
         "apiUrl": "http://datos.jus.gob.ar",
         "jobs": 3,
@@ -41,6 +58,7 @@
     {
       "name": "mincyt",
       "type": "ckan",
+      "outputDir": "./nacion/mincyt",
       "options": {
         "apiUrl": "https://datasets.datos.mincyt.gob.ar",
         "jobs": 3,
@@ -50,6 +68,7 @@
     {
       "name": "salud",
       "type": "ckan",
+      "outputDir": "./nacion/salud",
       "options": {
         "apiUrl": "http://datos.salud.gob.ar",
         "jobs": 3,
@@ -59,6 +78,7 @@
     {
       "name": "transporte",
       "type": "ckan",
+      "outputDir": "./nacion/transporte",
       "options": {
         "apiUrl": "https://datos.transporte.gob.ar",
         "jobs": 3,
@@ -68,6 +88,7 @@
     {
       "name": "pami",
       "type": "ckan",
+      "outputDir": "./nacion/pami",
       "options": {
         "apiUrl": "http://datos.pami.org.ar",
         "jobs": 3,
@@ -77,6 +98,7 @@
     {
       "name": "turismo",
       "type": "ckan",
+      "outputDir": "./nacion/turismo",
       "options": {
         "apiUrl": "https://datos.yvera.gob.ar",
         "jobs": 3,
@@ -86,6 +108,7 @@
     {
       "name": "agroindustria",
       "type": "ckan",
+      "outputDir": "./nacion/agroindustria",
       "options": {
         "apiUrl": "https://datos.magyp.gob.ar",
         "jobs": 3,
@@ -95,6 +118,7 @@
     {
       "name": "cultura",
       "type": "ckan",
+      "outputDir": "./nacion/cultura",
       "options": {
         "apiUrl": "https://datos.cultura.gob.ar",
         "jobs": 3,
@@ -104,6 +128,7 @@
     {
       "name": "defensa",
       "type": "ckan",
+      "outputDir": "./nacion/defensa",
       "options": {
         "apiUrl": "http://datos.mindef.gov.ar",
         "jobs": 3,
@@ -113,6 +138,7 @@
     {
       "name": "desarrollo-social",
       "type": "ckan",
+      "outputDir": "./nacion/social",
       "options": {
         "apiUrl": "https://datosabiertos.desarrollosocial.gob.ar",
         "jobs": 3,
@@ -122,6 +148,7 @@
     {
       "name": "acumar",
       "type": "ckan",
+      "outputDir": "./nacion/acumar",
       "options": {
         "apiUrl": "https://datos.acumar.gob.ar",
         "jobs": 3,
@@ -131,6 +158,7 @@
     {
       "name": "arsat",
       "type": "ckan",
+      "outputDir": "./nacion/arsat",
       "options": {
         "apiUrl": "https://datos.arsat.com.ar",
         "jobs": 3
@@ -139,8 +167,299 @@
     {
       "name": "datosgobar",
       "type": "ckan",
+      "outputDir": "./nacion/datosgobar",
       "options": {
         "apiUrl": "https://datos.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "hcdn",
+      "type": "ckan",
+      "outputDir": "./nacion/hcdn",
+      "options": {
+        "apiUrl": "https://datos.hcdn.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "gba",
+      "type": "ckan",
+      "outputDir": "./buenosaires/provincia",
+      "options": {
+        "apiUrl": "https://catalogo.datos.gba.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "caba",
+      "type": "ckan",
+      "outputDir": "./caba",
+      "options": {
+        "apiUrl": "https://data.buenosaires.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "cordoba",
+      "type": "ckan",
+      "outputDir": "./cordoba",
+      "options": {
+        "apiUrl": "https://datosestadistica.cba.gov.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "mendoza",
+      "type": "ckan",
+      "outputDir": "./mendoza/provincia",
+      "options": {
+        "apiUrl": "https://ckan.ciudaddemendoza.gov.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "neuquen",
+      "type": "ckan",
+      "outputDir": "./neuquen/provincia",
+      "options": {
+        "apiUrl": "http://datos.neuquen.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "neuquen-legislatura",
+      "type": "ckan",
+      "outputDir": "./neuquen/legislatura",
+      "options": {
+        "apiUrl": "https://datos.legislaturaneuquen.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "gba-lujan",
+      "type": "ckan",
+      "outputDir": "./buenosaires/lujan",
+      "options": {
+        "apiUrl": "http://luj-bue-datos.paisdigital.innovacion.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "gba-unlp",
+      "type": "ckan",
+      "outputDir": "./buenosaires/unlp",
+      "options": {
+        "apiUrl": "http://omlp.sedici.unlp.edu.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "gba-tandil",
+      "type": "ckan",
+      "outputDir": "./buenosaires/tandil/municipio",
+      "options": {
+        "apiUrl": "http://datos.tandil.gov.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "gba-tandil-usina",
+      "type": "ckan",
+      "outputDir": "./buenosaires/tandil/usina",
+      "options": {
+        "apiUrl": "https://datos.usinatandil.com.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "gba-pergamino",
+      "type": "ckan",
+      "outputDir": "./buenosaires/pergamino",
+      "options": {
+        "apiUrl": "http://per-bue-datos.paisdigital.modernizacion.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "gba-sanmiguel",
+      "type": "ckan",
+      "outputDir": "./buenosaires/sanmiguel",
+      "options": {
+        "apiUrl": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "gba-bahiablanca",
+      "type": "ckan",
+      "outputDir": "./buenosaires/bahiablanca",
+      "options": {
+        "apiUrl": "https://datos.bahia.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "santafe-rafaela",
+      "type": "ckan",
+      "outputDir": "./santafe/rafaela",
+      "options": {
+        "apiUrl": "http://datosabiertos.rafaela.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "santafe-rosario-concejo",
+      "type": "ckan",
+      "outputDir": "./santafe/rosario-concejo",
+      "options": {
+        "apiUrl": "http://datos.concejorosario.gov.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "jst",
+      "type": "ckan",
+      "outputDir": "./nacion/jst",
+      "options": {
+        "apiUrl": "https://datos.jst.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "mendoza-hcdmza",
+      "type": "ckan",
+      "outputDir": "./mendoza/legislatura",
+      "options": {
+        "apiUrl": "http://datosabiertos.hcdmza.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "sanjuan",
+      "type": "ckan",
+      "outputDir": "./sanjuan",
+      "options": {
+        "apiUrl": "https://datosabiertos.sanjuan.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "chubut-comodoro",
+      "type": "ckan",
+      "outputDir": "./chubut/comodoro",
+      "options": {
+        "apiUrl": "https://datos.vivamoscomodoro.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "chubut-madryn-unp",
+      "type": "ckan",
+      "outputDir": "./chubut/madryn-unp",
+      "options": {
+        "apiUrl": "http://pdts.mdn.unp.edu.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "tucuman",
+      "type": "ckan",
+      "outputDir": "./tucuman/provincia",
+      "options": {
+        "apiUrl": "https://sep.tucuman.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "chaco",
+      "type": "ckan",
+      "outputDir": "./chaco",
+      "options": {
+        "apiUrl": "https://datosabiertos.chaco.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "corrientes",
+      "type": "ckan",
+      "outputDir": "./corrientes",
+      "options": {
+        "apiUrl": "https://datos.ciudaddecorrientes.gov.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "entrerios",
+      "type": "ckan",
+      "outputDir": "./entrerios",
+      "options": {
+        "apiUrl": "https://andino.entrerios.gov.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "sanluis",
+      "type": "ckan",
+      "outputDir": "./sanluis",
+      "options": {
+        "apiUrl": "http://slu-slu-datos.paisdigital.modernizacion.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "santafe",
+      "type": "ckan",
+      "outputDir": "./santafe/provincia",
+      "options": {
+        "apiUrl": "https://datos.santafe.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "catamarca",
+      "type": "ckan",
+      "outputDir": "./catamarca",
+      "options": {
+        "apiUrl": "http://datos.catamarca.gob.ar",
+        "jobs": 3,
+        "retry": false
+      }
+    },
+    {
+      "name": "tucuman-yerbabuena",
+      "type": "ckan",
+      "outputDir": "./tucuman/yerbabuena",
+      "options": {
+        "apiUrl": "http://datos.yerbabuena.gob.ar",
         "jobs": 3,
         "retry": false
       }

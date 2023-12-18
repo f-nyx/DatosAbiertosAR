@@ -1,18 +1,24 @@
 import { ImporterConfig } from '@datosar/src/domain/import/ImporterConfig'
 import os from 'os'
+import { AppConfig } from '@datosar/src/AppConfig'
 
 export class ProviderConfig {
   static restore(config: any): ProviderConfig {
     const options = {
       ...config.options,
       jobs: config.options.jobs || os.availableParallelism(),
-      resume: config.options.resume === undefined ? true : config.options.resume,
-      syncFiles: config.options.syncFiles === undefined ? true : config.options.syncFiles,
-      enabled: config.options.enabled === undefined ? true : config.options.enabled,
-      cache: config.options.cache === undefined ? true : config.options.cache,
-      retry: config.options.retry === undefined ? true : config.options.retry,
+      resume: config.options.resume ?? true,
+      syncFiles: config.options.syncFiles ?? true,
+      enabled: config.options.enabled ?? true,
+      cache: config.options.cache ?? true,
+      retry: config.options.retry ?? true,
     } as ImporterConfig
-    return new ProviderConfig(config.name, config.type, options)
+    return new ProviderConfig(
+      AppConfig.requireNotNull('name', config.name),
+      AppConfig.requireNotNull('type', config.type),
+      AppConfig.requireNotNull('outputDir', config.outputDir),
+      options
+    )
   }
 
   constructor(
@@ -20,6 +26,8 @@ export class ProviderConfig {
     readonly name: string,
     /** Dataset platform type. */
     readonly type: string,
+    /** Output directory. */
+    readonly outputDir: string,
     /** Import configuration. */
     readonly options: ImporterConfig
   ) {}

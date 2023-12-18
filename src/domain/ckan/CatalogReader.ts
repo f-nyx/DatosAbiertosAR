@@ -8,25 +8,18 @@ import { sha1 } from '@datosar/src/utils/HashUtils'
 import { Organization } from '@datosar/src/domain/ckan/model/Organization'
 import { Dataset } from '@datosar/src/domain/ckan/model/Dataset'
 import { Contact } from '@datosar/src/domain/ckan/model/Contact'
-import axios, { AxiosInstance } from 'axios'
+import { AxiosInstance } from 'axios'
 import { CkanClient } from '@datosar/src/domain/ckan/CkanClient'
 import { createLogger } from '@datosar/src/utils/log'
 import { CkanConfig } from '@datosar/src/domain/ckan/CkanConfig'
 import path from 'path'
-import https from 'https'
+import { HttpClientFactory } from '@datosar/src/utils/HttpClientFactory'
 
-const logger = createLogger('XmlCatalogReader')
+const logger = createLogger('CatalogReader')
 
 export class CatalogReader {
   /** HTTP client. */
-  private readonly client: AxiosInstance
-
-  constructor() {
-    this.client = axios.create()
-    this.client.defaults.httpsAgent = new https.Agent({
-      rejectUnauthorized: false,
-    })
-  }
+  private readonly client: AxiosInstance = HttpClientFactory.createInsecureClient()
 
   async fromConfig(config: CkanConfig): Promise<Catalog> {
     logger.info(`resolving catalog using config: cache=${config.cache},update=${config.updateCatalog}`)
@@ -60,10 +53,16 @@ export class CatalogReader {
     return this.fromXml(catalogData)
   }
 
-  async fromFile(path: string): Promise<Catalog> {
-    logger.info(`loading catalog from file: ${path}`)
-    const catalogData = (await fs.readFile(path)).toString()
-    return this.fromXml(catalogData)
+  async fromFile(filePath: string): Promise<Catalog> {
+    logger.info(`loading catalog from file: ${filePath}`)
+    const catalogData = (await fs.readFile(filePath)).toString()
+    if (path.extname(filePath) === '.xml') {
+      return this.fromXml(catalogData)
+    } else if (path.extname(filePath) === '.json') {
+      return Catalog.restore(JSON.parse(catalogData))
+    } else {
+      throw new Error(`file format not supported: ${path.extname(filePath)}`)
+    }
   }
 
   async fromApi(apiUrl: string): Promise<Catalog> {

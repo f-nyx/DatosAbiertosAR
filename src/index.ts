@@ -1,26 +1,37 @@
+import { exit } from 'node:process'
 import { program } from 'commander'
 import { AppConfig } from '@datosar/src/AppConfig'
 import { createLogger } from '@datosar/src/utils/log'
 import { createContext } from '@datosar/src/bootstrap'
-import { Project } from '@datosar/src/domain/import/model/Project'
-import { existsSync } from 'fs'
-import path from 'path'
-import fs from 'node:fs/promises'
+import { ApplicationContext } from '@datosar/src/ApplicationContext'
 
 const logger = createLogger('init')
+
+function gracefulExit(context: ApplicationContext) {
+  context
+    .close()
+    .then(() => exit(0))
+    .catch((err) => {
+      logger.error(err)
+      exit(1)
+    })
+}
 
 async function run(configFile: string) {
   logger.info('loading configuration')
   const config = AppConfig.initFromFile(configFile)
   const context = await createContext(config)
-  const project =
-    (await context.projectRepository.findByName(config.projectName)) ??
-    (await context.projectRepository.saveOrUpdate(Project.create(config.projectName, config.outputDir)))
+
+  process.on('SIGINT', () => gracefulExit(context))
+  process.on('SIGTERM', () => gracefulExit(context))
 
   for (const importer of context.ckanImporters) {
+    logger.info('indexing existing files if required')
+    await context.datasetManager.indexResources(importer.config.outputDir)
+
     if (importer.config.enabled) {
       logger.info(`running importer: ${importer.name}`)
-      await importer.importData(project)
+      await importer.importData()
     } else {
       logger.info(`importer is disabled, skipping: ${importer.name}`)
     }

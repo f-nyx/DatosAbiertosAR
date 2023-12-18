@@ -1,0 +1,810 @@
+{
+  "id": "xw2LMZdeDn",
+  "datasets": [
+    {
+      "id": "3c1a1012-9164-4933-8069-3e4a268486eb",
+      "name": "api-geoportal",
+      "title": "API GeoPortal",
+      "keywords": [],
+      "landingPage": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/api-geoportal",
+      "resources": [
+        {
+          "id": "82414b8f-2fa8-435f-9d14-6554c07a6b06",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/home/index.html",
+          "name": "GeoPortal",
+          "format": "",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Aplicación de georeferenciación.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-06-10T19:03:05.345Z",
+      "updatedAt": "2020-01-24T23:03:40.523Z",
+      "contact": {
+        "name": "Subsecretaría de Modernización",
+        "email": ""
+      }
+    },
+    {
+      "id": "701a56a0-5472-406c-84d6-94847e37c382",
+      "name": "boletin-oficial",
+      "title": "Boletín Oficial",
+      "keywords": [
+        "boletin",
+        "oficial"
+      ],
+      "landingPage": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/boletin-oficial",
+      "resources": [
+        {
+          "id": "d60ab8cc-d63e-47e2-a7fd-a3172e24f32b",
+          "downloadUrl": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/701a56a0-5472-406c-84d6-94847e37c382/resource/d60ab8cc-d63e-47e2-a7fd-a3172e24f32b/download/aviso_211411.pdf",
+          "name": "Boletín Oficial",
+          "format": "PDF",
+          "updatedAt": "2019-08-26T17:52:59.469Z",
+          "description": "Desc",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-08-26T17:51:46.685Z",
+      "updatedAt": "2019-08-26T17:52:59.482Z",
+      "contact": {
+        "name": "Secretaría General",
+        "email": ""
+      }
+    },
+    {
+      "id": "256c3218-c763-4db3-85eb-a0e1aaccedca",
+      "name": "calles-del-partido",
+      "title": "Calles del Partido",
+      "keywords": [
+        "calles",
+        "manzanas",
+        "secciones"
+      ],
+      "landingPage": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/calles-del-partido",
+      "resources": [
+        {
+          "id": "249a1996-c5a8-43b0-a368-c5ddce9065c3",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/home/webmap/viewer.html?useExisting=1&layers=196be4e85d6348f994d7bdbe76d2e54d",
+          "name": "Calles del Partido",
+          "format": "HTML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Calles del Partido",
+          "landingUrl": ""
+        },
+        {
+          "id": "78829aff-8609-41d9-8f0a-32e3824cf153",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/sharing/rest/content/items/2b3c00fc1a6e4c0086172b3f58f92ca1/data",
+          "name": "Mapa con Calles del Partido",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Calles del Partido",
+          "landingUrl": ""
+        },
+        {
+          "id": "e50cbd54-1664-45c7-896c-f180ec91d5cf",
+          "downloadUrl": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/256c3218-c763-4db3-85eb-a0e1aaccedca/resource/e50cbd54-1664-45c7-896c-f180ec91d5cf/download/data-4.xlsx",
+          "name": "Calles del Partido",
+          "format": "XLSX",
+          "updatedAt": "2020-01-22T19:30:23.276Z",
+          "description": "Archivo con calles del Partido ",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-01-22T19:00:14.708Z",
+      "updatedAt": "2020-01-22T19:30:23.292Z",
+      "contact": {
+        "name": "Obras",
+        "email": ""
+      }
+    },
+    {
+      "id": "64cd1289-4b38-4a1c-af1a-a94be8297495",
+      "name": "centros-cdif",
+      "title": "Centros CDIF",
+      "keywords": [],
+      "landingPage": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/centros-cdif",
+      "resources": [
+        {
+          "id": "1945ad79-40c5-4c69-b60f-45687b82f5d5",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/home/webmap/viewer.html?webmap=9961581148e34b72ba62123eb098ffc4",
+          "name": "Centros CDIF",
+          "format": "HTML",
+          "updatedAt": "2019-07-29T21:00:12.768Z",
+          "description": "Mapa CDIF",
+          "landingUrl": ""
+        },
+        {
+          "id": "84cf9522-c8f2-4941-97d0-043796207a19",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/home/webmap/viewer.html?webmap=c8a2ca6d13524f2796526a5b6bbd9fd2",
+          "name": "Centros de Salud",
+          "format": "HTML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": " Mapa que Incluyen los centros de atención primaria y especializada, los hospitales y las bases de las ambulancia del SAME.",
+          "landingUrl": ""
+        },
+        {
+          "id": "e9e0ab6e-0847-4899-af01-66824fe17f2d",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/sharing/rest/content/items/6f1be66c9b974cbc82e7715ceade7044/data",
+          "name": "Centros de Salud",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Centros de Salud",
+          "landingUrl": ""
+        },
+        {
+          "id": "d96b92ea-3c0a-43d2-92ec-1f555a315746",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/home/webmap/viewer.html?useExisting=1&layers=f302b9059ceb449a9f760ef16f4e9eb5",
+          "name": "Mapa entidades de Salud",
+          "format": "HTML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Incluye Centros de Salud de atención primaria, los de atención especializada, hospitales y las bases de ambulancias del SAME,. Las Clínicas y Sanatorios privados, y los CDIF",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-07-29T20:57:03.833Z",
+      "updatedAt": "2020-01-24T22:41:12.876Z",
+      "contact": {
+        "name": "Subsecretaria de Salud",
+        "email": ""
+      }
+    },
+    {
+      "id": "af5838f4-517f-4333-8066-b1ebf043056e",
+      "name": "centros-culturales",
+      "title": "Centros Culturales",
+      "keywords": [],
+      "landingPage": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/centros-culturales",
+      "resources": [
+        {
+          "id": "553de828-bc5e-4037-a204-b7affff6aace",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/home/webmap/viewer.html?useExisting=1&layers=caadf8d5831746c1bdc64a36938bdff8",
+          "name": "Mapa Centros Culturales",
+          "format": "HTML",
+          "updatedAt": "2019-07-29T21:53:24.565Z",
+          "description": "Mapa que muestra los centros culturales del partido.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-07-29T21:52:28.589Z",
+      "updatedAt": "2020-01-24T22:12:54.003Z",
+      "contact": {
+        "name": "Subsecretaría de cultura",
+        "email": ""
+      }
+    },
+    {
+      "id": "2301892a-b94b-43c9-ada4-b3b064588829",
+      "name": "centros-de-salud",
+      "title": "Centros de Salud",
+      "keywords": [],
+      "landingPage": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/centros-de-salud",
+      "resources": [
+        {
+          "id": "c5678328-8c33-49ba-bc53-cb6c9618ceaf",
+          "downloadUrl": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/2301892a-b94b-43c9-ada4-b3b064588829/resource/c5678328-8c33-49ba-bc53-cb6c9618ceaf/download/mapa_salud.pdf",
+          "name": "Mapa",
+          "format": "PDF",
+          "updatedAt": "2019-07-29T20:52:14.728Z",
+          "description": "Mapa con los centros de salud",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-07-29T20:50:28.734Z",
+      "updatedAt": "2019-07-29T20:52:14.743Z",
+      "contact": {
+        "name": "Subsecretaria de Salud",
+        "email": ""
+      }
+    },
+    {
+      "id": "093e420f-05e4-4212-bc5d-066dbec1d4ae",
+      "name": "centros-territoriales",
+      "title": "Centros Territoriales",
+      "keywords": [
+        "territoriales",
+        "centros territoriales",
+        "delegaciones"
+      ],
+      "landingPage": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/centros-territoriales",
+      "resources": [
+        {
+          "id": "b002273d-736b-42d4-ad7c-41a1d184120e",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/home/webmap/viewer.html?useExisting=1&layers=64960c015a584c64a1df9c8c3c30da40",
+          "name": "Centros Territoriales",
+          "format": "HTML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Centros Territoriales",
+          "landingUrl": ""
+        },
+        {
+          "id": "d425af51-f62e-439d-934a-fbe17beaadbd",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/sharing/rest/content/items/726cc27b799f4c4190f6dac037e050bd/data",
+          "name": "Centros Territoriales",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Centros Territoriales",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-01-21T18:04:35.616Z",
+      "updatedAt": "2020-01-21T18:17:07.489Z",
+      "contact": {
+        "name": "Asuntos Publicos",
+        "email": ""
+      }
+    },
+    {
+      "id": "12ae3a87-dde8-4554-8ba6-94d33d41aae6",
+      "name": "dependencias-municipales",
+      "title": "Dependencias Municipales",
+      "keywords": [
+        "areas",
+        "dependencias",
+        "edificios",
+        "establecimientos"
+      ],
+      "landingPage": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/dependencias-municipales",
+      "resources": [
+        {
+          "id": "182a9e31-fbab-45e0-af51-7db1a1613f98",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/home/webmap/viewer.html?useExisting=1&layers=caadf8d5831746c1bdc64a36938bdff8",
+          "name": "Dependencias Municipales",
+          "format": "HTML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Dependencias Municipales",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-01-21T18:23:56.442Z",
+      "updatedAt": "2020-01-21T18:25:24.291Z",
+      "contact": {
+        "name": "Asuntos Publicos",
+        "email": ""
+      }
+    },
+    {
+      "id": "d4c12d9e-8e4a-433f-90e0-46f3e4d00153",
+      "name": "entidades-de-seguridad-publica",
+      "title": "Entidades de Seguridad Pública",
+      "keywords": [],
+      "landingPage": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/entidades-de-seguridad-publica",
+      "resources": [
+        {
+          "id": "50eb1e73-365d-4f03-a61d-d5fb97f99aa6",
+          "downloadUrl": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/d4c12d9e-8e4a-433f-90e0-46f3e4d00153/resource/50eb1e73-365d-4f03-a61d-d5fb97f99aa6/download/seguridad_entidades.kmz",
+          "name": "Entidades de Seguridad Pública",
+          "format": "KMZ",
+          "updatedAt": "2019-07-29T21:36:40.743Z",
+          "description": "Entidades de Seguridad Pública",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-07-29T21:35:31.895Z",
+      "updatedAt": "2019-07-29T21:36:41.033Z",
+      "contact": {
+        "name": "Secretaría de Seguridad",
+        "email": ""
+      }
+    },
+    {
+      "id": "d1315531-21cb-4079-9a43-0339de54ec9a",
+      "name": "escuelas",
+      "title": "Escuelas Publicas y Privadas del Partido",
+      "keywords": [],
+      "landingPage": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/escuelas",
+      "resources": [
+        {
+          "id": "1f5bd1cb-ada4-4116-955b-ee493ac16eca",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/sharing/rest/content/items/bd3621146ce248229f221ab3ba08946b/data",
+          "name": "Mapa escuelas públicas y privadas",
+          "format": "PDF",
+          "updatedAt": "2019-07-29T21:47:33.284Z",
+          "description": "Mapa con la ubicación de las escuelas públicas y privadas del partido.",
+          "landingUrl": ""
+        },
+        {
+          "id": "94b6b408-4dd5-4ce2-8e2d-ff29df351060",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/home/webmap/viewer.html?useExisting=1&layers=e8a99bf28d374fc5a6e2e3c0b52baed3",
+          "name": "Mapas de Escuelas Publicas y privadas",
+          "format": "HTML",
+          "updatedAt": "2019-07-29T21:49:21.111Z",
+          "description": "Mapa con la ubicación de las escuelas Publicas y privadas del partido.",
+          "landingUrl": ""
+        },
+        {
+          "id": "a535eda5-cb92-4d9f-9eda-d2b7399d9982",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/home/webmap/viewer.html?webmap=81588c62e0044f8299095bd367d0a732",
+          "name": "Escuelas Publicas y Privadas según modalidad",
+          "format": "HTML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Escuelas Publicas y Privadas según modalidad",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-07-29T21:45:24.788Z",
+      "updatedAt": "2020-01-24T22:23:44.785Z",
+      "contact": {
+        "name": "Subsecretaria de Educcación",
+        "email": ""
+      }
+    },
+    {
+      "id": "c37e0857-401f-40d5-bed0-e9e097c241a0",
+      "name": "espacios-verdes",
+      "title": "Espacios Verdes",
+      "keywords": [
+        "corredor",
+        "espacios verdes",
+        "plazas"
+      ],
+      "landingPage": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/espacios-verdes",
+      "resources": [
+        {
+          "id": "ec4f71f6-f82e-4121-a4ab-41234e88cec5",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/home/webmap/viewer.html?webmap=910c44cbe63d4b5aa11781e830d9fd97",
+          "name": "Espacio Verdes ",
+          "format": "HTML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Espacio verdes",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-01-22T20:31:27.346Z",
+      "updatedAt": "2020-01-22T20:32:58.698Z",
+      "contact": {
+        "name": "Obras",
+        "email": ""
+      }
+    },
+    {
+      "id": "fdd49350-391f-4931-86d5-b64e3453ccaf",
+      "name": "estacionamiento-medido",
+      "title": "Estacionamiento Medido",
+      "keywords": [
+        "estacionamiento",
+        "estacionamiento medido",
+        "venta"
+      ],
+      "landingPage": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/estacionamiento-medido",
+      "resources": [
+        {
+          "id": "910bcb84-8a9b-4c41-9814-9d9aa0df3701",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/home/webmap/viewer.html?useExisting=1&layers=95d66ec461f747d984394f20832a58ec",
+          "name": "Estacionamiento Medido",
+          "format": "HTML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Estacionamiento medido",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-01-21T20:30:30.280Z",
+      "updatedAt": "2020-01-21T20:35:07.770Z",
+      "contact": {
+        "name": "Estacionamiento medido",
+        "email": ""
+      }
+    },
+    {
+      "id": "c823b7f1-2964-467c-97c3-c2423b00707b",
+      "name": "localidades",
+      "title": "Localidades del Partido",
+      "keywords": [
+        "localidades"
+      ],
+      "landingPage": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/localidades",
+      "resources": [
+        {
+          "id": "62816eae-4fa4-477a-acdc-4fbb2c36ae5e",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/home/webmap/viewer.html?useExisting=1&layers=a3fae59d95c34dc0ada772095694021d",
+          "name": "Localidades ",
+          "format": "HTML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Localidades",
+          "landingUrl": ""
+        },
+        {
+          "id": "c5b3ec28-d572-49dc-85af-676186054f66",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/sharing/rest/content/items/beddbf036503432b877f4b2bec40e8b9/data",
+          "name": "Mapa de Localidades ",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Localidades",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-01-22T17:23:20.763Z",
+      "updatedAt": "2020-01-22T17:31:04.856Z",
+      "contact": {
+        "name": "Obras",
+        "email": ""
+      }
+    },
+    {
+      "id": "d56cf263-8adb-43c5-8877-7e85259ae420",
+      "name": "manzanas-del-partido",
+      "title": "Manzanas del Partido",
+      "keywords": [
+        "manzanas"
+      ],
+      "landingPage": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/manzanas-del-partido",
+      "resources": [
+        {
+          "id": "0f258464-ac34-40b5-8503-bb79a3b9f013",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/home/webmap/viewer.html?webmap=3704912169004da2972d08d53c76ee71",
+          "name": "Manzanas del Partido",
+          "format": "HTML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Manzanas del Partido",
+          "landingUrl": ""
+        },
+        {
+          "id": "4f5592fc-fa42-4826-975e-61da41b9ed3d",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/sharing/rest/content/items/2b3c00fc1a6e4c0086172b3f58f92ca1/data",
+          "name": "Manzanas del Partido",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Manzanas del Partido",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-01-22T17:51:26.483Z",
+      "updatedAt": "2020-01-22T18:13:46.469Z",
+      "contact": {
+        "name": "Obras",
+        "email": ""
+      }
+    },
+    {
+      "id": "7b3d634e-f0d5-44fa-a32f-294325afe072",
+      "name": "mapa-de-barrios",
+      "title": "Mapa de Barrios",
+      "keywords": [
+        "barrios"
+      ],
+      "landingPage": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/mapa-de-barrios",
+      "resources": [
+        {
+          "id": "be70f7cb-3b4c-439e-9124-18a468278a60",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/home/webmap/viewer.html?useExisting=1&layers=a3fae59d95c34dc0ada772095694021d",
+          "name": "Mapa de Barrios",
+          "format": "HTML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Mapa de Barrios",
+          "landingUrl": ""
+        },
+        {
+          "id": "3012c7e3-6aff-4ca6-83dc-d047a69a6b04",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/sharing/rest/content/items/6aa55cc123fc43ebaa9033eb4295a110/data",
+          "name": "Mapa de Barrios",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Barrios oficiales",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-01-22T16:51:10.849Z",
+      "updatedAt": "2020-01-22T16:53:13.948Z",
+      "contact": {
+        "name": "Obras",
+        "email": ""
+      }
+    },
+    {
+      "id": "d57f686f-7b2b-4424-baa5-ac5a50de81fd",
+      "name": "mapa-de-recorrido-de-colectivos",
+      "title": "Mapa de recorrido de colectivos",
+      "keywords": [],
+      "landingPage": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/mapa-de-recorrido-de-colectivos",
+      "resources": [
+        {
+          "id": "0f08f5f8-46e1-4ee2-ad3c-5ecdd38563f9",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/sharing/rest/content/items/6dde6efb64f04fcc89e020972873261a/data",
+          "name": "Mapa de recorrido de Colectivos",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Recorrido de Colectivos",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-01-24T23:00:34.907Z",
+      "updatedAt": "2020-01-24T23:01:21.049Z",
+      "contact": {
+        "name": "Obras",
+        "email": ""
+      }
+    },
+    {
+      "id": "3b5ab865-139e-4280-a908-cacf7a06c660",
+      "name": "mapas-de-entidades",
+      "title": "Mapas de entidades publicas y privadas",
+      "keywords": [
+        "areas",
+        "dependencias",
+        "entidades",
+        "establecimientos"
+      ],
+      "landingPage": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/mapas-de-entidades",
+      "resources": [
+        {
+          "id": "db41e3a6-151e-42c9-9e03-c7aede6f8d8b",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/home/webmap/viewer.html?webmap=81588c62e0044f8299095bd367d0a732",
+          "name": "Entidades Publicas y Privadas",
+          "format": "HTML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Entidades Publicas y Privadas",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-01-21T18:35:09.317Z",
+      "updatedAt": "2020-01-21T18:51:52.143Z",
+      "contact": {
+        "name": "Asuntos Públicos",
+        "email": ""
+      }
+    },
+    {
+      "id": "61d6892f-4aa4-4bdd-93da-c6692370cbfb",
+      "name": "pavimento-del-partido",
+      "title": "Calles con Pavimento",
+      "keywords": [
+        "pavimento"
+      ],
+      "landingPage": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/pavimento-del-partido",
+      "resources": [
+        {
+          "id": "c0f7e86d-0d4f-4f6b-9499-3ab5ea85615f",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/home/webmap/viewer.html?webmap=e7639cdeed924c8db17a521191a37587",
+          "name": "Calles con Pavimentos",
+          "format": "HTML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Tipos de pavimentos",
+          "landingUrl": ""
+        },
+        {
+          "id": "63441f80-b22c-43f9-9e3e-f4003b399353",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/sharing/rest/content/items/39cc0b76608a4f6ea721e56d990b2cb9/data",
+          "name": "Calles con Pavimento",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Mapa de calles con pavimentos",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-01-07T17:35:25.129Z",
+      "updatedAt": "2020-01-21T16:31:47.021Z",
+      "contact": {
+        "name": "Obras",
+        "email": ""
+      }
+    },
+    {
+      "id": "fbc76add-664f-4e62-acbf-bd734f0647be",
+      "name": "puntos-verdes",
+      "title": "Puntos Verdes",
+      "keywords": [],
+      "landingPage": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/puntos-verdes",
+      "resources": [
+        {
+          "id": "d94286fc-64c4-48a6-94d2-982d129056a4",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/home/webmap/viewer.html?useExisting=1&layers=4b8e088acef34db387ca3a50409fb2b2",
+          "name": "Puntos Verdes",
+          "format": "HTML",
+          "updatedAt": "2019-07-29T21:41:20.256Z",
+          "description": "Puntos Verdes",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2019-07-29T21:40:51.115Z",
+      "updatedAt": "2020-01-22T20:27:58.917Z",
+      "contact": {
+        "name": "Secretaría de Obras públicas",
+        "email": ""
+      }
+    },
+    {
+      "id": "9bd4ee9a-6582-45d8-b64b-9ff4510032e8",
+      "name": "secciones-catastrales",
+      "title": "Secciones Catastrales",
+      "keywords": [
+        "catastrales",
+        "secciones",
+        "secciones catastrales"
+      ],
+      "landingPage": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/secciones-catastrales",
+      "resources": [
+        {
+          "id": "be67727f-eb94-411d-a1d0-e380143d1b44",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/home/webmap/viewer.html?useExisting=1&layers=13cd08896158439bbe95a379928fe304",
+          "name": "Secciones Catastrales",
+          "format": "HTML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Secciones Catastrales",
+          "landingUrl": ""
+        },
+        {
+          "id": "f12d7747-fb71-4439-a9b6-d4a3ddfc62c1",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/sharing/rest/content/items/b0a6e5bb8d8d425f81323ecfce4e937a/data",
+          "name": "Secciones Catastrales",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Secciones Catastrales",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-01-22T17:41:13.933Z",
+      "updatedAt": "2020-01-22T17:48:47.419Z",
+      "contact": {
+        "name": "Obras",
+        "email": ""
+      }
+    },
+    {
+      "id": "135905af-c95a-4267-8ed5-54943235747b",
+      "name": "servicio-de-agua-y-cloaca",
+      "title": "Servicio de Agua y Cloaca",
+      "keywords": [
+        "agua",
+        "cloaca"
+      ],
+      "landingPage": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/servicio-de-agua-y-cloaca",
+      "resources": [
+        {
+          "id": "5522e343-92ee-44c5-b0f6-8bb847f8f788",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/home/webmap/viewer.html?webmap=e7ab281bdcb84911928e6f41e3fc16d5",
+          "name": "Servicio de Agua y Cloaca",
+          "format": "HTML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Agua y Cloaca",
+          "landingUrl": ""
+        },
+        {
+          "id": "c127979e-def3-41bd-866c-e01d7b81ffab",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/sharing/rest/content/items/96c67338631d45689dac1d4f999b9db3/data",
+          "name": "Servicio de Agua ",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Red de Agua ",
+          "landingUrl": ""
+        },
+        {
+          "id": "2e327e2f-5581-4d33-b04c-475f922e1edf",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/sharing/rest/content/items/5fdb2e8daaad4cb8a092c5e60623901f/data",
+          "name": "Servicio de Cloaca",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Red de Cloaca",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-01-20T21:30:10.160Z",
+      "updatedAt": "2020-01-20T21:43:44.611Z",
+      "contact": {
+        "name": "Obras",
+        "email": ""
+      }
+    },
+    {
+      "id": "04bd91e7-ede5-4108-bedf-63a3197054a7",
+      "name": "servicio-de-barrido",
+      "title": "Servicio de Barrido",
+      "keywords": [],
+      "landingPage": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/servicio-de-barrido",
+      "resources": [
+        {
+          "id": "06b60423-9047-4826-b633-7ddacd2585d8",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/home/webmap/viewer.html?useExisting=1&layers=e0dbb5e3352a4ddab74657ab9ed47826",
+          "name": "Servicio de Barrido Publico",
+          "format": "HTML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Servicio de Barrido",
+          "landingUrl": ""
+        },
+        {
+          "id": "f81e0b1e-7ac6-4bb2-9e50-9e16c0d2d25b",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/sharing/rest/content/items/07f1b7e6fa5042439157bb4a8dc6ba30/data",
+          "name": "Servicio de Barrido",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Mapa de calles con servicio de barrido y frecuencia de la misma.",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-01-21T22:35:59.112Z",
+      "updatedAt": "2020-01-21T22:42:34.247Z",
+      "contact": {
+        "name": "obras",
+        "email": ""
+      }
+    },
+    {
+      "id": "6bff17a4-3d89-4abb-be21-e986f8e4f2bd",
+      "name": "servicio-de-luminarias",
+      "title": "Servicio de Luminarias",
+      "keywords": [
+        "luminaria",
+        "piquetes"
+      ],
+      "landingPage": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/servicio-de-luminarias",
+      "resources": [
+        {
+          "id": "e8f048c3-9226-45a4-9b91-6c4832c5ba99",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/home/webmap/viewer.html?webmap=e08ff33aa02d41ee816e0f558470e229",
+          "name": "Servicio de Luminaria",
+          "format": "HTML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Luminaria",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-01-20T21:53:03.181Z",
+      "updatedAt": "2020-01-20T22:14:13.734Z",
+      "contact": {
+        "name": "Luminaria",
+        "email": ""
+      }
+    },
+    {
+      "id": "c7b55ccd-596a-4803-b3a8-16116cb08abd",
+      "name": "zonas-con-wifi-publico",
+      "title": "Zonas con Wifi Publico",
+      "keywords": [
+        "wi fi",
+        "wifi"
+      ],
+      "landingPage": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/zonas-con-wifi-publico",
+      "resources": [
+        {
+          "id": "8b009fa6-17c3-45ff-9bbc-aa369aca7008",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/home/webmap/viewer.html?webmap=9138213c6252439fa102c2d7ed2c8b87",
+          "name": "Zonas con WIFI Publico",
+          "format": "HTML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "WIFI Publico",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-01-20T22:47:37.998Z",
+      "updatedAt": "2020-01-20T22:53:42.112Z",
+      "contact": {
+        "name": "Modernizacion",
+        "email": ""
+      }
+    },
+    {
+      "id": "ee6993f5-0d7c-4d21-96c0-dbec2b390912",
+      "name": "zonificacion",
+      "title": "Zonificacion",
+      "keywords": [],
+      "landingPage": "http://sme-bue-datos.paisdigital.modernizacion.gob.ar/dataset/zonificacion",
+      "resources": [
+        {
+          "id": "56f2ce40-38c9-42fe-a49f-fe43033119d4",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/home/webmap/viewer.html?webmap=e0b3dd65ca6f43229eb919fa56000bb9",
+          "name": "Zonificación",
+          "format": "HTML",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Zonificación",
+          "landingUrl": ""
+        },
+        {
+          "id": "75304dc0-c78d-449c-878a-7a4c8c16d20c",
+          "downloadUrl": "https://mapas.msm.gov.ar/portal/sharing/rest/content/items/ddfeacd2af5d443aaa54557de0fba5c5/data",
+          "name": "Zonificación",
+          "format": "PDF",
+          "updatedAt": "1970-01-01T00:00:00.000Z",
+          "description": "Zonificación",
+          "landingUrl": ""
+        }
+      ],
+      "createdAt": "2020-01-22T16:39:41.670Z",
+      "updatedAt": "2020-01-22T16:43:11.794Z",
+      "contact": {
+        "name": "Obras",
+        "email": ""
+      }
+    }
+  ],
+  "organizations": [],
+  "updatedAt": "2023-12-16T11:33:45.167Z"
+}
