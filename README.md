@@ -42,23 +42,58 @@ A los sitios de datos abiertos le llamamos __proveedores__. El archivo de config
 configurar diferentes proveedores solamente especificando la url. Por el momento, la aplicación descargará todos
 los datasets de los siguientes proveedores:
 
-* Enargas - https://transparencia.enargas.gov.ar
-* Secretaría de Energía - http://datos.energia.gob.ar
-* Ministerio del Interior - https://datos.mininterior.gob.ar
-* Ministerio de Justicia - http://datos.jus.gob.ar
-* Ministerio de Ciencia y Tecnología - https://datasets.datos.mincyt.gob.ar
-* Ministerio de Salud - http://datos.salud.gob.ar
-* Ministerio de Transporte - https://datos.transporte.gob.ar
-* Ministerio de Turismo y Deportes - https://datos.yvera.gob.ar
-* Ministerio de Agricultura, Ganadería y Pesca - https://datos.magyp.gob.ar
-* Ministerio de Cultura - https://datos.cultura.gob.ar
-* Ministerio de Defensa - http://datos.mindef.gov.ar
-* Ministerio de Desarrollo Social - https://datosabiertos.desarrollosocial.gob.ar
-* Ministerio de Producción (caido) - http://estadisticas.produccion.gob.ar/app
-* PAMI - http://datos.pami.org.ar
-* Acumar - https://datos.acumar.gob.ar
-* Arsat - https://datos.arsat.com.ar
-* Otros Datos Abiertos - https://datos.gob.ar
+* Nación
+  * Enargas - https://transparencia.enargas.gov.ar
+  * Secretaría de Energía - http://datos.energia.gob.ar
+  * Ministerio del Interior - https://datos.mininterior.gob.ar
+  * Ministerio de Justicia - http://datos.jus.gob.ar
+  * Ministerio de Ciencia y Tecnología - https://datasets.datos.mincyt.gob.ar
+  * Ministerio de Salud - http://datos.salud.gob.ar
+  * Ministerio de Transporte - https://datos.transporte.gob.ar
+  * Ministerio de Turismo y Deportes - https://datos.yvera.gob.ar
+  * Ministerio de Agricultura, Ganadería y Pesca - https://datos.magyp.gob.ar
+  * Ministerio de Cultura - https://datos.cultura.gob.ar
+  * Ministerio de Defensa - http://datos.mindef.gov.ar
+  * Ministerio de Desarrollo Social - https://datosabiertos.desarrollosocial.gob.ar
+  * Ministerio de Producción - https://datos.produccion.gob.ar
+  * PAMI - http://datos.pami.org.ar
+  * Acumar - https://datos.acumar.gob.ar
+  * Arsat - https://datos.arsat.com.ar
+  * Cámara de Diputados - https://datos.hcdn.gob.ar
+  * Otros Datos Abiertos - https://datos.gob.ar
+  * Junta de Seguridad del Transporte - https://datos.jst.gob.ar
+* Buenos Aires
+  * Gobierno de la Provincia - https://catalogo.datos.gba.gob.ar
+  * Luján - http://luj-bue-datos.paisdigital.innovacion.gob.ar
+  * Tandil - http://datos.tandil.gov.ar
+  * Tandil (Usina) - https://datos.usinatandil.com.ar
+  * Pergamino - http://per-bue-datos.paisdigital.modernizacion.gob.ar
+  * San Miguel - http://sme-bue-datos.paisdigital.modernizacion.gob.ar
+  * Bahía Blanca - https://datos.bahia.gob.ar
+* CABA - https://data.buenosaires.gob.ar
+* Catamarca - http://datos.catamarca.gob.ar
+* Chaco - https://datosabiertos.chaco.gob.ar
+* Chubut
+  * Comodoro - https://datos.vivamoscomodoro.gob.ar
+  * Madryn (UNP) - http://pdts.mdn.unp.edu.ar
+* Córdoba - https://datosestadistica.cba.gov.ar
+* Corrientes - https://datos.ciudaddecorrientes.gov.ar
+* Entre Rios - https://andino.entrerios.gov.ar
+* Mendoza
+  * Ciudad de Mendoza - https://ckan.ciudaddemendoza.gov.ar
+  * Cámara de Diputados - http://datosabiertos.hcdmza.gob.ar
+* Neuquén
+  * Gobierno de la Provincia - http://datos.neuquen.gob.ar
+  * Legislatura - https://datos.legislaturaneuquen.gob.ar
+* San Juan - https://datosabiertos.sanjuan.gob.ar
+* San Luis - http://slu-slu-datos.paisdigital.modernizacion.gob.ar
+* Santa Fe
+  * Gobierno de la Provincia - https://datos.santafe.gob.ar
+  * Rafaela - http://datosabiertos.rafaela.gob.ar
+  * Rosario (concejo) - http://datos.concejorosario.gov.ar
+* Tucumán
+  * Gobierno de la Provincia - https://sep.tucuman.gob.ar
+  * Yerba Buena - http://datos.yerbabuena.gob.ar
 
 ## Distribución
 
