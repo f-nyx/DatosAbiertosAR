@@ -120,7 +120,7 @@ Cosas que podés hacer:
 
 * NodeJS 18 o superior
 * 1 GB libre de memoria
-* 50GB libres en disco (puede variar, esto es en la última actualización de este documento)
+* 100GB libres en disco (puede variar, esto es en la última actualización de este documento)
 * Procesador Intel i5 o similar
 * Una buena conexión a internet, 50mbps o 100mbps
 
@@ -140,11 +140,15 @@ El archivo de configuración permite especificar diferentes opciones que pueden 
 ```json
 {
   "projectName": "salv.ar",
-  "outputDir": "./out",
+  "indexDir": "./out/meta/index",
+  "storageDir": "./out/meta/files",
+  "dataDir": "./out/data",
+  "collectionsFile": "./out/meta/collections.json",
   "providers": [
     { 
       "name": "energia",
       "type": "ckan",
+      "outputDir": "./nacion/energia",
       "options": {
         "apiUrl": "http://datos.energia.gob.ar",
         "jobs": 3,
@@ -155,12 +159,15 @@ El archivo de configuración permite especificar diferentes opciones que pueden 
 }
 ```
 
-| Campo           | Descripción                                                                                                                |
-|-----------------|----------------------------------------------------------------------------------------------------------------------------|
-| projectName     | Nombre del proyecto de importación de datos.                                                                               |
-| outputDir       | Directorio donde se descargarán todos los datos.                                                                           |
-| providers       | Lista de proveedores desde los que se descargarán datos. Por el momento sólo soportamos proveedores CKAN.                  |
-| providers.name  | Nombre del proveedor. Los datos de este proveedor se descargarán en un directorio con este nombre.                         |
-| providers.type  | Tipo de proveedor. Por el momento sólo soportamos CKAN.                                                                    |
-| providers.jobs  | Cantidad de tareas (descargas) en paralelo que se realizarán. Idealmente es cantidad de cores / 2 - 1, con un mínimo de 1. |
-| providers.retry | Indica si se reintentará procesar los recursos que no pudieron guardarse.                                                  |
+| Campo               | Descripción                                                                                                                |
+|---------------------|----------------------------------------------------------------------------------------------------------------------------|
+| projectName         | Nombre del proyecto de importación de datos.                                                                               |
+| indexDir            | Directorio donde se escribirá el índice de recursos.                                                                       |
+| storageDir          | Directorio donde se guardarán los archivos de los datasets.                                                                |
+| dataDir             | Direcotrio donde se guardarán los datasets.                                                                                |
+| providers           | Lista de proveedores desde los que se descargarán datos. Por el momento sólo soportamos proveedores CKAN.                  |
+| providers.name      | Nombre del proveedor. Los datos de este proveedor se descargarán en un directorio con este nombre.                         |
+| providers.type      | Tipo de proveedor. Por el momento sólo soportamos CKAN.                                                                    |
+| providers.outputDir | Directorio donde se descargarán todos los datos de este proveedor.                                                         |
+| providers.jobs      | Cantidad de tareas (descargas) en paralelo que se realizarán. Idealmente es cantidad de cores / 2 - 1, con un mínimo de 1. |
+| providers.retry     | Indica si se reintentará procesar los recursos que no pudieron guardarse.                                                  |
